@@ -12,8 +12,7 @@ permalink: /albo_doro/
 
 ||TORNEO MASCHILE🤴🍻|TORNEO FEMMINILE👸🍸|
 ||:-----------------|
-|**Edizione 2021** | [Marco Chizzola](/calciosplash_lizzana/squadra/)| [Marca Chizzola](/calciosplash_lizzana/squadra/)|
-|**Edizione 2020** | COVID-19 🦠| COVID-19 🦠|
+|**Edizione 2021** | [Una quarta in 4](/calciosplash_lizzana/squadra/)| [Clitoriders](/calciosplash_lizzana/squadra/)|
 |**Edizione 2019** | [Mai Una Gioia](/calciosplash_lizzana/squadra/mai_una_gioia)| [Dinamo Nada](/calciosplash_lizzana/squadra/dinamo_nada)|
 |**Edizione 2018** | [I Modium](/calciosplash_lizzana/squadra/modium)| [Dinamo Nada](/calciosplash_lizzana/squadra/dinamo_nada)|
 |**Edizione 2017** | [Gli Avanzi](/calciosplash_lizzana/squadra/avanzi)| [Dinamo Nada](/calciosplash_lizzana/squadra/dinamo_nada)|
@@ -38,7 +37,6 @@ permalink: /albo_doro/
 ||TORNEO MASCHILE🤴🍻|TORNEO FEMMINILE👸🍸|
 ||:-----------------|
 |**Edizione 2021** | [Sala Marco](/calciosplash_lizzana/giocatore/clitoriders)| [Tesini Emma](/calciosplash_lizzana/giocatore/dinamo_nada/)|
-|**Edizione 2020** | COVID-19 🦠| COVID-19 🦠|
 |**Edizione 2019** | [Pan Bauletto](/calciosplash_lizzana/giocatore/ceschini_leonardo)| [Bottesi Margherita](/calciosplash_lizzana/giocatore/bottesi_margherita)|
 |**Edizione 2018** | [Il Giannizzero](/calciosplash_lizzana/giocatore/tita_stefano)| [Silvia Manzana](/calciosplash_lizzana/giocatore/manzana_silvia)|
 |**Edizione 2017** | [Manconi Matteo](/calciosplash_lizzana/giocatore/manconi_matteo)| [Manconi Laura](/calciosplash_lizzana/giocatore/manconi_laura)|
@@ -61,7 +59,6 @@ permalink: /albo_doro/
 ||TORNEO MASCHILE🤴🍻|TORNEO FEMMINILE👸🍸|
 ||:-----------------|
 |**Edizione 2021** | [Marco Chizzola](/calciosplash_lizzana/giocatore/)| [Marca Chizzola](/calciosplash_lizzana/giocatore/)|
-|**Edizione 2020** | COVID-19 🦠| COVID-19 🦠|
 |**Edizione 2019** | [Ceschini Leonardo](/calciosplash_lizzana/giocatore/ceschini_leonardo)| [Bottesi Margherita](/calciosplash_lizzana/giocatore/bottesi_margherita)|
 |**Edizione 2018** | [Tita Stefano](/calciosplash_lizzana/giocatore/tita_stefano)| [Manzana Silvia](/calciosplash_lizzana/giocatore/manzana_silvia)|
 |**Edizione 2017** | [Chiodini Massimo](/calciosplash_lizzana/giocatore/chiodini_massimo)| [Sartori Francesca](/calciosplash_lizzana/giocatore/sartori_francesca)|
@@ -82,7 +79,6 @@ permalink: /albo_doro/
 ||GOAL|TORNEO MASCHILE🤴🍻|GOAL|TORNEO FEMMINILE👸🍸|
 |:-----------------|
 |**Edizione 2021** | |[Marco Chizzola](/calciosplash_lizzana/giocatore/clitoriders)| |[Marca Chizzola](/calciosplash_lizzana/giocatore/dinamo_nada/)|
-|**Edizione 2020** |  |COVID-19 🦠 | | COVID-19 🦠|
 |**Edizione 2019** | 17  |[Frasca Luca](/calciosplash_lizzana/giocatore/frasca_luca)| 20 |[Gazzini Stefania](/calciosplash_lizzana/giocatore/gazzini_stefania/)|
 |**Edizione 2018** | 24 |[Merighi Michele](/calciosplash_lizzana/giocatore/merighi_michele)| 23 |[Arlanch Giorgia](/calciosplash_lizzana/giocatore/arlanch_giorgia/)|
 |**Edizione 2017** | 17 |[Giordani Federico](/calciosplash_lizzana/giocatore/giordani_federico)| |[Tovazzi Irene](/calciosplash_lizzana/giocatore/tovazzi_irene/)|

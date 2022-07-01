@@ -9,7 +9,7 @@ permalink: /tornei/
 
 Vincitori Maschile| To be defined
 Vincitori Femminile| To be defined
-[TORNEO](/calciosplash_lizzana/torneo/2022)| [RECAP](/calciosplash_lizzana/recap/2022)
+[TORNEO](/calciosplash_lizzana/torneo/2022)| [RECAP](/calciosplash_lizzana/recap/2021)
 
 ## **Edizione 2021** 
 ---
