@@ -1,0 +1,43 @@
+---
+layout: post
+date: 2022-07-01 12:42:15.998595
+categories: torneo
+permalink: /giocatore/manica_davide/
+---
+<link rel='stylesheets' href='./../assets/giocatori.css'>
+
+| Manica Davide (Pala Eolica) |
+|:-----:|
+| ![Immagine mancante]('./../../assets/giocatori/manica_davide.png){:.immagine_giocatori} |
+
+
+## Carriera
+----
+
+|Anno|Squadra|Soprannome|
+|:---:|---|---|
+|2019|Pinguini Trentini|Pala Eolica|
+|2018|Pinguini Trentini|Pala Eolica|
+|2017|Pinguini trentini||
+|2016|Pinguini Trentini||
+|2015|Pinguini trentini||
+
+
+## Goal
+----
+
+| |2019|2018|2017|2016|2015| Totale |
+|---|---|---|---|---|---|---|
+|Goal|1|0|2|1|1|5|
+|Autogoal|0|0|0|0|0|0|
+
+
+## Statistiche
+----
+
+| |2019|2018|2017|2016|2015| Totale |
+|---|---|---|---|---|---|---|
+|Gialli|0|0|0|0|0|0|
+|Rossi|0|0|0|0|0|0|
+|Best player|1|0|0|0|0|1|
+|Stelle|1|0|0|0|0|1|

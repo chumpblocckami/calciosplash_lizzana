@@ -2,7 +2,7 @@ import json
 import copy
 import datetime as dt
 from tqdm import tqdm
-
+import render_giocatori_page
 
 def join_player_data():
     player_data = {}
@@ -62,10 +62,9 @@ def render_player_page(nome):
     markdown.append("<link rel='stylesheets' href='./../assets/giocatori.css'>\n")
 
     # title and image
-    nominativo = nome if max(
-        player_data['soprannome'].values()) == "" else f"{nome} ({max(player_data['soprannome'].values())})"
+    nominativo = nome if "".join(player_data['soprannome'].values()) == "" else f"{nome} ({max(player_data['soprannome'].values())})"
     titolo = "\n".join([f"| {nominativo} |", "|:-----:|",
-                        f"| ![{nome.lower().replace(' ', '_')}]('./../../assets/giocatori/{nome.lower().replace(' ', '_')}.png)'" + "{:.immagine_giocatori} |"])
+                        f"| ![Immagine mancante]('./../../assets/giocatori/{nome.lower().replace(' ', '_')}.png)" + "{:.immagine_giocatori} |"])
     tabella_carriera = "\n".join(
         [f"|{y}|{player_data['squadra'][y].strip()}|{player_data['soprannome'][y].strip()}|" for y in
          player_data["anni"]])
@@ -120,9 +119,16 @@ def render_player_page(nome):
 
 
 if __name__ == "__main__":
-    giocatori = ["Zandonati Stefania", "Raffaelli Davide",
+    giocatori = ["Zandonati Anna",  "Zandonati Stefania", "Raffaelli Davide", "Pilati Matteo", "Alovisi Filippo", "Manica Davide",
+                 "Baldo Riccardo", "Prezzi Margherita", "Tovazzi Irene", "Chiusole Cecilia", "Deimichei Chiara",
+                 "Brentari Gabriele", "Graziola Andrea",
+                 "Monaco Alessandro", "Finarolli Alice", "Giordani Luca", "Maraner Matteo", "Zendri Carolina",
+                 "Feller Daniele", "Giordani Andrea", "Zaffoni Michele", "Martini Simone", "Battisti Isotta",
+                 "Valduga Emanuele", "Feltrinelli Daniele", "Raffaelli Melany", "Osele Veronica",
                  "Giordani Nicolas", "Conzatti Andrea", "Maffei Alessandro", "De Zambotti Davide",
-                 "De Zambotti Giacomo", "Di Meo Samuel",
+                 "De Zambotti Giacomo", "Di Meo Samuel", "Zambanini Vanessa", "Miorandi Emanuele", "Bertolini Michele",
+                 "Frasca Luca", "Cescatti Manuel",
+                 "Pedrotti Serena", "Rigo Anna",
                  "Ceschini Leonardo", "Barbiero Riccardo", "Miorandi Emanuele",
                  "Mazzola Matteo", "Parisi Leonardo", "Anzelini Andrea", "Gerola Marco", "Pizzini Stefano"]
     for giocatore in tqdm(giocatori, desc="rendering players..."):
@@ -130,3 +136,4 @@ if __name__ == "__main__":
             render_player_page(giocatore)
         except Exception as e:
             print("Cannot render " + giocatore + ". " + str(e))
+    render_giocatori_page.render()

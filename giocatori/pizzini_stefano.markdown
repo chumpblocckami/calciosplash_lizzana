@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 09:59:37.750454
+date: 2022-07-01 12:42:16.192323
 categories: torneo
 permalink: /giocatore/pizzini_stefano/
 ---
@@ -8,7 +8,7 @@ permalink: /giocatore/pizzini_stefano/
 
 | Pizzini Stefano |
 |:-----:|
-| ![pizzini_stefano]('./../../assets/giocatori/pizzini_stefano.png)'{:.immagine_giocatori} |
+| ![Immagine mancante]('./../../assets/giocatori/pizzini_stefano.png){:.immagine_giocatori} |
 
 
 ## Carriera

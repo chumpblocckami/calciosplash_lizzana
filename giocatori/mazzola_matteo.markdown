@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 09:59:37.731728
+date: 2022-07-01 12:42:16.175211
 categories: torneo
 permalink: /giocatore/mazzola_matteo/
 ---
@@ -8,7 +8,7 @@ permalink: /giocatore/mazzola_matteo/
 
 | Mazzola Matteo (Gennaro Bullo) |
 |:-----:|
-| ![mazzola_matteo]('./../../assets/giocatori/mazzola_matteo.png)'{:.immagine_giocatori} |
+| ![Immagine mancante]('./../../assets/giocatori/mazzola_matteo.png){:.immagine_giocatori} |
 
 
 ## Carriera

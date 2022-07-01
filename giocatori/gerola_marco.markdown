@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 09:59:37.745650
+date: 2022-07-01 12:42:16.188306
 categories: torneo
 permalink: /giocatore/gerola_marco/
 ---
@@ -8,7 +8,7 @@ permalink: /giocatore/gerola_marco/
 
 | Gerola Marco |
 |:-----:|
-| ![gerola_marco]('./../../assets/giocatori/gerola_marco.png)'{:.immagine_giocatori} |
+| ![Immagine mancante]('./../../assets/giocatori/gerola_marco.png){:.immagine_giocatori} |
 
 
 ## Carriera

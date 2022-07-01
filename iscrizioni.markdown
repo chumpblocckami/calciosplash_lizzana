@@ -6,5 +6,5 @@ permalink: /iscrizioni/
 
 ---
 
-| **EDIZIONE 2022** | [Modulo](https://www.docdroid.net/EXFvNrh/modulo-iscrizione-calcio-splash-lizzana-2022-pdf) | [Liberatoria](./assets/documents/2022_liberatoria.pdf) |
+| **EDIZIONE 2022** | [Modulo](https://www.docdroid.net/EXFvNrh/modulo-iscrizione-calcio-splash-lizzana-2022-pdf) |
 

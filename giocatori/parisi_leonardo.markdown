@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 09:59:37.736420
+date: 2022-07-01 12:42:16.179999
 categories: torneo
 permalink: /giocatore/parisi_leonardo/
 ---
@@ -8,7 +8,7 @@ permalink: /giocatore/parisi_leonardo/
 
 | Parisi Leonardo (Il Fratello di Ron Weasley) |
 |:-----:|
-| ![parisi_leonardo]('./../../assets/giocatori/parisi_leonardo.png)'{:.immagine_giocatori} |
+| ![Immagine mancante]('./../../assets/giocatori/parisi_leonardo.png){:.immagine_giocatori} |
 
 
 ## Carriera

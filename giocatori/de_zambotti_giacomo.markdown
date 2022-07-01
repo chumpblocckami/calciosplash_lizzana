@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 09:59:37.706831
+date: 2022-07-01 12:42:16.124142
 categories: torneo
 permalink: /giocatore/de_zambotti_giacomo/
 ---
@@ -8,7 +8,7 @@ permalink: /giocatore/de_zambotti_giacomo/
 
 | De Zambotti Giacomo (Ferro Da Stiro) |
 |:-----:|
-| ![de_zambotti_giacomo]('./../../assets/giocatori/de_zambotti_giacomo.png)'{:.immagine_giocatori} |
+| ![Immagine mancante]('./../../assets/giocatori/de_zambotti_giacomo.png){:.immagine_giocatori} |
 
 
 ## Carriera

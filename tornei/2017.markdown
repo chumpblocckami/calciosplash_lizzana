@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 10:08:32.341842
+date: 2022-07-01 12:21:07.003808
 categories: torneo
 permalink: /torneo/2017/
 ---

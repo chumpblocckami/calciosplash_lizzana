@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 09:59:37.727000
+date: 2022-07-01 12:42:16.171078
 categories: torneo
 permalink: /giocatore/miorandi_emanuele/
 ---
@@ -8,7 +8,7 @@ permalink: /giocatore/miorandi_emanuele/
 
 | Miorandi Emanuele (Braghe da Sci) |
 |:-----:|
-| ![miorandi_emanuele]('./../../assets/giocatori/miorandi_emanuele.png)'{:.immagine_giocatori} |
+| ![Immagine mancante]('./../../assets/giocatori/miorandi_emanuele.png){:.immagine_giocatori} |
 
 
 ## Carriera

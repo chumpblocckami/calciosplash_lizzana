@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 09:59:37.717653
+date: 2022-07-01 12:42:16.162315
 categories: torneo
 permalink: /giocatore/ceschini_leonardo/
 ---
@@ -8,7 +8,7 @@ permalink: /giocatore/ceschini_leonardo/
 
 | Ceschini Leonardo (Pan bauletto) |
 |:-----:|
-| ![ceschini_leonardo]('./../../assets/giocatori/ceschini_leonardo.png)'{:.immagine_giocatori} |
+| ![Immagine mancante]('./../../assets/giocatori/ceschini_leonardo.png){:.immagine_giocatori} |
 
 
 ## Carriera

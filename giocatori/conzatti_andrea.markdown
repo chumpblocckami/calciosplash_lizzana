@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 09:59:37.692545
+date: 2022-07-01 12:42:16.109799
 categories: torneo
 permalink: /giocatore/conzatti_andrea/
 ---
@@ -8,7 +8,7 @@ permalink: /giocatore/conzatti_andrea/
 
 | Conzatti Andrea (Caldaia) |
 |:-----:|
-| ![conzatti_andrea]('./../../assets/giocatori/conzatti_andrea.png)'{:.immagine_giocatori} |
+| ![Immagine mancante]('./../../assets/giocatori/conzatti_andrea.png){:.immagine_giocatori} |
 
 
 ## Carriera

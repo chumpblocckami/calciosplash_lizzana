@@ -4,7 +4,7 @@ title: Albo d'oro
 permalink: /albo_doro/
 ---
 
-**CLASSIFICA MARCATORI** | [MASCHILE 🍻](/albo_doro/marcatori_maschile.markdown) | [FEMMINILE 🍸](/albo_doro/marcatori_femminile.markdown) 
+**CLASSIFICA MARCATORI** | [MASCHILE 🍻](/calciosplash_lizzana/albo_doro/marcatori_maschile) | [FEMMINILE 🍸](/calciosplash_lizzana/albo_doro/marcatori_femminile) 
 
 ## Vincitori Torneo 🏆
 
@@ -12,7 +12,7 @@ permalink: /albo_doro/
 
 ||TORNEO MASCHILE🤴🍻|TORNEO FEMMINILE👸🍸|
 ||:-----------------|
-|**Edizione 2021** | [Una quarta in 4](/calciosplash_lizzana/squadra/)| [Clitoriders](/calciosplash_lizzana/squadra/)|
+|**Edizione 2021** | [Clitoriders](/calciosplash_lizzana/squadra/)| [Four Taie](/calciosplash_lizzana/squadra/)|
 |**Edizione 2019** | [Mai Una Gioia](/calciosplash_lizzana/squadra/mai_una_gioia)| [Dinamo Nada](/calciosplash_lizzana/squadra/dinamo_nada)|
 |**Edizione 2018** | [I Modium](/calciosplash_lizzana/squadra/modium)| [Dinamo Nada](/calciosplash_lizzana/squadra/dinamo_nada)|
 |**Edizione 2017** | [Gli Avanzi](/calciosplash_lizzana/squadra/avanzi)| [Dinamo Nada](/calciosplash_lizzana/squadra/dinamo_nada)|

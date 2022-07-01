@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 09:59:37.682673
+date: 2022-07-01 12:42:15.985996
 categories: torneo
 permalink: /giocatore/raffaelli_davide/
 ---
@@ -8,7 +8,7 @@ permalink: /giocatore/raffaelli_davide/
 
 | Raffaelli Davide (Giraffa di Frassino) |
 |:-----:|
-| ![raffaelli_davide]('./../../assets/giocatori/raffaelli_davide.png)'{:.immagine_giocatori} |
+| ![Immagine mancante]('./../../assets/giocatori/raffaelli_davide.png){:.immagine_giocatori} |
 
 
 ## Carriera

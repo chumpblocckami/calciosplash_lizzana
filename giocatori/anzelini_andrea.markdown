@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 09:59:37.741143
+date: 2022-07-01 12:42:16.184194
 categories: torneo
 permalink: /giocatore/anzelini_andrea/
 ---
@@ -8,7 +8,7 @@ permalink: /giocatore/anzelini_andrea/
 
 | Anzelini Andrea (Tunnel del vento) |
 |:-----:|
-| ![anzelini_andrea]('./../../assets/giocatori/anzelini_andrea.png)'{:.immagine_giocatori} |
+| ![Immagine mancante]('./../../assets/giocatori/anzelini_andrea.png){:.immagine_giocatori} |
 
 
 ## Carriera

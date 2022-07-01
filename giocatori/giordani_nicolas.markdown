@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 09:59:37.687598
+date: 2022-07-01 12:42:16.104525
 categories: torneo
 permalink: /giocatore/giordani_nicolas/
 ---
@@ -8,7 +8,7 @@ permalink: /giocatore/giordani_nicolas/
 
 | Giordani Nicolas (El Tiburon) |
 |:-----:|
-| ![giordani_nicolas]('./../../assets/giocatori/giordani_nicolas.png)'{:.immagine_giocatori} |
+| ![Immagine mancante]('./../../assets/giocatori/giordani_nicolas.png){:.immagine_giocatori} |
 
 
 ## Carriera

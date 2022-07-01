@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 09:59:37.722397
+date: 2022-07-01 12:42:16.166915
 categories: torneo
 permalink: /giocatore/barbiero_riccardo/
 ---
@@ -8,7 +8,7 @@ permalink: /giocatore/barbiero_riccardo/
 
 | Barbiero Riccardo |
 |:-----:|
-| ![barbiero_riccardo]('./../../assets/giocatori/barbiero_riccardo.png)'{:.immagine_giocatori} |
+| ![Immagine mancante]('./../../assets/giocatori/barbiero_riccardo.png){:.immagine_giocatori} |
 
 
 ## Carriera

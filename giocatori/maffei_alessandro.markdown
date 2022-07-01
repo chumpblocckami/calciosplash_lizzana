@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 09:59:37.697282
+date: 2022-07-01 12:42:16.115817
 categories: torneo
 permalink: /giocatore/maffei_alessandro/
 ---
@@ -8,7 +8,7 @@ permalink: /giocatore/maffei_alessandro/
 
 | Maffei Alessandro (Fondatore di social network) |
 |:-----:|
-| ![maffei_alessandro]('./../../assets/giocatori/maffei_alessandro.png)'{:.immagine_giocatori} |
+| ![Immagine mancante]('./../../assets/giocatori/maffei_alessandro.png){:.immagine_giocatori} |
 
 
 ## Carriera
