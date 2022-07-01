@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 12:42:16.055134
+date: 2022-07-01 16:03:37.429763
 categories: torneo
 permalink: /giocatore/maraner_matteo/
 ---
@@ -16,6 +16,7 @@ permalink: /giocatore/maraner_matteo/
 
 |Anno|Squadra|Soprannome|
 |:---:|---|---|
+|2021||Sangue Vegano|
 |2019|Caffe' Grazia|Sangue Vegano|
 |2018|Caffe' Grazia|Sangue Vegano|
 |2017|Caffè grazia||
@@ -27,18 +28,18 @@ permalink: /giocatore/maraner_matteo/
 ## Goal
 ----
 
-| |2019|2018|2017|2016|2015|2014| Totale |
-|---|---|---|---|---|---|---|---|
-|Goal|0|1|0|4|1|0|6|
-|Autogoal|0|0|0|0|0|0|0|
+| |2021|2019|2018|2017|2016|2015|2014| Totale |
+|---|---|---|---|---|---|---|---|---|
+|Goal|0|0|1|0|4|1|0|6|
+|Autogoal|0|0|0|0|0|0|0|0|
 
 
 ## Statistiche
 ----
 
-| |2019|2018|2017|2016|2015|2014| Totale |
-|---|---|---|---|---|---|---|---|
-|Gialli|0|0|0|0|0|0|0|
-|Rossi|0|0|0|0|0|0|0|
-|Best player|0|1|0|1|0|0|2|
-|Stelle|0|1|0|1|0|0|2|
+| |2021|2019|2018|2017|2016|2015|2014| Totale |
+|---|---|---|---|---|---|---|---|---|
+|Gialli|0|0|0|0|0|0|0|0|
+|Rossi|0|0|0|0|0|0|0|0|
+|Best player|0|0|1|0|1|0|0|2|
+|Stelle|0|0|1|0|1|0|0|2|

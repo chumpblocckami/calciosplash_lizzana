@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 12:42:15.976462
+date: 2022-07-01 16:03:37.242927
 categories: torneo
 permalink: /giocatore/zandonati_anna/
 ---

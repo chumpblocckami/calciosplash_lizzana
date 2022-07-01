@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 12:42:16.015090
+date: 2022-07-01 16:03:37.349201
 categories: torneo
 permalink: /giocatore/chiusole_cecilia/
 ---
@@ -16,6 +16,7 @@ permalink: /giocatore/chiusole_cecilia/
 
 |Anno|Squadra|Soprannome|
 |:---:|---|---|
+|2021|||
 |2018|Name Loading|La Falsa Vecchia|
 |2017|Beverly inps||
 
@@ -23,18 +24,18 @@ permalink: /giocatore/chiusole_cecilia/
 ## Goal
 ----
 
-| |2018|2017| Totale |
-|---|---|---|---|
-|Goal|5|4|9|
-|Autogoal|0|0|0|
+| |2021|2018|2017| Totale |
+|---|---|---|---|---|
+|Goal|0|5|4|9|
+|Autogoal|0|0|0|0|
 
 
 ## Statistiche
 ----
 
-| |2018|2017| Totale |
-|---|---|---|---|
-|Gialli|0|0|0|
-|Rossi|0|0|0|
-|Best player|2|1|3|
-|Stelle|3|1|4|
+| |2021|2018|2017| Totale |
+|---|---|---|---|---|
+|Gialli|0|0|0|0|
+|Rossi|0|0|0|0|
+|Best player|2|2|1|5|
+|Stelle|4|3|1|8|

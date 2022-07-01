@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 12:42:16.023376
+date: 2022-07-01 16:03:37.372133
 categories: torneo
 permalink: /giocatore/brentari_gabriele/
 ---
@@ -16,6 +16,7 @@ permalink: /giocatore/brentari_gabriele/
 
 |Anno|Squadra|Soprannome|
 |:---:|---|---|
+|2021|SharkAttack|Mocio Vileda|
 |2019|Shark Attack|Mocio Vileda|
 |2018|Shark Attack|Mocio Vileda|
 |2017|Shark attak||
@@ -24,18 +25,18 @@ permalink: /giocatore/brentari_gabriele/
 ## Goal
 ----
 
-| |2019|2018|2017| Totale |
-|---|---|---|---|---|
-|Goal|3|2|3|8|
-|Autogoal|0|0|0|0|
+| |2021|2019|2018|2017| Totale |
+|---|---|---|---|---|---|
+|Goal|0|3|2|3|8|
+|Autogoal|0|0|0|0|0|
 
 
 ## Statistiche
 ----
 
-| |2019|2018|2017| Totale |
-|---|---|---|---|---|
-|Gialli|0|0|1|1|
-|Rossi|0|0|0|0|
-|Best player|1|0|1|2|
-|Stelle|1|0|1|2|
+| |2021|2019|2018|2017| Totale |
+|---|---|---|---|---|---|
+|Gialli|0|0|0|1|1|
+|Rossi|0|0|0|0|0|
+|Best player|0|1|0|1|2|
+|Stelle|0|1|0|1|2|

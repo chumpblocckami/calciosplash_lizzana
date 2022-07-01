@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 12:42:16.141018
+date: 2022-07-01 16:03:37.650343
 categories: torneo
 permalink: /giocatore/bertolini_michele/
 ---
@@ -16,6 +16,7 @@ permalink: /giocatore/bertolini_michele/
 
 |Anno|Squadra|Soprannome|
 |:---:|---|---|
+|2021|WandaTeam|Marco Columbro|
 |2019|Discepoli Del Luppolo|Marco Columbro|
 |2018|Discepoli Del Luppolo|Marco Columbro|
 |2017|Discepoli del luppolo||
@@ -27,18 +28,18 @@ permalink: /giocatore/bertolini_michele/
 ## Goal
 ----
 
-| |2019|2018|2017|2016|2015|2014| Totale |
-|---|---|---|---|---|---|---|---|
-|Goal|5|15|0|4|7|8|39|
-|Autogoal|0|1|0|1|0|2|4|
+| |2021|2019|2018|2017|2016|2015|2014| Totale |
+|---|---|---|---|---|---|---|---|---|
+|Goal|4|5|15|0|4|7|8|43|
+|Autogoal|0|0|1|0|1|0|2|4|
 
 
 ## Statistiche
 ----
 
-| |2019|2018|2017|2016|2015|2014| Totale |
-|---|---|---|---|---|---|---|---|
-|Gialli|0|0|0|0|0|0|0|
-|Rossi|0|0|0|0|0|0|0|
-|Best player|0|2|0|0|3|4|9|
-|Stelle|0|2|0|0|3|4|9|
+| |2021|2019|2018|2017|2016|2015|2014| Totale |
+|---|---|---|---|---|---|---|---|---|
+|Gialli|0|0|0|0|0|0|0|0|
+|Rossi|0|0|0|0|0|0|0|0|
+|Best player|1|0|2|0|0|3|4|10|
+|Stelle|2|0|2|0|0|3|4|11|

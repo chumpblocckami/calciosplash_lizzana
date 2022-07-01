@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 12:42:16.179999
+date: 2022-07-01 16:03:37.753938
 categories: torneo
 permalink: /giocatore/parisi_leonardo/
 ---
@@ -16,6 +16,7 @@ permalink: /giocatore/parisi_leonardo/
 
 |Anno|Squadra|Soprannome|
 |:---:|---|---|
+|2021|Mediasert|Il Fratello Di Ron Weasley|
 |2019|Mediaser.T|Il Fratello Di Ron Weasley|
 |2018|No S.A.V.|Il Fratello di Ron Weasley|
 |2016|Pokemonae||
@@ -25,18 +26,18 @@ permalink: /giocatore/parisi_leonardo/
 ## Goal
 ----
 
-| |2019|2018|2016|2014| Totale |
-|---|---|---|---|---|---|
-|Goal|14|11|2|4|31|
-|Autogoal|0|0|0|0|0|
+| |2021|2019|2018|2016|2014| Totale |
+|---|---|---|---|---|---|---|
+|Goal|1|14|11|2|4|32|
+|Autogoal|0|0|0|0|0|0|
 
 
 ## Statistiche
 ----
 
-| |2019|2018|2016|2014| Totale |
-|---|---|---|---|---|---|
-|Gialli|0|0|0|0|0|
-|Rossi|0|0|0|0|0|
-|Best player|3|3|2|0|8|
-|Stelle|5|3|2|0|10|
+| |2021|2019|2018|2016|2014| Totale |
+|---|---|---|---|---|---|---|
+|Gialli|0|0|0|0|0|0|
+|Rossi|0|0|0|0|0|0|
+|Best player|0|3|3|2|0|8|
+|Stelle|0|5|3|2|0|10|

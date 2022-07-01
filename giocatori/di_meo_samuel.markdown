@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 12:42:16.128255
+date: 2022-07-01 16:03:37.616159
 categories: torneo
 permalink: /giocatore/di_meo_samuel/
 ---

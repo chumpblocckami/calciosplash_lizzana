@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 12:42:16.081031
+date: 2022-07-01 16:03:37.500837
 categories: torneo
 permalink: /giocatore/battisti_isotta/
 ---
@@ -16,24 +16,25 @@ permalink: /giocatore/battisti_isotta/
 
 |Anno|Squadra|Soprannome|
 |:---:|---|---|
+|2021|||
 |2019|Plus Ultra||
 
 
 ## Goal
 ----
 
-| |2019| Totale |
-|---|---|---|
-|Goal|2|2|
-|Autogoal|0|0|
+| |2021|2019| Totale |
+|---|---|---|---|
+|Goal|0|2|2|
+|Autogoal|0|0|0|
 
 
 ## Statistiche
 ----
 
-| |2019| Totale |
-|---|---|---|
-|Gialli|0|0|
-|Rossi|0|0|
-|Best player|1|1|
-|Stelle|1|1|
+| |2021|2019| Totale |
+|---|---|---|---|
+|Gialli|0|0|0|
+|Rossi|0|0|0|
+|Best player|0|1|1|
+|Stelle|0|1|1|

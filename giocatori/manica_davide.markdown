@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 12:42:15.998595
+date: 2022-07-01 16:03:37.301598
 categories: torneo
 permalink: /giocatore/manica_davide/
 ---
@@ -16,6 +16,7 @@ permalink: /giocatore/manica_davide/
 
 |Anno|Squadra|Soprannome|
 |:---:|---|---|
+|2021|PinguiniTrentini|Pala Eolica|
 |2019|Pinguini Trentini|Pala Eolica|
 |2018|Pinguini Trentini|Pala Eolica|
 |2017|Pinguini trentini||
@@ -26,18 +27,18 @@ permalink: /giocatore/manica_davide/
 ## Goal
 ----
 
-| |2019|2018|2017|2016|2015| Totale |
-|---|---|---|---|---|---|---|
-|Goal|1|0|2|1|1|5|
-|Autogoal|0|0|0|0|0|0|
+| |2021|2019|2018|2017|2016|2015| Totale |
+|---|---|---|---|---|---|---|---|
+|Goal|3|1|0|2|1|1|8|
+|Autogoal|0|0|0|0|0|0|0|
 
 
 ## Statistiche
 ----
 
-| |2019|2018|2017|2016|2015| Totale |
-|---|---|---|---|---|---|---|
-|Gialli|0|0|0|0|0|0|
-|Rossi|0|0|0|0|0|0|
-|Best player|1|0|0|0|0|1|
-|Stelle|1|0|0|0|0|1|
+| |2021|2019|2018|2017|2016|2015| Totale |
+|---|---|---|---|---|---|---|---|
+|Gialli|0|0|0|0|0|0|0|
+|Rossi|0|0|0|0|0|0|0|
+|Best player|1|1|0|0|0|0|2|
+|Stelle|2|1|0|0|0|0|3|

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 12:42:16.067914
+date: 2022-07-01 16:03:37.465411
 categories: torneo
 permalink: /giocatore/giordani_andrea/
 ---
@@ -16,6 +16,7 @@ permalink: /giocatore/giordani_andrea/
 
 |Anno|Squadra|Soprannome|
 |:---:|---|---|
+|2021|Clitoriders|Orso Bruno|
 |2019|Clitoriders|Orso Bruno|
 |2018|Clitoriders|Orso bruno|
 |2017|Clitoriders||
@@ -27,18 +28,18 @@ permalink: /giocatore/giordani_andrea/
 ## Goal
 ----
 
-| |2019|2018|2017|2016|2015|2014| Totale |
-|---|---|---|---|---|---|---|---|
-|Goal|6|4|2|10|2|7|31|
-|Autogoal|0|1|0|2|0|2|5|
+| |2021|2019|2018|2017|2016|2015|2014| Totale |
+|---|---|---|---|---|---|---|---|---|
+|Goal|2|6|4|2|10|2|7|33|
+|Autogoal|0|0|1|0|2|0|2|5|
 
 
 ## Statistiche
 ----
 
-| |2019|2018|2017|2016|2015|2014| Totale |
-|---|---|---|---|---|---|---|---|
-|Gialli|0|0|0|0|0|0|0|
-|Rossi|0|0|0|0|0|0|0|
-|Best player|1|0|1|5|0|1|8|
-|Stelle|1|0|1|6|0|2|10|
+| |2021|2019|2018|2017|2016|2015|2014| Totale |
+|---|---|---|---|---|---|---|---|---|
+|Gialli|0|0|0|0|0|0|0|0|
+|Rossi|0|0|0|0|0|0|0|0|
+|Best player|0|1|0|1|5|0|1|8|
+|Stelle|0|1|0|1|6|0|2|10|

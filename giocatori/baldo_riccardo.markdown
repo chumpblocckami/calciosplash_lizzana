@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 12:42:16.002735
+date: 2022-07-01 16:03:37.313078
 categories: torneo
 permalink: /giocatore/baldo_riccardo/
 ---
@@ -16,6 +16,7 @@ permalink: /giocatore/baldo_riccardo/
 
 |Anno|Squadra|Soprannome|
 |:---:|---|---|
+|2021|WandaTeam|L'Idolo Delle 15enni|
 |2019|Discepoli Del Luppolo|L'Idolo Delle 15enni|
 |2018|Discepoli Del Luppolo|L'idolo delle 15enni|
 |2017|Discepoli del luppolo||
@@ -26,18 +27,18 @@ permalink: /giocatore/baldo_riccardo/
 ## Goal
 ----
 
-| |2019|2018|2017|2015|2014| Totale |
-|---|---|---|---|---|---|---|
-|Goal|1|0|0|0|0|1|
-|Autogoal|0|0|0|0|1|1|
+| |2021|2019|2018|2017|2015|2014| Totale |
+|---|---|---|---|---|---|---|---|
+|Goal|1|1|0|0|0|0|2|
+|Autogoal|0|0|0|0|0|1|1|
 
 
 ## Statistiche
 ----
 
-| |2019|2018|2017|2015|2014| Totale |
-|---|---|---|---|---|---|---|
-|Gialli|0|0|0|0|0|0|
-|Rossi|0|0|0|0|0|0|
-|Best player|0|0|3|1|0|4|
-|Stelle|0|0|4|1|0|5|
+| |2021|2019|2018|2017|2015|2014| Totale |
+|---|---|---|---|---|---|---|---|
+|Gialli|0|0|0|0|0|0|0|
+|Rossi|0|0|0|0|0|0|0|
+|Best player|0|0|0|3|1|0|4|
+|Stelle|0|0|0|4|1|0|5|

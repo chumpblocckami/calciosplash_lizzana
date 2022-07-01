@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 12:42:16.149643
+date: 2022-07-01 16:03:37.673774
 categories: torneo
 permalink: /giocatore/cescatti_manuel/
 ---
@@ -16,6 +16,7 @@ permalink: /giocatore/cescatti_manuel/
 
 |Anno|Squadra|Soprannome|
 |:---:|---|---|
+|2021|FelLazio|Il Bolscevico|
 |2019|Fel Lazio|Il Bolscevico|
 |2018|Fel. Lazio|Il Bolscevico|
 |2017|Fel Lazio||
@@ -27,18 +28,18 @@ permalink: /giocatore/cescatti_manuel/
 ## Goal
 ----
 
-| |2019|2018|2017|2016|2015|2014| Totale |
-|---|---|---|---|---|---|---|---|
-|Goal|3|5|0|3|0|1|12|
-|Autogoal|0|0|0|0|0|0|0|
+| |2021|2019|2018|2017|2016|2015|2014| Totale |
+|---|---|---|---|---|---|---|---|---|
+|Goal|3|3|5|0|3|0|1|15|
+|Autogoal|0|0|0|0|0|0|0|0|
 
 
 ## Statistiche
 ----
 
-| |2019|2018|2017|2016|2015|2014| Totale |
-|---|---|---|---|---|---|---|---|
-|Gialli|0|0|0|0|0|0|0|
-|Rossi|0|0|0|0|0|0|0|
-|Best player|0|1|0|2|1|0|4|
-|Stelle|0|2|0|2|1|0|5|
+| |2021|2019|2018|2017|2016|2015|2014| Totale |
+|---|---|---|---|---|---|---|---|---|
+|Gialli|0|0|0|0|0|0|0|0|
+|Rossi|0|0|0|0|0|0|0|0|
+|Best player|1|0|1|0|2|1|0|5|
+|Stelle|2|0|2|0|2|1|0|7|

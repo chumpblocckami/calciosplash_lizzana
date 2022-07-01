@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 12:42:16.100451
+date: 2022-07-01 16:03:37.546908
 categories: torneo
 permalink: /giocatore/osele_veronica/
 ---
@@ -16,6 +16,7 @@ permalink: /giocatore/osele_veronica/
 
 |Anno|Squadra|Soprannome|
 |:---:|---|---|
+|2021||Marion Johns|
 |2019|Porcahontas|Marion Johns|
 |2018|Le Siretette|Marion Johns|
 |2017|Biancaneve sotto i nani||
@@ -27,18 +28,18 @@ permalink: /giocatore/osele_veronica/
 ## Goal
 ----
 
-| |2019|2018|2017|2016|2015|2014| Totale |
-|---|---|---|---|---|---|---|---|
-|Goal|3|10|11|5|5|5|39|
-|Autogoal|0|0|0|1|0|0|1|
+| |2021|2019|2018|2017|2016|2015|2014| Totale |
+|---|---|---|---|---|---|---|---|---|
+|Goal|0|3|10|11|5|5|5|39|
+|Autogoal|0|0|0|0|1|0|0|1|
 
 
 ## Statistiche
 ----
 
-| |2019|2018|2017|2016|2015|2014| Totale |
-|---|---|---|---|---|---|---|---|
-|Gialli|0|0|1|0|0|0|1|
-|Rossi|0|0|0|0|0|0|0|
-|Best player|1|4|3|2|3|1|14|
-|Stelle|1|6|3|2|3|2|17|
+| |2021|2019|2018|2017|2016|2015|2014| Totale |
+|---|---|---|---|---|---|---|---|---|
+|Gialli|0|0|0|1|0|0|0|1|
+|Rossi|0|0|0|0|0|0|0|0|
+|Best player|0|1|4|3|2|3|1|14|
+|Stelle|0|1|6|3|2|3|2|17|

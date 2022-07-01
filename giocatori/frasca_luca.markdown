@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 12:42:16.145191
+date: 2022-07-01 16:03:37.662391
 categories: torneo
 permalink: /giocatore/frasca_luca/
 ---
@@ -16,6 +16,7 @@ permalink: /giocatore/frasca_luca/
 
 |Anno|Squadra|Soprannome|
 |:---:|---|---|
+|2021|Clitoriders|Delirium Tremens|
 |2019|Clitoriders|Delirium Tremens|
 |2018|Clitoriders|Delirium tremens|
 |2017|Clitoriders||
@@ -26,18 +27,18 @@ permalink: /giocatore/frasca_luca/
 ## Goal
 ----
 
-| |2019|2018|2017|2016|2014| Totale |
-|---|---|---|---|---|---|---|
-|Goal|17|12|2|5|1|37|
-|Autogoal|0|0|1|0|0|1|
+| |2021|2019|2018|2017|2016|2014| Totale |
+|---|---|---|---|---|---|---|---|
+|Goal|2|17|12|2|5|1|39|
+|Autogoal|0|0|0|1|0|0|1|
 
 
 ## Statistiche
 ----
 
-| |2019|2018|2017|2016|2014| Totale |
-|---|---|---|---|---|---|---|
-|Gialli|0|0|1|0|0|1|
-|Rossi|0|0|0|0|0|0|
-|Best player|3|3|0|1|0|7|
-|Stelle|5|5|0|2|0|12|
+| |2021|2019|2018|2017|2016|2014| Totale |
+|---|---|---|---|---|---|---|---|
+|Gialli|0|0|0|1|0|0|1|
+|Rossi|0|0|0|0|0|0|0|
+|Best player|1|3|3|0|1|0|8|
+|Stelle|2|5|5|0|2|0|14|

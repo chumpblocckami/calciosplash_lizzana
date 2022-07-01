@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 12:42:15.985996
+date: 2022-07-01 16:03:37.266087
 categories: torneo
 permalink: /giocatore/raffaelli_davide/
 ---
@@ -16,6 +16,7 @@ permalink: /giocatore/raffaelli_davide/
 
 |Anno|Squadra|Soprannome|
 |:---:|---|---|
+|2021|Mediasert|Giraffa Di Frassino|
 |2019|Mediaser.T|Giraffa Di Frassino|
 |2018|No S.A.V.|Giraffa di Frassino|
 |2017|Last minute||
@@ -28,18 +29,18 @@ permalink: /giocatore/raffaelli_davide/
 ## Goal
 ----
 
-| |2019|2018|2017|2016|2016|2015|2014| Totale |
-|---|---|---|---|---|---|---|---|---|
-|Goal|9|4|4|1|1|4|0|23|
-|Autogoal|0|0|0|0|0|0|0|0|
+| |2021|2019|2018|2017|2016|2016|2015|2014| Totale |
+|---|---|---|---|---|---|---|---|---|---|
+|Goal|1|9|4|4|1|1|4|0|24|
+|Autogoal|0|0|0|0|0|0|0|0|0|
 
 
 ## Statistiche
 ----
 
-| |2019|2018|2017|2016|2016|2015|2014| Totale |
-|---|---|---|---|---|---|---|---|---|
-|Gialli|0|0|0|0|0|0|0|0|
-|Rossi|0|0|0|0|0|0|0|0|
-|Best player|3|1|0|2|2|0|1|9|
-|Stelle|6|1|0|2|2|0|1|12|
+| |2021|2019|2018|2017|2016|2016|2015|2014| Totale |
+|---|---|---|---|---|---|---|---|---|---|
+|Gialli|0|0|0|0|0|0|0|0|0|
+|Rossi|0|0|0|0|0|0|0|0|0|
+|Best player|0|3|1|0|2|2|0|1|9|
+|Stelle|0|6|1|0|2|2|0|1|12|

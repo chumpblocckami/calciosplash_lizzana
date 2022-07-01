@@ -6,7 +6,7 @@ import render_giocatori_page
 
 def join_player_data():
     player_data = {}
-    for anno in [2019, 2018, 2017, 2016, 2015, 2014]:
+    for anno in [2021, 2019, 2018, 2017, 2016, 2015, 2014]:
         path = f"./../_legacy/calciosplash_{anno}/giocatori_{anno}.json"
         with open(path, "r") as file:
             data = json.load(file)
@@ -36,7 +36,7 @@ def render_player_page(nome):
                    "punteggio": {},
                    "autogol": {}, }
     player_data["nome"] = nome
-    for anno in [2019, 2018, 2017, 2016, 2015, 2014]:
+    for anno in [2021, 2019, 2018, 2017, 2016, 2015, 2014]:
         path = f"./../_legacy/calciosplash_{anno}/giocatori_{anno}.json"
         with open(path, "r") as file:
             data = json.load(file)

@@ -1,1 +1,3084 @@
-{"torneo_2019": {"1": {"id_anagrafica_squadre_1": 7, "id_anagrafica_squadre_2": 13, "gol_squadra_1": 6, "gol_squadra_2": 1, "data": "2019-08-15 16:00:00", "id_anagrafica_gironi": 4, "falli_squadra_1": 0, "falli_squadra_2": 2, "squadra_1": "F.C. Savignano", "squadra_2": "Positivi All'Etanolo", "gironi": "C - Cavroni", "genere_gironi": 1, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Andrea Conzatti (Caldaia)\":3,\"Alessandro Maffei \\u00a0(Fondatore Di Social Network)\":2}", "goleador_2": "{\"Mirko Fasanelli\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Andrea Conzatti (Caldaia)": 2}, "best_giocatore_2": {"Filippo Alovisi (Tromba)": 1}, "best_portiere_1": {}, "best_portiere_2": {}}, "2": {"id_anagrafica_squadre_1": 35, "id_anagrafica_squadre_2": 41, "gol_squadra_1": 3, "gol_squadra_2": 6, "data": "2019-08-15 16:20:00", "id_anagrafica_gironi": 13, "falli_squadra_1": 0, "falli_squadra_2": 0, "squadra_1": "Doppie Solo Due", "squadra_2": "Up-Pero'", "gironi": "D - Pegore", "genere_gironi": 2, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Francesca Montermini\":3}", "goleador_2": "{\"Matilde Gugole (Asfidanken)\":4,\"Rachele Gugole (Pannocchia)\":1,\"Michela Pezzato (Cocca Di Mamma)\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Francesca Montermini": 1}, "best_giocatore_2": {"Matilde Gugole (Asfidanken)": 2}, "best_portiere_1": {}, "best_portiere_2": {}}, "3": {"id_anagrafica_squadre_1": 39, "id_anagrafica_squadre_2": 36, "gol_squadra_1": 14, "gol_squadra_2": 0, "data": "2019-08-15 16:40:00", "id_anagrafica_gironi": 11, "falli_squadra_1": 1, "falli_squadra_2": 0, "squadra_1": "Una Quarta In 4", "squadra_2": "Pink Ladies", "gironi": "B - Pantegane", "genere_gironi": 2, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Stefania Gazzini (Skeleton)\":9,\"Francesca Debiasi (David Gnomo)\":5}", "goleador_2": "{}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Francesca Debiasi (David Gnomo)": 1, "Stefania Gazzini (Skeleton)": 2}, "best_giocatore_2": {}, "best_portiere_1": {}, "best_portiere_2": {}}, "4": {"id_anagrafica_squadre_1": 21, "id_anagrafica_squadre_2": 6, "gol_squadra_1": 3, "gol_squadra_2": 4, "data": "2019-08-15 17:00:00", "id_anagrafica_gironi": 7, "falli_squadra_1": 0, "falli_squadra_2": 0, "squadra_1": "Paris San Gennar", "squadra_2": "Caffe' Grazia", "gironi": "F - Ruganti", "genere_gironi": 1, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Alex Bragagna\":3}", "goleador_2": "{\"Andrea Candioli (Can Da L'Ua)\":1,\"Matteo Cembrani\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Alex Bragagna": 2}, "best_giocatore_2": {"Matteo Cembrani": 1}, "best_portiere_1": {"Daniele Seranifini": 1}, "best_portiere_2": {"Daniele Candioli (Bimbo Del Grest)": 1}}, "5": {"id_anagrafica_squadre_1": 34, "id_anagrafica_squadre_2": 38, "gol_squadra_1": 12, "gol_squadra_2": 1, "data": "2019-08-15 17:20:00", "id_anagrafica_gironi": 11, "falli_squadra_1": 0, "falli_squadra_2": 0, "squadra_1": "Quele Del '20. Alora", "squadra_2": "Le Osce", "gironi": "B - Pantegane", "genere_gironi": 2, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Silvia Veneri\":5,\"Margherita Prezzi (Acquaragia)\":4,\"Serena Barozzi (Miss Patatina\\r\\n)\":3}", "goleador_2": "{}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Margherita Prezzi (Acquaragia)": 2, "Silvia Veneri": 1}, "best_giocatore_2": {}, "best_portiere_1": {}, "best_portiere_2": {}}, "6": {"id_anagrafica_squadre_1": 18, "id_anagrafica_squadre_2": 14, "gol_squadra_1": 5, "gol_squadra_2": 0, "data": "2019-08-15 17:40:00", "id_anagrafica_gironi": 2, "falli_squadra_1": 0, "falli_squadra_2": 0, "squadra_1": "Shark Attack", "squadra_2": "E Voi De Chi Se Fioi?", "gironi": "A - Cavai", "genere_gironi": 1, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Mattia Baldessarini (L'Assassino Cerebrale)\":3,\"Riccardo Saccani (Rosso Malpelo)\":1,\"Mattia Festi (Plastic Man)\":1}", "goleador_2": "{}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Mattia Baldessarini (L'Assassino Cerebrale)": 2, "Gabriele Brentari (Mocio Vileda)": 1}, "best_giocatore_2": {}, "best_portiere_1": {"Alberto Cerisara (L'Uomo Che Ha Mangiato Justin Bieber)": 3}, "best_portiere_2": {}}, "7": {"id_anagrafica_squadre_1": 28, "id_anagrafica_squadre_2": 32, "gol_squadra_1": 12, "gol_squadra_2": 2, "data": "2019-08-15 18:00:00", "id_anagrafica_gironi": 9, "falli_squadra_1": 0, "falli_squadra_2": 0, "squadra_1": "Fel Lazio", "squadra_2": "Panchester United", "gironi": "H - Zorzi", "genere_gironi": 1, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Andrea Gober (Scintillio)\":6,\"Alessandro Zandonai (L'Uomo Che Sussurrava Ai Ghepardi)\":3,\"Simone Martini (Donatella Rettore)\":1,\"Mauro Prezzi (Il Sergente Di Via Al Cristo)\":1,\"Manuel Cescatti (Il Bolscevico)\":1}", "goleador_2": "{\"Rudy Somadossi (Musica e Magia\\r\\n)\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Andrea Gober (Scintillio)": 2}, "best_giocatore_2": {"Rudy Somadossi (Musica e Magia\r\n)": 1}, "best_portiere_1": {"Matteo Pilati (Ponzio Pilati)": 1}, "best_portiere_2": {"Alessio Ecchel": 2}}, "8": {"id_anagrafica_squadre_1": 29, "id_anagrafica_squadre_2": 15, "gol_squadra_1": 13, "gol_squadra_2": 1, "data": "2019-08-15 18:20:00", "id_anagrafica_gironi": 8, "falli_squadra_1": 1, "falli_squadra_2": 1, "squadra_1": "Pinguini Trentini", "squadra_2": "Dmentoni (La D E' Muta)", "gironi": "G - Usei", "genere_gironi": 1, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Alessio Farinati (Proteina)\":8,\"Matteo Brigo (Eurobrigo)\":3,\"Yuri Andreolli\":1,\"Andrea Mandredi\":1}", "goleador_2": "{\"Damiano Simoncelli\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Alessio Farinati (Proteina)": 2, "Andrea Mandredi": 1}, "best_giocatore_2": {}, "best_portiere_1": {}, "best_portiere_2": {}}, "9": {"id_anagrafica_squadre_1": 4, "id_anagrafica_squadre_2": 27, "gol_squadra_1": 4, "gol_squadra_2": 1, "data": "2019-08-15 18:40:00", "id_anagrafica_gironi": 5, "falli_squadra_1": 0, "falli_squadra_2": 4, "squadra_1": "I Montagna", "squadra_2": "Soda", "gironi": "D - Lumazi", "genere_gironi": 1, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Marco Sala (Cane Rognoso)\":3,\"Francesco Russo (Il Falso Balcanico)\":1}", "goleador_2": "{\"Massimo Chiodini\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Federico Andreis (Bel Ragazzo)": 1, "Marco Sala (Cane Rognoso)": 2}, "best_giocatore_2": {}, "best_portiere_1": {}, "best_portiere_2": {}}, "10": {"id_anagrafica_squadre_1": 16, "id_anagrafica_squadre_2": 26, "gol_squadra_1": 4, "gol_squadra_2": 3, "data": "2019-08-15 19:00:00", "id_anagrafica_gironi": 8, "falli_squadra_1": 0, "falli_squadra_2": 5, "squadra_1": "Mai Una Gioia", "squadra_2": "Clandes-Team", "gironi": "G - Usei", "genere_gironi": 1, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Carlo Stedile (Welcome To Paradise)\":2,\"Nadir Chtioui (Casablanca)\":1,\"Pietro Gasparini\":1}", "goleador_2": "{\"Pietro Tasini\":1,\"Riccardo Brunelli\":1,\"Pietro Zandonai (Boyscout)\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Nadir Chtioui (Casablanca)": 1, "Carlo Stedile (Welcome To Paradise)": 2}, "best_giocatore_2": {}, "best_portiere_1": {"Thomas Debiasi (L'Organizzatore Di Eventi Bruti)": 2}, "best_portiere_2": {"Tommaso Canepel (Ridge Forester)": 1}}, "11": {"id_anagrafica_squadre_1": 1, "id_anagrafica_squadre_2": 25, "gol_squadra_1": 3, "gol_squadra_2": 2, "data": "2019-08-15 19:20:00", "id_anagrafica_gironi": 6, "falli_squadra_1": 0, "falli_squadra_2": 0, "squadra_1": "S.S. Tecnica Pura", "squadra_2": "Cgb Gamberoni", "gironi": "E - Mussi", "genere_gironi": 1, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Mirco Salvetti\":1,\"Matteo Azzolini\":1}", "goleador_2": "{\"Francesco Piamarta\":1,\"Tommaso Bruschetti (Sindaco)\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Matteo Azzolini": 1, "Luca Dellagiacoma (La Locomotiva Di Lizzanella)": 1, "Omar Russo (Lizzanella Vende Moda)": 1}, "best_giocatore_2": {}, "best_portiere_1": {"Francesco Modena": 2}, "best_portiere_2": {"Sebastiano Zoller": 1}}, "13": {"id_anagrafica_squadre_1": 47, "id_anagrafica_squadre_2": 41, "gol_squadra_1": 9, "gol_squadra_2": 1, "data": "2019-08-15 19:40:00", "id_anagrafica_gironi": 13, "falli_squadra_1": 0, "falli_squadra_2": 1, "squadra_1": "Dinamo Nada", "squadra_2": "Up-Pero'", "gironi": "D - Pegore", "genere_gironi": 2, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Irene Tovazzi (La Marmelona)\":3,\"Maira Bertolini\":2,\"Margherita Planchestainer (Mamma Di Bambi)\":2,\"Sara Consolati (Colonne D'Ercole)\":1}", "goleador_2": "{\"Rachele Gugole (Pannocchia)\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Margherita Planchestainer (Mamma Di Bambi)": 1, "Irene Tovazzi (La Marmelona)": 2}, "best_giocatore_2": {}, "best_portiere_1": {}, "best_portiere_2": {}}, "14": {"id_anagrafica_squadre_1": 43, "id_anagrafica_squadre_2": 40, "gol_squadra_1": 10, "gol_squadra_2": 1, "data": "2019-08-15 20:00:00", "id_anagrafica_gironi": 12, "falli_squadra_1": 2, "falli_squadra_2": 0, "squadra_1": "Mai Un Limone", "squadra_2": "Le Gretine", "gironi": "C - Galinote", "genere_gironi": 2, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Carlotta Pomarolli (La Predestinata)\":4,\"Laura Manconi (Skeletor the original)\":4,\"Valentina Salzani (Hello Kitty)\":1}", "goleador_2": "{\"Claudia Manzana (La Bolscevica)\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Laura Manconi (Skeletor the original)": 1, "Carlotta Pomarolli (La Predestinata)": 2}, "best_giocatore_2": {}, "best_portiere_1": {}, "best_portiere_2": {}}, "15": {"id_anagrafica_squadre_1": 18, "id_anagrafica_squadre_2": 12, "gol_squadra_1": 14, "gol_squadra_2": 1, "data": "2019-08-15 20:20:00", "id_anagrafica_gironi": 2, "falli_squadra_1": 0, "falli_squadra_2": 1, "squadra_1": "Shark Attack", "squadra_2": "The Periti Informatici", "gironi": "A - Cavai", "genere_gironi": 1, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Mattia Baldessarini (L'Assassino Cerebrale)\":8,\"Mattia Festi (Plastic Man)\":3,\"Gabriele Brentari (Mocio Vileda)\":2,\"Riccardo Saccani (Rosso Malpelo)\":1}", "goleador_2": "{\"Giovanni Simoncelli (Ritornello)\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Mattia Baldessarini (L'Assassino Cerebrale)": 3}, "best_giocatore_2": {}, "best_portiere_1": {"Alberto Cerisara (L'Uomo Che Ha Mangiato Justin Bieber)": 1}, "best_portiere_2": {"Francesco Passuello (Crumiro)": 2}}, "16": {"id_anagrafica_squadre_1": 20, "id_anagrafica_squadre_2": 19, "gol_squadra_1": 4, "gol_squadra_2": 6, "data": "2019-08-15 21:00:00", "id_anagrafica_gironi": 5, "falli_squadra_1": 0, "falli_squadra_2": 0, "squadra_1": "U.S. Guarna", "squadra_2": "F.C. Julia", "gironi": "D - Lumazi", "genere_gironi": 1, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Andrea Prombergher\":2,\"Federico Nicolodi (Notti Magiche)\":1,\"Samuele Angheben (Bubbone)\":1}", "goleador_2": "{\"Michele Lovisi\":3,\"Andrea Potrich (Il Brasiliano Bianco)\":1,\"Giovanni Zamboni (Nano Malefico)\":1,\"Mattia Gerosa (Minchia Gigi)\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Andrea Prombergher": 1}, "best_giocatore_2": {"Michele Lovisi": 2}, "best_portiere_1": {}, "best_portiere_2": {}}, "17": {"id_anagrafica_squadre_1": 11, "id_anagrafica_squadre_2": 2, "gol_squadra_1": 3, "gol_squadra_2": 3, "data": "2019-08-15 21:20:00", "id_anagrafica_gironi": 3, "falli_squadra_1": 1, "falli_squadra_2": 2, "squadra_1": "Lizzanella'S Old Sughi", "squadra_2": "Hellas Madonna", "gironi": "B - Cunei", "genere_gironi": 1, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Daniele Feltrinelli (La Transiberiana)\":1,\"Emanuele Miorandi (Braghe Da Sci)\":1,\"Federico Ignaccolo (Fidel)\":1}", "goleador_2": "{\"Filippo Benetti\":1,\"Jacopo Ricci\":1,\"Davide Rosa'\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Federico Ignaccolo (Fidel)": 1}, "best_giocatore_2": {}, "best_portiere_1": {"Federico Leonardi (Pan Carre')": 1}, "best_portiere_2": {"Raffaele Prezzi": 1}}, "18": {"id_anagrafica_squadre_1": 48, "id_anagrafica_squadre_2": 44, "gol_squadra_1": 3, "gol_squadra_2": 2, "data": "2019-08-15 21:40:00", "id_anagrafica_gironi": 10, "falli_squadra_1": 1, "falli_squadra_2": 2, "squadra_1": "Porcahontas", "squadra_2": "La Carica Delle 02", "gironi": "A - Pojane", "genere_gironi": 2, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Licia Fondriest (Anza)\":2,\"Valentina Bisoffi (Nano da Giardino)\":1}", "goleador_2": "{\"Emma Tesini\":1,\"Elena Bordato\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Licia Fondriest (Anza)": 2}, "best_giocatore_2": {"Emma Tesini": 1}, "best_portiere_1": {"Alice Finarolli (Alice in Wonderland)": 2}, "best_portiere_2": {"Margherita Bottesi (Pe Williams)": 1}}, "19": {"id_anagrafica_squadre_1": 32, "id_anagrafica_squadre_2": 17, "gol_squadra_1": 1, "gol_squadra_2": 6, "data": "2019-08-15 22:00:00", "id_anagrafica_gironi": 9, "falli_squadra_1": 0, "falli_squadra_2": 0, "squadra_1": "Panchester United", "squadra_2": "Cacao Meravigliao", "gironi": "H - Zorzi", "genere_gironi": 1, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Rudy Somadossi (Musica e Magia\\r\\n)\":1}", "goleador_2": "{\"Giacomo Larcher (Occhio Ceruleo)\":3,\"Leonardo Stiz (Mio Nonno)\":2,\"Andrea Togni\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Rudy Somadossi (Musica e Magia\r\n)": 1}, "best_giocatore_2": {"Giacomo Larcher (Occhio Ceruleo)": 1, "Andrea Togni": 1}, "best_portiere_1": {}, "best_portiere_2": {}}, "20": {"id_anagrafica_squadre_1": 7, "id_anagrafica_squadre_2": 3, "gol_squadra_1": 2, "gol_squadra_2": 7, "data": "2019-08-15 22:20:00", "id_anagrafica_gironi": 4, "falli_squadra_1": 1, "falli_squadra_2": 3, "squadra_1": "F.C. Savignano", "squadra_2": "Clitoriders", "gironi": "C - Cavroni", "genere_gironi": 1, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Alessandro Maffei \\u00a0(Fondatore Di Social Network)\":1,\"Andrea Conzatti (Caldaia)\":1}", "goleador_2": "{\"Luca Frasca (Delirium Tremens)\":2,\"Michele Merighi (La Iena Ridens)\":2,\"Andrea Giordani (Orso Bruno)\":2,\"Stefano Galvagni (Mentadent)\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {}, "best_giocatore_2": {"Luca Frasca (Delirium Tremens)": 2, "Andrea Giordani (Orso Bruno)": 1}, "best_portiere_1": {"Samuel Di Meo": 1}, "best_portiere_2": {"Stefano Tita (Giannizzero)": 1}}, "21": {"id_anagrafica_squadre_1": 46, "id_anagrafica_squadre_2": 42, "gol_squadra_1": 1, "gol_squadra_2": 1, "data": "2019-08-15 22:40:00", "id_anagrafica_gironi": 10, "falli_squadra_1": 0, "falli_squadra_2": 4, "squadra_1": "Plus Ultra", "squadra_2": "Le Sughe", "gironi": "A - Pojane", "genere_gironi": 2, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Isotta Battisti\":1}", "goleador_2": "{\"Anna Rigo\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Isotta Battisti": 1}, "best_giocatore_2": {"Anna Rigo": 1}, "best_portiere_1": {"Aurora Cavalieri": 1}, "best_portiere_2": {}}, "22": {"id_anagrafica_squadre_1": 9, "id_anagrafica_squadre_2": 12, "gol_squadra_1": 15, "gol_squadra_2": 0, "data": "2019-08-15 23:00:00", "id_anagrafica_gironi": 2, "falli_squadra_1": 2, "falli_squadra_2": 3, "squadra_1": "Mediaser.T", "squadra_2": "The Periti Informatici", "gironi": "A - Cavai", "genere_gironi": 1, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Leonardo Parisi (Il Fratello Di Ron Weasley)\":7,\"Davide Raffaelli (Giraffa Di Frassino)\":4,\"Andrea Anzelini\":3,\"Matteo Mazzola\":1}", "goleador_2": "{}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Leonardo Parisi (Il Fratello Di Ron Weasley)": 2, "Davide Raffaelli (Giraffa Di Frassino)": 1}, "best_giocatore_2": {}, "best_portiere_1": {}, "best_portiere_2": {}}, "23": {"id_anagrafica_squadre_1": 25, "id_anagrafica_squadre_2": 31, "gol_squadra_1": 13, "gol_squadra_2": 3, "data": "2019-08-15 23:20:00", "id_anagrafica_gironi": 6, "falli_squadra_1": 0, "falli_squadra_2": 1, "squadra_1": "Cgb Gamberoni", "squadra_2": "St'Am No Zugo", "gironi": "E - Mussi", "genere_gironi": 1, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Francesco Piamarta\":5,\"Gabriele Gottardi\":4,\"Sebastiano Zoller\":2,\"Tommaso Bruschetti (Sindaco)\":1,\"Luca Perenzoni (Il Lettone)\":1}", "goleador_2": "{\"Mattia Ferrari (Manichino)\":2,\"Thomas Azzolini\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Tommaso Bruschetti (Sindaco)": 1, "Sebastiano Zoller": 2}, "best_giocatore_2": {}, "best_portiere_1": {}, "best_portiere_2": {}}, "24": {"id_anagrafica_squadre_1": 2, "id_anagrafica_squadre_2": 5, "gol_squadra_1": 4, "gol_squadra_2": 0, "data": "2019-08-15 23:40:00", "id_anagrafica_gironi": 3, "falli_squadra_1": 1, "falli_squadra_2": 0, "squadra_1": "Hellas Madonna", "squadra_2": "Wanda Tim", "gironi": "B - Cunei", "genere_gironi": 1, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Matteo Bazzanella\":3,\"Jacopo Ricci\":1}", "goleador_2": "{}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Matteo Bazzanella": 3}, "best_giocatore_2": {}, "best_portiere_1": {"Raffaele Prezzi": 1}, "best_portiere_2": {"Mattia Spagnolli": 1}}, "25": {"id_anagrafica_squadre_1": 22, "id_anagrafica_squadre_2": 28, "gol_squadra_1": 3, "gol_squadra_2": 7, "data": "2019-08-16 16:00:00", "id_anagrafica_gironi": 9, "falli_squadra_1": 0, "falli_squadra_2": 2, "squadra_1": "Sbarx", "squadra_2": "Fel Lazio", "gironi": "H - Zorzi", "genere_gironi": 1, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Nicholas Marzadro\":1,\"Alex Manica\":1,\"Simone Miorelli\":1}", "goleador_2": "{\"Andrea Gober (Scintillio)\":3,\"Manuel Cescatti (Il Bolscevico)\":2,\"Alessandro Zandonai (L'Uomo Che Sussurrava Ai Ghepardi)\":1,\"Mauro Prezzi (Il Sergente Di Via Al Cristo)\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {}, "best_giocatore_2": {"Andrea Gober (Scintillio)": 3}, "best_portiere_1": {}, "best_portiere_2": {"Matteo Pilati (Ponzio Pilati)": 3}}, "26": {"id_anagrafica_squadre_1": 41, "id_anagrafica_squadre_2": 33, "gol_squadra_1": 1, "gol_squadra_2": 2, "data": "2019-08-16 16:20:00", "id_anagrafica_gironi": 13, "falli_squadra_1": 2, "falli_squadra_2": 1, "squadra_1": "Up-Pero'", "squadra_2": "Quele Del '20. Ades", "gironi": "D - Pegore", "genere_gironi": 2, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Sharik Handson\":1}", "goleador_2": "{\"Martina Francescatti\":2}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Sharik Handson": 1}, "best_giocatore_2": {"Martina Francescatti": 2}, "best_portiere_1": {}, "best_portiere_2": {}}, "27": {"id_anagrafica_squadre_1": 37, "id_anagrafica_squadre_2": 40, "gol_squadra_1": 6, "gol_squadra_2": 0, "data": "2019-08-16 16:40:00", "id_anagrafica_gironi": 12, "falli_squadra_1": 0, "falli_squadra_2": 1, "squadra_1": "Tigri Intigra Tighi", "squadra_2": "Le Gretine", "gironi": "C - Galinote", "genere_gironi": 2, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Valentina Perghem\":4,\"Ilaria Battistotti\":1,\"Angela Adami (Ananas)\":1}", "goleador_2": "{}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Angela Adami (Ananas)": 2, "Valentina Perghem": 1}, "best_giocatore_2": {}, "best_portiere_1": {}, "best_portiere_2": {}}, "28": {"id_anagrafica_squadre_1": 34, "id_anagrafica_squadre_2": 36, "gol_squadra_1": 12, "gol_squadra_2": 2, "data": "2019-08-16 17:00:00", "id_anagrafica_gironi": 11, "falli_squadra_1": 0, "falli_squadra_2": 0, "squadra_1": "Quele Del '20. Alora", "squadra_2": "Pink Ladies", "gironi": "B - Pantegane", "genere_gironi": 2, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Margherita Prezzi (Acquaragia)\":7,\"Serena Barozzi (Miss Patatina\\r\\n)\":2,\"Nazarena Raos (L'Usignolo di Corna Calda\\r\\n)\":2,\"Silvia Veneri\":1}", "goleador_2": "{\"Alessandra Zampol (Vileda\\r\\n)\":1,\"Sofia Manica\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Margherita Prezzi (Acquaragia)": 2, "Silvia Veneri": 1}, "best_giocatore_2": {}, "best_portiere_1": {"Andrea Veronica Degan (WonderRea)": 1}, "best_portiere_2": {}}, "29": {"id_anagrafica_squadre_1": 39, "id_anagrafica_squadre_2": 38, "gol_squadra_1": 10, "gol_squadra_2": 0, "data": "2019-08-16 17:20:00", "id_anagrafica_gironi": 11, "falli_squadra_1": 0, "falli_squadra_2": 0, "squadra_1": "Una Quarta In 4", "squadra_2": "Le Osce", "gironi": "B - Pantegane", "genere_gironi": 2, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Francesca Debiasi (David Gnomo)\":7,\"Stefania Gazzini (Skeleton)\":3}", "goleador_2": "{}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Francesca Debiasi (David Gnomo)": 2, "Stefania Gazzini (Skeleton)": 1}, "best_giocatore_2": {}, "best_portiere_1": {}, "best_portiere_2": {}}, "30": {"id_anagrafica_squadre_1": 29, "id_anagrafica_squadre_2": 26, "gol_squadra_1": 2, "gol_squadra_2": 0, "data": "2019-08-16 17:40:00", "id_anagrafica_gironi": 8, "falli_squadra_1": 3, "falli_squadra_2": 2, "squadra_1": "Pinguini Trentini", "squadra_2": "Clandes-Team", "gironi": "G - Usei", "genere_gironi": 1, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Yuri Andreolli\":1,\"Matteo Brigo (Eurobrigo)\":1}", "goleador_2": "{}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Simone Chizzola (Il Mozzo)": 1, "Andrea Mandredi": 1, "Davide Manica (Pala Eolica)": 1}, "best_giocatore_2": {}, "best_portiere_1": {}, "best_portiere_2": {}}, "31": {"id_anagrafica_squadre_1": 32, "id_anagrafica_squadre_2": 22, "gol_squadra_1": 1, "gol_squadra_2": 2, "data": "2019-08-16 18:00:00", "id_anagrafica_gironi": 9, "falli_squadra_1": 4, "falli_squadra_2": 2, "squadra_1": "Panchester United", "squadra_2": "Sbarx", "gironi": "H - Zorzi", "genere_gironi": 1, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Hernan Suarez\":1}", "goleador_2": "{\"Alex Manica\":1,\"Enrico Parisi\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Hernan Suarez": 1}, "best_giocatore_2": {"Alex Manica": 1}, "best_portiere_1": {"Oscar Morin": 3}, "best_portiere_2": {}}, "32": {"id_anagrafica_squadre_1": 11, "id_anagrafica_squadre_2": 5, "gol_squadra_1": 8, "gol_squadra_2": 0, "data": "2019-08-16 18:20:00", "id_anagrafica_gironi": 3, "falli_squadra_1": 1, "falli_squadra_2": 4, "squadra_1": "Lizzanella'S Old Sughi", "squadra_2": "Wanda Tim", "gironi": "B - Cunei", "genere_gironi": 1, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Michele Leonardi\":2,\"Emanuele Miorandi (Braghe Da Sci)\":2,\"Federico Ignaccolo (Fidel)\":2,\"Daniele Feltrinelli (La Transiberiana)\":1,\"Alessandro Mario Monaco\":1}", "goleador_2": "{}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Federico Ignaccolo (Fidel)": 2, "Emanuele Miorandi (Braghe Da Sci)": 1}, "best_giocatore_2": {}, "best_portiere_1": {}, "best_portiere_2": {}}, "33": {"id_anagrafica_squadre_1": 28, "id_anagrafica_squadre_2": 17, "gol_squadra_1": 4, "gol_squadra_2": 3, "data": "2019-08-16 18:40:00", "id_anagrafica_gironi": 9, "falli_squadra_1": 3, "falli_squadra_2": 4, "squadra_1": "Fel Lazio", "squadra_2": "Cacao Meravigliao", "gironi": "H - Zorzi", "genere_gironi": 1, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Mauro Prezzi (Il Sergente Di Via Al Cristo)\":2,\"Matteo Pilati (Ponzio Pilati)\":1,\"Alessandro Zandonai (L'Uomo Che Sussurrava Ai Ghepardi)\":1}", "goleador_2": "{\"Leonardo Stiz (Mio Nonno)\":1,\"Andrea Togni\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {}, "best_giocatore_2": {}, "best_portiere_1": {}, "best_portiere_2": {}}, "34": {"id_anagrafica_squadre_1": 46, "id_anagrafica_squadre_2": 44, "gol_squadra_1": 2, "gol_squadra_2": 4, "data": "2019-08-16 19:00:00", "id_anagrafica_gironi": 10, "falli_squadra_1": 2, "falli_squadra_2": 3, "squadra_1": "Plus Ultra", "squadra_2": "La Carica Delle 02", "gironi": "A - Pojane", "genere_gironi": 2, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Isotta Battisti\":1,\"Carolina Zendri (Maestrale D'Inverno)\":1}", "goleador_2": "{\"Emma Tesini\":3,\"Jasmine Scottini\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Carolina Zendri (Maestrale D'Inverno)": 1}, "best_giocatore_2": {"Emma Tesini": 2}, "best_portiere_1": {}, "best_portiere_2": {}}, "35": {"id_anagrafica_squadre_1": 47, "id_anagrafica_squadre_2": 33, "gol_squadra_1": 6, "gol_squadra_2": 0, "data": "2019-08-16 19:20:00", "id_anagrafica_gironi": 13, "falli_squadra_1": 1, "falli_squadra_2": 2, "squadra_1": "Dinamo Nada", "squadra_2": "Quele Del '20. Ades", "gironi": "D - Pegore", "genere_gironi": 2, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Margherita Planchestainer (Mamma Di Bambi)\":2,\"Irene Tovazzi (La Marmelona)\":2,\"Maira Bertolini\":1,\"Sara Consolati (Colonne D'Ercole)\":1}", "goleador_2": "{}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Maira Bertolini": 1, "Margherita Planchestainer (Mamma Di Bambi)": 1, "Irene Tovazzi (La Marmelona)": 1}, "best_giocatore_2": {}, "best_portiere_1": {}, "best_portiere_2": {"Mara Barozzi (La Nonna di Heidi)": 1}}, "36": {"id_anagrafica_squadre_1": 10, "id_anagrafica_squadre_2": 5, "gol_squadra_1": 12, "gol_squadra_2": 1, "data": "2019-08-16 19:40:00", "id_anagrafica_gironi": 3, "falli_squadra_1": 1, "falli_squadra_2": 1, "squadra_1": "Discepoli Del Luppolo", "squadra_2": "Wanda Tim", "gironi": "B - Cunei", "genere_gironi": 1, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Federico Giordani (L'Uomo Pi\\u00f9 Fuori Forma D'Europa)\":5,\"Michele Bertolini (Marco Columbro)\":3,\"Nicola Conti (Parrucchino)\":2,\"Luca Miorandi (L'Uomo Pi\\u00f9 Brutto D'Europa)\":1,\"Riccardo Baldo (L'Idolo Delle 15enni)\":1}", "goleador_2": "{\"Stefano Rosina\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Federico Giordani (L'Uomo Pi\u00f9 Fuori Forma D'Europa)": 2, "Luca Miorandi (L'Uomo Pi\u00f9 Brutto D'Europa)": 1}, "best_giocatore_2": {}, "best_portiere_1": {"Marco Maffei (Il Pranzo \u00c8 Servito)": 1}, "best_portiere_2": {"Mattia Spagnolli": 1}}, "37": {"id_anagrafica_squadre_1": 45, "id_anagrafica_squadre_2": 37, "gol_squadra_1": 7, "gol_squadra_2": 2, "data": "2019-08-16 20:00:00", "id_anagrafica_gironi": 12, "falli_squadra_1": 1, "falli_squadra_2": 0, "squadra_1": "Fruit Ninja", "squadra_2": "Tigri Intigra Tighi", "gironi": "C - Galinote", "genere_gironi": 2, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Marie St\\u00f6ger (Torta Sacher)\":5,\"Manuela Perini (Callisto)\":1}", "goleador_2": "{\"Cristina Tognarelli\":1,\"Valentina Perghem\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Giulia Scrinzi (La Bimba Bionica)": 2, "Marie St\u00f6ger (Torta Sacher)": 1}, "best_giocatore_2": {}, "best_portiere_1": {"Elena Loss (L'Astronauta)": 2}, "best_portiere_2": {}}, "38": {"id_anagrafica_squadre_1": 13, "id_anagrafica_squadre_2": 23, "gol_squadra_1": 1, "gol_squadra_2": 0, "data": "2019-08-16 20:20:00", "id_anagrafica_gironi": 4, "falli_squadra_1": 2, "falli_squadra_2": 2, "squadra_1": "Positivi All'Etanolo", "squadra_2": "Il Terrone Va Di Moda", "gironi": "C - Cavroni", "genere_gironi": 1, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Michele Anselmi\":1}", "goleador_2": "{}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Filippo Alovisi (Tromba)": 1, "Michele Anselmi": 2}, "best_giocatore_2": {}, "best_portiere_1": {}, "best_portiere_2": {}}, "39": {"id_anagrafica_squadre_1": 48, "id_anagrafica_squadre_2": 42, "gol_squadra_1": 5, "gol_squadra_2": 0, "data": "2019-08-16 21:00:00", "id_anagrafica_gironi": 10, "falli_squadra_1": 1, "falli_squadra_2": 0, "squadra_1": "Porcahontas", "squadra_2": "Le Sughe", "gironi": "A - Pojane", "genere_gironi": 2, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Valentina Bisoffi (Nano da Giardino)\":2,\"Veronica Osele (Marion Johns)\":2,\"Licia Fondriest (Anza)\":1}", "goleador_2": "{}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Valentina Bisoffi (Nano da Giardino)": 2, "Veronica Osele (Marion Johns)": 1}, "best_giocatore_2": {}, "best_portiere_1": {"Alice Finarolli (Alice in Wonderland)": 2}, "best_portiere_2": {"Sara Fait": 1}}, "40": {"id_anagrafica_squadre_1": 24, "id_anagrafica_squadre_2": 25, "gol_squadra_1": 4, "gol_squadra_2": 3, "data": "2019-08-16 21:20:00", "id_anagrafica_gironi": 6, "falli_squadra_1": 0, "falli_squadra_2": 0, "squadra_1": "Avanzi", "squadra_2": "Cgb Gamberoni", "gironi": "E - Mussi", "genere_gironi": 1, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Luca Zorzutti (Speaker Zone)\":1,\"Matteo Manconi (Mancuso)\":1,\"Andrea Barozzi (Lo Zanetti Della Statale 12)\":1,\"Leonardo Viola (L'Uomo Informe 2.0)\":1}", "goleador_2": "{\"Gabriele Gottardi\":2,\"Francesco Piamarta\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Lorenzo Barozzi (Il Tagliagole Canadese)": 1, "Andrea Barozzi (Lo Zanetti Della Statale 12)": 1, "Matteo Manconi (Mancuso)": 1}, "best_giocatore_2": {}, "best_portiere_1": {"Michele Ruele (Ruy Misteryo)": 1}, "best_portiere_2": {"Sebastiano Zoller": 1}}, "41": {"id_anagrafica_squadre_1": 30, "id_anagrafica_squadre_2": 8, "gol_squadra_1": 3, "gol_squadra_2": 1, "data": "2019-08-16 21:40:00", "id_anagrafica_gironi": 7, "falli_squadra_1": 2, "falli_squadra_2": 6, "squadra_1": "I Modium", "squadra_2": "Buona La Merda", "gironi": "F - Ruganti", "genere_gironi": 1, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Luca Barozzi (Lupin)\":1,\"Federico Pomarolli (Il Principe Guerriero)\":1}", "goleador_2": "{\"Davide De Zambotti\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Andrea Bertolini": 1, "Edoardo Pomarolli (Il Bello Della Piof)": 1, "Federico Pomarolli (Il Principe Guerriero)": 1}, "best_giocatore_2": {}, "best_portiere_1": {"Riccardo Versini (La Pertica Dela Piof)": 1}, "best_portiere_2": {"Tiziano Tasini": 2}}, "42": {"id_anagrafica_squadre_1": 45, "id_anagrafica_squadre_2": 43, "gol_squadra_1": 2, "gol_squadra_2": 0, "data": "2019-08-16 22:00:00", "id_anagrafica_gironi": 12, "falli_squadra_1": 0, "falli_squadra_2": 0, "squadra_1": "Fruit Ninja", "squadra_2": "Mai Un Limone", "gironi": "C - Galinote", "genere_gironi": 2, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Giulia Scrinzi (La Bimba Bionica)\":1,\"Marie St\\u00f6ger (Torta Sacher)\":1}", "goleador_2": "{}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Giulia Scrinzi (La Bimba Bionica)": 2}, "best_giocatore_2": {"Carlotta Pomarolli (La Predestinata)": 1}, "best_portiere_1": {"Elena Loss (L'Astronauta)": 3}, "best_portiere_2": {}}, "43": {"id_anagrafica_squadre_1": 10, "id_anagrafica_squadre_2": 2, "gol_squadra_1": 3, "gol_squadra_2": 3, "data": "2019-08-16 22:20:00", "id_anagrafica_gironi": 3, "falli_squadra_1": 2, "falli_squadra_2": 2, "squadra_1": "Discepoli Del Luppolo", "squadra_2": "Hellas Madonna", "gironi": "B - Cunei", "genere_gironi": 1, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Michele Bertolini (Marco Columbro)\":2,\"Federico Giordani (L'Uomo Pi\\u00f9 Fuori Forma D'Europa)\":1}", "goleador_2": "{\"Filippo Benetti\":2,\"Matteo Bazzanella\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Federico Giordani (L'Uomo Pi\u00f9 Fuori Forma D'Europa)": 1}, "best_giocatore_2": {"Filippo Benetti": 2}, "best_portiere_1": {}, "best_portiere_2": {}}, "44": {"id_anagrafica_squadre_1": 21, "id_anagrafica_squadre_2": 8, "gol_squadra_1": 1, "gol_squadra_2": 2, "data": "2019-08-17 10:00:00", "id_anagrafica_gironi": 7, "falli_squadra_1": 2, "falli_squadra_2": 3, "squadra_1": "Paris San Gennar", "squadra_2": "Buona La Merda", "gironi": "F - Ruganti", "genere_gironi": 1, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Andrea Pedrotti\":1}", "goleador_2": "{\"Nicolo' Giordani\":2}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {}, "best_giocatore_2": {"Nicolo' Giordani": 3}, "best_portiere_1": {}, "best_portiere_2": {}}, "45": {"id_anagrafica_squadre_1": 16, "id_anagrafica_squadre_2": 15, "gol_squadra_1": 14, "gol_squadra_2": 0, "data": "2019-08-17 10:20:00", "id_anagrafica_gironi": 8, "falli_squadra_1": 1, "falli_squadra_2": 1, "squadra_1": "Mai Una Gioia", "squadra_2": "Dmentoni (La D E' Muta)", "gironi": "G - Usei", "genere_gironi": 1, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Thomas Cavagna (Gresta De Cunel)\":4,\"Nadir Chtioui (Casablanca)\":2,\"Giacomo Gasparini\":2,\"Randy Cobbinah (Baghera-West Coast)\":2,\"Pietro Gasparini\":2,\"Carlo Stedile (Welcome To Paradise)\":1}", "goleador_2": "{}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Randy Cobbinah (Baghera-West Coast)": 1, "Pietro Gasparini": 2}, "best_giocatore_2": {}, "best_portiere_1": {}, "best_portiere_2": {}}, "46": {"id_anagrafica_squadre_1": 22, "id_anagrafica_squadre_2": 17, "gol_squadra_1": 2, "gol_squadra_2": 8, "data": "2019-08-17 10:40:00", "id_anagrafica_gironi": 9, "falli_squadra_1": 1, "falli_squadra_2": 0, "squadra_1": "Sbarx", "squadra_2": "Cacao Meravigliao", "gironi": "H - Zorzi", "genere_gironi": 1, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Alex Manica\":2}", "goleador_2": "{\"Giacomo Larcher (Occhio Ceruleo)\":3,\"Davide Larcher (Paracetamolo)\":3,\"Leonardo Stiz (Mio Nonno)\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {}, "best_giocatore_2": {"Giacomo Larcher (Occhio Ceruleo)": 2, "Leonardo Stiz (Mio Nonno)": 1}, "best_portiere_1": {}, "best_portiere_2": {}}, "47": {"id_anagrafica_squadre_1": 12, "id_anagrafica_squadre_2": 14, "gol_squadra_1": 0, "gol_squadra_2": 6, "data": "2019-08-17 11:00:00", "id_anagrafica_gironi": 2, "falli_squadra_1": 1, "falli_squadra_2": 0, "squadra_1": "The Periti Informatici", "squadra_2": "E Voi De Chi Se Fioi?", "gironi": "A - Cavai", "genere_gironi": 1, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{}", "goleador_2": "{\"Pietro Brussich (Pie' Baracus)\":5,\"Arik Kofranek\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {}, "best_giocatore_2": {"Pietro Brussich (Pie' Baracus)": 3}, "best_portiere_1": {"Francesco Passuello (Crumiro)": 2}, "best_portiere_2": {}}, "48": {"id_anagrafica_squadre_1": 1, "id_anagrafica_squadre_2": 31, "gol_squadra_1": 7, "gol_squadra_2": 1, "data": "2019-08-17 11:20:00", "id_anagrafica_gironi": 6, "falli_squadra_1": 0, "falli_squadra_2": 3, "squadra_1": "S.S. Tecnica Pura", "squadra_2": "St'Am No Zugo", "gironi": "E - Mussi", "genere_gironi": 1, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Omar Russo (Lizzanella Vende Moda)\":4,\"Mirco Salvetti\":3}", "goleador_2": "{\"Thomas Azzolini\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Omar Russo (Lizzanella Vende Moda)": 2, "Mirco Salvetti": 1}, "best_giocatore_2": {}, "best_portiere_1": {}, "best_portiere_2": {}}, "49": {"id_anagrafica_squadre_1": 7, "id_anagrafica_squadre_2": 23, "gol_squadra_1": 13, "gol_squadra_2": 2, "data": "2019-08-17 11:40:00", "id_anagrafica_gironi": 4, "falli_squadra_1": 0, "falli_squadra_2": 0, "squadra_1": "F.C. Savignano", "squadra_2": "Il Terrone Va Di Moda", "gironi": "C - Cavroni", "genere_gironi": 1, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Andrea Conzatti (Caldaia)\":9,\"Alessandro Maffei \\u00a0(Fondatore Di Social Network)\":3,\"Giacomo De Zambotti (Ferro Da Stiro)\":1}", "goleador_2": "{\"Davide Mattei\":1,\"Davide Gerola\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Andrea Conzatti (Caldaia)": 2, "Alessandro Maffei \u00a0(Fondatore Di Social Network)": 1}, "best_giocatore_2": {}, "best_portiere_1": {"Samuel Di Meo": 2}, "best_portiere_2": {"Mirco Prezzi": 1}}, "50": {"id_anagrafica_squadre_1": 42, "id_anagrafica_squadre_2": 44, "gol_squadra_1": 1, "gol_squadra_2": 5, "data": "2019-08-17 12:00:00", "id_anagrafica_gironi": 10, "falli_squadra_1": 2, "falli_squadra_2": 0, "squadra_1": "Le Sughe", "squadra_2": "La Carica Delle 02", "gironi": "A - Pojane", "genere_gironi": 2, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Alessia Bonafini\":1}", "goleador_2": "{\"Emma Tesini\":3,\"Marianna Bruschetti (La Assessora)\":1,\"Elena Bordato\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {}, "best_giocatore_2": {"Elena Bordato": 1, "Emma Tesini": 2}, "best_portiere_1": {}, "best_portiere_2": {}}, "51": {"id_anagrafica_squadre_1": 20, "id_anagrafica_squadre_2": 27, "gol_squadra_1": 7, "gol_squadra_2": 2, "data": "2019-08-17 12:20:00", "id_anagrafica_gironi": 5, "falli_squadra_1": 1, "falli_squadra_2": 2, "squadra_1": "U.S. Guarna", "squadra_2": "Soda", "gironi": "D - Lumazi", "genere_gironi": 1, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Elia Battisti\":5,\"Federico Nicolodi (Notti Magiche)\":1,\"Riccardo Zaffoni (Lugherim)\":1}", "goleador_2": "{\"Denis Petrolli\":1,\"Elia Giordani (Mesopotamia)\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Elia Battisti": 3}, "best_giocatore_2": {}, "best_portiere_1": {"Michele Zaffoni": 2}, "best_portiere_2": {"Mattia Granello": 1}}, "52": {"id_anagrafica_squadre_1": 3, "id_anagrafica_squadre_2": 23, "gol_squadra_1": 8, "gol_squadra_2": 2, "data": "2019-08-17 14:40:00", "id_anagrafica_gironi": 4, "falli_squadra_1": 3, "falli_squadra_2": 2, "squadra_1": "Clitoriders", "squadra_2": "Il Terrone Va Di Moda", "gironi": "C - Cavroni", "genere_gironi": 1, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Luca Frasca (Delirium Tremens)\":3,\"Michele Merighi (La Iena Ridens)\":2,\"Andrea Giordani (Orso Bruno)\":2,\"Stefano Galvagni (Mentadent)\":1}", "goleador_2": "{\"Davide Gerola\":2}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Stefano Galvagni (Mentadent)": 1, "Michele Merighi (La Iena Ridens)": 2}, "best_giocatore_2": {}, "best_portiere_1": {}, "best_portiere_2": {}}, "53": {"id_anagrafica_squadre_1": 6, "id_anagrafica_squadre_2": 8, "gol_squadra_1": 0, "gol_squadra_2": 3, "data": "2019-08-17 15:00:00", "id_anagrafica_gironi": 7, "falli_squadra_1": 0, "falli_squadra_2": 2, "squadra_1": "Caffe' Grazia", "squadra_2": "Buona La Merda", "gironi": "F - Ruganti", "genere_gironi": 1, "gialli1": "", "gialli2": ["Davide De Zambotti", "Andrea Graziola", "Matteo Giovanella", "Nicolo' Giordani"], "rossi1": "", "rossi2": "", "goleador_1": "{}", "goleador_2": "{\"Nicolo' Giordani\":2,\"Daniele Feller\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {}, "best_giocatore_2": {"Daniele Feller": 2, "Nicolo' Giordani": 1}, "best_portiere_1": {}, "best_portiere_2": {}}, "54": {"id_anagrafica_squadre_1": 47, "id_anagrafica_squadre_2": 35, "gol_squadra_1": 7, "gol_squadra_2": 1, "data": "2019-08-17 15:20:00", "id_anagrafica_gironi": 13, "falli_squadra_1": 0, "falli_squadra_2": 0, "squadra_1": "Dinamo Nada", "squadra_2": "Doppie Solo Due", "gironi": "D - Pegore", "genere_gironi": 2, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Margherita Planchestainer (Mamma Di Bambi)\":2,\"Maira Bertolini\":2,\"Sara Consolati (Colonne D'Ercole)\":2,\"Irene Tovazzi (La Marmelona)\":1}", "goleador_2": "{\"Manuela Montermini\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Margherita Planchestainer (Mamma Di Bambi)": 1, "Irene Tovazzi (La Marmelona)": 1}, "best_giocatore_2": {}, "best_portiere_1": {"Martina Niosi": 1}, "best_portiere_2": {"Fabiola Tamburini": 1}}, "55": {"id_anagrafica_squadre_1": 26, "id_anagrafica_squadre_2": 15, "gol_squadra_1": 10, "gol_squadra_2": 0, "data": "2019-08-17 15:40:00", "id_anagrafica_gironi": 8, "falli_squadra_1": 0, "falli_squadra_2": 1, "squadra_1": "Clandes-Team", "squadra_2": "Dmentoni (La D E' Muta)", "gironi": "G - Usei", "genere_gironi": 1, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Pietro Tasini\":4,\"Alberto Aste (Marmelom\\r\\n)\":3,\"Riccardo Brunelli\":2,\"Pietro Zandonai (Boyscout)\":1}", "goleador_2": "{}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Daniele Foroni (Swag Foroni)": 1, "Pietro Tasini": 2}, "best_giocatore_2": {}, "best_portiere_1": {}, "best_portiere_2": {}}, "56": {"id_anagrafica_squadre_1": 19, "id_anagrafica_squadre_2": 27, "gol_squadra_1": 3, "gol_squadra_2": 2, "data": "2019-08-17 16:00:00", "id_anagrafica_gironi": 5, "falli_squadra_1": 2, "falli_squadra_2": 4, "squadra_1": "F.C. Julia", "squadra_2": "Soda", "gironi": "D - Lumazi", "genere_gironi": 1, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Andrea Potrich (Il Brasiliano Bianco)\":2,\"Pietro Dallabernardina\":1}", "goleador_2": "{\"Giulio Barozzi (Tutankhamon)\":1,\"Massimo Chiodini\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Andrea Potrich (Il Brasiliano Bianco)": 2}, "best_giocatore_2": {"Giulio Barozzi (Tutankhamon)": 1}, "best_portiere_1": {}, "best_portiere_2": {}}, "58": {"id_anagrafica_squadre_1": 38, "id_anagrafica_squadre_2": 36, "gol_squadra_1": 6, "gol_squadra_2": 4, "data": "2019-08-17 16:20:00", "id_anagrafica_gironi": 11, "falli_squadra_1": 0, "falli_squadra_2": 1, "squadra_1": "Le Osce", "squadra_2": "Pink Ladies", "gironi": "B - Pantegane", "genere_gironi": 2, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Veronica Dalbosco\":5,\"Beatrice Veronelli (Santamonica)\":1}", "goleador_2": "{\"Sofia Manica\":2,\"Alessandra Zampol (Vileda\\r\\n)\":1,\"Arissa Ferrari\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Veronica Dalbosco": 3}, "best_giocatore_2": {}, "best_portiere_1": {}, "best_portiere_2": {}}, "59": {"id_anagrafica_squadre_1": 9, "id_anagrafica_squadre_2": 14, "gol_squadra_1": 6, "gol_squadra_2": 1, "data": "2019-08-17 16:40:00", "id_anagrafica_gironi": 2, "falli_squadra_1": 1, "falli_squadra_2": 2, "squadra_1": "Mediaser.T", "squadra_2": "E Voi De Chi Se Fioi?", "gironi": "A - Cavai", "genere_gironi": 1, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Davide Raffaelli (Giraffa Di Frassino)\":3,\"Matteo Mazzola\":2,\"Andrea Anzelini\":1}", "goleador_2": "{\"Arik Kofranek\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Leonardo Parisi (Il Fratello Di Ron Weasley)": 1, "Davide Raffaelli (Giraffa Di Frassino)": 2}, "best_giocatore_2": {}, "best_portiere_1": {}, "best_portiere_2": {}}, "60": {"id_anagrafica_squadre_1": 30, "id_anagrafica_squadre_2": 21, "gol_squadra_1": 6, "gol_squadra_2": 0, "data": "2019-08-17 17:00:00", "id_anagrafica_gironi": 7, "falli_squadra_1": 1, "falli_squadra_2": 1, "squadra_1": "I Modium", "squadra_2": "Paris San Gennar", "gironi": "F - Ruganti", "genere_gironi": 1, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Luca Barozzi (Lupin)\":2,\"Edoardo Pomarolli (Il Bello Della Piof)\":2,\"Matteo Lanaro (Il Cacciatore del Sole)\":1,\"Andrea Bertolini\":1}", "goleador_2": "{}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Luca Barozzi (Lupin)": 2, "Federico Pomarolli (Il Principe Guerriero)": 1}, "best_giocatore_2": {}, "best_portiere_1": {}, "best_portiere_2": {}}, "61": {"id_anagrafica_squadre_1": 24, "id_anagrafica_squadre_2": 31, "gol_squadra_1": 10, "gol_squadra_2": 0, "data": "2019-08-17 17:20:00", "id_anagrafica_gironi": 6, "falli_squadra_1": 1, "falli_squadra_2": 1, "squadra_1": "Avanzi", "squadra_2": "St'Am No Zugo", "gironi": "E - Mussi", "genere_gironi": 1, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Gianluca Veneri (Orsetto Lavatore)\":4,\"Leonardo Viola (L'Uomo Informe 2.0)\":3,\"Lorenzo Barozzi (Il Tagliagole Canadese)\":2,\"Luca Zorzutti (Speaker Zone)\":1}", "goleador_2": "{}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Gianluca Veneri (Orsetto Lavatore)": 2, "Leonardo Viola (L'Uomo Informe 2.0)": 1}, "best_giocatore_2": {}, "best_portiere_1": {}, "best_portiere_2": {"Leonardo Trinco (Corpo Nazionale)": 1}}, "62": {"id_anagrafica_squadre_1": 4, "id_anagrafica_squadre_2": 20, "gol_squadra_1": 3, "gol_squadra_2": 1, "data": "2019-08-17 17:40:00", "id_anagrafica_gironi": 5, "falli_squadra_1": 1, "falli_squadra_2": 1, "squadra_1": "I Montagna", "squadra_2": "U.S. Guarna", "gironi": "D - Lumazi", "genere_gironi": 1, "gialli1": ["Francesco Russo (Il Falso Balcanico)", "Francesco Russo (Il Falso Balcanico)"], "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Marco Sala (Cane Rognoso)\":3}", "goleador_2": "{\"Andrea Prombergher\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Federico Andreis (Bel Ragazzo)": 1, "Marco Sala (Cane Rognoso)": 1}, "best_giocatore_2": {}, "best_portiere_1": {}, "best_portiere_2": {}}, "63": {"id_anagrafica_squadre_1": 3, "id_anagrafica_squadre_2": 13, "gol_squadra_1": 3, "gol_squadra_2": 3, "data": "2019-08-17 18:00:00", "id_anagrafica_gironi": 4, "falli_squadra_1": 2, "falli_squadra_2": 4, "squadra_1": "Clitoriders", "squadra_2": "Positivi All'Etanolo", "gironi": "C - Cavroni", "genere_gironi": 1, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Luca Frasca (Delirium Tremens)\":2,\"Michele Merighi (La Iena Ridens)\":1}", "goleador_2": "{\"Michele Anselmi\":1,\"Filippo Alovisi (Tromba)\":1,\"Mirko Fasanelli\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {}, "best_giocatore_2": {"Filippo Alovisi (Tromba)": 1, "Michele Anselmi": 2}, "best_portiere_1": {}, "best_portiere_2": {}}, "64": {"id_anagrafica_squadre_1": 39, "id_anagrafica_squadre_2": 34, "gol_squadra_1": 6, "gol_squadra_2": 0, "data": "2019-08-17 18:20:00", "id_anagrafica_gironi": 11, "falli_squadra_1": 1, "falli_squadra_2": 0, "squadra_1": "Una Quarta In 4", "squadra_2": "Quele Del '20. Alora", "gironi": "B - Pantegane", "genere_gironi": 2, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Stefania Gazzini (Skeleton)\":4,\"Francesca Debiasi (David Gnomo)\":2}", "goleador_2": "{}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Francesca Debiasi (David Gnomo)": 1, "Stefania Gazzini (Skeleton)": 2}, "best_giocatore_2": {}, "best_portiere_1": {}, "best_portiere_2": {}}, "65": {"id_anagrafica_squadre_1": 35, "id_anagrafica_squadre_2": 33, "gol_squadra_1": 2, "gol_squadra_2": 2, "data": "2019-08-17 18:40:00", "id_anagrafica_gironi": 13, "falli_squadra_1": 5, "falli_squadra_2": 1, "squadra_1": "Doppie Solo Due", "squadra_2": "Quele Del '20. Ades", "gironi": "D - Pegore", "genere_gironi": 2, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Manuela Montermini\":1}", "goleador_2": "{\"Debora Martini\":1,\"Martina Francescatti\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Manuela Montermini": 1, "Francesca Montermini": 1}, "best_giocatore_2": {"Martina Francescatti": 1}, "best_portiere_1": {}, "best_portiere_2": {}}, "66": {"id_anagrafica_squadre_1": 43, "id_anagrafica_squadre_2": 37, "gol_squadra_1": 4, "gol_squadra_2": 0, "data": "2019-08-17 19:00:00", "id_anagrafica_gironi": 12, "falli_squadra_1": 0, "falli_squadra_2": 0, "squadra_1": "Mai Un Limone", "squadra_2": "Tigri Intigra Tighi", "gironi": "C - Galinote", "genere_gironi": 2, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Carlotta Pomarolli (La Predestinata)\":2,\"Laura Manconi (Skeletor the original)\":2}", "goleador_2": "{}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Laura Manconi (Skeletor the original)": 2, "Carlotta Pomarolli (La Predestinata)": 1}, "best_giocatore_2": {}, "best_portiere_1": {}, "best_portiere_2": {}}, "67": {"id_anagrafica_squadre_1": 16, "id_anagrafica_squadre_2": 29, "gol_squadra_1": 3, "gol_squadra_2": 2, "data": "2019-08-17 19:20:00", "id_anagrafica_gironi": 8, "falli_squadra_1": 2, "falli_squadra_2": 5, "squadra_1": "Mai Una Gioia", "squadra_2": "Pinguini Trentini", "gironi": "G - Usei", "genere_gironi": 1, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Giacomo Gasparini\":2,\"Carlo Stedile (Welcome To Paradise)\":1}", "goleador_2": "{\"Alessio Farinati (Proteina)\":1,\"Yuri Andreolli\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Giacomo Gasparini": 2}, "best_giocatore_2": {"Yuri Andreolli": 1}, "best_portiere_1": {}, "best_portiere_2": {}}, "68": {"id_anagrafica_squadre_1": 30, "id_anagrafica_squadre_2": 6, "gol_squadra_1": 1, "gol_squadra_2": 1, "data": "2019-08-17 19:40:00", "id_anagrafica_gironi": 7, "falli_squadra_1": 2, "falli_squadra_2": 1, "squadra_1": "I Modium", "squadra_2": "Caffe' Grazia", "gironi": "F - Ruganti", "genere_gironi": 1, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Matteo Lanaro (Il Cacciatore del Sole)\":1}", "goleador_2": "{\"Daniele Candioli (Bimbo Del Grest)\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {}, "best_giocatore_2": {}, "best_portiere_1": {"Riccardo Versini (La Pertica Dela Piof)": 1}, "best_portiere_2": {"Andrea Candioli (Can Da L'Ua)": 2}}, "69": {"id_anagrafica_squadre_1": 45, "id_anagrafica_squadre_2": 40, "gol_squadra_1": 7, "gol_squadra_2": 0, "data": "2019-08-17 20:00:00", "id_anagrafica_gironi": 12, "falli_squadra_1": 0, "falli_squadra_2": 0, "squadra_1": "Fruit Ninja", "squadra_2": "Le Gretine", "gironi": "C - Galinote", "genere_gironi": 2, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Marie St\\u00f6ger (Torta Sacher)\":3,\"Giulia Scrinzi (La Bimba Bionica)\":2}", "goleador_2": "{}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Giulia Scrinzi (La Bimba Bionica)": 1, "Marie St\u00f6ger (Torta Sacher)": 1}, "best_giocatore_2": {"Claudia Manzana (La Bolscevica)": 1}, "best_portiere_1": {}, "best_portiere_2": {}}, "70": {"id_anagrafica_squadre_1": 48, "id_anagrafica_squadre_2": 46, "gol_squadra_1": 1, "gol_squadra_2": 2, "data": "2019-08-17 21:00:00", "id_anagrafica_gironi": 10, "falli_squadra_1": 5, "falli_squadra_2": 2, "squadra_1": "Porcahontas", "squadra_2": "Plus Ultra", "gironi": "A - Pojane", "genere_gironi": 2, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Valentina Bisoffi (Nano da Giardino)\":1}", "goleador_2": "{\"Carolina Zendri (Maestrale D'Inverno)\":2}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {}, "best_giocatore_2": {"Carolina Zendri (Maestrale D'Inverno)": 3}, "best_portiere_1": {"Alice Finarolli (Alice in Wonderland)": 1}, "best_portiere_2": {"Aurora Cavalieri": 2}}, "71": {"id_anagrafica_squadre_1": 18, "id_anagrafica_squadre_2": 9, "gol_squadra_1": 3, "gol_squadra_2": 4, "data": "2019-08-17 21:20:00", "id_anagrafica_gironi": 2, "falli_squadra_1": 1, "falli_squadra_2": 1, "squadra_1": "Shark Attack", "squadra_2": "Mediaser.T", "gironi": "A - Cavai", "genere_gironi": 1, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Mattia Baldessarini (L'Assassino Cerebrale)\":1,\"Gabriele Brentari (Mocio Vileda)\":1}", "goleador_2": "{\"Davide Raffaelli (Giraffa Di Frassino)\":2,\"Leonardo Parisi (Il Fratello Di Ron Weasley)\":1,\"Andrea Anzelini\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {}, "best_giocatore_2": {"Davide Raffaelli (Giraffa Di Frassino)": 3}, "best_portiere_1": {"Alberto Cerisara (L'Uomo Che Ha Mangiato Justin Bieber)": 1}, "best_portiere_2": {"Stefano Pizzini": 2}}, "72": {"id_anagrafica_squadre_1": 10, "id_anagrafica_squadre_2": 11, "gol_squadra_1": 2, "gol_squadra_2": 3, "data": "2019-08-17 21:40:00", "id_anagrafica_gironi": 3, "falli_squadra_1": 1, "falli_squadra_2": 4, "squadra_1": "Discepoli Del Luppolo", "squadra_2": "Lizzanella'S Old Sughi", "gironi": "B - Cunei", "genere_gironi": 1, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Federico Giordani (L'Uomo Pi\\u00f9 Fuori Forma D'Europa)\":2}", "goleador_2": "{\"Federico Ignaccolo (Fidel)\":2}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Federico Giordani (L'Uomo Pi\u00f9 Fuori Forma D'Europa)": 1}, "best_giocatore_2": {"Federico Ignaccolo (Fidel)": 2}, "best_portiere_1": {}, "best_portiere_2": {"Federico Leonardi (Pan Carre')": 3}}, "73": {"id_anagrafica_squadre_1": 1, "id_anagrafica_squadre_2": 24, "gol_squadra_1": 1, "gol_squadra_2": 2, "data": "2019-08-17 22:00:00", "id_anagrafica_gironi": 6, "falli_squadra_1": 0, "falli_squadra_2": 2, "squadra_1": "S.S. Tecnica Pura", "squadra_2": "Avanzi", "gironi": "E - Mussi", "genere_gironi": 1, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Roberto Gasperotti (L'Uomo Senza Amici)\":1}", "goleador_2": "{\"Matteo Manconi (Mancuso)\":1,\"Leonardo Viola (L'Uomo Informe 2.0)\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {}, "best_giocatore_2": {"Matteo Manconi (Mancuso)": 2, "Leonardo Viola (L'Uomo Informe 2.0)": 1}, "best_portiere_1": {}, "best_portiere_2": {}}, "74": {"id_anagrafica_squadre_1": 4, "id_anagrafica_squadre_2": 19, "gol_squadra_1": 3, "gol_squadra_2": 0, "data": "2019-08-17 22:20:00", "id_anagrafica_gironi": 5, "falli_squadra_1": 3, "falli_squadra_2": 3, "squadra_1": "I Montagna", "squadra_2": "F.C. Julia", "gironi": "D - Lumazi", "genere_gironi": 1, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Marco Sala (Cane Rognoso)\":1,\"Federico Andreis (Bel Ragazzo)\":1,\"Andrea Pedrotti\":1}", "goleador_2": "{}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Marco Sala (Cane Rognoso)": 2, "Federico Andreis (Bel Ragazzo)": 1}, "best_giocatore_2": {}, "best_portiere_1": {"Daniele Dalbosco": 3}, "best_portiere_2": {}}, "103": {"id_anagrafica_squadre_1": 34, "id_anagrafica_squadre_2": 47, "gol_squadra_1": 1, "gol_squadra_2": 8, "data": "2019-08-17 22:40:00", "id_anagrafica_gironi": 2004, "falli_squadra_1": 1, "falli_squadra_2": 3, "squadra_1": "Quele Del '20. Alora", "squadra_2": "Dinamo Nada", "gironi": 2004, "genere_gironi": 2004, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Margherita Prezzi (Acquaragia)\":1}", "goleador_2": "{\"Margherita Planchestainer (Mamma Di Bambi)\":5,\"Irene Tovazzi (La Marmelona)\":2,\"Maira Bertolini\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {}, "best_giocatore_2": {"Margherita Planchestainer (Mamma Di Bambi)": 2, "Irene Tovazzi (La Marmelona)": 1}, "best_portiere_1": {}, "best_portiere_2": {"Martina Niosi": 1}}, "105": {"id_anagrafica_squadre_1": 17, "id_anagrafica_squadre_2": 16, "gol_squadra_1": 1, "gol_squadra_2": 3, "data": "2019-08-17 23:20:00", "id_anagrafica_gironi": 1008, "falli_squadra_1": 0, "falli_squadra_2": 0, "squadra_1": "Cacao Meravigliao", "squadra_2": "Mai Una Gioia", "gironi": 1008, "genere_gironi": 1008, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Leonardo Stiz (Mio Nonno)\":1}", "goleador_2": "{\"Carlo Stedile (Welcome To Paradise)\":1}", "autogol1": "{}", "autogol2": "{\"Nadir Chtioui (Casablanca)\":1,\"Thomas Cavagna (Gresta De Cunel)\":1}", "best_giocatore_1": {}, "best_giocatore_2": {}, "best_portiere_1": {"Jakub Lasko": 1}, "best_portiere_2": {"Thomas Debiasi (L'Organizzatore Di Eventi Bruti)": 2}}, "108": {"id_anagrafica_squadre_1": 45, "id_anagrafica_squadre_2": 44, "gol_squadra_1": 1, "gol_squadra_2": 6, "data": "2019-08-17 23:00:00", "id_anagrafica_gironi": 2004, "falli_squadra_1": 0, "falli_squadra_2": 1, "squadra_1": "Fruit Ninja", "squadra_2": "La Carica Delle 02", "gironi": 2004, "genere_gironi": 2004, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Manuela Perini (Callisto)\":1}", "goleador_2": "{\"Emma Tesini\":4,\"Elena Bordato\":2}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {}, "best_giocatore_2": {"Emma Tesini": 3}, "best_portiere_1": {}, "best_portiere_2": {"Margherita Bottesi (Pe Williams)": 2}}, "109": {"id_anagrafica_squadre_1": 43, "id_anagrafica_squadre_2": 48, "gol_squadra_1": 4, "gol_squadra_2": 2, "data": "2019-08-17 23:40:00", "id_anagrafica_gironi": 2004, "falli_squadra_1": 2, "falli_squadra_2": 4, "squadra_1": "Mai Un Limone", "squadra_2": "Porcahontas", "gironi": 2004, "genere_gironi": 2004, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Carlotta Pomarolli (La Predestinata)\":3,\"Laura Manconi (Skeletor the original)\":1}", "goleador_2": "{\"Veronica Osele (Marion Johns)\":1,\"Licia Fondriest (Anza)\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Laura Manconi (Skeletor the original)": 1, "Carlotta Pomarolli (La Predestinata)": 2}, "best_giocatore_2": {}, "best_portiere_1": {"Francesca Sartori (Nastra Isolanta)": 1}, "best_portiere_2": {}}, "110": {"id_anagrafica_squadre_1": 18, "id_anagrafica_squadre_2": 11, "gol_squadra_1": 3, "gol_squadra_2": 1, "data": "2019-08-18 10:00:00", "id_anagrafica_gironi": 1008, "falli_squadra_1": 0, "falli_squadra_2": 0, "squadra_1": "Shark Attack", "squadra_2": "Lizzanella'S Old Sughi", "gironi": 1008, "genere_gironi": 1008, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Mattia Baldessarini (L'Assassino Cerebrale)\":3}", "goleador_2": "{\"Daniele Feltrinelli (La Transiberiana)\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Mattia Baldessarini (L'Assassino Cerebrale)": 3}, "best_giocatore_2": {}, "best_portiere_1": {"Alberto Cerisara (L'Uomo Che Ha Mangiato Justin Bieber)": 3}, "best_portiere_2": {}}, "111": {"id_anagrafica_squadre_1": 9, "id_anagrafica_squadre_2": 2, "gol_squadra_1": 4, "gol_squadra_2": 2, "data": "2019-08-18 10:40:00", "id_anagrafica_gironi": 1008, "falli_squadra_1": 5, "falli_squadra_2": 4, "squadra_1": "Mediaser.T", "squadra_2": "Hellas Madonna", "gironi": 1008, "genere_gironi": 1008, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Leonardo Parisi (Il Fratello Di Ron Weasley)\":3}", "goleador_2": "{\"Filippo Benetti\":1,\"Jacopo Ricci\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Leonardo Parisi (Il Fratello Di Ron Weasley)": 2}, "best_giocatore_2": {"Jacopo Ricci": 1}, "best_portiere_1": {"Stefano Pizzini": 2}, "best_portiere_2": {"Raffaele Prezzi": 1}}, "112": {"id_anagrafica_squadre_1": 24, "id_anagrafica_squadre_2": 8, "gol_squadra_1": 4, "gol_squadra_2": 2, "data": "2019-08-18 11:00:00", "id_anagrafica_gironi": 1008, "falli_squadra_1": 3, "falli_squadra_2": 2, "squadra_1": "Avanzi", "squadra_2": "Buona La Merda", "gironi": 1008, "genere_gironi": 1008, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Lorenzo Barozzi (Il Tagliagole Canadese)\":3,\"Leonardo Viola (L'Uomo Informe 2.0)\":1}", "goleador_2": "{\"Daniele Feller\":2}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Lorenzo Barozzi (Il Tagliagole Canadese)": 3}, "best_giocatore_2": {}, "best_portiere_1": {"Michele Ruele (Ruy Misteryo)": 2}, "best_portiere_2": {}}, "113": {"id_anagrafica_squadre_1": 39, "id_anagrafica_squadre_2": 33, "gol_squadra_1": 4, "gol_squadra_2": 2, "data": "2019-08-18 11:20:00", "id_anagrafica_gironi": 2004, "falli_squadra_1": 0, "falli_squadra_2": 1, "squadra_1": "Una Quarta In 4", "squadra_2": "Quele Del '20. Ades", "gironi": 2004, "genere_gironi": 2004, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Francesca Debiasi (David Gnomo)\":2,\"Stefania Gazzini (Skeleton)\":2}", "goleador_2": "{\"Martina Francescatti\":2}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Francesca Debiasi (David Gnomo)": 1, "Stefania Gazzini (Skeleton)": 2}, "best_giocatore_2": {}, "best_portiere_1": {"Valeria Paiola": 1}, "best_portiere_2": {"Arianna Barozzi (Puccettina\r\n)": 1}}, "114": {"id_anagrafica_squadre_1": 28, "id_anagrafica_squadre_2": 29, "gol_squadra_1": 1, "gol_squadra_2": 6, "data": "2019-08-18 12:00:00", "id_anagrafica_gironi": 1008, "falli_squadra_1": 1, "falli_squadra_2": 2, "squadra_1": "Fel Lazio", "squadra_2": "Pinguini Trentini", "gironi": 1008, "genere_gironi": 1008, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Mauro Prezzi (Il Sergente Di Via Al Cristo)\":1}", "goleador_2": "{\"Alessio Farinati (Proteina)\":4,\"Yuri Andreolli\":1,\"Davide Manica (Pala Eolica)\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {}, "best_giocatore_2": {"Yuri Andreolli": 1, "Alessio Farinati (Proteina)": 2}, "best_portiere_1": {}, "best_portiere_2": {}}, "115": {"id_anagrafica_squadre_1": 3, "id_anagrafica_squadre_2": 19, "gol_squadra_1": 9, "gol_squadra_2": 2, "data": "2019-08-18 10:20:00", "id_anagrafica_gironi": 1008, "falli_squadra_1": 3, "falli_squadra_2": 3, "squadra_1": "Clitoriders", "squadra_2": "F.C. Julia", "gironi": 1008, "genere_gironi": 1008, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Luca Frasca (Delirium Tremens)\":5,\"Michele Merighi (La Iena Ridens)\":2,\"Andrea Giordani (Orso Bruno)\":1,\"Stefano Galvagni (Mentadent)\":1}", "goleador_2": "{\"Pietro Dallabernardina\":1,\"Giovanni Zamboni (Nano Malefico)\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Luca Frasca (Delirium Tremens)": 2, "Michele Merighi (La Iena Ridens)": 1}, "best_giocatore_2": {}, "best_portiere_1": {"Stefano Tita (Giannizzero)": 2}, "best_portiere_2": {}}, "116": {"id_anagrafica_squadre_1": 30, "id_anagrafica_squadre_2": 1, "gol_squadra_1": 4, "gol_squadra_2": 3, "data": "2019-08-18 11:40:00", "id_anagrafica_gironi": 1008, "falli_squadra_1": 1, "falli_squadra_2": 4, "squadra_1": "I Modium", "squadra_2": "S.S. Tecnica Pura", "gironi": 1008, "genere_gironi": 1008, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Luca Barozzi (Lupin)\":1,\"Edoardo Pomarolli (Il Bello Della Piof)\":1,\"Marco Sartorelli (Il Playboy Della Busa)\":1}", "goleador_2": "{\"Mirco Salvetti\":2,\"Matteo Azzolini\":1}", "autogol1": "{\"Federico Pomarolli (Il Principe Guerriero)\":1}", "autogol2": "{}", "best_giocatore_1": {"Marco Sartorelli (Il Playboy Della Busa)": 1}, "best_giocatore_2": {"Mirco Salvetti": 2}, "best_portiere_1": {"Riccardo Versini (La Pertica Dela Piof)": 1}, "best_portiere_2": {}}, "117": {"id_anagrafica_squadre_1": 7, "id_anagrafica_squadre_2": 4, "gol_squadra_1": 0, "gol_squadra_2": 3, "data": "2019-08-18 12:20:00", "id_anagrafica_gironi": 1008, "falli_squadra_1": 1, "falli_squadra_2": 3, "squadra_1": "F.C. Savignano", "squadra_2": "I Montagna", "gironi": 1008, "genere_gironi": 1008, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{}", "goleador_2": "{\"Andrea Pedrotti\":2,\"Marco Sala (Cane Rognoso)\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {}, "best_giocatore_2": {"Andrea Pedrotti": 2, "Marco Sala (Cane Rognoso)": 1}, "best_portiere_1": {}, "best_portiere_2": {"Daniele Dalbosco": 2}}, "118": {"id_anagrafica_squadre_1": 16, "id_anagrafica_squadre_2": 24, "gol_squadra_1": 5, "gol_squadra_2": 4, "data": "2019-08-18 14:40:00", "id_anagrafica_gironi": 1004, "falli_squadra_1": 2, "falli_squadra_2": 2, "squadra_1": "Mai Una Gioia", "squadra_2": "Avanzi", "gironi": 1004, "genere_gironi": 1004, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Carlo Stedile (Welcome To Paradise)\":1,\"Nadir Chtioui (Casablanca)\":1}", "goleador_2": "{\"Leonardo Viola (L'Uomo Informe 2.0)\":2,\"Matteo Manconi (Mancuso)\":1}", "autogol1": "{\"Nadir Chtioui (Casablanca)\":1,\"Thomas Cavagna (Gresta De Cunel)\":1}", "autogol2": "{\"Leonardo Viola (L'Uomo Informe 2.0)\":1}", "best_giocatore_1": {}, "best_giocatore_2": {"Leonardo Viola (L'Uomo Informe 2.0)": 2}, "best_portiere_1": {"Thomas Debiasi (L'Organizzatore Di Eventi Bruti)": 1}, "best_portiere_2": {"Michele Ruele (Ruy Misteryo)": 2}}, "119": {"id_anagrafica_squadre_1": 18, "id_anagrafica_squadre_2": 4, "gol_squadra_1": 4, "gol_squadra_2": 5, "data": "2019-08-18 15:10:00", "id_anagrafica_gironi": 1004, "falli_squadra_1": 1, "falli_squadra_2": 0, "squadra_1": "Shark Attack", "squadra_2": "I Montagna", "gironi": 1004, "genere_gironi": 1004, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Mattia Baldessarini (L'Assassino Cerebrale)\":2,\"Mattia Festi (Plastic Man)\":1,\"Riccardo Saccani (Rosso Malpelo)\":1}", "goleador_2": "{\"Marco Sala (Cane Rognoso)\":2,\"Federico Andreis (Bel Ragazzo)\":2,\"Daniele Dalbosco\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Mattia Baldessarini (L'Assassino Cerebrale)": 2}, "best_giocatore_2": {"Marco Sala (Cane Rognoso)": 1}, "best_portiere_1": {}, "best_portiere_2": {}}, "120": {"id_anagrafica_squadre_1": 30, "id_anagrafica_squadre_2": 29, "gol_squadra_1": 3, "gol_squadra_2": 0, "data": "2019-08-18 15:40:00", "id_anagrafica_gironi": 1004, "falli_squadra_1": 2, "falli_squadra_2": 2, "squadra_1": "I Modium", "squadra_2": "Pinguini Trentini", "gironi": 1004, "genere_gironi": 1004, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Luca Barozzi (Lupin)\":1,\"Federico Pomarolli (Il Principe Guerriero)\":1,\"Andrea Bertolini\":1}", "goleador_2": "{}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Luca Barozzi (Lupin)": 2}, "best_giocatore_2": {}, "best_portiere_1": {"Andrea Bertolini": 1}, "best_portiere_2": {"Leonardo Ceschini (Pan Bauletto)": 2}}, "121": {"id_anagrafica_squadre_1": 3, "id_anagrafica_squadre_2": 9, "gol_squadra_1": 6, "gol_squadra_2": 4, "data": "2019-08-18 16:10:00", "id_anagrafica_gironi": 1004, "falli_squadra_1": 2, "falli_squadra_2": 1, "squadra_1": "Clitoriders", "squadra_2": "Mediaser.T", "gironi": 1004, "genere_gironi": 1004, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Michele Merighi (La Iena Ridens)\":4,\"Luca Frasca (Delirium Tremens)\":1,\"Stefano Galvagni (Mentadent)\":1}", "goleador_2": "{\"Leonardo Parisi (Il Fratello Di Ron Weasley)\":3,\"Andrea Anzelini\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Michele Merighi (La Iena Ridens)": 3}, "best_giocatore_2": {}, "best_portiere_1": {}, "best_portiere_2": {"Stefano Pizzini": 2}}, "122": {"id_anagrafica_squadre_1": 36, "id_anagrafica_squadre_2": 40, "gol_squadra_1": 2, "gol_squadra_2": 5, "data": "2019-08-18 16:30:00", "id_anagrafica_gironi": 2000, "falli_squadra_1": 0, "falli_squadra_2": 1, "squadra_1": "Pink Ladies", "squadra_2": "Le Gretine", "gironi": 2000, "genere_gironi": 2000, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Alessandra Zampol (Vileda\\r\\n)\":1,\"Elisa Moratelli\":1}", "goleador_2": "{\"Claudia Manzana (La Bolscevica)\":4,\"Federica Bertolli (Ectoplasma)\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {}, "best_giocatore_2": {"Claudia Manzana (La Bolscevica)": 2}, "best_portiere_1": {}, "best_portiere_2": {}}, "123": {"id_anagrafica_squadre_1": 42, "id_anagrafica_squadre_2": 35, "gol_squadra_1": 2, "gol_squadra_2": 6, "data": "2019-08-18 16:50:00", "id_anagrafica_gironi": 2000, "falli_squadra_1": 0, "falli_squadra_2": 1, "squadra_1": "Le Sughe", "squadra_2": "Doppie Solo Due", "gironi": 2000, "genere_gironi": 2000, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Anna Rigo\":1}", "goleador_2": "{\"Manuela Montermini\":5}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {}, "best_giocatore_2": {"Manuela Montermini": 2}, "best_portiere_1": {}, "best_portiere_2": {}}, "124": {"id_anagrafica_squadre_1": 38, "id_anagrafica_squadre_2": 41, "gol_squadra_1": 1, "gol_squadra_2": 5, "data": "2019-08-18 17:10:00", "id_anagrafica_gironi": 2000, "falli_squadra_1": 0, "falli_squadra_2": 0, "squadra_1": "Le Osce", "squadra_2": "Up-Pero'", "gironi": 2000, "genere_gironi": 2000, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Beatrice Veronelli (Santamonica)\":1}", "goleador_2": "{\"Rachele Gugole (Pannocchia)\":2,\"Matilde Gugole (Asfidanken)\":2,\"Serena Sega (Topa da Biblioteca)\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {}, "best_giocatore_2": {"Matilde Gugole (Asfidanken)": 1, "Rachele Gugole (Pannocchia)": 1}, "best_portiere_1": {}, "best_portiere_2": {}}, "125": {"id_anagrafica_squadre_1": 46, "id_anagrafica_squadre_2": 37, "gol_squadra_1": 2, "gol_squadra_2": 1, "data": "2019-08-18 17:30:00", "id_anagrafica_gironi": 2000, "falli_squadra_1": 1, "falli_squadra_2": 2, "squadra_1": "Plus Ultra", "squadra_2": "Tigri Intigra Tighi", "gironi": 2000, "genere_gironi": 2000, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Erika Ricci (Erikacollakappa)\":1,\"Carolina Zendri (Maestrale D'Inverno)\":1}", "goleador_2": "{\"Valentina Perghem\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Carolina Zendri (Maestrale D'Inverno)": 2}, "best_giocatore_2": {"Valentina Perghem": 1}, "best_portiere_1": {"Aurora Cavalieri": 3}, "best_portiere_2": {}}, "126": {"id_anagrafica_squadre_1": 44, "id_anagrafica_squadre_2": 47, "gol_squadra_1": 2, "gol_squadra_2": 6, "data": "2019-08-18 18:00:00", "id_anagrafica_gironi": 2002, "falli_squadra_1": 3, "falli_squadra_2": 2, "squadra_1": "La Carica Delle 02", "squadra_2": "Dinamo Nada", "gironi": 2002, "genere_gironi": 2002, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Emma Tesini\":1,\"Marianna Bruschetti (La Assessora)\":1}", "goleador_2": "{\"Sara Consolati (Colonne D'Ercole)\":3,\"Margherita Planchestainer (Mamma Di Bambi)\":1,\"Maira Bertolini\":1,\"Irene Tovazzi (La Marmelona)\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Emma Tesini": 2}, "best_giocatore_2": {"Irene Tovazzi (La Marmelona)": 1}, "best_portiere_1": {"Margherita Bottesi (Pe Williams)": 3}, "best_portiere_2": {}}, "127": {"id_anagrafica_squadre_1": 39, "id_anagrafica_squadre_2": 43, "gol_squadra_1": 1, "gol_squadra_2": 5, "data": "2019-08-18 19:30:00", "id_anagrafica_gironi": 2002, "falli_squadra_1": 0, "falli_squadra_2": 1, "squadra_1": "Una Quarta In 4", "squadra_2": "Mai Un Limone", "gironi": 2002, "genere_gironi": 2002, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Stefania Gazzini (Skeleton)\":1}", "goleador_2": "{\"Laura Manconi (Skeletor the original)\":2,\"Carlotta Pomarolli (La Predestinata)\":2,\"Chiara Deimichei\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {}, "best_giocatore_2": {"Laura Manconi (Skeletor the original)": 1, "Carlotta Pomarolli (La Predestinata)": 2}, "best_portiere_1": {"Valeria Paiola": 1}, "best_portiere_2": {"Francesca Sartori (Nastra Isolanta)": 2}}, "128": {"id_anagrafica_squadre_1": 16, "id_anagrafica_squadre_2": 3, "gol_squadra_1": 3, "gol_squadra_2": 1, "data": "2019-08-18 18:30:00", "id_anagrafica_gironi": 1002, "falli_squadra_1": 4, "falli_squadra_2": 1, "squadra_1": "Mai Una Gioia", "squadra_2": "Clitoriders", "gironi": 1002, "genere_gironi": 1002, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Carlo Stedile (Welcome To Paradise)\":2}", "goleador_2": "{\"Luca Frasca (Delirium Tremens)\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Carlo Stedile (Welcome To Paradise)": 3}, "best_giocatore_2": {}, "best_portiere_1": {"Thomas Debiasi (L'Organizzatore Di Eventi Bruti)": 2}, "best_portiere_2": {}}, "129": {"id_anagrafica_squadre_1": 4, "id_anagrafica_squadre_2": 30, "gol_squadra_1": 3, "gol_squadra_2": 4, "data": "2019-08-18 19:00:00", "id_anagrafica_gironi": 1002, "falli_squadra_1": 3, "falli_squadra_2": 3, "squadra_1": "I Montagna", "squadra_2": "I Modium", "gironi": 1002, "genere_gironi": 1002, "gialli1": ["Federico Andreis (Bel Ragazzo)", "Francesco Russo (Il Falso Balcanico)"], "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Federico Andreis (Bel Ragazzo)\":1,\"Marco Sala (Cane Rognoso)\":1}", "goleador_2": "{\"Marco Sartorelli (Il Playboy Della Busa)\":2}", "autogol1": "{\"Marco Sala (Cane Rognoso)\":1}", "autogol2": "{\"Andrea Bertolini\":1,\"Edoardo Pomarolli (Il Bello Della Piof)\":1}", "best_giocatore_1": {}, "best_giocatore_2": {"Luca Barozzi (Lupin)": 1, "Marco Sartorelli (Il Playboy Della Busa)": 2}, "best_portiere_1": {"Daniele Dalbosco": 1}, "best_portiere_2": {"Riccardo Versini (La Pertica Dela Piof)": 2}}, "130": {"id_anagrafica_squadre_1": 3, "id_anagrafica_squadre_2": 4, "gol_squadra_1": 9, "gol_squadra_2": 6, "data": "2019-08-18 21:00:00", "id_anagrafica_gironi": 1000, "falli_squadra_1": 0, "falli_squadra_2": 1, "squadra_1": "Clitoriders", "squadra_2": "I Montagna", "gironi": 1000, "genere_gironi": 1000, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Michele Merighi (La Iena Ridens)\":4,\"Luca Frasca (Delirium Tremens)\":3,\"Andrea Giordani (Orso Bruno)\":1}", "goleador_2": "{\"Marco Sala (Cane Rognoso)\":3,\"Federico Andreis (Bel Ragazzo)\":2}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {"Luca Frasca (Delirium Tremens)": 1}, "best_giocatore_2": {"Federico Andreis (Bel Ragazzo)": 2}, "best_portiere_1": {}, "best_portiere_2": {}}, "131": {"id_anagrafica_squadre_1": 30, "id_anagrafica_squadre_2": 16, "gol_squadra_1": 2, "gol_squadra_2": 3, "data": "2019-08-18 22:00:00", "id_anagrafica_gironi": 1001, "falli_squadra_1": 5, "falli_squadra_2": 2, "squadra_1": "I Modium", "squadra_2": "Mai Una Gioia", "gironi": 1001, "genere_gironi": 1001, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Luca Barozzi (Lupin)\":1,\"Federico Pomarolli (Il Principe Guerriero)\":1}", "goleador_2": "{\"Giacomo Gasparini\":2,\"Carlo Stedile (Welcome To Paradise)\":1}", "autogol1": "{}", "autogol2": "{}", "best_giocatore_1": {}, "best_giocatore_2": {"Giacomo Gasparini": 1, "Carlo Stedile (Welcome To Paradise)": 2}, "best_portiere_1": {}, "best_portiere_2": {"Thomas Debiasi (L'Organizzatore Di Eventi Bruti)": 2}}, "135": {"id_anagrafica_squadre_1": 44, "id_anagrafica_squadre_2": 39, "gol_squadra_1": 2, "gol_squadra_2": 3, "data": "2019-08-18 20:30:00", "id_anagrafica_gironi": 2000, "falli_squadra_1": 1, "falli_squadra_2": 2, "squadra_1": "La Carica Delle 02", "squadra_2": "Una Quarta In 4", "gironi": 2000, "genere_gironi": 2000, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Emma Tesini\":1}", "goleador_2": "{\"Francesca Debiasi (David Gnomo)\":1}", "autogol1": "{\"Elena Bordato\":1}", "autogol2": "{\"Stefania Gazzini (Skeleton)\":1,\"Nicol Filippi (Capitale Umano)\":1}", "best_giocatore_1": {"Emma Tesini": 2}, "best_giocatore_2": {"Stefania Gazzini (Skeleton)": 1}, "best_portiere_1": {"Margherita Bottesi (Pe Williams)": 2}, "best_portiere_2": {"Valeria Paiola": 1}}, "136": {"id_anagrafica_squadre_1": 43, "id_anagrafica_squadre_2": 47, "gol_squadra_1": 4, "gol_squadra_2": 5, "data": "2019-08-18 21:30:00", "id_anagrafica_gironi": 2001, "falli_squadra_1": 1, "falli_squadra_2": 4, "squadra_1": "Mai Un Limone", "squadra_2": "Dinamo Nada", "gironi": 2001, "genere_gironi": 2001, "gialli1": "", "gialli2": "", "rossi1": "", "rossi2": "", "goleador_1": "{\"Laura Manconi (Skeletor the original)\":2,\"Carlotta Pomarolli (La Predestinata)\":1}", "goleador_2": "{\"Sara Consolati (Colonne D'Ercole)\":2,\"Irene Tovazzi (La Marmelona)\":1}", "autogol1": "{\"Laura Manconi (Skeletor the original)\":1}", "autogol2": "{\"Margherita Planchestainer (Mamma Di Bambi)\":1,\"Sara Consolati (Colonne D'Ercole)\":1}", "best_giocatore_1": {"Laura Manconi (Skeletor the original)": 1, "Carlotta Pomarolli (La Predestinata)": 1}, "best_giocatore_2": {"Irene Tovazzi (La Marmelona)": 1}, "best_portiere_1": {"Francesca Sartori (Nastra Isolanta)": 1}, "best_portiere_2": {"Martina Niosi": 1}}}}
+{
+  "torneo_2019": {
+    "1": {
+      "id_anagrafica_squadre_1": 7,
+      "id_anagrafica_squadre_2": 13,
+      "gol_squadra_1": 6,
+      "gol_squadra_2": 1,
+      "data": "2019-08-15 16:00:00",
+      "id_anagrafica_gironi": 4,
+      "falli_squadra_1": 0,
+      "falli_squadra_2": 2,
+      "squadra_1": "F.C. Savignano",
+      "squadra_2": "Positivi All'Etanolo",
+      "gironi": "C - Cavroni",
+      "genere_gironi": 1,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Andrea Conzatti (Caldaia)\":3,\"Alessandro Maffei \\u00a0(Fondatore Di Social Network)\":2}",
+      "goleador_2": "{\"Mirko Fasanelli\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Andrea Conzatti (Caldaia)": 2
+      },
+      "best_giocatore_2": {
+        "Filippo Alovisi (Tromba)": 1
+      },
+      "best_portiere_1": {},
+      "best_portiere_2": {}
+    },
+    "2": {
+      "id_anagrafica_squadre_1": 35,
+      "id_anagrafica_squadre_2": 41,
+      "gol_squadra_1": 3,
+      "gol_squadra_2": 6,
+      "data": "2019-08-15 16:20:00",
+      "id_anagrafica_gironi": 13,
+      "falli_squadra_1": 0,
+      "falli_squadra_2": 0,
+      "squadra_1": "Doppie Solo Due",
+      "squadra_2": "Up-Pero'",
+      "gironi": "D - Pegore",
+      "genere_gironi": 2,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Francesca Montermini\":3}",
+      "goleador_2": "{\"Matilde Gugole (Asfidanken)\":4,\"Rachele Gugole (Pannocchia)\":1,\"Michela Pezzato (Cocca Di Mamma)\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Francesca Montermini": 1
+      },
+      "best_giocatore_2": {
+        "Matilde Gugole (Asfidanken)": 2
+      },
+      "best_portiere_1": {},
+      "best_portiere_2": {}
+    },
+    "3": {
+      "id_anagrafica_squadre_1": 39,
+      "id_anagrafica_squadre_2": 36,
+      "gol_squadra_1": 14,
+      "gol_squadra_2": 0,
+      "data": "2019-08-15 16:40:00",
+      "id_anagrafica_gironi": 11,
+      "falli_squadra_1": 1,
+      "falli_squadra_2": 0,
+      "squadra_1": "Una Quarta In 4",
+      "squadra_2": "Pink Ladies",
+      "gironi": "B - Pantegane",
+      "genere_gironi": 2,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Stefania Gazzini (Skeleton)\":9,\"Francesca Debiasi (David Gnomo)\":5}",
+      "goleador_2": "{}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Francesca Debiasi (David Gnomo)": 1,
+        "Stefania Gazzini (Skeleton)": 2
+      },
+      "best_giocatore_2": {},
+      "best_portiere_1": {},
+      "best_portiere_2": {}
+    },
+    "4": {
+      "id_anagrafica_squadre_1": 21,
+      "id_anagrafica_squadre_2": 6,
+      "gol_squadra_1": 3,
+      "gol_squadra_2": 4,
+      "data": "2019-08-15 17:00:00",
+      "id_anagrafica_gironi": 7,
+      "falli_squadra_1": 0,
+      "falli_squadra_2": 0,
+      "squadra_1": "Paris San Gennar",
+      "squadra_2": "Caffe' Grazia",
+      "gironi": "F - Ruganti",
+      "genere_gironi": 1,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Alex Bragagna\":3}",
+      "goleador_2": "{\"Andrea Candioli (Can Da L'Ua)\":1,\"Matteo Cembrani\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Alex Bragagna": 2
+      },
+      "best_giocatore_2": {
+        "Matteo Cembrani": 1
+      },
+      "best_portiere_1": {
+        "Daniele Seranifini": 1
+      },
+      "best_portiere_2": {
+        "Daniele Candioli (Bimbo Del Grest)": 1
+      }
+    },
+    "5": {
+      "id_anagrafica_squadre_1": 34,
+      "id_anagrafica_squadre_2": 38,
+      "gol_squadra_1": 12,
+      "gol_squadra_2": 1,
+      "data": "2019-08-15 17:20:00",
+      "id_anagrafica_gironi": 11,
+      "falli_squadra_1": 0,
+      "falli_squadra_2": 0,
+      "squadra_1": "Quele Del '20. Alora",
+      "squadra_2": "Le Osce",
+      "gironi": "B - Pantegane",
+      "genere_gironi": 2,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Silvia Veneri\":5,\"Margherita Prezzi (Acquaragia)\":4,\"Serena Barozzi (Miss Patatina\\r\\n)\":3}",
+      "goleador_2": "{}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Margherita Prezzi (Acquaragia)": 2,
+        "Silvia Veneri": 1
+      },
+      "best_giocatore_2": {},
+      "best_portiere_1": {},
+      "best_portiere_2": {}
+    },
+    "6": {
+      "id_anagrafica_squadre_1": 18,
+      "id_anagrafica_squadre_2": 14,
+      "gol_squadra_1": 5,
+      "gol_squadra_2": 0,
+      "data": "2019-08-15 17:40:00",
+      "id_anagrafica_gironi": 2,
+      "falli_squadra_1": 0,
+      "falli_squadra_2": 0,
+      "squadra_1": "Shark Attack",
+      "squadra_2": "E Voi De Chi Se Fioi?",
+      "gironi": "A - Cavai",
+      "genere_gironi": 1,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Mattia Baldessarini (L'Assassino Cerebrale)\":3,\"Riccardo Saccani (Rosso Malpelo)\":1,\"Mattia Festi (Plastic Man)\":1}",
+      "goleador_2": "{}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Mattia Baldessarini (L'Assassino Cerebrale)": 2,
+        "Gabriele Brentari (Mocio Vileda)": 1
+      },
+      "best_giocatore_2": {},
+      "best_portiere_1": {
+        "Alberto Cerisara (L'Uomo Che Ha Mangiato Justin Bieber)": 3
+      },
+      "best_portiere_2": {}
+    },
+    "7": {
+      "id_anagrafica_squadre_1": 28,
+      "id_anagrafica_squadre_2": 32,
+      "gol_squadra_1": 12,
+      "gol_squadra_2": 2,
+      "data": "2019-08-15 18:00:00",
+      "id_anagrafica_gironi": 9,
+      "falli_squadra_1": 0,
+      "falli_squadra_2": 0,
+      "squadra_1": "Fel Lazio",
+      "squadra_2": "Panchester United",
+      "gironi": "H - Zorzi",
+      "genere_gironi": 1,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Andrea Gober (Scintillio)\":6,\"Alessandro Zandonai (L'Uomo Che Sussurrava Ai Ghepardi)\":3,\"Simone Martini (Donatella Rettore)\":1,\"Mauro Prezzi (Il Sergente Di Via Al Cristo)\":1,\"Manuel Cescatti (Il Bolscevico)\":1}",
+      "goleador_2": "{\"Rudy Somadossi (Musica e Magia\\r\\n)\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Andrea Gober (Scintillio)": 2
+      },
+      "best_giocatore_2": {
+        "Rudy Somadossi (Musica e Magia\r\n)": 1
+      },
+      "best_portiere_1": {
+        "Matteo Pilati (Ponzio Pilati)": 1
+      },
+      "best_portiere_2": {
+        "Alessio Ecchel": 2
+      }
+    },
+    "8": {
+      "id_anagrafica_squadre_1": 29,
+      "id_anagrafica_squadre_2": 15,
+      "gol_squadra_1": 13,
+      "gol_squadra_2": 1,
+      "data": "2019-08-15 18:20:00",
+      "id_anagrafica_gironi": 8,
+      "falli_squadra_1": 1,
+      "falli_squadra_2": 1,
+      "squadra_1": "Pinguini Trentini",
+      "squadra_2": "Dmentoni (La D E' Muta)",
+      "gironi": "G - Usei",
+      "genere_gironi": 1,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Alessio Farinati (Proteina)\":8,\"Matteo Brigo (Eurobrigo)\":3,\"Yuri Andreolli\":1,\"Andrea Mandredi\":1}",
+      "goleador_2": "{\"Damiano Simoncelli\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Alessio Farinati (Proteina)": 2,
+        "Andrea Mandredi": 1
+      },
+      "best_giocatore_2": {},
+      "best_portiere_1": {},
+      "best_portiere_2": {}
+    },
+    "9": {
+      "id_anagrafica_squadre_1": 4,
+      "id_anagrafica_squadre_2": 27,
+      "gol_squadra_1": 4,
+      "gol_squadra_2": 1,
+      "data": "2019-08-15 18:40:00",
+      "id_anagrafica_gironi": 5,
+      "falli_squadra_1": 0,
+      "falli_squadra_2": 4,
+      "squadra_1": "I Montagna",
+      "squadra_2": "Soda",
+      "gironi": "D - Lumazi",
+      "genere_gironi": 1,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Marco Sala (Cane Rognoso)\":3,\"Francesco Russo (Il Falso Balcanico)\":1}",
+      "goleador_2": "{\"Massimo Chiodini\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Federico Andreis (Bel Ragazzo)": 1,
+        "Marco Sala (Cane Rognoso)": 2
+      },
+      "best_giocatore_2": {},
+      "best_portiere_1": {},
+      "best_portiere_2": {}
+    },
+    "10": {
+      "id_anagrafica_squadre_1": 16,
+      "id_anagrafica_squadre_2": 26,
+      "gol_squadra_1": 4,
+      "gol_squadra_2": 3,
+      "data": "2019-08-15 19:00:00",
+      "id_anagrafica_gironi": 8,
+      "falli_squadra_1": 0,
+      "falli_squadra_2": 5,
+      "squadra_1": "Mai Una Gioia",
+      "squadra_2": "Clandes-Team",
+      "gironi": "G - Usei",
+      "genere_gironi": 1,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Carlo Stedile (Welcome To Paradise)\":2,\"Nadir Chtioui (Casablanca)\":1,\"Pietro Gasparini\":1}",
+      "goleador_2": "{\"Pietro Tasini\":1,\"Riccardo Brunelli\":1,\"Pietro Zandonai (Boyscout)\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Nadir Chtioui (Casablanca)": 1,
+        "Carlo Stedile (Welcome To Paradise)": 2
+      },
+      "best_giocatore_2": {},
+      "best_portiere_1": {
+        "Thomas Debiasi (L'Organizzatore Di Eventi Bruti)": 2
+      },
+      "best_portiere_2": {
+        "Tommaso Canepel (Ridge Forester)": 1
+      }
+    },
+    "11": {
+      "id_anagrafica_squadre_1": 1,
+      "id_anagrafica_squadre_2": 25,
+      "gol_squadra_1": 3,
+      "gol_squadra_2": 2,
+      "data": "2019-08-15 19:20:00",
+      "id_anagrafica_gironi": 6,
+      "falli_squadra_1": 0,
+      "falli_squadra_2": 0,
+      "squadra_1": "S.S. Tecnica Pura",
+      "squadra_2": "Cgb Gamberoni",
+      "gironi": "E - Mussi",
+      "genere_gironi": 1,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Mirco Salvetti\":1,\"Matteo Azzolini\":1}",
+      "goleador_2": "{\"Francesco Piamarta\":1,\"Tommaso Bruschetti (Sindaco)\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Matteo Azzolini": 1,
+        "Luca Dellagiacoma (La Locomotiva Di Lizzanella)": 1,
+        "Omar Russo (Lizzanella Vende Moda)": 1
+      },
+      "best_giocatore_2": {},
+      "best_portiere_1": {
+        "Francesco Modena": 2
+      },
+      "best_portiere_2": {
+        "Sebastiano Zoller": 1
+      }
+    },
+    "13": {
+      "id_anagrafica_squadre_1": 47,
+      "id_anagrafica_squadre_2": 41,
+      "gol_squadra_1": 9,
+      "gol_squadra_2": 1,
+      "data": "2019-08-15 19:40:00",
+      "id_anagrafica_gironi": 13,
+      "falli_squadra_1": 0,
+      "falli_squadra_2": 1,
+      "squadra_1": "Dinamo Nada",
+      "squadra_2": "Up-Pero'",
+      "gironi": "D - Pegore",
+      "genere_gironi": 2,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Irene Tovazzi (La Marmelona)\":3,\"Maira Bertolini\":2,\"Margherita Planchestainer (Mamma Di Bambi)\":2,\"Sara Consolati (Colonne D'Ercole)\":1}",
+      "goleador_2": "{\"Rachele Gugole (Pannocchia)\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Margherita Planchestainer (Mamma Di Bambi)": 1,
+        "Irene Tovazzi (La Marmelona)": 2
+      },
+      "best_giocatore_2": {},
+      "best_portiere_1": {},
+      "best_portiere_2": {}
+    },
+    "14": {
+      "id_anagrafica_squadre_1": 43,
+      "id_anagrafica_squadre_2": 40,
+      "gol_squadra_1": 10,
+      "gol_squadra_2": 1,
+      "data": "2019-08-15 20:00:00",
+      "id_anagrafica_gironi": 12,
+      "falli_squadra_1": 2,
+      "falli_squadra_2": 0,
+      "squadra_1": "Mai Un Limone",
+      "squadra_2": "Le Gretine",
+      "gironi": "C - Galinote",
+      "genere_gironi": 2,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Carlotta Pomarolli (La Predestinata)\":4,\"Laura Manconi (Skeletor the original)\":4,\"Valentina Salzani (Hello Kitty)\":1}",
+      "goleador_2": "{\"Claudia Manzana (La Bolscevica)\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Laura Manconi (Skeletor the original)": 1,
+        "Carlotta Pomarolli (La Predestinata)": 2
+      },
+      "best_giocatore_2": {},
+      "best_portiere_1": {},
+      "best_portiere_2": {}
+    },
+    "15": {
+      "id_anagrafica_squadre_1": 18,
+      "id_anagrafica_squadre_2": 12,
+      "gol_squadra_1": 14,
+      "gol_squadra_2": 1,
+      "data": "2019-08-15 20:20:00",
+      "id_anagrafica_gironi": 2,
+      "falli_squadra_1": 0,
+      "falli_squadra_2": 1,
+      "squadra_1": "Shark Attack",
+      "squadra_2": "The Periti Informatici",
+      "gironi": "A - Cavai",
+      "genere_gironi": 1,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Mattia Baldessarini (L'Assassino Cerebrale)\":8,\"Mattia Festi (Plastic Man)\":3,\"Gabriele Brentari (Mocio Vileda)\":2,\"Riccardo Saccani (Rosso Malpelo)\":1}",
+      "goleador_2": "{\"Giovanni Simoncelli (Ritornello)\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Mattia Baldessarini (L'Assassino Cerebrale)": 3
+      },
+      "best_giocatore_2": {},
+      "best_portiere_1": {
+        "Alberto Cerisara (L'Uomo Che Ha Mangiato Justin Bieber)": 1
+      },
+      "best_portiere_2": {
+        "Francesco Passuello (Crumiro)": 2
+      }
+    },
+    "16": {
+      "id_anagrafica_squadre_1": 20,
+      "id_anagrafica_squadre_2": 19,
+      "gol_squadra_1": 4,
+      "gol_squadra_2": 6,
+      "data": "2019-08-15 21:00:00",
+      "id_anagrafica_gironi": 5,
+      "falli_squadra_1": 0,
+      "falli_squadra_2": 0,
+      "squadra_1": "U.S. Guarna",
+      "squadra_2": "F.C. Julia",
+      "gironi": "D - Lumazi",
+      "genere_gironi": 1,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Andrea Prombergher\":2,\"Federico Nicolodi (Notti Magiche)\":1,\"Samuele Angheben (Bubbone)\":1}",
+      "goleador_2": "{\"Michele Lovisi\":3,\"Andrea Potrich (Il Brasiliano Bianco)\":1,\"Giovanni Zamboni (Nano Malefico)\":1,\"Mattia Gerosa (Minchia Gigi)\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Andrea Prombergher": 1
+      },
+      "best_giocatore_2": {
+        "Michele Lovisi": 2
+      },
+      "best_portiere_1": {},
+      "best_portiere_2": {}
+    },
+    "17": {
+      "id_anagrafica_squadre_1": 11,
+      "id_anagrafica_squadre_2": 2,
+      "gol_squadra_1": 3,
+      "gol_squadra_2": 3,
+      "data": "2019-08-15 21:20:00",
+      "id_anagrafica_gironi": 3,
+      "falli_squadra_1": 1,
+      "falli_squadra_2": 2,
+      "squadra_1": "Lizzanella'S Old Sughi",
+      "squadra_2": "Hellas Madonna",
+      "gironi": "B - Cunei",
+      "genere_gironi": 1,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Daniele Feltrinelli (La Transiberiana)\":1,\"Emanuele Miorandi (Braghe Da Sci)\":1,\"Federico Ignaccolo (Fidel)\":1}",
+      "goleador_2": "{\"Filippo Benetti\":1,\"Jacopo Ricci\":1,\"Davide Rosa'\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Federico Ignaccolo (Fidel)": 1
+      },
+      "best_giocatore_2": {},
+      "best_portiere_1": {
+        "Federico Leonardi (Pan Carre')": 1
+      },
+      "best_portiere_2": {
+        "Raffaele Prezzi": 1
+      }
+    },
+    "18": {
+      "id_anagrafica_squadre_1": 48,
+      "id_anagrafica_squadre_2": 44,
+      "gol_squadra_1": 3,
+      "gol_squadra_2": 2,
+      "data": "2019-08-15 21:40:00",
+      "id_anagrafica_gironi": 10,
+      "falli_squadra_1": 1,
+      "falli_squadra_2": 2,
+      "squadra_1": "Porcahontas",
+      "squadra_2": "La Carica Delle 02",
+      "gironi": "A - Pojane",
+      "genere_gironi": 2,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Licia Fondriest (Anza)\":2,\"Valentina Bisoffi (Nano da Giardino)\":1}",
+      "goleador_2": "{\"Emma Tesini\":1,\"Elena Bordato\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Licia Fondriest (Anza)": 2
+      },
+      "best_giocatore_2": {
+        "Emma Tesini": 1
+      },
+      "best_portiere_1": {
+        "Alice Finarolli (Alice in Wonderland)": 2
+      },
+      "best_portiere_2": {
+        "Margherita Bottesi (Pe Williams)": 1
+      }
+    },
+    "19": {
+      "id_anagrafica_squadre_1": 32,
+      "id_anagrafica_squadre_2": 17,
+      "gol_squadra_1": 1,
+      "gol_squadra_2": 6,
+      "data": "2019-08-15 22:00:00",
+      "id_anagrafica_gironi": 9,
+      "falli_squadra_1": 0,
+      "falli_squadra_2": 0,
+      "squadra_1": "Panchester United",
+      "squadra_2": "Cacao Meravigliao",
+      "gironi": "H - Zorzi",
+      "genere_gironi": 1,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Rudy Somadossi (Musica e Magia\\r\\n)\":1}",
+      "goleador_2": "{\"Giacomo Larcher (Occhio Ceruleo)\":3,\"Leonardo Stiz (Mio Nonno)\":2,\"Andrea Togni\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Rudy Somadossi (Musica e Magia\r\n)": 1
+      },
+      "best_giocatore_2": {
+        "Giacomo Larcher (Occhio Ceruleo)": 1,
+        "Andrea Togni": 1
+      },
+      "best_portiere_1": {},
+      "best_portiere_2": {}
+    },
+    "20": {
+      "id_anagrafica_squadre_1": 7,
+      "id_anagrafica_squadre_2": 3,
+      "gol_squadra_1": 2,
+      "gol_squadra_2": 7,
+      "data": "2019-08-15 22:20:00",
+      "id_anagrafica_gironi": 4,
+      "falli_squadra_1": 1,
+      "falli_squadra_2": 3,
+      "squadra_1": "F.C. Savignano",
+      "squadra_2": "Clitoriders",
+      "gironi": "C - Cavroni",
+      "genere_gironi": 1,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Alessandro Maffei \\u00a0(Fondatore Di Social Network)\":1,\"Andrea Conzatti (Caldaia)\":1}",
+      "goleador_2": "{\"Luca Frasca (Delirium Tremens)\":2,\"Michele Merighi (La Iena Ridens)\":2,\"Andrea Giordani (Orso Bruno)\":2,\"Stefano Galvagni (Mentadent)\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {},
+      "best_giocatore_2": {
+        "Luca Frasca (Delirium Tremens)": 2,
+        "Andrea Giordani (Orso Bruno)": 1
+      },
+      "best_portiere_1": {
+        "Samuel Di Meo": 1
+      },
+      "best_portiere_2": {
+        "Stefano Tita (Giannizzero)": 1
+      }
+    },
+    "21": {
+      "id_anagrafica_squadre_1": 46,
+      "id_anagrafica_squadre_2": 42,
+      "gol_squadra_1": 1,
+      "gol_squadra_2": 1,
+      "data": "2019-08-15 22:40:00",
+      "id_anagrafica_gironi": 10,
+      "falli_squadra_1": 0,
+      "falli_squadra_2": 4,
+      "squadra_1": "Plus Ultra",
+      "squadra_2": "Le Sughe",
+      "gironi": "A - Pojane",
+      "genere_gironi": 2,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Isotta Battisti\":1}",
+      "goleador_2": "{\"Anna Rigo\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Isotta Battisti": 1
+      },
+      "best_giocatore_2": {
+        "Anna Rigo": 1
+      },
+      "best_portiere_1": {
+        "Aurora Cavalieri": 1
+      },
+      "best_portiere_2": {}
+    },
+    "22": {
+      "id_anagrafica_squadre_1": 9,
+      "id_anagrafica_squadre_2": 12,
+      "gol_squadra_1": 15,
+      "gol_squadra_2": 0,
+      "data": "2019-08-15 23:00:00",
+      "id_anagrafica_gironi": 2,
+      "falli_squadra_1": 2,
+      "falli_squadra_2": 3,
+      "squadra_1": "Mediaser.T",
+      "squadra_2": "The Periti Informatici",
+      "gironi": "A - Cavai",
+      "genere_gironi": 1,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Leonardo Parisi (Il Fratello Di Ron Weasley)\":7,\"Davide Raffaelli (Giraffa Di Frassino)\":4,\"Andrea Anzelini\":3,\"Matteo Mazzola\":1}",
+      "goleador_2": "{}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Leonardo Parisi (Il Fratello Di Ron Weasley)": 2,
+        "Davide Raffaelli (Giraffa Di Frassino)": 1
+      },
+      "best_giocatore_2": {},
+      "best_portiere_1": {},
+      "best_portiere_2": {}
+    },
+    "23": {
+      "id_anagrafica_squadre_1": 25,
+      "id_anagrafica_squadre_2": 31,
+      "gol_squadra_1": 13,
+      "gol_squadra_2": 3,
+      "data": "2019-08-15 23:20:00",
+      "id_anagrafica_gironi": 6,
+      "falli_squadra_1": 0,
+      "falli_squadra_2": 1,
+      "squadra_1": "Cgb Gamberoni",
+      "squadra_2": "St'Am No Zugo",
+      "gironi": "E - Mussi",
+      "genere_gironi": 1,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Francesco Piamarta\":5,\"Gabriele Gottardi\":4,\"Sebastiano Zoller\":2,\"Tommaso Bruschetti (Sindaco)\":1,\"Luca Perenzoni (Il Lettone)\":1}",
+      "goleador_2": "{\"Mattia Ferrari (Manichino)\":2,\"Thomas Azzolini\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Tommaso Bruschetti (Sindaco)": 1,
+        "Sebastiano Zoller": 2
+      },
+      "best_giocatore_2": {},
+      "best_portiere_1": {},
+      "best_portiere_2": {}
+    },
+    "24": {
+      "id_anagrafica_squadre_1": 2,
+      "id_anagrafica_squadre_2": 5,
+      "gol_squadra_1": 4,
+      "gol_squadra_2": 0,
+      "data": "2019-08-15 23:40:00",
+      "id_anagrafica_gironi": 3,
+      "falli_squadra_1": 1,
+      "falli_squadra_2": 0,
+      "squadra_1": "Hellas Madonna",
+      "squadra_2": "Wanda Tim",
+      "gironi": "B - Cunei",
+      "genere_gironi": 1,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Matteo Bazzanella\":3,\"Jacopo Ricci\":1}",
+      "goleador_2": "{}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Matteo Bazzanella": 3
+      },
+      "best_giocatore_2": {},
+      "best_portiere_1": {
+        "Raffaele Prezzi": 1
+      },
+      "best_portiere_2": {
+        "Mattia Spagnolli": 1
+      }
+    },
+    "25": {
+      "id_anagrafica_squadre_1": 22,
+      "id_anagrafica_squadre_2": 28,
+      "gol_squadra_1": 3,
+      "gol_squadra_2": 7,
+      "data": "2019-08-16 16:00:00",
+      "id_anagrafica_gironi": 9,
+      "falli_squadra_1": 0,
+      "falli_squadra_2": 2,
+      "squadra_1": "Sbarx",
+      "squadra_2": "Fel Lazio",
+      "gironi": "H - Zorzi",
+      "genere_gironi": 1,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Nicholas Marzadro\":1,\"Alex Manica\":1,\"Simone Miorelli\":1}",
+      "goleador_2": "{\"Andrea Gober (Scintillio)\":3,\"Manuel Cescatti (Il Bolscevico)\":2,\"Alessandro Zandonai (L'Uomo Che Sussurrava Ai Ghepardi)\":1,\"Mauro Prezzi (Il Sergente Di Via Al Cristo)\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {},
+      "best_giocatore_2": {
+        "Andrea Gober (Scintillio)": 3
+      },
+      "best_portiere_1": {},
+      "best_portiere_2": {
+        "Matteo Pilati (Ponzio Pilati)": 3
+      }
+    },
+    "26": {
+      "id_anagrafica_squadre_1": 41,
+      "id_anagrafica_squadre_2": 33,
+      "gol_squadra_1": 1,
+      "gol_squadra_2": 2,
+      "data": "2019-08-16 16:20:00",
+      "id_anagrafica_gironi": 13,
+      "falli_squadra_1": 2,
+      "falli_squadra_2": 1,
+      "squadra_1": "Up-Pero'",
+      "squadra_2": "Quele Del '20. Ades",
+      "gironi": "D - Pegore",
+      "genere_gironi": 2,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Sharik Handson\":1}",
+      "goleador_2": "{\"Martina Francescatti\":2}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Sharik Handson": 1
+      },
+      "best_giocatore_2": {
+        "Martina Francescatti": 2
+      },
+      "best_portiere_1": {},
+      "best_portiere_2": {}
+    },
+    "27": {
+      "id_anagrafica_squadre_1": 37,
+      "id_anagrafica_squadre_2": 40,
+      "gol_squadra_1": 6,
+      "gol_squadra_2": 0,
+      "data": "2019-08-16 16:40:00",
+      "id_anagrafica_gironi": 12,
+      "falli_squadra_1": 0,
+      "falli_squadra_2": 1,
+      "squadra_1": "Tigri Intigra Tighi",
+      "squadra_2": "Le Gretine",
+      "gironi": "C - Galinote",
+      "genere_gironi": 2,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Valentina Perghem\":4,\"Ilaria Battistotti\":1,\"Angela Adami (Ananas)\":1}",
+      "goleador_2": "{}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Angela Adami (Ananas)": 2,
+        "Valentina Perghem": 1
+      },
+      "best_giocatore_2": {},
+      "best_portiere_1": {},
+      "best_portiere_2": {}
+    },
+    "28": {
+      "id_anagrafica_squadre_1": 34,
+      "id_anagrafica_squadre_2": 36,
+      "gol_squadra_1": 12,
+      "gol_squadra_2": 2,
+      "data": "2019-08-16 17:00:00",
+      "id_anagrafica_gironi": 11,
+      "falli_squadra_1": 0,
+      "falli_squadra_2": 0,
+      "squadra_1": "Quele Del '20. Alora",
+      "squadra_2": "Pink Ladies",
+      "gironi": "B - Pantegane",
+      "genere_gironi": 2,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Margherita Prezzi (Acquaragia)\":7,\"Serena Barozzi (Miss Patatina\\r\\n)\":2,\"Nazarena Raos (L'Usignolo di Corna Calda\\r\\n)\":2,\"Silvia Veneri\":1}",
+      "goleador_2": "{\"Alessandra Zampol (Vileda\\r\\n)\":1,\"Sofia Manica\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Margherita Prezzi (Acquaragia)": 2,
+        "Silvia Veneri": 1
+      },
+      "best_giocatore_2": {},
+      "best_portiere_1": {
+        "Andrea Veronica Degan (WonderRea)": 1
+      },
+      "best_portiere_2": {}
+    },
+    "29": {
+      "id_anagrafica_squadre_1": 39,
+      "id_anagrafica_squadre_2": 38,
+      "gol_squadra_1": 10,
+      "gol_squadra_2": 0,
+      "data": "2019-08-16 17:20:00",
+      "id_anagrafica_gironi": 11,
+      "falli_squadra_1": 0,
+      "falli_squadra_2": 0,
+      "squadra_1": "Una Quarta In 4",
+      "squadra_2": "Le Osce",
+      "gironi": "B - Pantegane",
+      "genere_gironi": 2,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Francesca Debiasi (David Gnomo)\":7,\"Stefania Gazzini (Skeleton)\":3}",
+      "goleador_2": "{}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Francesca Debiasi (David Gnomo)": 2,
+        "Stefania Gazzini (Skeleton)": 1
+      },
+      "best_giocatore_2": {},
+      "best_portiere_1": {},
+      "best_portiere_2": {}
+    },
+    "30": {
+      "id_anagrafica_squadre_1": 29,
+      "id_anagrafica_squadre_2": 26,
+      "gol_squadra_1": 2,
+      "gol_squadra_2": 0,
+      "data": "2019-08-16 17:40:00",
+      "id_anagrafica_gironi": 8,
+      "falli_squadra_1": 3,
+      "falli_squadra_2": 2,
+      "squadra_1": "Pinguini Trentini",
+      "squadra_2": "Clandes-Team",
+      "gironi": "G - Usei",
+      "genere_gironi": 1,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Yuri Andreolli\":1,\"Matteo Brigo (Eurobrigo)\":1}",
+      "goleador_2": "{}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Simone Chizzola (Il Mozzo)": 1,
+        "Andrea Mandredi": 1,
+        "Davide Manica (Pala Eolica)": 1
+      },
+      "best_giocatore_2": {},
+      "best_portiere_1": {},
+      "best_portiere_2": {}
+    },
+    "31": {
+      "id_anagrafica_squadre_1": 32,
+      "id_anagrafica_squadre_2": 22,
+      "gol_squadra_1": 1,
+      "gol_squadra_2": 2,
+      "data": "2019-08-16 18:00:00",
+      "id_anagrafica_gironi": 9,
+      "falli_squadra_1": 4,
+      "falli_squadra_2": 2,
+      "squadra_1": "Panchester United",
+      "squadra_2": "Sbarx",
+      "gironi": "H - Zorzi",
+      "genere_gironi": 1,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Hernan Suarez\":1}",
+      "goleador_2": "{\"Alex Manica\":1,\"Enrico Parisi\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Hernan Suarez": 1
+      },
+      "best_giocatore_2": {
+        "Alex Manica": 1
+      },
+      "best_portiere_1": {
+        "Oscar Morin": 3
+      },
+      "best_portiere_2": {}
+    },
+    "32": {
+      "id_anagrafica_squadre_1": 11,
+      "id_anagrafica_squadre_2": 5,
+      "gol_squadra_1": 8,
+      "gol_squadra_2": 0,
+      "data": "2019-08-16 18:20:00",
+      "id_anagrafica_gironi": 3,
+      "falli_squadra_1": 1,
+      "falli_squadra_2": 4,
+      "squadra_1": "Lizzanella'S Old Sughi",
+      "squadra_2": "Wanda Tim",
+      "gironi": "B - Cunei",
+      "genere_gironi": 1,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Michele Leonardi\":2,\"Emanuele Miorandi (Braghe Da Sci)\":2,\"Federico Ignaccolo (Fidel)\":2,\"Daniele Feltrinelli (La Transiberiana)\":1,\"Alessandro Mario Monaco\":1}",
+      "goleador_2": "{}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Federico Ignaccolo (Fidel)": 2,
+        "Emanuele Miorandi (Braghe Da Sci)": 1
+      },
+      "best_giocatore_2": {},
+      "best_portiere_1": {},
+      "best_portiere_2": {}
+    },
+    "33": {
+      "id_anagrafica_squadre_1": 28,
+      "id_anagrafica_squadre_2": 17,
+      "gol_squadra_1": 4,
+      "gol_squadra_2": 3,
+      "data": "2019-08-16 18:40:00",
+      "id_anagrafica_gironi": 9,
+      "falli_squadra_1": 3,
+      "falli_squadra_2": 4,
+      "squadra_1": "Fel Lazio",
+      "squadra_2": "Cacao Meravigliao",
+      "gironi": "H - Zorzi",
+      "genere_gironi": 1,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Mauro Prezzi (Il Sergente Di Via Al Cristo)\":2,\"Matteo Pilati (Ponzio Pilati)\":1,\"Alessandro Zandonai (L'Uomo Che Sussurrava Ai Ghepardi)\":1}",
+      "goleador_2": "{\"Leonardo Stiz (Mio Nonno)\":1,\"Andrea Togni\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {},
+      "best_giocatore_2": {},
+      "best_portiere_1": {},
+      "best_portiere_2": {}
+    },
+    "34": {
+      "id_anagrafica_squadre_1": 46,
+      "id_anagrafica_squadre_2": 44,
+      "gol_squadra_1": 2,
+      "gol_squadra_2": 4,
+      "data": "2019-08-16 19:00:00",
+      "id_anagrafica_gironi": 10,
+      "falli_squadra_1": 2,
+      "falli_squadra_2": 3,
+      "squadra_1": "Plus Ultra",
+      "squadra_2": "La Carica Delle 02",
+      "gironi": "A - Pojane",
+      "genere_gironi": 2,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Isotta Battisti\":1,\"Carolina Zendri (Maestrale D'Inverno)\":1}",
+      "goleador_2": "{\"Emma Tesini\":3,\"Jasmine Scottini\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Carolina Zendri (Maestrale D'Inverno)": 1
+      },
+      "best_giocatore_2": {
+        "Emma Tesini": 2
+      },
+      "best_portiere_1": {},
+      "best_portiere_2": {}
+    },
+    "35": {
+      "id_anagrafica_squadre_1": 47,
+      "id_anagrafica_squadre_2": 33,
+      "gol_squadra_1": 6,
+      "gol_squadra_2": 0,
+      "data": "2019-08-16 19:20:00",
+      "id_anagrafica_gironi": 13,
+      "falli_squadra_1": 1,
+      "falli_squadra_2": 2,
+      "squadra_1": "Dinamo Nada",
+      "squadra_2": "Quele Del '20. Ades",
+      "gironi": "D - Pegore",
+      "genere_gironi": 2,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Margherita Planchestainer (Mamma Di Bambi)\":2,\"Irene Tovazzi (La Marmelona)\":2,\"Maira Bertolini\":1,\"Sara Consolati (Colonne D'Ercole)\":1}",
+      "goleador_2": "{}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Maira Bertolini": 1,
+        "Margherita Planchestainer (Mamma Di Bambi)": 1,
+        "Irene Tovazzi (La Marmelona)": 1
+      },
+      "best_giocatore_2": {},
+      "best_portiere_1": {},
+      "best_portiere_2": {
+        "Mara Barozzi (La Nonna di Heidi)": 1
+      }
+    },
+    "36": {
+      "id_anagrafica_squadre_1": 10,
+      "id_anagrafica_squadre_2": 5,
+      "gol_squadra_1": 12,
+      "gol_squadra_2": 1,
+      "data": "2019-08-16 19:40:00",
+      "id_anagrafica_gironi": 3,
+      "falli_squadra_1": 1,
+      "falli_squadra_2": 1,
+      "squadra_1": "Discepoli Del Luppolo",
+      "squadra_2": "Wanda Tim",
+      "gironi": "B - Cunei",
+      "genere_gironi": 1,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Federico Giordani (L'Uomo Pi\\u00f9 Fuori Forma D'Europa)\":5,\"Michele Bertolini (Marco Columbro)\":3,\"Nicola Conti (Parrucchino)\":2,\"Luca Miorandi (L'Uomo Pi\\u00f9 Brutto D'Europa)\":1,\"Riccardo Baldo (L'Idolo Delle 15enni)\":1}",
+      "goleador_2": "{\"Stefano Rosina\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Federico Giordani (L'Uomo Pi\u00f9 Fuori Forma D'Europa)": 2,
+        "Luca Miorandi (L'Uomo Pi\u00f9 Brutto D'Europa)": 1
+      },
+      "best_giocatore_2": {},
+      "best_portiere_1": {
+        "Marco Maffei (Il Pranzo \u00c8 Servito)": 1
+      },
+      "best_portiere_2": {
+        "Mattia Spagnolli": 1
+      }
+    },
+    "37": {
+      "id_anagrafica_squadre_1": 45,
+      "id_anagrafica_squadre_2": 37,
+      "gol_squadra_1": 7,
+      "gol_squadra_2": 2,
+      "data": "2019-08-16 20:00:00",
+      "id_anagrafica_gironi": 12,
+      "falli_squadra_1": 1,
+      "falli_squadra_2": 0,
+      "squadra_1": "Fruit Ninja",
+      "squadra_2": "Tigri Intigra Tighi",
+      "gironi": "C - Galinote",
+      "genere_gironi": 2,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Marie St\\u00f6ger (Torta Sacher)\":5,\"Manuela Perini (Callisto)\":1}",
+      "goleador_2": "{\"Cristina Tognarelli\":1,\"Valentina Perghem\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Giulia Scrinzi (La Bimba Bionica)": 2,
+        "Marie St\u00f6ger (Torta Sacher)": 1
+      },
+      "best_giocatore_2": {},
+      "best_portiere_1": {
+        "Elena Loss (L'Astronauta)": 2
+      },
+      "best_portiere_2": {}
+    },
+    "38": {
+      "id_anagrafica_squadre_1": 13,
+      "id_anagrafica_squadre_2": 23,
+      "gol_squadra_1": 1,
+      "gol_squadra_2": 0,
+      "data": "2019-08-16 20:20:00",
+      "id_anagrafica_gironi": 4,
+      "falli_squadra_1": 2,
+      "falli_squadra_2": 2,
+      "squadra_1": "Positivi All'Etanolo",
+      "squadra_2": "Il Terrone Va Di Moda",
+      "gironi": "C - Cavroni",
+      "genere_gironi": 1,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Michele Anselmi\":1}",
+      "goleador_2": "{}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Filippo Alovisi (Tromba)": 1,
+        "Michele Anselmi": 2
+      },
+      "best_giocatore_2": {},
+      "best_portiere_1": {},
+      "best_portiere_2": {}
+    },
+    "39": {
+      "id_anagrafica_squadre_1": 48,
+      "id_anagrafica_squadre_2": 42,
+      "gol_squadra_1": 5,
+      "gol_squadra_2": 0,
+      "data": "2019-08-16 21:00:00",
+      "id_anagrafica_gironi": 10,
+      "falli_squadra_1": 1,
+      "falli_squadra_2": 0,
+      "squadra_1": "Porcahontas",
+      "squadra_2": "Le Sughe",
+      "gironi": "A - Pojane",
+      "genere_gironi": 2,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Valentina Bisoffi (Nano da Giardino)\":2,\"Veronica Osele (Marion Johns)\":2,\"Licia Fondriest (Anza)\":1}",
+      "goleador_2": "{}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Valentina Bisoffi (Nano da Giardino)": 2,
+        "Veronica Osele (Marion Johns)": 1
+      },
+      "best_giocatore_2": {},
+      "best_portiere_1": {
+        "Alice Finarolli (Alice in Wonderland)": 2
+      },
+      "best_portiere_2": {
+        "Sara Fait": 1
+      }
+    },
+    "40": {
+      "id_anagrafica_squadre_1": 24,
+      "id_anagrafica_squadre_2": 25,
+      "gol_squadra_1": 4,
+      "gol_squadra_2": 3,
+      "data": "2019-08-16 21:20:00",
+      "id_anagrafica_gironi": 6,
+      "falli_squadra_1": 0,
+      "falli_squadra_2": 0,
+      "squadra_1": "Avanzi",
+      "squadra_2": "Cgb Gamberoni",
+      "gironi": "E - Mussi",
+      "genere_gironi": 1,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Luca Zorzutti (Speaker Zone)\":1,\"Matteo Manconi (Mancuso)\":1,\"Andrea Barozzi (Lo Zanetti Della Statale 12)\":1,\"Leonardo Viola (L'Uomo Informe 2.0)\":1}",
+      "goleador_2": "{\"Gabriele Gottardi\":2,\"Francesco Piamarta\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Lorenzo Barozzi (Il Tagliagole Canadese)": 1,
+        "Andrea Barozzi (Lo Zanetti Della Statale 12)": 1,
+        "Matteo Manconi (Mancuso)": 1
+      },
+      "best_giocatore_2": {},
+      "best_portiere_1": {
+        "Michele Ruele (Ruy Misteryo)": 1
+      },
+      "best_portiere_2": {
+        "Sebastiano Zoller": 1
+      }
+    },
+    "41": {
+      "id_anagrafica_squadre_1": 30,
+      "id_anagrafica_squadre_2": 8,
+      "gol_squadra_1": 3,
+      "gol_squadra_2": 1,
+      "data": "2019-08-16 21:40:00",
+      "id_anagrafica_gironi": 7,
+      "falli_squadra_1": 2,
+      "falli_squadra_2": 6,
+      "squadra_1": "I Modium",
+      "squadra_2": "Buona La Merda",
+      "gironi": "F - Ruganti",
+      "genere_gironi": 1,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Luca Barozzi (Lupin)\":1,\"Federico Pomarolli (Il Principe Guerriero)\":1}",
+      "goleador_2": "{\"Davide De Zambotti\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Andrea Bertolini": 1,
+        "Edoardo Pomarolli (Il Bello Della Piof)": 1,
+        "Federico Pomarolli (Il Principe Guerriero)": 1
+      },
+      "best_giocatore_2": {},
+      "best_portiere_1": {
+        "Riccardo Versini (La Pertica Dela Piof)": 1
+      },
+      "best_portiere_2": {
+        "Tiziano Tasini": 2
+      }
+    },
+    "42": {
+      "id_anagrafica_squadre_1": 45,
+      "id_anagrafica_squadre_2": 43,
+      "gol_squadra_1": 2,
+      "gol_squadra_2": 0,
+      "data": "2019-08-16 22:00:00",
+      "id_anagrafica_gironi": 12,
+      "falli_squadra_1": 0,
+      "falli_squadra_2": 0,
+      "squadra_1": "Fruit Ninja",
+      "squadra_2": "Mai Un Limone",
+      "gironi": "C - Galinote",
+      "genere_gironi": 2,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Giulia Scrinzi (La Bimba Bionica)\":1,\"Marie St\\u00f6ger (Torta Sacher)\":1}",
+      "goleador_2": "{}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Giulia Scrinzi (La Bimba Bionica)": 2
+      },
+      "best_giocatore_2": {
+        "Carlotta Pomarolli (La Predestinata)": 1
+      },
+      "best_portiere_1": {
+        "Elena Loss (L'Astronauta)": 3
+      },
+      "best_portiere_2": {}
+    },
+    "43": {
+      "id_anagrafica_squadre_1": 10,
+      "id_anagrafica_squadre_2": 2,
+      "gol_squadra_1": 3,
+      "gol_squadra_2": 3,
+      "data": "2019-08-16 22:20:00",
+      "id_anagrafica_gironi": 3,
+      "falli_squadra_1": 2,
+      "falli_squadra_2": 2,
+      "squadra_1": "Discepoli Del Luppolo",
+      "squadra_2": "Hellas Madonna",
+      "gironi": "B - Cunei",
+      "genere_gironi": 1,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Michele Bertolini (Marco Columbro)\":2,\"Federico Giordani (L'Uomo Pi\\u00f9 Fuori Forma D'Europa)\":1}",
+      "goleador_2": "{\"Filippo Benetti\":2,\"Matteo Bazzanella\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Federico Giordani (L'Uomo Pi\u00f9 Fuori Forma D'Europa)": 1
+      },
+      "best_giocatore_2": {
+        "Filippo Benetti": 2
+      },
+      "best_portiere_1": {},
+      "best_portiere_2": {}
+    },
+    "44": {
+      "id_anagrafica_squadre_1": 21,
+      "id_anagrafica_squadre_2": 8,
+      "gol_squadra_1": 1,
+      "gol_squadra_2": 2,
+      "data": "2019-08-17 10:00:00",
+      "id_anagrafica_gironi": 7,
+      "falli_squadra_1": 2,
+      "falli_squadra_2": 3,
+      "squadra_1": "Paris San Gennar",
+      "squadra_2": "Buona La Merda",
+      "gironi": "F - Ruganti",
+      "genere_gironi": 1,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Andrea Pedrotti\":1}",
+      "goleador_2": "{\"Nicolo' Giordani\":2}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {},
+      "best_giocatore_2": {
+        "Nicolo' Giordani": 3
+      },
+      "best_portiere_1": {},
+      "best_portiere_2": {}
+    },
+    "45": {
+      "id_anagrafica_squadre_1": 16,
+      "id_anagrafica_squadre_2": 15,
+      "gol_squadra_1": 14,
+      "gol_squadra_2": 0,
+      "data": "2019-08-17 10:20:00",
+      "id_anagrafica_gironi": 8,
+      "falli_squadra_1": 1,
+      "falli_squadra_2": 1,
+      "squadra_1": "Mai Una Gioia",
+      "squadra_2": "Dmentoni (La D E' Muta)",
+      "gironi": "G - Usei",
+      "genere_gironi": 1,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Thomas Cavagna (Gresta De Cunel)\":4,\"Nadir Chtioui (Casablanca)\":2,\"Giacomo Gasparini\":2,\"Randy Cobbinah (Baghera-West Coast)\":2,\"Pietro Gasparini\":2,\"Carlo Stedile (Welcome To Paradise)\":1}",
+      "goleador_2": "{}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Randy Cobbinah (Baghera-West Coast)": 1,
+        "Pietro Gasparini": 2
+      },
+      "best_giocatore_2": {},
+      "best_portiere_1": {},
+      "best_portiere_2": {}
+    },
+    "46": {
+      "id_anagrafica_squadre_1": 22,
+      "id_anagrafica_squadre_2": 17,
+      "gol_squadra_1": 2,
+      "gol_squadra_2": 8,
+      "data": "2019-08-17 10:40:00",
+      "id_anagrafica_gironi": 9,
+      "falli_squadra_1": 1,
+      "falli_squadra_2": 0,
+      "squadra_1": "Sbarx",
+      "squadra_2": "Cacao Meravigliao",
+      "gironi": "H - Zorzi",
+      "genere_gironi": 1,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Alex Manica\":2}",
+      "goleador_2": "{\"Giacomo Larcher (Occhio Ceruleo)\":3,\"Davide Larcher (Paracetamolo)\":3,\"Leonardo Stiz (Mio Nonno)\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {},
+      "best_giocatore_2": {
+        "Giacomo Larcher (Occhio Ceruleo)": 2,
+        "Leonardo Stiz (Mio Nonno)": 1
+      },
+      "best_portiere_1": {},
+      "best_portiere_2": {}
+    },
+    "47": {
+      "id_anagrafica_squadre_1": 12,
+      "id_anagrafica_squadre_2": 14,
+      "gol_squadra_1": 0,
+      "gol_squadra_2": 6,
+      "data": "2019-08-17 11:00:00",
+      "id_anagrafica_gironi": 2,
+      "falli_squadra_1": 1,
+      "falli_squadra_2": 0,
+      "squadra_1": "The Periti Informatici",
+      "squadra_2": "E Voi De Chi Se Fioi?",
+      "gironi": "A - Cavai",
+      "genere_gironi": 1,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{}",
+      "goleador_2": "{\"Pietro Brussich (Pie' Baracus)\":5,\"Arik Kofranek\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {},
+      "best_giocatore_2": {
+        "Pietro Brussich (Pie' Baracus)": 3
+      },
+      "best_portiere_1": {
+        "Francesco Passuello (Crumiro)": 2
+      },
+      "best_portiere_2": {}
+    },
+    "48": {
+      "id_anagrafica_squadre_1": 1,
+      "id_anagrafica_squadre_2": 31,
+      "gol_squadra_1": 7,
+      "gol_squadra_2": 1,
+      "data": "2019-08-17 11:20:00",
+      "id_anagrafica_gironi": 6,
+      "falli_squadra_1": 0,
+      "falli_squadra_2": 3,
+      "squadra_1": "S.S. Tecnica Pura",
+      "squadra_2": "St'Am No Zugo",
+      "gironi": "E - Mussi",
+      "genere_gironi": 1,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Omar Russo (Lizzanella Vende Moda)\":4,\"Mirco Salvetti\":3}",
+      "goleador_2": "{\"Thomas Azzolini\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Omar Russo (Lizzanella Vende Moda)": 2,
+        "Mirco Salvetti": 1
+      },
+      "best_giocatore_2": {},
+      "best_portiere_1": {},
+      "best_portiere_2": {}
+    },
+    "49": {
+      "id_anagrafica_squadre_1": 7,
+      "id_anagrafica_squadre_2": 23,
+      "gol_squadra_1": 13,
+      "gol_squadra_2": 2,
+      "data": "2019-08-17 11:40:00",
+      "id_anagrafica_gironi": 4,
+      "falli_squadra_1": 0,
+      "falli_squadra_2": 0,
+      "squadra_1": "F.C. Savignano",
+      "squadra_2": "Il Terrone Va Di Moda",
+      "gironi": "C - Cavroni",
+      "genere_gironi": 1,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Andrea Conzatti (Caldaia)\":9,\"Alessandro Maffei \\u00a0(Fondatore Di Social Network)\":3,\"Giacomo De Zambotti (Ferro Da Stiro)\":1}",
+      "goleador_2": "{\"Davide Mattei\":1,\"Davide Gerola\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Andrea Conzatti (Caldaia)": 2,
+        "Alessandro Maffei \u00a0(Fondatore Di Social Network)": 1
+      },
+      "best_giocatore_2": {},
+      "best_portiere_1": {
+        "Samuel Di Meo": 2
+      },
+      "best_portiere_2": {
+        "Mirco Prezzi": 1
+      }
+    },
+    "50": {
+      "id_anagrafica_squadre_1": 42,
+      "id_anagrafica_squadre_2": 44,
+      "gol_squadra_1": 1,
+      "gol_squadra_2": 5,
+      "data": "2019-08-17 12:00:00",
+      "id_anagrafica_gironi": 10,
+      "falli_squadra_1": 2,
+      "falli_squadra_2": 0,
+      "squadra_1": "Le Sughe",
+      "squadra_2": "La Carica Delle 02",
+      "gironi": "A - Pojane",
+      "genere_gironi": 2,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Alessia Bonafini\":1}",
+      "goleador_2": "{\"Emma Tesini\":3,\"Marianna Bruschetti (La Assessora)\":1,\"Elena Bordato\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {},
+      "best_giocatore_2": {
+        "Elena Bordato": 1,
+        "Emma Tesini": 2
+      },
+      "best_portiere_1": {},
+      "best_portiere_2": {}
+    },
+    "51": {
+      "id_anagrafica_squadre_1": 20,
+      "id_anagrafica_squadre_2": 27,
+      "gol_squadra_1": 7,
+      "gol_squadra_2": 2,
+      "data": "2019-08-17 12:20:00",
+      "id_anagrafica_gironi": 5,
+      "falli_squadra_1": 1,
+      "falli_squadra_2": 2,
+      "squadra_1": "U.S. Guarna",
+      "squadra_2": "Soda",
+      "gironi": "D - Lumazi",
+      "genere_gironi": 1,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Elia Battisti\":5,\"Federico Nicolodi (Notti Magiche)\":1,\"Riccardo Zaffoni (Lugherim)\":1}",
+      "goleador_2": "{\"Denis Petrolli\":1,\"Elia Giordani (Mesopotamia)\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Elia Battisti": 3
+      },
+      "best_giocatore_2": {},
+      "best_portiere_1": {
+        "Michele Zaffoni": 2
+      },
+      "best_portiere_2": {
+        "Mattia Granello": 1
+      }
+    },
+    "52": {
+      "id_anagrafica_squadre_1": 3,
+      "id_anagrafica_squadre_2": 23,
+      "gol_squadra_1": 8,
+      "gol_squadra_2": 2,
+      "data": "2019-08-17 14:40:00",
+      "id_anagrafica_gironi": 4,
+      "falli_squadra_1": 3,
+      "falli_squadra_2": 2,
+      "squadra_1": "Clitoriders",
+      "squadra_2": "Il Terrone Va Di Moda",
+      "gironi": "C - Cavroni",
+      "genere_gironi": 1,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Luca Frasca (Delirium Tremens)\":3,\"Michele Merighi (La Iena Ridens)\":2,\"Andrea Giordani (Orso Bruno)\":2,\"Stefano Galvagni (Mentadent)\":1}",
+      "goleador_2": "{\"Davide Gerola\":2}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Stefano Galvagni (Mentadent)": 1,
+        "Michele Merighi (La Iena Ridens)": 2
+      },
+      "best_giocatore_2": {},
+      "best_portiere_1": {},
+      "best_portiere_2": {}
+    },
+    "53": {
+      "id_anagrafica_squadre_1": 6,
+      "id_anagrafica_squadre_2": 8,
+      "gol_squadra_1": 0,
+      "gol_squadra_2": 3,
+      "data": "2019-08-17 15:00:00",
+      "id_anagrafica_gironi": 7,
+      "falli_squadra_1": 0,
+      "falli_squadra_2": 2,
+      "squadra_1": "Caffe' Grazia",
+      "squadra_2": "Buona La Merda",
+      "gironi": "F - Ruganti",
+      "genere_gironi": 1,
+      "gialli1": "",
+      "gialli2": [
+        "Davide De Zambotti",
+        "Andrea Graziola",
+        "Matteo Giovanella",
+        "Nicolo' Giordani"
+      ],
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{}",
+      "goleador_2": "{\"Nicolo' Giordani\":2,\"Daniele Feller\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {},
+      "best_giocatore_2": {
+        "Daniele Feller": 2,
+        "Nicolo' Giordani": 1
+      },
+      "best_portiere_1": {},
+      "best_portiere_2": {}
+    },
+    "54": {
+      "id_anagrafica_squadre_1": 47,
+      "id_anagrafica_squadre_2": 35,
+      "gol_squadra_1": 7,
+      "gol_squadra_2": 1,
+      "data": "2019-08-17 15:20:00",
+      "id_anagrafica_gironi": 13,
+      "falli_squadra_1": 0,
+      "falli_squadra_2": 0,
+      "squadra_1": "Dinamo Nada",
+      "squadra_2": "Doppie Solo Due",
+      "gironi": "D - Pegore",
+      "genere_gironi": 2,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Margherita Planchestainer (Mamma Di Bambi)\":2,\"Maira Bertolini\":2,\"Sara Consolati (Colonne D'Ercole)\":2,\"Irene Tovazzi (La Marmelona)\":1}",
+      "goleador_2": "{\"Manuela Montermini\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Margherita Planchestainer (Mamma Di Bambi)": 1,
+        "Irene Tovazzi (La Marmelona)": 1
+      },
+      "best_giocatore_2": {},
+      "best_portiere_1": {
+        "Martina Niosi": 1
+      },
+      "best_portiere_2": {
+        "Fabiola Tamburini": 1
+      }
+    },
+    "55": {
+      "id_anagrafica_squadre_1": 26,
+      "id_anagrafica_squadre_2": 15,
+      "gol_squadra_1": 10,
+      "gol_squadra_2": 0,
+      "data": "2019-08-17 15:40:00",
+      "id_anagrafica_gironi": 8,
+      "falli_squadra_1": 0,
+      "falli_squadra_2": 1,
+      "squadra_1": "Clandes-Team",
+      "squadra_2": "Dmentoni (La D E' Muta)",
+      "gironi": "G - Usei",
+      "genere_gironi": 1,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Pietro Tasini\":4,\"Alberto Aste (Marmelom\\r\\n)\":3,\"Riccardo Brunelli\":2,\"Pietro Zandonai (Boyscout)\":1}",
+      "goleador_2": "{}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Daniele Foroni (Swag Foroni)": 1,
+        "Pietro Tasini": 2
+      },
+      "best_giocatore_2": {},
+      "best_portiere_1": {},
+      "best_portiere_2": {}
+    },
+    "56": {
+      "id_anagrafica_squadre_1": 19,
+      "id_anagrafica_squadre_2": 27,
+      "gol_squadra_1": 3,
+      "gol_squadra_2": 2,
+      "data": "2019-08-17 16:00:00",
+      "id_anagrafica_gironi": 5,
+      "falli_squadra_1": 2,
+      "falli_squadra_2": 4,
+      "squadra_1": "F.C. Julia",
+      "squadra_2": "Soda",
+      "gironi": "D - Lumazi",
+      "genere_gironi": 1,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Andrea Potrich (Il Brasiliano Bianco)\":2,\"Pietro Dallabernardina\":1}",
+      "goleador_2": "{\"Giulio Barozzi (Tutankhamon)\":1,\"Massimo Chiodini\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Andrea Potrich (Il Brasiliano Bianco)": 2
+      },
+      "best_giocatore_2": {
+        "Giulio Barozzi (Tutankhamon)": 1
+      },
+      "best_portiere_1": {},
+      "best_portiere_2": {}
+    },
+    "58": {
+      "id_anagrafica_squadre_1": 38,
+      "id_anagrafica_squadre_2": 36,
+      "gol_squadra_1": 6,
+      "gol_squadra_2": 4,
+      "data": "2019-08-17 16:20:00",
+      "id_anagrafica_gironi": 11,
+      "falli_squadra_1": 0,
+      "falli_squadra_2": 1,
+      "squadra_1": "Le Osce",
+      "squadra_2": "Pink Ladies",
+      "gironi": "B - Pantegane",
+      "genere_gironi": 2,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Veronica Dalbosco\":5,\"Beatrice Veronelli (Santamonica)\":1}",
+      "goleador_2": "{\"Sofia Manica\":2,\"Alessandra Zampol (Vileda\\r\\n)\":1,\"Arissa Ferrari\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Veronica Dalbosco": 3
+      },
+      "best_giocatore_2": {},
+      "best_portiere_1": {},
+      "best_portiere_2": {}
+    },
+    "59": {
+      "id_anagrafica_squadre_1": 9,
+      "id_anagrafica_squadre_2": 14,
+      "gol_squadra_1": 6,
+      "gol_squadra_2": 1,
+      "data": "2019-08-17 16:40:00",
+      "id_anagrafica_gironi": 2,
+      "falli_squadra_1": 1,
+      "falli_squadra_2": 2,
+      "squadra_1": "Mediaser.T",
+      "squadra_2": "E Voi De Chi Se Fioi?",
+      "gironi": "A - Cavai",
+      "genere_gironi": 1,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Davide Raffaelli (Giraffa Di Frassino)\":3,\"Matteo Mazzola\":2,\"Andrea Anzelini\":1}",
+      "goleador_2": "{\"Arik Kofranek\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Leonardo Parisi (Il Fratello Di Ron Weasley)": 1,
+        "Davide Raffaelli (Giraffa Di Frassino)": 2
+      },
+      "best_giocatore_2": {},
+      "best_portiere_1": {},
+      "best_portiere_2": {}
+    },
+    "60": {
+      "id_anagrafica_squadre_1": 30,
+      "id_anagrafica_squadre_2": 21,
+      "gol_squadra_1": 6,
+      "gol_squadra_2": 0,
+      "data": "2019-08-17 17:00:00",
+      "id_anagrafica_gironi": 7,
+      "falli_squadra_1": 1,
+      "falli_squadra_2": 1,
+      "squadra_1": "I Modium",
+      "squadra_2": "Paris San Gennar",
+      "gironi": "F - Ruganti",
+      "genere_gironi": 1,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Luca Barozzi (Lupin)\":2,\"Edoardo Pomarolli (Il Bello Della Piof)\":2,\"Matteo Lanaro (Il Cacciatore del Sole)\":1,\"Andrea Bertolini\":1}",
+      "goleador_2": "{}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Luca Barozzi (Lupin)": 2,
+        "Federico Pomarolli (Il Principe Guerriero)": 1
+      },
+      "best_giocatore_2": {},
+      "best_portiere_1": {},
+      "best_portiere_2": {}
+    },
+    "61": {
+      "id_anagrafica_squadre_1": 24,
+      "id_anagrafica_squadre_2": 31,
+      "gol_squadra_1": 10,
+      "gol_squadra_2": 0,
+      "data": "2019-08-17 17:20:00",
+      "id_anagrafica_gironi": 6,
+      "falli_squadra_1": 1,
+      "falli_squadra_2": 1,
+      "squadra_1": "Avanzi",
+      "squadra_2": "St'Am No Zugo",
+      "gironi": "E - Mussi",
+      "genere_gironi": 1,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Gianluca Veneri (Orsetto Lavatore)\":4,\"Leonardo Viola (L'Uomo Informe 2.0)\":3,\"Lorenzo Barozzi (Il Tagliagole Canadese)\":2,\"Luca Zorzutti (Speaker Zone)\":1}",
+      "goleador_2": "{}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Gianluca Veneri (Orsetto Lavatore)": 2,
+        "Leonardo Viola (L'Uomo Informe 2.0)": 1
+      },
+      "best_giocatore_2": {},
+      "best_portiere_1": {},
+      "best_portiere_2": {
+        "Leonardo Trinco (Corpo Nazionale)": 1
+      }
+    },
+    "62": {
+      "id_anagrafica_squadre_1": 4,
+      "id_anagrafica_squadre_2": 20,
+      "gol_squadra_1": 3,
+      "gol_squadra_2": 1,
+      "data": "2019-08-17 17:40:00",
+      "id_anagrafica_gironi": 5,
+      "falli_squadra_1": 1,
+      "falli_squadra_2": 1,
+      "squadra_1": "I Montagna",
+      "squadra_2": "U.S. Guarna",
+      "gironi": "D - Lumazi",
+      "genere_gironi": 1,
+      "gialli1": [
+        "Francesco Russo (Il Falso Balcanico)",
+        "Francesco Russo (Il Falso Balcanico)"
+      ],
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Marco Sala (Cane Rognoso)\":3}",
+      "goleador_2": "{\"Andrea Prombergher\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Federico Andreis (Bel Ragazzo)": 1,
+        "Marco Sala (Cane Rognoso)": 1
+      },
+      "best_giocatore_2": {},
+      "best_portiere_1": {},
+      "best_portiere_2": {}
+    },
+    "63": {
+      "id_anagrafica_squadre_1": 3,
+      "id_anagrafica_squadre_2": 13,
+      "gol_squadra_1": 3,
+      "gol_squadra_2": 3,
+      "data": "2019-08-17 18:00:00",
+      "id_anagrafica_gironi": 4,
+      "falli_squadra_1": 2,
+      "falli_squadra_2": 4,
+      "squadra_1": "Clitoriders",
+      "squadra_2": "Positivi All'Etanolo",
+      "gironi": "C - Cavroni",
+      "genere_gironi": 1,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Luca Frasca (Delirium Tremens)\":2,\"Michele Merighi (La Iena Ridens)\":1}",
+      "goleador_2": "{\"Michele Anselmi\":1,\"Filippo Alovisi (Tromba)\":1,\"Mirko Fasanelli\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {},
+      "best_giocatore_2": {
+        "Filippo Alovisi (Tromba)": 1,
+        "Michele Anselmi": 2
+      },
+      "best_portiere_1": {},
+      "best_portiere_2": {}
+    },
+    "64": {
+      "id_anagrafica_squadre_1": 39,
+      "id_anagrafica_squadre_2": 34,
+      "gol_squadra_1": 6,
+      "gol_squadra_2": 0,
+      "data": "2019-08-17 18:20:00",
+      "id_anagrafica_gironi": 11,
+      "falli_squadra_1": 1,
+      "falli_squadra_2": 0,
+      "squadra_1": "Una Quarta In 4",
+      "squadra_2": "Quele Del '20. Alora",
+      "gironi": "B - Pantegane",
+      "genere_gironi": 2,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Stefania Gazzini (Skeleton)\":4,\"Francesca Debiasi (David Gnomo)\":2}",
+      "goleador_2": "{}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Francesca Debiasi (David Gnomo)": 1,
+        "Stefania Gazzini (Skeleton)": 2
+      },
+      "best_giocatore_2": {},
+      "best_portiere_1": {},
+      "best_portiere_2": {}
+    },
+    "65": {
+      "id_anagrafica_squadre_1": 35,
+      "id_anagrafica_squadre_2": 33,
+      "gol_squadra_1": 2,
+      "gol_squadra_2": 2,
+      "data": "2019-08-17 18:40:00",
+      "id_anagrafica_gironi": 13,
+      "falli_squadra_1": 5,
+      "falli_squadra_2": 1,
+      "squadra_1": "Doppie Solo Due",
+      "squadra_2": "Quele Del '20. Ades",
+      "gironi": "D - Pegore",
+      "genere_gironi": 2,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Manuela Montermini\":1}",
+      "goleador_2": "{\"Debora Martini\":1,\"Martina Francescatti\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Manuela Montermini": 1,
+        "Francesca Montermini": 1
+      },
+      "best_giocatore_2": {
+        "Martina Francescatti": 1
+      },
+      "best_portiere_1": {},
+      "best_portiere_2": {}
+    },
+    "66": {
+      "id_anagrafica_squadre_1": 43,
+      "id_anagrafica_squadre_2": 37,
+      "gol_squadra_1": 4,
+      "gol_squadra_2": 0,
+      "data": "2019-08-17 19:00:00",
+      "id_anagrafica_gironi": 12,
+      "falli_squadra_1": 0,
+      "falli_squadra_2": 0,
+      "squadra_1": "Mai Un Limone",
+      "squadra_2": "Tigri Intigra Tighi",
+      "gironi": "C - Galinote",
+      "genere_gironi": 2,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Carlotta Pomarolli (La Predestinata)\":2,\"Laura Manconi (Skeletor the original)\":2}",
+      "goleador_2": "{}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Laura Manconi (Skeletor the original)": 2,
+        "Carlotta Pomarolli (La Predestinata)": 1
+      },
+      "best_giocatore_2": {},
+      "best_portiere_1": {},
+      "best_portiere_2": {}
+    },
+    "67": {
+      "id_anagrafica_squadre_1": 16,
+      "id_anagrafica_squadre_2": 29,
+      "gol_squadra_1": 3,
+      "gol_squadra_2": 2,
+      "data": "2019-08-17 19:20:00",
+      "id_anagrafica_gironi": 8,
+      "falli_squadra_1": 2,
+      "falli_squadra_2": 5,
+      "squadra_1": "Mai Una Gioia",
+      "squadra_2": "Pinguini Trentini",
+      "gironi": "G - Usei",
+      "genere_gironi": 1,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Giacomo Gasparini\":2,\"Carlo Stedile (Welcome To Paradise)\":1}",
+      "goleador_2": "{\"Alessio Farinati (Proteina)\":1,\"Yuri Andreolli\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Giacomo Gasparini": 2
+      },
+      "best_giocatore_2": {
+        "Yuri Andreolli": 1
+      },
+      "best_portiere_1": {},
+      "best_portiere_2": {}
+    },
+    "68": {
+      "id_anagrafica_squadre_1": 30,
+      "id_anagrafica_squadre_2": 6,
+      "gol_squadra_1": 1,
+      "gol_squadra_2": 1,
+      "data": "2019-08-17 19:40:00",
+      "id_anagrafica_gironi": 7,
+      "falli_squadra_1": 2,
+      "falli_squadra_2": 1,
+      "squadra_1": "I Modium",
+      "squadra_2": "Caffe' Grazia",
+      "gironi": "F - Ruganti",
+      "genere_gironi": 1,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Matteo Lanaro (Il Cacciatore del Sole)\":1}",
+      "goleador_2": "{\"Daniele Candioli (Bimbo Del Grest)\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {},
+      "best_giocatore_2": {},
+      "best_portiere_1": {
+        "Riccardo Versini (La Pertica Dela Piof)": 1
+      },
+      "best_portiere_2": {
+        "Andrea Candioli (Can Da L'Ua)": 2
+      }
+    },
+    "69": {
+      "id_anagrafica_squadre_1": 45,
+      "id_anagrafica_squadre_2": 40,
+      "gol_squadra_1": 7,
+      "gol_squadra_2": 0,
+      "data": "2019-08-17 20:00:00",
+      "id_anagrafica_gironi": 12,
+      "falli_squadra_1": 0,
+      "falli_squadra_2": 0,
+      "squadra_1": "Fruit Ninja",
+      "squadra_2": "Le Gretine",
+      "gironi": "C - Galinote",
+      "genere_gironi": 2,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Marie St\\u00f6ger (Torta Sacher)\":3,\"Giulia Scrinzi (La Bimba Bionica)\":2}",
+      "goleador_2": "{}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Giulia Scrinzi (La Bimba Bionica)": 1,
+        "Marie St\u00f6ger (Torta Sacher)": 1
+      },
+      "best_giocatore_2": {
+        "Claudia Manzana (La Bolscevica)": 1
+      },
+      "best_portiere_1": {},
+      "best_portiere_2": {}
+    },
+    "70": {
+      "id_anagrafica_squadre_1": 48,
+      "id_anagrafica_squadre_2": 46,
+      "gol_squadra_1": 1,
+      "gol_squadra_2": 2,
+      "data": "2019-08-17 21:00:00",
+      "id_anagrafica_gironi": 10,
+      "falli_squadra_1": 5,
+      "falli_squadra_2": 2,
+      "squadra_1": "Porcahontas",
+      "squadra_2": "Plus Ultra",
+      "gironi": "A - Pojane",
+      "genere_gironi": 2,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Valentina Bisoffi (Nano da Giardino)\":1}",
+      "goleador_2": "{\"Carolina Zendri (Maestrale D'Inverno)\":2}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {},
+      "best_giocatore_2": {
+        "Carolina Zendri (Maestrale D'Inverno)": 3
+      },
+      "best_portiere_1": {
+        "Alice Finarolli (Alice in Wonderland)": 1
+      },
+      "best_portiere_2": {
+        "Aurora Cavalieri": 2
+      }
+    },
+    "71": {
+      "id_anagrafica_squadre_1": 18,
+      "id_anagrafica_squadre_2": 9,
+      "gol_squadra_1": 3,
+      "gol_squadra_2": 4,
+      "data": "2019-08-17 21:20:00",
+      "id_anagrafica_gironi": 2,
+      "falli_squadra_1": 1,
+      "falli_squadra_2": 1,
+      "squadra_1": "Shark Attack",
+      "squadra_2": "Mediaser.T",
+      "gironi": "A - Cavai",
+      "genere_gironi": 1,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Mattia Baldessarini (L'Assassino Cerebrale)\":1,\"Gabriele Brentari (Mocio Vileda)\":1}",
+      "goleador_2": "{\"Davide Raffaelli (Giraffa Di Frassino)\":2,\"Leonardo Parisi (Il Fratello Di Ron Weasley)\":1,\"Andrea Anzelini\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {},
+      "best_giocatore_2": {
+        "Davide Raffaelli (Giraffa Di Frassino)": 3
+      },
+      "best_portiere_1": {
+        "Alberto Cerisara (L'Uomo Che Ha Mangiato Justin Bieber)": 1
+      },
+      "best_portiere_2": {
+        "Stefano Pizzini": 2
+      }
+    },
+    "72": {
+      "id_anagrafica_squadre_1": 10,
+      "id_anagrafica_squadre_2": 11,
+      "gol_squadra_1": 2,
+      "gol_squadra_2": 3,
+      "data": "2019-08-17 21:40:00",
+      "id_anagrafica_gironi": 3,
+      "falli_squadra_1": 1,
+      "falli_squadra_2": 4,
+      "squadra_1": "Discepoli Del Luppolo",
+      "squadra_2": "Lizzanella'S Old Sughi",
+      "gironi": "B - Cunei",
+      "genere_gironi": 1,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Federico Giordani (L'Uomo Pi\\u00f9 Fuori Forma D'Europa)\":2}",
+      "goleador_2": "{\"Federico Ignaccolo (Fidel)\":2}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Federico Giordani (L'Uomo Pi\u00f9 Fuori Forma D'Europa)": 1
+      },
+      "best_giocatore_2": {
+        "Federico Ignaccolo (Fidel)": 2
+      },
+      "best_portiere_1": {},
+      "best_portiere_2": {
+        "Federico Leonardi (Pan Carre')": 3
+      }
+    },
+    "73": {
+      "id_anagrafica_squadre_1": 1,
+      "id_anagrafica_squadre_2": 24,
+      "gol_squadra_1": 1,
+      "gol_squadra_2": 2,
+      "data": "2019-08-17 22:00:00",
+      "id_anagrafica_gironi": 6,
+      "falli_squadra_1": 0,
+      "falli_squadra_2": 2,
+      "squadra_1": "S.S. Tecnica Pura",
+      "squadra_2": "Avanzi",
+      "gironi": "E - Mussi",
+      "genere_gironi": 1,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Roberto Gasperotti (L'Uomo Senza Amici)\":1}",
+      "goleador_2": "{\"Matteo Manconi (Mancuso)\":1,\"Leonardo Viola (L'Uomo Informe 2.0)\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {},
+      "best_giocatore_2": {
+        "Matteo Manconi (Mancuso)": 2,
+        "Leonardo Viola (L'Uomo Informe 2.0)": 1
+      },
+      "best_portiere_1": {},
+      "best_portiere_2": {}
+    },
+    "74": {
+      "id_anagrafica_squadre_1": 4,
+      "id_anagrafica_squadre_2": 19,
+      "gol_squadra_1": 3,
+      "gol_squadra_2": 0,
+      "data": "2019-08-17 22:20:00",
+      "id_anagrafica_gironi": 5,
+      "falli_squadra_1": 3,
+      "falli_squadra_2": 3,
+      "squadra_1": "I Montagna",
+      "squadra_2": "F.C. Julia",
+      "gironi": "D - Lumazi",
+      "genere_gironi": 1,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Marco Sala (Cane Rognoso)\":1,\"Federico Andreis (Bel Ragazzo)\":1,\"Andrea Pedrotti\":1}",
+      "goleador_2": "{}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Marco Sala (Cane Rognoso)": 2,
+        "Federico Andreis (Bel Ragazzo)": 1
+      },
+      "best_giocatore_2": {},
+      "best_portiere_1": {
+        "Daniele Dalbosco": 3
+      },
+      "best_portiere_2": {}
+    },
+    "103": {
+      "id_anagrafica_squadre_1": 34,
+      "id_anagrafica_squadre_2": 47,
+      "gol_squadra_1": 1,
+      "gol_squadra_2": 8,
+      "data": "2019-08-17 22:40:00",
+      "id_anagrafica_gironi": 2004,
+      "falli_squadra_1": 1,
+      "falli_squadra_2": 3,
+      "squadra_1": "Quele Del '20. Alora",
+      "squadra_2": "Dinamo Nada",
+      "gironi": 2004,
+      "genere_gironi": 2004,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Margherita Prezzi (Acquaragia)\":1}",
+      "goleador_2": "{\"Margherita Planchestainer (Mamma Di Bambi)\":5,\"Irene Tovazzi (La Marmelona)\":2,\"Maira Bertolini\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {},
+      "best_giocatore_2": {
+        "Margherita Planchestainer (Mamma Di Bambi)": 2,
+        "Irene Tovazzi (La Marmelona)": 1
+      },
+      "best_portiere_1": {},
+      "best_portiere_2": {
+        "Martina Niosi": 1
+      }
+    },
+    "105": {
+      "id_anagrafica_squadre_1": 17,
+      "id_anagrafica_squadre_2": 16,
+      "gol_squadra_1": 1,
+      "gol_squadra_2": 3,
+      "data": "2019-08-17 23:20:00",
+      "id_anagrafica_gironi": 1008,
+      "falli_squadra_1": 0,
+      "falli_squadra_2": 0,
+      "squadra_1": "Cacao Meravigliao",
+      "squadra_2": "Mai Una Gioia",
+      "gironi": 1008,
+      "genere_gironi": 1008,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Leonardo Stiz (Mio Nonno)\":1}",
+      "goleador_2": "{\"Carlo Stedile (Welcome To Paradise)\":1}",
+      "autogol1": "{}",
+      "autogol2": "{\"Nadir Chtioui (Casablanca)\":1,\"Thomas Cavagna (Gresta De Cunel)\":1}",
+      "best_giocatore_1": {},
+      "best_giocatore_2": {},
+      "best_portiere_1": {
+        "Jakub Lasko": 1
+      },
+      "best_portiere_2": {
+        "Thomas Debiasi (L'Organizzatore Di Eventi Bruti)": 2
+      }
+    },
+    "108": {
+      "id_anagrafica_squadre_1": 45,
+      "id_anagrafica_squadre_2": 44,
+      "gol_squadra_1": 1,
+      "gol_squadra_2": 6,
+      "data": "2019-08-17 23:00:00",
+      "id_anagrafica_gironi": 2004,
+      "falli_squadra_1": 0,
+      "falli_squadra_2": 1,
+      "squadra_1": "Fruit Ninja",
+      "squadra_2": "La Carica Delle 02",
+      "gironi": 2004,
+      "genere_gironi": 2004,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Manuela Perini (Callisto)\":1}",
+      "goleador_2": "{\"Emma Tesini\":4,\"Elena Bordato\":2}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {},
+      "best_giocatore_2": {
+        "Emma Tesini": 3
+      },
+      "best_portiere_1": {},
+      "best_portiere_2": {
+        "Margherita Bottesi (Pe Williams)": 2
+      }
+    },
+    "109": {
+      "id_anagrafica_squadre_1": 43,
+      "id_anagrafica_squadre_2": 48,
+      "gol_squadra_1": 4,
+      "gol_squadra_2": 2,
+      "data": "2019-08-17 23:40:00",
+      "id_anagrafica_gironi": 2004,
+      "falli_squadra_1": 2,
+      "falli_squadra_2": 4,
+      "squadra_1": "Mai Un Limone",
+      "squadra_2": "Porcahontas",
+      "gironi": 2004,
+      "genere_gironi": 2004,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Carlotta Pomarolli (La Predestinata)\":3,\"Laura Manconi (Skeletor the original)\":1}",
+      "goleador_2": "{\"Veronica Osele (Marion Johns)\":1,\"Licia Fondriest (Anza)\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Laura Manconi (Skeletor the original)": 1,
+        "Carlotta Pomarolli (La Predestinata)": 2
+      },
+      "best_giocatore_2": {},
+      "best_portiere_1": {
+        "Francesca Sartori (Nastra Isolanta)": 1
+      },
+      "best_portiere_2": {}
+    },
+    "110": {
+      "id_anagrafica_squadre_1": 18,
+      "id_anagrafica_squadre_2": 11,
+      "gol_squadra_1": 3,
+      "gol_squadra_2": 1,
+      "data": "2019-08-18 10:00:00",
+      "id_anagrafica_gironi": 1008,
+      "falli_squadra_1": 0,
+      "falli_squadra_2": 0,
+      "squadra_1": "Shark Attack",
+      "squadra_2": "Lizzanella'S Old Sughi",
+      "gironi": 1008,
+      "genere_gironi": 1008,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Mattia Baldessarini (L'Assassino Cerebrale)\":3}",
+      "goleador_2": "{\"Daniele Feltrinelli (La Transiberiana)\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Mattia Baldessarini (L'Assassino Cerebrale)": 3
+      },
+      "best_giocatore_2": {},
+      "best_portiere_1": {
+        "Alberto Cerisara (L'Uomo Che Ha Mangiato Justin Bieber)": 3
+      },
+      "best_portiere_2": {}
+    },
+    "111": {
+      "id_anagrafica_squadre_1": 9,
+      "id_anagrafica_squadre_2": 2,
+      "gol_squadra_1": 4,
+      "gol_squadra_2": 2,
+      "data": "2019-08-18 10:40:00",
+      "id_anagrafica_gironi": 1008,
+      "falli_squadra_1": 5,
+      "falli_squadra_2": 4,
+      "squadra_1": "Mediaser.T",
+      "squadra_2": "Hellas Madonna",
+      "gironi": 1008,
+      "genere_gironi": 1008,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Leonardo Parisi (Il Fratello Di Ron Weasley)\":3}",
+      "goleador_2": "{\"Filippo Benetti\":1,\"Jacopo Ricci\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Leonardo Parisi (Il Fratello Di Ron Weasley)": 2
+      },
+      "best_giocatore_2": {
+        "Jacopo Ricci": 1
+      },
+      "best_portiere_1": {
+        "Stefano Pizzini": 2
+      },
+      "best_portiere_2": {
+        "Raffaele Prezzi": 1
+      }
+    },
+    "112": {
+      "id_anagrafica_squadre_1": 24,
+      "id_anagrafica_squadre_2": 8,
+      "gol_squadra_1": 4,
+      "gol_squadra_2": 2,
+      "data": "2019-08-18 11:00:00",
+      "id_anagrafica_gironi": 1008,
+      "falli_squadra_1": 3,
+      "falli_squadra_2": 2,
+      "squadra_1": "Avanzi",
+      "squadra_2": "Buona La Merda",
+      "gironi": 1008,
+      "genere_gironi": 1008,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Lorenzo Barozzi (Il Tagliagole Canadese)\":3,\"Leonardo Viola (L'Uomo Informe 2.0)\":1}",
+      "goleador_2": "{\"Daniele Feller\":2}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Lorenzo Barozzi (Il Tagliagole Canadese)": 3
+      },
+      "best_giocatore_2": {},
+      "best_portiere_1": {
+        "Michele Ruele (Ruy Misteryo)": 2
+      },
+      "best_portiere_2": {}
+    },
+    "113": {
+      "id_anagrafica_squadre_1": 39,
+      "id_anagrafica_squadre_2": 33,
+      "gol_squadra_1": 4,
+      "gol_squadra_2": 2,
+      "data": "2019-08-18 11:20:00",
+      "id_anagrafica_gironi": 2004,
+      "falli_squadra_1": 0,
+      "falli_squadra_2": 1,
+      "squadra_1": "Una Quarta In 4",
+      "squadra_2": "Quele Del '20. Ades",
+      "gironi": 2004,
+      "genere_gironi": 2004,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Francesca Debiasi (David Gnomo)\":2,\"Stefania Gazzini (Skeleton)\":2}",
+      "goleador_2": "{\"Martina Francescatti\":2}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Francesca Debiasi (David Gnomo)": 1,
+        "Stefania Gazzini (Skeleton)": 2
+      },
+      "best_giocatore_2": {},
+      "best_portiere_1": {
+        "Valeria Paiola": 1
+      },
+      "best_portiere_2": {
+        "Arianna Barozzi (Puccettina\r\n)": 1
+      }
+    },
+    "114": {
+      "id_anagrafica_squadre_1": 28,
+      "id_anagrafica_squadre_2": 29,
+      "gol_squadra_1": 1,
+      "gol_squadra_2": 6,
+      "data": "2019-08-18 12:00:00",
+      "id_anagrafica_gironi": 1008,
+      "falli_squadra_1": 1,
+      "falli_squadra_2": 2,
+      "squadra_1": "Fel Lazio",
+      "squadra_2": "Pinguini Trentini",
+      "gironi": 1008,
+      "genere_gironi": 1008,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Mauro Prezzi (Il Sergente Di Via Al Cristo)\":1}",
+      "goleador_2": "{\"Alessio Farinati (Proteina)\":4,\"Yuri Andreolli\":1,\"Davide Manica (Pala Eolica)\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {},
+      "best_giocatore_2": {
+        "Yuri Andreolli": 1,
+        "Alessio Farinati (Proteina)": 2
+      },
+      "best_portiere_1": {},
+      "best_portiere_2": {}
+    },
+    "115": {
+      "id_anagrafica_squadre_1": 3,
+      "id_anagrafica_squadre_2": 19,
+      "gol_squadra_1": 9,
+      "gol_squadra_2": 2,
+      "data": "2019-08-18 10:20:00",
+      "id_anagrafica_gironi": 1008,
+      "falli_squadra_1": 3,
+      "falli_squadra_2": 3,
+      "squadra_1": "Clitoriders",
+      "squadra_2": "F.C. Julia",
+      "gironi": 1008,
+      "genere_gironi": 1008,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Luca Frasca (Delirium Tremens)\":5,\"Michele Merighi (La Iena Ridens)\":2,\"Andrea Giordani (Orso Bruno)\":1,\"Stefano Galvagni (Mentadent)\":1}",
+      "goleador_2": "{\"Pietro Dallabernardina\":1,\"Giovanni Zamboni (Nano Malefico)\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Luca Frasca (Delirium Tremens)": 2,
+        "Michele Merighi (La Iena Ridens)": 1
+      },
+      "best_giocatore_2": {},
+      "best_portiere_1": {
+        "Stefano Tita (Giannizzero)": 2
+      },
+      "best_portiere_2": {}
+    },
+    "116": {
+      "id_anagrafica_squadre_1": 30,
+      "id_anagrafica_squadre_2": 1,
+      "gol_squadra_1": 4,
+      "gol_squadra_2": 3,
+      "data": "2019-08-18 11:40:00",
+      "id_anagrafica_gironi": 1008,
+      "falli_squadra_1": 1,
+      "falli_squadra_2": 4,
+      "squadra_1": "I Modium",
+      "squadra_2": "S.S. Tecnica Pura",
+      "gironi": 1008,
+      "genere_gironi": 1008,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Luca Barozzi (Lupin)\":1,\"Edoardo Pomarolli (Il Bello Della Piof)\":1,\"Marco Sartorelli (Il Playboy Della Busa)\":1}",
+      "goleador_2": "{\"Mirco Salvetti\":2,\"Matteo Azzolini\":1}",
+      "autogol1": "{\"Federico Pomarolli (Il Principe Guerriero)\":1}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Marco Sartorelli (Il Playboy Della Busa)": 1
+      },
+      "best_giocatore_2": {
+        "Mirco Salvetti": 2
+      },
+      "best_portiere_1": {
+        "Riccardo Versini (La Pertica Dela Piof)": 1
+      },
+      "best_portiere_2": {}
+    },
+    "117": {
+      "id_anagrafica_squadre_1": 7,
+      "id_anagrafica_squadre_2": 4,
+      "gol_squadra_1": 0,
+      "gol_squadra_2": 3,
+      "data": "2019-08-18 12:20:00",
+      "id_anagrafica_gironi": 1008,
+      "falli_squadra_1": 1,
+      "falli_squadra_2": 3,
+      "squadra_1": "F.C. Savignano",
+      "squadra_2": "I Montagna",
+      "gironi": 1008,
+      "genere_gironi": 1008,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{}",
+      "goleador_2": "{\"Andrea Pedrotti\":2,\"Marco Sala (Cane Rognoso)\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {},
+      "best_giocatore_2": {
+        "Andrea Pedrotti": 2,
+        "Marco Sala (Cane Rognoso)": 1
+      },
+      "best_portiere_1": {},
+      "best_portiere_2": {
+        "Daniele Dalbosco": 2
+      }
+    },
+    "118": {
+      "id_anagrafica_squadre_1": 16,
+      "id_anagrafica_squadre_2": 24,
+      "gol_squadra_1": 5,
+      "gol_squadra_2": 4,
+      "data": "2019-08-18 14:40:00",
+      "id_anagrafica_gironi": 1004,
+      "falli_squadra_1": 2,
+      "falli_squadra_2": 2,
+      "squadra_1": "Mai Una Gioia",
+      "squadra_2": "Avanzi",
+      "gironi": 1004,
+      "genere_gironi": 1004,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Carlo Stedile (Welcome To Paradise)\":1,\"Nadir Chtioui (Casablanca)\":1}",
+      "goleador_2": "{\"Leonardo Viola (L'Uomo Informe 2.0)\":2,\"Matteo Manconi (Mancuso)\":1}",
+      "autogol1": "{\"Nadir Chtioui (Casablanca)\":1,\"Thomas Cavagna (Gresta De Cunel)\":1}",
+      "autogol2": "{\"Leonardo Viola (L'Uomo Informe 2.0)\":1}",
+      "best_giocatore_1": {},
+      "best_giocatore_2": {
+        "Leonardo Viola (L'Uomo Informe 2.0)": 2
+      },
+      "best_portiere_1": {
+        "Thomas Debiasi (L'Organizzatore Di Eventi Bruti)": 1
+      },
+      "best_portiere_2": {
+        "Michele Ruele (Ruy Misteryo)": 2
+      }
+    },
+    "119": {
+      "id_anagrafica_squadre_1": 18,
+      "id_anagrafica_squadre_2": 4,
+      "gol_squadra_1": 4,
+      "gol_squadra_2": 5,
+      "data": "2019-08-18 15:10:00",
+      "id_anagrafica_gironi": 1004,
+      "falli_squadra_1": 1,
+      "falli_squadra_2": 0,
+      "squadra_1": "Shark Attack",
+      "squadra_2": "I Montagna",
+      "gironi": 1004,
+      "genere_gironi": 1004,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Mattia Baldessarini (L'Assassino Cerebrale)\":2,\"Mattia Festi (Plastic Man)\":1,\"Riccardo Saccani (Rosso Malpelo)\":1}",
+      "goleador_2": "{\"Marco Sala (Cane Rognoso)\":2,\"Federico Andreis (Bel Ragazzo)\":2,\"Daniele Dalbosco\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Mattia Baldessarini (L'Assassino Cerebrale)": 2
+      },
+      "best_giocatore_2": {
+        "Marco Sala (Cane Rognoso)": 1
+      },
+      "best_portiere_1": {},
+      "best_portiere_2": {}
+    },
+    "120": {
+      "id_anagrafica_squadre_1": 30,
+      "id_anagrafica_squadre_2": 29,
+      "gol_squadra_1": 3,
+      "gol_squadra_2": 0,
+      "data": "2019-08-18 15:40:00",
+      "id_anagrafica_gironi": 1004,
+      "falli_squadra_1": 2,
+      "falli_squadra_2": 2,
+      "squadra_1": "I Modium",
+      "squadra_2": "Pinguini Trentini",
+      "gironi": 1004,
+      "genere_gironi": 1004,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Luca Barozzi (Lupin)\":1,\"Federico Pomarolli (Il Principe Guerriero)\":1,\"Andrea Bertolini\":1}",
+      "goleador_2": "{}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Luca Barozzi (Lupin)": 2
+      },
+      "best_giocatore_2": {},
+      "best_portiere_1": {
+        "Andrea Bertolini": 1
+      },
+      "best_portiere_2": {
+        "Leonardo Ceschini (Pan Bauletto)": 2
+      }
+    },
+    "121": {
+      "id_anagrafica_squadre_1": 3,
+      "id_anagrafica_squadre_2": 9,
+      "gol_squadra_1": 6,
+      "gol_squadra_2": 4,
+      "data": "2019-08-18 16:10:00",
+      "id_anagrafica_gironi": 1004,
+      "falli_squadra_1": 2,
+      "falli_squadra_2": 1,
+      "squadra_1": "Clitoriders",
+      "squadra_2": "Mediaser.T",
+      "gironi": 1004,
+      "genere_gironi": 1004,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Michele Merighi (La Iena Ridens)\":4,\"Luca Frasca (Delirium Tremens)\":1,\"Stefano Galvagni (Mentadent)\":1}",
+      "goleador_2": "{\"Leonardo Parisi (Il Fratello Di Ron Weasley)\":3,\"Andrea Anzelini\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Michele Merighi (La Iena Ridens)": 3
+      },
+      "best_giocatore_2": {},
+      "best_portiere_1": {},
+      "best_portiere_2": {
+        "Stefano Pizzini": 2
+      }
+    },
+    "122": {
+      "id_anagrafica_squadre_1": 36,
+      "id_anagrafica_squadre_2": 40,
+      "gol_squadra_1": 2,
+      "gol_squadra_2": 5,
+      "data": "2019-08-18 16:30:00",
+      "id_anagrafica_gironi": 2000,
+      "falli_squadra_1": 0,
+      "falli_squadra_2": 1,
+      "squadra_1": "Pink Ladies",
+      "squadra_2": "Le Gretine",
+      "gironi": 2000,
+      "genere_gironi": 2000,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Alessandra Zampol (Vileda\\r\\n)\":1,\"Elisa Moratelli\":1}",
+      "goleador_2": "{\"Claudia Manzana (La Bolscevica)\":4,\"Federica Bertolli (Ectoplasma)\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {},
+      "best_giocatore_2": {
+        "Claudia Manzana (La Bolscevica)": 2
+      },
+      "best_portiere_1": {},
+      "best_portiere_2": {}
+    },
+    "123": {
+      "id_anagrafica_squadre_1": 42,
+      "id_anagrafica_squadre_2": 35,
+      "gol_squadra_1": 2,
+      "gol_squadra_2": 6,
+      "data": "2019-08-18 16:50:00",
+      "id_anagrafica_gironi": 2000,
+      "falli_squadra_1": 0,
+      "falli_squadra_2": 1,
+      "squadra_1": "Le Sughe",
+      "squadra_2": "Doppie Solo Due",
+      "gironi": 2000,
+      "genere_gironi": 2000,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Anna Rigo\":1}",
+      "goleador_2": "{\"Manuela Montermini\":5}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {},
+      "best_giocatore_2": {
+        "Manuela Montermini": 2
+      },
+      "best_portiere_1": {},
+      "best_portiere_2": {}
+    },
+    "124": {
+      "id_anagrafica_squadre_1": 38,
+      "id_anagrafica_squadre_2": 41,
+      "gol_squadra_1": 1,
+      "gol_squadra_2": 5,
+      "data": "2019-08-18 17:10:00",
+      "id_anagrafica_gironi": 2000,
+      "falli_squadra_1": 0,
+      "falli_squadra_2": 0,
+      "squadra_1": "Le Osce",
+      "squadra_2": "Up-Pero'",
+      "gironi": 2000,
+      "genere_gironi": 2000,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Beatrice Veronelli (Santamonica)\":1}",
+      "goleador_2": "{\"Rachele Gugole (Pannocchia)\":2,\"Matilde Gugole (Asfidanken)\":2,\"Serena Sega (Topa da Biblioteca)\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {},
+      "best_giocatore_2": {
+        "Matilde Gugole (Asfidanken)": 1,
+        "Rachele Gugole (Pannocchia)": 1
+      },
+      "best_portiere_1": {},
+      "best_portiere_2": {}
+    },
+    "125": {
+      "id_anagrafica_squadre_1": 46,
+      "id_anagrafica_squadre_2": 37,
+      "gol_squadra_1": 2,
+      "gol_squadra_2": 1,
+      "data": "2019-08-18 17:30:00",
+      "id_anagrafica_gironi": 2000,
+      "falli_squadra_1": 1,
+      "falli_squadra_2": 2,
+      "squadra_1": "Plus Ultra",
+      "squadra_2": "Tigri Intigra Tighi",
+      "gironi": 2000,
+      "genere_gironi": 2000,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Erika Ricci (Erikacollakappa)\":1,\"Carolina Zendri (Maestrale D'Inverno)\":1}",
+      "goleador_2": "{\"Valentina Perghem\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Carolina Zendri (Maestrale D'Inverno)": 2
+      },
+      "best_giocatore_2": {
+        "Valentina Perghem": 1
+      },
+      "best_portiere_1": {
+        "Aurora Cavalieri": 3
+      },
+      "best_portiere_2": {}
+    },
+    "126": {
+      "id_anagrafica_squadre_1": 44,
+      "id_anagrafica_squadre_2": 47,
+      "gol_squadra_1": 2,
+      "gol_squadra_2": 6,
+      "data": "2019-08-18 18:00:00",
+      "id_anagrafica_gironi": 2002,
+      "falli_squadra_1": 3,
+      "falli_squadra_2": 2,
+      "squadra_1": "La Carica Delle 02",
+      "squadra_2": "Dinamo Nada",
+      "gironi": 2002,
+      "genere_gironi": 2002,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Emma Tesini\":1,\"Marianna Bruschetti (La Assessora)\":1}",
+      "goleador_2": "{\"Sara Consolati (Colonne D'Ercole)\":3,\"Margherita Planchestainer (Mamma Di Bambi)\":1,\"Maira Bertolini\":1,\"Irene Tovazzi (La Marmelona)\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Emma Tesini": 2
+      },
+      "best_giocatore_2": {
+        "Irene Tovazzi (La Marmelona)": 1
+      },
+      "best_portiere_1": {
+        "Margherita Bottesi (Pe Williams)": 3
+      },
+      "best_portiere_2": {}
+    },
+    "127": {
+      "id_anagrafica_squadre_1": 39,
+      "id_anagrafica_squadre_2": 43,
+      "gol_squadra_1": 1,
+      "gol_squadra_2": 5,
+      "data": "2019-08-18 19:30:00",
+      "id_anagrafica_gironi": 2002,
+      "falli_squadra_1": 0,
+      "falli_squadra_2": 1,
+      "squadra_1": "Una Quarta In 4",
+      "squadra_2": "Mai Un Limone",
+      "gironi": 2002,
+      "genere_gironi": 2002,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Stefania Gazzini (Skeleton)\":1}",
+      "goleador_2": "{\"Laura Manconi (Skeletor the original)\":2,\"Carlotta Pomarolli (La Predestinata)\":2,\"Chiara Deimichei\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {},
+      "best_giocatore_2": {
+        "Laura Manconi (Skeletor the original)": 1,
+        "Carlotta Pomarolli (La Predestinata)": 2
+      },
+      "best_portiere_1": {
+        "Valeria Paiola": 1
+      },
+      "best_portiere_2": {
+        "Francesca Sartori (Nastra Isolanta)": 2
+      }
+    },
+    "128": {
+      "id_anagrafica_squadre_1": 16,
+      "id_anagrafica_squadre_2": 3,
+      "gol_squadra_1": 3,
+      "gol_squadra_2": 1,
+      "data": "2019-08-18 18:30:00",
+      "id_anagrafica_gironi": 1002,
+      "falli_squadra_1": 4,
+      "falli_squadra_2": 1,
+      "squadra_1": "Mai Una Gioia",
+      "squadra_2": "Clitoriders",
+      "gironi": 1002,
+      "genere_gironi": 1002,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Carlo Stedile (Welcome To Paradise)\":2}",
+      "goleador_2": "{\"Luca Frasca (Delirium Tremens)\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Carlo Stedile (Welcome To Paradise)": 3
+      },
+      "best_giocatore_2": {},
+      "best_portiere_1": {
+        "Thomas Debiasi (L'Organizzatore Di Eventi Bruti)": 2
+      },
+      "best_portiere_2": {}
+    },
+    "129": {
+      "id_anagrafica_squadre_1": 4,
+      "id_anagrafica_squadre_2": 30,
+      "gol_squadra_1": 3,
+      "gol_squadra_2": 4,
+      "data": "2019-08-18 19:00:00",
+      "id_anagrafica_gironi": 1002,
+      "falli_squadra_1": 3,
+      "falli_squadra_2": 3,
+      "squadra_1": "I Montagna",
+      "squadra_2": "I Modium",
+      "gironi": 1002,
+      "genere_gironi": 1002,
+      "gialli1": [
+        "Federico Andreis (Bel Ragazzo)",
+        "Francesco Russo (Il Falso Balcanico)"
+      ],
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Federico Andreis (Bel Ragazzo)\":1,\"Marco Sala (Cane Rognoso)\":1}",
+      "goleador_2": "{\"Marco Sartorelli (Il Playboy Della Busa)\":2}",
+      "autogol1": "{\"Marco Sala (Cane Rognoso)\":1}",
+      "autogol2": "{\"Andrea Bertolini\":1,\"Edoardo Pomarolli (Il Bello Della Piof)\":1}",
+      "best_giocatore_1": {},
+      "best_giocatore_2": {
+        "Luca Barozzi (Lupin)": 1,
+        "Marco Sartorelli (Il Playboy Della Busa)": 2
+      },
+      "best_portiere_1": {
+        "Daniele Dalbosco": 1
+      },
+      "best_portiere_2": {
+        "Riccardo Versini (La Pertica Dela Piof)": 2
+      }
+    },
+    "130": {
+      "id_anagrafica_squadre_1": 3,
+      "id_anagrafica_squadre_2": 4,
+      "gol_squadra_1": 9,
+      "gol_squadra_2": 6,
+      "data": "2019-08-18 21:00:00",
+      "id_anagrafica_gironi": 1000,
+      "falli_squadra_1": 0,
+      "falli_squadra_2": 1,
+      "squadra_1": "Clitoriders",
+      "squadra_2": "I Montagna",
+      "gironi": 1000,
+      "genere_gironi": 1000,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Michele Merighi (La Iena Ridens)\":4,\"Luca Frasca (Delirium Tremens)\":3,\"Andrea Giordani (Orso Bruno)\":1}",
+      "goleador_2": "{\"Marco Sala (Cane Rognoso)\":3,\"Federico Andreis (Bel Ragazzo)\":2}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {
+        "Luca Frasca (Delirium Tremens)": 1
+      },
+      "best_giocatore_2": {
+        "Federico Andreis (Bel Ragazzo)": 2
+      },
+      "best_portiere_1": {},
+      "best_portiere_2": {}
+    },
+    "131": {
+      "id_anagrafica_squadre_1": 30,
+      "id_anagrafica_squadre_2": 16,
+      "gol_squadra_1": 2,
+      "gol_squadra_2": 3,
+      "data": "2019-08-18 22:00:00",
+      "id_anagrafica_gironi": 1001,
+      "falli_squadra_1": 5,
+      "falli_squadra_2": 2,
+      "squadra_1": "I Modium",
+      "squadra_2": "Mai Una Gioia",
+      "gironi": 1001,
+      "genere_gironi": 1001,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Luca Barozzi (Lupin)\":1,\"Federico Pomarolli (Il Principe Guerriero)\":1}",
+      "goleador_2": "{\"Giacomo Gasparini\":2,\"Carlo Stedile (Welcome To Paradise)\":1}",
+      "autogol1": "{}",
+      "autogol2": "{}",
+      "best_giocatore_1": {},
+      "best_giocatore_2": {
+        "Giacomo Gasparini": 1,
+        "Carlo Stedile (Welcome To Paradise)": 2
+      },
+      "best_portiere_1": {},
+      "best_portiere_2": {
+        "Thomas Debiasi (L'Organizzatore Di Eventi Bruti)": 2
+      }
+    },
+    "135": {
+      "id_anagrafica_squadre_1": 44,
+      "id_anagrafica_squadre_2": 39,
+      "gol_squadra_1": 2,
+      "gol_squadra_2": 3,
+      "data": "2019-08-18 20:30:00",
+      "id_anagrafica_gironi": 2000,
+      "falli_squadra_1": 1,
+      "falli_squadra_2": 2,
+      "squadra_1": "La Carica Delle 02",
+      "squadra_2": "Una Quarta In 4",
+      "gironi": 2000,
+      "genere_gironi": 2000,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Emma Tesini\":1}",
+      "goleador_2": "{\"Francesca Debiasi (David Gnomo)\":1}",
+      "autogol1": "{\"Elena Bordato\":1}",
+      "autogol2": "{\"Stefania Gazzini (Skeleton)\":1,\"Nicol Filippi (Capitale Umano)\":1}",
+      "best_giocatore_1": {
+        "Emma Tesini": 2
+      },
+      "best_giocatore_2": {
+        "Stefania Gazzini (Skeleton)": 1
+      },
+      "best_portiere_1": {
+        "Margherita Bottesi (Pe Williams)": 2
+      },
+      "best_portiere_2": {
+        "Valeria Paiola": 1
+      }
+    },
+    "136": {
+      "id_anagrafica_squadre_1": 43,
+      "id_anagrafica_squadre_2": 47,
+      "gol_squadra_1": 4,
+      "gol_squadra_2": 5,
+      "data": "2019-08-18 21:30:00",
+      "id_anagrafica_gironi": 2001,
+      "falli_squadra_1": 1,
+      "falli_squadra_2": 4,
+      "squadra_1": "Mai Un Limone",
+      "squadra_2": "Dinamo Nada",
+      "gironi": 2001,
+      "genere_gironi": 2001,
+      "gialli1": "",
+      "gialli2": "",
+      "rossi1": "",
+      "rossi2": "",
+      "goleador_1": "{\"Laura Manconi (Skeletor the original)\":2,\"Carlotta Pomarolli (La Predestinata)\":1}",
+      "goleador_2": "{\"Sara Consolati (Colonne D'Ercole)\":2,\"Irene Tovazzi (La Marmelona)\":1}",
+      "autogol1": "{\"Laura Manconi (Skeletor the original)\":1}",
+      "autogol2": "{\"Margherita Planchestainer (Mamma Di Bambi)\":1,\"Sara Consolati (Colonne D'Ercole)\":1}",
+      "best_giocatore_1": {
+        "Laura Manconi (Skeletor the original)": 1,
+        "Carlotta Pomarolli (La Predestinata)": 1
+      },
+      "best_giocatore_2": {
+        "Irene Tovazzi (La Marmelona)": 1
+      },
+      "best_portiere_1": {
+        "Francesca Sartori (Nastra Isolanta)": 1
+      },
+      "best_portiere_2": {
+        "Martina Niosi": 1
+      }
+    }
+  }
+}

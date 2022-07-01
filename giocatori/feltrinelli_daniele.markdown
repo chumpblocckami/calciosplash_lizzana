@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 12:42:16.091665
+date: 2022-07-01 16:03:37.523706
 categories: torneo
 permalink: /giocatore/feltrinelli_daniele/
 ---
@@ -16,6 +16,7 @@ permalink: /giocatore/feltrinelli_daniele/
 
 |Anno|Squadra|Soprannome|
 |:---:|---|---|
+|2021|LizzanellaAllSughi|La Transiberiana|
 |2019|Lizzanella'S Old Sughi|La Transiberiana|
 |2018|Lizzanella's Old Sughi|La Transiberiana|
 |2017|Lizzanella's old sughi||
@@ -27,18 +28,18 @@ permalink: /giocatore/feltrinelli_daniele/
 ## Goal
 ----
 
-| |2019|2018|2017|2016|2015|2014| Totale |
-|---|---|---|---|---|---|---|---|
-|Goal|3|5|1|5|1|2|17|
-|Autogoal|0|0|0|0|0|1|1|
+| |2021|2019|2018|2017|2016|2015|2014| Totale |
+|---|---|---|---|---|---|---|---|---|
+|Goal|2|3|5|1|5|1|2|19|
+|Autogoal|0|0|0|0|0|0|1|1|
 
 
 ## Statistiche
 ----
 
-| |2019|2018|2017|2016|2015|2014| Totale |
-|---|---|---|---|---|---|---|---|
-|Gialli|0|0|0|0|0|0|0|
-|Rossi|0|0|0|0|0|0|0|
-|Best player|0|2|0|1|1|1|5|
-|Stelle|0|2|0|1|1|1|5|
+| |2021|2019|2018|2017|2016|2015|2014| Totale |
+|---|---|---|---|---|---|---|---|---|
+|Gialli|0|0|0|0|0|0|0|0|
+|Rossi|0|0|0|0|0|0|0|0|
+|Best player|0|0|2|0|1|1|1|5|
+|Stelle|0|0|2|0|1|1|1|5|

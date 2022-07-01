@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 12:42:16.162315
+date: 2022-07-01 16:03:37.707556
 categories: torneo
 permalink: /giocatore/ceschini_leonardo/
 ---
@@ -16,6 +16,7 @@ permalink: /giocatore/ceschini_leonardo/
 
 |Anno|Squadra|Soprannome|
 |:---:|---|---|
+|2021|PinguiniTrentini|Pan Bauletto|
 |2019|Pinguini Trentini|Pan Bauletto|
 |2018|Pinguini Trentini|Pan bauletto|
 |2016|Pinguini Trentini||
@@ -26,18 +27,18 @@ permalink: /giocatore/ceschini_leonardo/
 ## Goal
 ----
 
-| |2019|2018|2016|2015|2014| Totale |
-|---|---|---|---|---|---|---|
-|Goal|0|0|0|0|0|0|
-|Autogoal|0|0|0|0|0|0|
+| |2021|2019|2018|2016|2015|2014| Totale |
+|---|---|---|---|---|---|---|---|
+|Goal|0|0|0|0|0|0|0|
+|Autogoal|0|0|0|0|0|0|0|
 
 
 ## Statistiche
 ----
 
-| |2019|2018|2016|2015|2014| Totale |
-|---|---|---|---|---|---|---|
-|Gialli|0|0|0|0|0|0|
-|Rossi|0|0|0|0|0|0|
-|Best player|1|3|4|5|3|16|
-|Stelle|2|4|5|5|5|21|
+| |2021|2019|2018|2016|2015|2014| Totale |
+|---|---|---|---|---|---|---|---|
+|Gialli|0|0|0|0|0|0|0|
+|Rossi|0|0|0|0|0|0|0|
+|Best player|2|1|3|4|5|3|18|
+|Stelle|4|2|4|5|5|5|25|

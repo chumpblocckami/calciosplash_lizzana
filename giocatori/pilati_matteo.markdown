@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 12:42:15.990227
+date: 2022-07-01 16:03:37.277737
 categories: torneo
 permalink: /giocatore/pilati_matteo/
 ---
@@ -16,6 +16,7 @@ permalink: /giocatore/pilati_matteo/
 
 |Anno|Squadra|Soprannome|
 |:---:|---|---|
+|2021|OSolENott|Ponzio Pilati|
 |2019|Fel Lazio|Ponzio Pilati|
 |2018|Fel. Lazio|Ponzio Pilati|
 |2017|Tutto Capsule Rovereto||
@@ -27,18 +28,18 @@ permalink: /giocatore/pilati_matteo/
 ## Goal
 ----
 
-| |2019|2018|2017|2016|2015|2014| Totale |
-|---|---|---|---|---|---|---|---|
-|Goal|1|0|0|0|1|0|2|
-|Autogoal|0|0|0|0|0|0|0|
+| |2021|2019|2018|2017|2016|2015|2014| Totale |
+|---|---|---|---|---|---|---|---|---|
+|Goal|0|1|0|0|0|1|0|2|
+|Autogoal|0|0|0|0|0|0|0|0|
 
 
 ## Statistiche
 ----
 
-| |2019|2018|2017|2016|2015|2014| Totale |
-|---|---|---|---|---|---|---|---|
-|Gialli|0|0|0|0|0|0|0|
-|Rossi|0|0|0|0|0|0|0|
-|Best player|2|2|0|0|2|2|8|
-|Stelle|4|3|0|0|2|2|11|
+| |2021|2019|2018|2017|2016|2015|2014| Totale |
+|---|---|---|---|---|---|---|---|---|
+|Gialli|0|0|0|0|0|0|0|0|
+|Rossi|0|0|0|0|0|0|0|0|
+|Best player|0|2|2|0|0|2|2|8|
+|Stelle|0|4|3|0|0|2|2|11|

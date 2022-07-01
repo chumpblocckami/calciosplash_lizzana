@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 12:42:15.994287
+date: 2022-07-01 16:03:37.288882
 categories: torneo
 permalink: /giocatore/alovisi_filippo/
 ---
@@ -16,6 +16,7 @@ permalink: /giocatore/alovisi_filippo/
 
 |Anno|Squadra|Soprannome|
 |:---:|---|---|
+|2021|PositiviAll'etanolo|Tromba|
 |2019|Positivi All'Etanolo|Tromba|
 |2018|Positivi all'Etanolo|Tromba|
 |2017|Atletico madrink (bvft)||
@@ -25,18 +26,18 @@ permalink: /giocatore/alovisi_filippo/
 ## Goal
 ----
 
-| |2019|2018|2017|2016| Totale |
-|---|---|---|---|---|---|
-|Goal|1|4|2|1|8|
-|Autogoal|0|0|0|0|0|
+| |2021|2019|2018|2017|2016| Totale |
+|---|---|---|---|---|---|---|
+|Goal|0|1|4|2|1|8|
+|Autogoal|0|0|0|0|0|0|
 
 
 ## Statistiche
 ----
 
-| |2019|2018|2017|2016| Totale |
-|---|---|---|---|---|---|
-|Gialli|0|0|0|0|0|
-|Rossi|0|0|0|0|0|
-|Best player|3|1|1|1|6|
-|Stelle|3|1|1|1|6|
+| |2021|2019|2018|2017|2016| Totale |
+|---|---|---|---|---|---|---|
+|Gialli|0|0|0|0|0|0|
+|Rossi|0|0|0|0|0|0|
+|Best player|0|3|1|1|1|6|
+|Stelle|0|3|1|1|1|6|

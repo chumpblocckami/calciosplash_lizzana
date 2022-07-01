@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 12:42:16.184194
+date: 2022-07-01 16:03:37.765990
 categories: torneo
 permalink: /giocatore/anzelini_andrea/
 ---
@@ -16,6 +16,7 @@ permalink: /giocatore/anzelini_andrea/
 
 |Anno|Squadra|Soprannome|
 |:---:|---|---|
+|2021|Mediasert|Tunnel del vento|
 |2019|Mediaser.T|Tunnel del vento|
 |2018|No S.A.V.||
 
@@ -23,18 +24,18 @@ permalink: /giocatore/anzelini_andrea/
 ## Goal
 ----
 
-| |2019|2018| Totale |
-|---|---|---|---|
-|Goal|6|3|9|
-|Autogoal|0|0|0|
+| |2021|2019|2018| Totale |
+|---|---|---|---|---|
+|Goal|0|6|3|9|
+|Autogoal|0|0|0|0|
 
 
 ## Statistiche
 ----
 
-| |2019|2018| Totale |
-|---|---|---|---|
-|Gialli|0|0|0|
-|Rossi|0|0|0|
-|Best player|0|0|0|
-|Stelle|0|0|0|
+| |2021|2019|2018| Totale |
+|---|---|---|---|---|
+|Gialli|0|0|0|0|
+|Rossi|0|0|0|0|
+|Best player|0|0|0|0|
+|Stelle|0|0|0|0|
