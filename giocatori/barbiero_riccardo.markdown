@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-06-26 22:08:44.778842
+date: 2022-07-01 09:59:37.722397
 categories: torneo
 permalink: /giocatore/barbiero_riccardo/
 ---

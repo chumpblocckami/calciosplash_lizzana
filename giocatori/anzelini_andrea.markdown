@@ -1,12 +1,12 @@
 ---
 layout: post
-date: 2022-06-26 22:08:44.832229
+date: 2022-07-01 09:59:37.741143
 categories: torneo
 permalink: /giocatore/anzelini_andrea/
 ---
 <link rel='stylesheets' href='./../assets/giocatori.css'>
 
-| Anzelini Andrea |
+| Anzelini Andrea (Tunnel del vento) |
 |:-----:|
 | ![anzelini_andrea]('./../../assets/giocatori/anzelini_andrea.png)'{:.immagine_giocatori} |
 
@@ -16,7 +16,7 @@ permalink: /giocatore/anzelini_andrea/
 
 |Anno|Squadra|Soprannome|
 |:---:|---|---|
-|2019|Mediaser.T||
+|2019|Mediaser.T|Tunnel del vento|
 |2018|No S.A.V.||
 
 

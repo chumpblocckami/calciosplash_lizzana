@@ -1,12 +1,12 @@
 ---
 layout: post
-date: 2022-06-26 22:08:44.810095
+date: 2022-07-01 09:59:37.731728
 categories: torneo
 permalink: /giocatore/mazzola_matteo/
 ---
 <link rel='stylesheets' href='./../assets/giocatori.css'>
 
-| Mazzola Matteo |
+| Mazzola Matteo (Gennaro Bullo) |
 |:-----:|
 | ![mazzola_matteo]('./../../assets/giocatori/mazzola_matteo.png)'{:.immagine_giocatori} |
 
@@ -16,7 +16,7 @@ permalink: /giocatore/mazzola_matteo/
 
 |Anno|Squadra|Soprannome|
 |:---:|---|---|
-|2019|Mediaser.T||
+|2019|Mediaser.T|Gennaro Bullo|
 |2018|No S.A.V.||
 
 

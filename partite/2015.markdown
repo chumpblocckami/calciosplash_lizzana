@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-06-29 12:25:50.224594
+date: 2022-07-01 10:08:32.351042
 categories: partite
 permalink: /partite/2015/
 ---
@@ -16,13 +16,13 @@ Data: 2015-08-13 17:00:00
 | | F.C. Savignano | Esperimento 626 |
 |:-----:|-----|-----|
 Risultato|7|1
-Goals|⚽⚽⚽⚽⚽ Giacomo De Zambotti<br/>⚽ Alessandro Maffei<br/>⚽ Andrea Conzatti|⚽ Nicolò Azzolini<br/>
+Goals|⚽⚽⚽⚽⚽ Giacomo De Zambotti<br/>⚽ Alessandro Maffei<br/>⚽ Andrea Conzatti|⚽ Nicolò Azzolini
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Giacomo De Zambotti<br/>|⭐⭐ Tobia Brussich<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Giacomo De Zambotti<br/>| ⭐⭐ Tobia Brussich<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:2
@@ -33,13 +33,13 @@ Data: 2015-08-13 17:20:00
 | | Silver fox | Werder bever |
 |:-----:|-----|-----|
 Risultato|0|3
-Goals||⚽⚽ Andrea Gober<br/><br/>⚽ Simone Martini<br/>
+Goals||⚽⚽ Andrea Gober<br/>⚽ Simone Martini
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore||⭐⭐⭐ Andrea Gober<br/>
-Miglior Portiere||
+Miglior Giocatore| | ⭐⭐⭐ Andrea Gober<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:3
@@ -50,13 +50,13 @@ Data: 2015-08-13 17:40:00
 | | Le amiche di città laggiù | Le bele united |
 |:-----:|-----|-----|
 Risultato|0|6
-Goals||⚽⚽⚽⚽ Valentina Perghem<br/><br/>⚽⚽ Francesca Debiasi<br/>
+Goals||⚽⚽⚽⚽ Valentina Perghem<br/>⚽⚽ Francesca Debiasi
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore||⭐ Francesca Debiasi<br/><br/>⭐⭐ Valentina Perghem<br/>
-Miglior Portiere||
+Miglior Giocatore| | ⭐ Francesca Debiasi<br/><br/>⭐⭐ Valentina Perghem<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:4
@@ -67,13 +67,13 @@ Data: 2015-08-13 18:00:00
 | | Tecnica pura | Glandiatori |
 |:-----:|-----|-----|
 Risultato|5|3
-Goals|⚽⚽ Omar Russo<br/>⚽⚽ Leonardo Stiz<br/>⚽ Roberto Gasperotti|⚽⚽⚽ Luca Tonolli<br/>
+Goals|⚽⚽ Omar Russo<br/>⚽⚽ Leonardo Stiz<br/>⚽ Roberto Gasperotti|⚽⚽⚽ Luca Tonolli
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Roberto Gasperotti<br/><br/>⭐ Alessandro Zandonai<br/>|⭐ Luca Tonolli<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Roberto Gasperotti<br/><br/>⭐ Alessandro Zandonai<br/>| ⭐ Luca Tonolli<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:5
@@ -84,13 +84,13 @@ Data: 2015-08-13 18:20:00
 | | F.C. Julia | I Puffatti/Aristoamigapuffatti |
 |:-----:|-----|-----|
 Risultato|6|1
-Goals|⚽⚽⚽ Pietro Dallabernardina<br/>⚽⚽ Renato Ambrosini<br/>⚽ Francesco Vettori|⚽ Roberto Pedri<br/>
+Goals|⚽⚽⚽ Pietro Dallabernardina<br/>⚽⚽ Renato Ambrosini<br/>⚽ Francesco Vettori|⚽ Roberto Pedri
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore||
-Miglior Portiere||
+Miglior Giocatore| | 
+Miglior Portiere| | 
 
 
 # PARTITA:6
@@ -101,13 +101,13 @@ Data: 2015-08-13 18:40:00
 | | Ematoma | Babarum |
 |:-----:|-----|-----|
 Risultato|4|1
-Goals|⚽⚽⚽ Nicola Di Marco<br/>⚽ Peter Castelletti|⚽ Jeanpier Reyes<br/>
+Goals|⚽⚽⚽ Nicola Di Marco<br/>⚽ Peter Castelletti|⚽ Jeanpier Reyes
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Peter Castelletti<br/><br/>⭐ Nicola Di Marco<br/><br/>⭐ Veneri Gianluca<br/>|
-Miglior Portiere||
+Miglior Giocatore| ⭐ Peter Castelletti<br/><br/>⭐ Nicola Di Marco<br/><br/>⭐ Veneri Gianluca<br/>| 
+Miglior Portiere| | 
 
 
 # PARTITA:7
@@ -118,13 +118,13 @@ Data: 2015-08-13 19:00:00
 | | Gli ortolani | Titslovers |
 |:-----:|-----|-----|
 Risultato|1|2
-Goals|⚽ Samuele Mancino|⚽ Michael Zanoni<br/><br/>⚽ Federico Mortillaro<br/>
+Goals|⚽ Samuele Mancino|⚽ Michael Zanoni<br/>⚽ Federico Mortillaro
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore||⭐ Stefano Tettamanti<br/><br/>⭐ Federico Mortillaro<br/><br/>⭐ Michael Zanoni<br/>
-Miglior Portiere||
+Miglior Giocatore| | ⭐ Stefano Tettamanti<br/><br/>⭐ Federico Mortillaro<br/><br/>⭐ Michael Zanoni<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:8
@@ -140,8 +140,8 @@ Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Veronica Osele<br/>|
-Miglior Portiere||
+Miglior Giocatore| ⭐ Veronica Osele<br/>| 
+Miglior Portiere| | 
 
 
 # PARTITA:9
@@ -157,8 +157,8 @@ Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Mattia Baldessarini<br/><br/>⭐ Stefano Tita<br/>|
-Miglior Portiere||
+Miglior Giocatore| ⭐⭐ Mattia Baldessarini<br/><br/>⭐ Stefano Tita<br/>| 
+Miglior Portiere| | 
 
 
 # PARTITA:10
@@ -169,13 +169,13 @@ Data: 2015-08-13 20:00:00
 | | Arcoiris | Le scarsele |
 |:-----:|-----|-----|
 Risultato|2|3
-Goals|⚽ Matilde Gugole<br/>⚽ Laura Adami|⚽⚽ Irene Tovazzi<br/><br/>⚽ Naomi Zambelli<br/>
+Goals|⚽ Matilde Gugole<br/>⚽ Laura Adami|⚽⚽ Irene Tovazzi<br/>⚽ Naomi Zambelli
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore||⭐ Naomi Zambelli<br/><br/>⭐⭐ Sara Consolati<br/>
-Miglior Portiere||
+Miglior Giocatore| | ⭐ Naomi Zambelli<br/><br/>⭐⭐ Sara Consolati<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:11
@@ -186,13 +186,13 @@ Data: 2015-08-13 20:40:00
 | | JLA: Justice League of Aperitiv | Nerz |
 |:-----:|-----|-----|
 Risultato|4|1
-Goals|⚽⚽ Marie Stöger<br/>⚽⚽ Valentina Giovannini|⚽ Stefania Viola<br/>
+Goals|⚽⚽ Marie Stöger<br/>⚽⚽ Valentina Giovannini|⚽ Stefania Viola
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Giulia Scrinzi<br/><br/>⭐ Valentina Giovannini<br/>|
-Miglior Portiere||
+Miglior Giocatore| ⭐⭐ Giulia Scrinzi<br/><br/>⭐ Valentina Giovannini<br/>| 
+Miglior Portiere| | 
 
 
 # PARTITA:12
@@ -203,13 +203,13 @@ Data: 2015-08-13 21:00:00
 | | Dinkel Team | Lizzanella's old sughi |
 |:-----:|-----|-----|
 Risultato|1|2
-Goals|⚽ Pietro Brussich|⚽ Nicolò Speziali<br/><br/>⚽   Autogol<br/>
+Goals|⚽ Pietro Brussich|⚽ Nicolò Speziali<br/>⚽   Autogol
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Pietro Brussich<br/>|⭐⭐ Federico Leonardi<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Pietro Brussich<br/>| ⭐⭐ Federico Leonardi<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:13
@@ -220,13 +220,13 @@ Data: 2015-08-13 21:20:00
 | | Do birete | Cika-Banana |
 |:-----:|-----|-----|
 Risultato|0|6
-Goals||⚽⚽⚽⚽⚽ Sharon Vicentini<br/><br/>⚽ Angela Incandela<br/>
+Goals||⚽⚽⚽⚽⚽ Sharon Vicentini<br/>⚽ Angela Incandela
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore||⭐ Angela Incandela<br/><br/>⭐⭐ Sharon Vicentini<br/>
-Miglior Portiere||
+Miglior Giocatore| | ⭐ Angela Incandela<br/><br/>⭐⭐ Sharon Vicentini<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:14
@@ -237,13 +237,13 @@ Data: 2015-08-13 21:40:00
 | | Bar Ru: passione Rubar | Discepoli del luppolo |
 |:-----:|-----|-----|
 Risultato|4|3
-Goals|⚽⚽ Andrea Candioli<br/>⚽ Daniele Candioli<br/>⚽ Matteo Maraner|⚽⚽ Michele Bertolini<br/><br/>⚽ Luca Miorandi<br/>
+Goals|⚽⚽ Andrea Candioli<br/>⚽ Daniele Candioli<br/>⚽ Matteo Maraner|⚽⚽ Michele Bertolini<br/>⚽ Luca Miorandi
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Daniele Candioli<br/><br/>⭐ Lorenzo Penati<br/>|⭐ Michele Bertolini<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Daniele Candioli<br/><br/>⭐ Lorenzo Penati<br/>| ⭐ Michele Bertolini<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:15
@@ -254,13 +254,13 @@ Data: 2015-08-13 22:00:00
 | | Tettenzampi | Una quarta in quattro |
 |:-----:|-----|-----|
 Risultato|4|3
-Goals|⚽⚽ Serena Barozzi<br/>⚽ Marta Rabini<br/>⚽   Autogol|⚽⚽ Stefania Gazzini<br/><br/>⚽ Erika Amigoni<br/>
+Goals|⚽⚽ Serena Barozzi<br/>⚽ Marta Rabini<br/>⚽   Autogol|⚽⚽ Stefania Gazzini<br/>⚽ Erika Amigoni
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Serena Barozzi<br/><br/>⭐ Andrea Veronica Degan<br/>|⭐ Stefania Gazzini<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Serena Barozzi<br/><br/>⭐ Andrea Veronica Degan<br/>| ⭐ Stefania Gazzini<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:16
@@ -271,13 +271,13 @@ Data: 2015-08-13 22:20:00
 | | Clitoriders | The morons five |
 |:-----:|-----|-----|
 Risultato|5|1
-Goals|⚽⚽ Andrea Giordani<br/>⚽ Stefano Galvagni<br/>⚽ Michele Merighi<br/>⚽ Filippo Parisi|⚽ Andrea Togni<br/>
+Goals|⚽⚽ Andrea Giordani<br/>⚽ Stefano Galvagni<br/>⚽ Michele Merighi<br/>⚽ Filippo Parisi|⚽ Andrea Togni
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Stefano Galvagni<br/><br/>⭐ Michele Parisi<br/>|⭐ Andrea Togni<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Stefano Galvagni<br/><br/>⭐ Michele Parisi<br/>| ⭐ Andrea Togni<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:17
@@ -293,8 +293,8 @@ Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore||
-Miglior Portiere||
+Miglior Giocatore| | 
+Miglior Portiere| | 
 
 
 # PARTITA:18
@@ -310,8 +310,8 @@ Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Lorenzo Barozzi<br/><br/>⭐ Michele Ruele<br/>|
-Miglior Portiere||
+Miglior Giocatore| ⭐⭐ Lorenzo Barozzi<br/><br/>⭐ Michele Ruele<br/>| 
+Miglior Portiere| | 
 
 
 # PARTITA:19
@@ -322,13 +322,13 @@ Data: 2015-08-13 23:20:00
 | | Dog of the grape | Mai una gioia |
 |:-----:|-----|-----|
 Risultato|3|2
-Goals|⚽ Andrea Arlanch<br/>⚽ Stefano Voltolini<br/>⚽ Nicola Costa|⚽ Randy Cobbinah<br/><br/>⚽ Thomas Debiasi<br/>
+Goals|⚽ Andrea Arlanch<br/>⚽ Stefano Voltolini<br/>⚽ Nicola Costa|⚽ Randy Cobbinah<br/>⚽ Thomas Debiasi
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Andrea Arlanch<br/><br/>⭐ Stefano Voltolini<br/>|⭐ Maickol Azocar<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Andrea Arlanch<br/><br/>⭐ Stefano Voltolini<br/>| ⭐ Maickol Azocar<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:20
@@ -339,13 +339,13 @@ Data: 2015-08-13 23:40:00
 | | Pinguini trentini | Glandiatori |
 |:-----:|-----|-----|
 Risultato|6|1
-Goals|⚽⚽⚽ Alessio Farinati<br/>⚽⚽ Matteo Brigo<br/>⚽ Davide Manica|⚽ Luca Tonolli<br/>
+Goals|⚽⚽⚽ Alessio Farinati<br/>⚽⚽ Matteo Brigo<br/>⚽ Davide Manica|⚽ Luca Tonolli
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Matteo Prezzi<br/>|⭐ Luca Tonolli<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐⭐ Matteo Prezzi<br/>| ⭐ Luca Tonolli<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:21
@@ -356,13 +356,13 @@ Data: 2015-08-14 16:00:00
 | | Beck's to the island | Le minne |
 |:-----:|-----|-----|
 Risultato|4|1
-Goals|⚽⚽ Martina Francescatti<br/>⚽ Adriana Mania<br/>⚽ Federica Francescatti|⚽ Diletta Fait<br/>
+Goals|⚽⚽ Martina Francescatti<br/>⚽ Adriana Mania<br/>⚽ Federica Francescatti|⚽ Diletta Fait
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Adriana Mania<br/>|⭐ Diletta Fait<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐⭐ Adriana Mania<br/>| ⭐ Diletta Fait<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:22
@@ -378,8 +378,8 @@ Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Francesca Debiasi<br/><br/>⭐ Valentina Perghem<br/>|⭐ Martina Scrinzi<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Francesca Debiasi<br/><br/>⭐ Valentina Perghem<br/>| ⭐ Martina Scrinzi<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:23
@@ -390,13 +390,13 @@ Data: 2015-08-14 16:40:00
 | | Mai una gioia | Lizzanella's old sughi |
 |:-----:|-----|-----|
 Risultato|3|3
-Goals|⚽ Maickol Azocar<br/>⚽ Thomas Debiasi<br/>⚽ Stefano Mattioli|⚽ Nicolò Speziali<br/><br/>⚽ Emanuele Miorandi<br/><br/>⚽ Leonardo Graziola<br/>
+Goals|⚽ Maickol Azocar<br/>⚽ Thomas Debiasi<br/>⚽ Stefano Mattioli|⚽ Nicolò Speziali<br/>⚽ Emanuele Miorandi<br/>⚽ Leonardo Graziola
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Maickol Azocar<br/><br/>⭐ Randy Cobbinah<br/>|⭐ Nicolò Speziali<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Maickol Azocar<br/><br/>⭐ Randy Cobbinah<br/>| ⭐ Nicolò Speziali<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:24
@@ -407,13 +407,13 @@ Data: 2015-08-14 17:00:00
 | | Le papere agonizzanti | Bionde! Punto. |
 |:-----:|-----|-----|
 Risultato|0|12
-Goals||⚽⚽⚽⚽⚽ Cristina Gottardi<br/><br/>⚽⚽⚽⚽ Giulia Stedile<br/><br/>⚽⚽ Chiara Groff<br/><br/>⚽   Autogol<br/>
+Goals||⚽⚽⚽⚽⚽ Cristina Gottardi<br/>⚽⚽⚽⚽ Giulia Stedile<br/>⚽⚽ Chiara Groff<br/>⚽   Autogol
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore||⭐⭐ Cristina Gottardi<br/><br/>⭐ Giulia Stedile<br/>
-Miglior Portiere||
+Miglior Giocatore| | ⭐⭐ Cristina Gottardi<br/><br/>⭐ Giulia Stedile<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:25
@@ -424,13 +424,13 @@ Data: 2015-08-14 17:20:00
 | | Modium | Giglaz |
 |:-----:|-----|-----|
 Risultato|7|3
-Goals|⚽⚽⚽⚽ Andrea Bertolini<br/>⚽⚽⚽ Matteo Lanaro|⚽ Leonardo Viola<br/><br/>⚽ Jacopo Dokladodo<br/><br/>⚽ Federico Manica<br/>
+Goals|⚽⚽⚽⚽ Andrea Bertolini<br/>⚽⚽⚽ Matteo Lanaro|⚽ Leonardo Viola<br/>⚽ Jacopo Dokladodo<br/>⚽ Federico Manica
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Leonardo Ceschini<br/>|⭐ Jacopo Dokladodo<br/><br/>⭐ Andrea Mazzucchi<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Leonardo Ceschini<br/>| ⭐ Jacopo Dokladodo<br/><br/>⭐ Andrea Mazzucchi<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:26
@@ -441,13 +441,13 @@ Data: 2015-08-14 17:40:00
 | | Ematoma | Peli pubblici |
 |:-----:|-----|-----|
 Risultato|4|1
-Goals|⚽⚽ Veneri Gianluca<br/>⚽⚽ Nicola Di Marco|⚽ Matteo Franchini<br/>
+Goals|⚽⚽ Veneri Gianluca<br/>⚽⚽ Nicola Di Marco|⚽ Matteo Franchini
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Peter Castelletti<br/><br/>⭐ Nicola Di Marco<br/><br/>⭐ Veneri Gianluca<br/>|
-Miglior Portiere||
+Miglior Giocatore| ⭐ Peter Castelletti<br/><br/>⭐ Nicola Di Marco<br/><br/>⭐ Veneri Gianluca<br/>| 
+Miglior Portiere| | 
 
 
 # PARTITA:27
@@ -463,8 +463,8 @@ Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Roberto Gasperotti<br/>|⭐ Riccardo Brunelli<br/><br/>⭐ Daniele Foroni<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Roberto Gasperotti<br/>| ⭐ Riccardo Brunelli<br/><br/>⭐ Daniele Foroni<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:28
@@ -480,8 +480,8 @@ Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Carlo Stedile<br/><br/>⭐ Alessandro Zamboni<br/>|⭐ Daniele Salomoni<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Carlo Stedile<br/><br/>⭐ Alessandro Zamboni<br/>| ⭐ Daniele Salomoni<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:29
@@ -492,13 +492,13 @@ Data: 2015-08-14 18:40:00
 | | Vsop | Totò sapore |
 |:-----:|-----|-----|
 Risultato|2|1
-Goals|⚽⚽ Damiano Frisinghelli|⚽ Alessandro Galvagni<br/>
+Goals|⚽⚽ Damiano Frisinghelli|⚽ Alessandro Galvagni
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Damiano Frisinghelli<br/><br/>⭐ Corrado Larcher<br/>|⭐ Daniele Bellini<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Damiano Frisinghelli<br/><br/>⭐ Corrado Larcher<br/>| ⭐ Daniele Bellini<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:30
@@ -509,13 +509,13 @@ Data: 2015-08-14 19:00:00
 | | F.C. Savignano | The morons five |
 |:-----:|-----|-----|
 Risultato|3|1
-Goals|⚽⚽ Andrea Conzatti<br/>⚽ Giacomo De Zambotti|⚽   Autogol<br/>
+Goals|⚽⚽ Andrea Conzatti<br/>⚽ Giacomo De Zambotti|⚽   Autogol
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Andrea Conzatti<br/><br/>⭐ Pietro Gioffrè<br/>|
-Miglior Portiere||
+Miglior Giocatore| ⭐⭐ Andrea Conzatti<br/><br/>⭐ Pietro Gioffrè<br/>| 
+Miglior Portiere| | 
 
 
 # PARTITA:31
@@ -526,13 +526,13 @@ Data: 2015-08-14 19:20:00
 | | Do birete | Una quarta in quattro |
 |:-----:|-----|-----|
 Risultato|1|8
-Goals|⚽ Francesca Stefani|⚽⚽⚽⚽⚽ Stefania Gazzini<br/><br/>⚽⚽ Nicol Filippi<br/><br/>⚽ Erika Amigoni<br/>
+Goals|⚽ Francesca Stefani|⚽⚽⚽⚽⚽ Stefania Gazzini<br/>⚽⚽ Nicol Filippi<br/>⚽ Erika Amigoni
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore||⭐ Nicol Filippi<br/><br/>⭐⭐ Stefania Gazzini<br/>
-Miglior Portiere||
+Miglior Giocatore| | ⭐ Nicol Filippi<br/><br/>⭐⭐ Stefania Gazzini<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:32
@@ -543,13 +543,13 @@ Data: 2015-08-14 19:40:00
 | | Beck's to the island | Le papere agonizzanti |
 |:-----:|-----|-----|
 Risultato|4|1
-Goals|⚽⚽ Martina Francescatti<br/>⚽⚽ Federica Francescatti|⚽ Rachele Gugole<br/>
+Goals|⚽⚽ Martina Francescatti<br/>⚽⚽ Federica Francescatti|⚽ Rachele Gugole
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Martina Francescatti<br/><br/>⭐ Federica Francescatti<br/>|⭐ Rachele Gugole<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Martina Francescatti<br/><br/>⭐ Federica Francescatti<br/>| ⭐ Rachele Gugole<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:33
@@ -565,8 +565,8 @@ Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Stefania Viola<br/><br/>⭐ Gessica Zendri<br/>|⭐ Anna Simoncelli<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Stefania Viola<br/><br/>⭐ Gessica Zendri<br/>| ⭐ Anna Simoncelli<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:34
@@ -577,13 +577,13 @@ Data: 2015-08-14 20:40:00
 | | Dinkel Team | Dog of the grape |
 |:-----:|-----|-----|
 Risultato|6|2
-Goals|⚽⚽ Pietro Brussich<br/>⚽ Giacomo Valduga<br/>⚽   Autogol<br/>⚽ Daniele Feltrinelli<br/>⚽ Gionata Raos|⚽ Nicola Costa<br/><br/>⚽ Alessio Consolati<br/>
+Goals|⚽⚽ Pietro Brussich<br/>⚽ Giacomo Valduga<br/>⚽   Autogol<br/>⚽ Daniele Feltrinelli<br/>⚽ Gionata Raos|⚽ Nicola Costa<br/>⚽ Alessio Consolati
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Pietro Brussich<br/><br/>⭐ Daniele Feltrinelli<br/>|⭐ Stefano Voltolini<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Pietro Brussich<br/><br/>⭐ Daniele Feltrinelli<br/>| ⭐ Stefano Voltolini<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:35
@@ -594,13 +594,13 @@ Data: 2015-08-14 21:00:00
 | | Arcoiris | Le bele united |
 |:-----:|-----|-----|
 Risultato|3|5
-Goals|⚽⚽ Valeria Simonini<br/>⚽ Matilde Gugole|⚽⚽ Francesca Debiasi<br/><br/>⚽⚽ Valentina Perghem<br/><br/>⚽ Cecilia Bighelli<br/>
+Goals|⚽⚽ Valeria Simonini<br/>⚽ Matilde Gugole|⚽⚽ Francesca Debiasi<br/>⚽⚽ Valentina Perghem<br/>⚽ Cecilia Bighelli
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore||⭐⭐ Valentina Perghem<br/><br/>⭐ Giorgia Turchini<br/>
-Miglior Portiere||
+Miglior Giocatore| | ⭐⭐ Valentina Perghem<br/><br/>⭐ Giorgia Turchini<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:36
@@ -611,13 +611,13 @@ Data: 2015-08-14 21:20:00
 | | JLA: Justice League of Aperitiv | Le porcahontas |
 |:-----:|-----|-----|
 Risultato|5|1
-Goals|⚽⚽⚽ Giulia Scrinzi<br/>⚽ Marie Stöger<br/>⚽ Manuela Perini|⚽ Veronica Osele<br/>
+Goals|⚽⚽⚽ Giulia Scrinzi<br/>⚽ Marie Stöger<br/>⚽ Manuela Perini|⚽ Veronica Osele
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Elena Loss<br/><br/>⭐ Giulia Scrinzi<br/>|⭐ Veronica Osele<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Elena Loss<br/><br/>⭐ Giulia Scrinzi<br/>| ⭐ Veronica Osele<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:37
@@ -628,13 +628,13 @@ Data: 2015-08-14 21:40:00
 | | Clitoriders | Esperimento 626 |
 |:-----:|-----|-----|
 Risultato|8|1
-Goals|⚽⚽⚽⚽⚽ Filippo Parisi<br/>⚽⚽ Michele Merighi<br/>⚽ Michele Parisi|⚽ Mattia Ferrari<br/>
+Goals|⚽⚽⚽⚽⚽ Filippo Parisi<br/>⚽⚽ Michele Merighi<br/>⚽ Michele Parisi|⚽ Mattia Ferrari
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Michele Merighi<br/><br/>⭐ Filippo Parisi<br/>|
-Miglior Portiere||
+Miglior Giocatore| ⭐⭐ Michele Merighi<br/><br/>⭐ Filippo Parisi<br/>| 
+Miglior Portiere| | 
 
 
 # PARTITA:38
@@ -645,13 +645,13 @@ Data: 2015-08-14 22:00:00
 | | Tettenzampi | Cika-Banana |
 |:-----:|-----|-----|
 Risultato|1|4
-Goals|⚽ Mara Barozzi|⚽⚽⚽ Sharon Vicentini<br/><br/>⚽ Angela Incandela<br/>
+Goals|⚽ Mara Barozzi|⚽⚽⚽ Sharon Vicentini<br/>⚽ Angela Incandela
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Andrea Veronica Degan<br/>|⭐⭐ Sharon Vicentini<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Andrea Veronica Degan<br/>| ⭐⭐ Sharon Vicentini<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:39
@@ -662,13 +662,13 @@ Data: 2015-08-14 22:20:00
 | | Filfs & Co. | Peli pubblici |
 |:-----:|-----|-----|
 Risultato|4|1
-Goals|⚽⚽ Andrea Barozzi<br/>⚽ Flavio Cattoi<br/>⚽ Lorenzo Barozzi|⚽ Giacomo Chiusole<br/>
+Goals|⚽⚽ Andrea Barozzi<br/>⚽ Flavio Cattoi<br/>⚽ Lorenzo Barozzi|⚽ Giacomo Chiusole
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Lorenzo Barozzi<br/><br/>⭐ Andrea Barozzi<br/><br/>⭐ Michele Ruele<br/>|
-Miglior Portiere||
+Miglior Giocatore| ⭐ Lorenzo Barozzi<br/><br/>⭐ Andrea Barozzi<br/><br/>⭐ Michele Ruele<br/>| 
+Miglior Portiere| | 
 
 
 # PARTITA:40
@@ -679,13 +679,13 @@ Data: 2015-08-14 22:40:00
 | | F.C. Julia | Panze da bira |
 |:-----:|-----|-----|
 Risultato|8|2
-Goals|⚽⚽⚽ Giovanni Zamboni<br/>⚽⚽ Renato Ambrosini<br/>⚽⚽ Francesco Vettori<br/>⚽ Filippo Simoncelli|⚽ Fabiano Daldoss<br/><br/>⚽ Claudio Prezzi<br/>
+Goals|⚽⚽⚽ Giovanni Zamboni<br/>⚽⚽ Renato Ambrosini<br/>⚽⚽ Francesco Vettori<br/>⚽ Filippo Simoncelli|⚽ Fabiano Daldoss<br/>⚽ Claudio Prezzi
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Renato Ambrosini<br/><br/>⭐ Francesco Vettori<br/><br/>⭐ Giovanni Zamboni<br/>|
-Miglior Portiere||
+Miglior Giocatore| ⭐ Renato Ambrosini<br/><br/>⭐ Francesco Vettori<br/><br/>⭐ Giovanni Zamboni<br/>| 
+Miglior Portiere| | 
 
 
 # PARTITA:41
@@ -696,13 +696,13 @@ Data: 2015-08-14 23:00:00
 | | Buzzer beater | Martzial cygnorelli |
 |:-----:|-----|-----|
 Risultato|3|3
-Goals|⚽⚽ Mattia Baldessarini<br/>⚽ Francesco Russo|⚽⚽ Davide Raffaelli<br/><br/>⚽ Vito Incandela<br/>
+Goals|⚽⚽ Mattia Baldessarini<br/>⚽ Francesco Russo|⚽⚽ Davide Raffaelli<br/>⚽ Vito Incandela
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Stefano Tita<br/>|⭐ Vito Incandela<br/><br/>⭐ Matteo Pilati<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Stefano Tita<br/>| ⭐ Vito Incandela<br/><br/>⭐ Matteo Pilati<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:42
@@ -713,13 +713,13 @@ Data: 2015-08-14 23:20:00
 | | Werder bever | Giglaz |
 |:-----:|-----|-----|
 Risultato|4|3
-Goals|⚽⚽⚽⚽ Andrea Gober|⚽ Jacopo Dokladodo<br/><br/>⚽ Leonardo Viola<br/><br/>⚽   Autogol<br/>
+Goals|⚽⚽⚽⚽ Andrea Gober|⚽ Jacopo Dokladodo<br/>⚽ Leonardo Viola<br/>⚽   Autogol
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Andrea Gober<br/>|⭐ Federico Manica<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐⭐ Andrea Gober<br/>| ⭐ Federico Manica<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:43
@@ -730,13 +730,13 @@ Data: 2015-08-14 23:40:00
 | | Silver fox | Modium |
 |:-----:|-----|-----|
 Risultato|1|5
-Goals|⚽ Enrico Stinghen|⚽⚽⚽⚽⚽ Andrea Bertolini<br/>
+Goals|⚽ Enrico Stinghen|⚽⚽⚽⚽⚽ Andrea Bertolini
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore||⭐⭐⭐ Andrea Bertolini<br/>
-Miglior Portiere||
+Miglior Giocatore| | ⭐⭐⭐ Andrea Bertolini<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:44
@@ -747,13 +747,13 @@ Data: 2015-08-15 10:00:00
 | | The morons five | Esperimento 626 |
 |:-----:|-----|-----|
 Risultato|2|1
-Goals|⚽   Autogol<br/>⚽ Andrea Togni|⚽ Nicolò Azzolini<br/>
+Goals|⚽   Autogol<br/>⚽ Andrea Togni|⚽ Nicolò Azzolini
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Alessandro Altare<br/><br/>⭐ Andrea Togni<br/>|⭐ Tobia Brussich<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Alessandro Altare<br/><br/>⭐ Andrea Togni<br/>| ⭐ Tobia Brussich<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:45
@@ -769,8 +769,8 @@ Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Andrea Arlanch<br/><br/>⭐⭐ Stefano Voltolini<br/>|
-Miglior Portiere||
+Miglior Giocatore| ⭐ Andrea Arlanch<br/><br/>⭐⭐ Stefano Voltolini<br/>| 
+Miglior Portiere| | 
 
 
 # PARTITA:46
@@ -781,13 +781,13 @@ Data: 2015-08-15 10:40:00
 | | Discepoli del luppolo | Gli ortolani |
 |:-----:|-----|-----|
 Risultato|2|2
-Goals|⚽⚽ Michele Bertolini|⚽ Marco Heidempergher<br/><br/>⚽ Ignazio Valenti<br/>
+Goals|⚽⚽ Michele Bertolini|⚽ Marco Heidempergher<br/>⚽ Ignazio Valenti
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Riccardo Baldo<br/><br/>⭐ Michele Bertolini<br/>|⭐ Marco Heidempergher<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Riccardo Baldo<br/><br/>⭐ Michele Bertolini<br/>| ⭐ Marco Heidempergher<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:47
@@ -798,13 +798,13 @@ Data: 2015-08-15 11:00:00
 | | Vsop | Martzial cygnorelli |
 |:-----:|-----|-----|
 Risultato|2|1
-Goals|⚽ Andrea Dossi<br/>⚽ Elia Giordani|⚽ Francesco Cumerlotti<br/>
+Goals|⚽ Andrea Dossi<br/>⚽ Elia Giordani|⚽ Francesco Cumerlotti
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Corrado Larcher<br/>|⭐ Francesco Cumerlotti<br/><br/>⭐ Matteo Pilati<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Corrado Larcher<br/>| ⭐ Francesco Cumerlotti<br/><br/>⭐ Matteo Pilati<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:48
@@ -815,13 +815,13 @@ Data: 2015-08-15 11:20:00
 | | Panze da bira | F.C. Judica |
 |:-----:|-----|-----|
 Risultato|0|8
-Goals||⚽⚽⚽⚽⚽ Carlo Stedile<br/><br/>⚽⚽ Gabriele Galli<br/><br/>⚽ Alessandro Zamboni<br/>
+Goals||⚽⚽⚽⚽⚽ Carlo Stedile<br/>⚽⚽ Gabriele Galli<br/>⚽ Alessandro Zamboni
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore||⭐⭐ Carlo Stedile<br/><br/>⭐ Alessandro Zamboni<br/>
-Miglior Portiere||
+Miglior Giocatore| | ⭐⭐ Carlo Stedile<br/><br/>⭐ Alessandro Zamboni<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:49
@@ -832,13 +832,13 @@ Data: 2015-08-15 11:40:00
 | | Totò sapore | Buzzer beater |
 |:-----:|-----|-----|
 Risultato|2|5
-Goals|⚽ Alessandro Galvagni<br/>⚽ Walter Filippi|⚽⚽⚽ Francesco Russo<br/><br/>⚽⚽ Mattia Baldessarini<br/>
+Goals|⚽ Alessandro Galvagni<br/>⚽ Walter Filippi|⚽⚽⚽ Francesco Russo<br/>⚽⚽ Mattia Baldessarini
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Alessandro Galvagni<br/>|⭐ Mattia Baldessarini<br/><br/>⭐ Luca Giordani<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Alessandro Galvagni<br/>| ⭐ Mattia Baldessarini<br/><br/>⭐ Luca Giordani<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:50
@@ -849,13 +849,13 @@ Data: 2015-08-15 12:00:00
 | | Pinguini trentini | Clandes-Team |
 |:-----:|-----|-----|
 Risultato|2|1
-Goals|⚽⚽ Matteo Brigo|⚽ Pietro Zandonai<br/>
+Goals|⚽⚽ Matteo Brigo|⚽ Pietro Zandonai
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Matteo Brigo<br/><br/>⭐ Alessio Farinati<br/>|⭐ Pietro Zandonai<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Matteo Brigo<br/><br/>⭐ Alessio Farinati<br/>| ⭐ Pietro Zandonai<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:51
@@ -866,13 +866,13 @@ Data: 2015-08-15 12:20:00
 | | Arcoiris | Le amiche di città laggiù |
 |:-----:|-----|-----|
 Risultato|7|1
-Goals|⚽⚽⚽ Laura Adami<br/>⚽⚽ Matilde Gugole<br/>⚽ Valentina Santini<br/>⚽ Valeria Simonini|⚽ Jessica Angheben<br/>
+Goals|⚽⚽⚽ Laura Adami<br/>⚽⚽ Matilde Gugole<br/>⚽ Valentina Santini<br/>⚽ Valeria Simonini|⚽ Jessica Angheben
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Laura Adami<br/><br/>⭐ Matilde Gugole<br/>|⭐ Federica Bertolli<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Laura Adami<br/><br/>⭐ Matilde Gugole<br/>| ⭐ Federica Bertolli<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:52
@@ -883,13 +883,13 @@ Data: 2015-08-15 12:40:00
 | | Nerz | Le porcahontas |
 |:-----:|-----|-----|
 Risultato|1|2
-Goals|⚽ Gessica Zendri|⚽ Veronica Osele<br/><br/>⚽ Valentina Bisoffi<br/>
+Goals|⚽ Gessica Zendri|⚽ Veronica Osele<br/>⚽ Valentina Bisoffi
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Alessandra Marangoni<br/><br/>⭐ Silvia Mozzi<br/>|⭐ Veronica Osele<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Alessandra Marangoni<br/><br/>⭐ Silvia Mozzi<br/>| ⭐ Veronica Osele<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:53
@@ -900,13 +900,13 @@ Data: 2015-08-15 15:00:00
 | | Le minne | Le papere agonizzanti |
 |:-----:|-----|-----|
 Risultato|6|1
-Goals|⚽⚽⚽ Diletta Fait<br/>⚽⚽⚽ Cristina Tognarelli|⚽ Michela Pezzato<br/>
+Goals|⚽⚽⚽ Diletta Fait<br/>⚽⚽⚽ Cristina Tognarelli|⚽ Michela Pezzato
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Diletta Fait<br/><br/>⭐ Cristina Tognarelli<br/>|
-Miglior Portiere||
+Miglior Giocatore| ⭐ Diletta Fait<br/><br/>⭐ Cristina Tognarelli<br/>| 
+Miglior Portiere| | 
 
 
 # PARTITA:54
@@ -917,13 +917,13 @@ Data: 2015-08-15 15:20:00
 | | Babarum | Peli pubblici |
 |:-----:|-----|-----|
 Risultato|1|5
-Goals|⚽ Jeanpier Reyes|⚽⚽ Matteo Franchini<br/><br/>⚽⚽ Edoardo Turri<br/><br/>⚽ Massimo Giovannini<br/>
+Goals|⚽ Jeanpier Reyes|⚽⚽ Matteo Franchini<br/>⚽⚽ Edoardo Turri<br/>⚽ Massimo Giovannini
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Jeanpier Reyes<br/>|⭐ Matteo Franchini<br/><br/>⭐ Filippo Schwachtse<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Jeanpier Reyes<br/>| ⭐ Matteo Franchini<br/><br/>⭐ Filippo Schwachtse<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:55
@@ -934,13 +934,13 @@ Data: 2015-08-15 15:40:00
 | | Silver fox | Giglaz |
 |:-----:|-----|-----|
 Risultato|9|4
-Goals|⚽⚽⚽⚽⚽ Andrea Stenghele<br/>⚽⚽⚽ Enrico Stinghen<br/>⚽ Alessio Raffaelli|⚽⚽⚽ Leonardo Viola<br/><br/>⚽ Federico Manica<br/>
+Goals|⚽⚽⚽⚽⚽ Andrea Stenghele<br/>⚽⚽⚽ Enrico Stinghen<br/>⚽ Alessio Raffaelli|⚽⚽⚽ Leonardo Viola<br/>⚽ Federico Manica
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Andrea Stenghele<br/>|⭐ Leonardo Viola<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐⭐ Andrea Stenghele<br/>| ⭐ Leonardo Viola<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:56
@@ -951,13 +951,13 @@ Data: 2015-08-15 16:00:00
 | | Tettenzampi | Do birete |
 |:-----:|-----|-----|
 Risultato|2|3
-Goals|⚽⚽ Mara Barozzi|⚽⚽ Micaela Maraner<br/><br/>⚽ Francesca Stefani<br/>
+Goals|⚽⚽ Mara Barozzi|⚽⚽ Micaela Maraner<br/>⚽ Francesca Stefani
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore||
-Miglior Portiere||
+Miglior Giocatore| | 
+Miglior Portiere| | 
 
 
 # PARTITA:57
@@ -968,13 +968,13 @@ Data: 2015-08-15 16:20:00
 | | Bar Ru: passione Rubar | Titslovers |
 |:-----:|-----|-----|
 Risultato|1|2
-Goals|⚽ Andrea Candioli|⚽⚽ Federico Mortillaro<br/>
+Goals|⚽ Andrea Candioli|⚽⚽ Federico Mortillaro
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore||⭐ Marco Maffei<br/><br/>⭐⭐ Federico Mortillaro<br/>
-Miglior Portiere||
+Miglior Giocatore| | ⭐ Marco Maffei<br/><br/>⭐⭐ Federico Mortillaro<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:58
@@ -985,13 +985,13 @@ Data: 2015-08-15 16:40:00
 | | Glandiatori | Clandes-Team |
 |:-----:|-----|-----|
 Risultato|1|5
-Goals|⚽ Luca Tonolli|⚽⚽ Pietro Zandonai<br/><br/>⚽ Marco Scottini<br/><br/>⚽ Massimo Trentini<br/><br/>⚽ Daniele Foroni<br/>
+Goals|⚽ Luca Tonolli|⚽⚽ Pietro Zandonai<br/>⚽ Marco Scottini<br/>⚽ Massimo Trentini<br/>⚽ Daniele Foroni
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore||⭐⭐ Daniele Foroni<br/><br/>⭐ Pietro Zandonai<br/>
-Miglior Portiere||
+Miglior Giocatore| | ⭐⭐ Daniele Foroni<br/><br/>⭐ Pietro Zandonai<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:59
@@ -1002,13 +1002,13 @@ Data: 2015-08-15 17:00:00
 | | JLA: Justice League of Aperitiv | A22 |
 |:-----:|-----|-----|
 Risultato|7|1
-Goals|⚽⚽⚽⚽ Valentina Giovannini<br/>⚽⚽ Marie Stöger<br/>⚽ Giulia Scrinzi|⚽ Elisabetta Pisetti<br/>
+Goals|⚽⚽⚽⚽ Valentina Giovannini<br/>⚽⚽ Marie Stöger<br/>⚽ Giulia Scrinzi|⚽ Elisabetta Pisetti
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Valentina Giovannini<br/><br/>⭐ Marie Stöger<br/>|⭐ Elisabetta Pisetti<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Valentina Giovannini<br/><br/>⭐ Marie Stöger<br/>| ⭐ Elisabetta Pisetti<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:60
@@ -1019,13 +1019,13 @@ Data: 2015-08-15 17:20:00
 | | Clitoriders | F.C. Savignano |
 |:-----:|-----|-----|
 Risultato|3|2
-Goals|⚽⚽⚽ Stefano Galvagni|⚽⚽ Alessandro Maffei<br/>
+Goals|⚽⚽⚽ Stefano Galvagni|⚽⚽ Alessandro Maffei
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Michele Merighi<br/><br/>⭐ Filippo Parisi<br/>|⭐ Pietro Gioffrè<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Michele Merighi<br/><br/>⭐ Filippo Parisi<br/>| ⭐ Pietro Gioffrè<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:61
@@ -1036,13 +1036,13 @@ Data: 2015-08-15 17:40:00
 | | I Puffatti/Aristoamigapuffatti | Panze da bira |
 |:-----:|-----|-----|
 Risultato|3|1
-Goals|⚽⚽⚽ Manolo Pisoni|⚽ Fabio Melis<br/>
+Goals|⚽⚽⚽ Manolo Pisoni|⚽ Fabio Melis
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Manolo Pisoni<br/>|⭐ Fabio Melis<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐⭐ Manolo Pisoni<br/>| ⭐ Fabio Melis<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:62
@@ -1058,8 +1058,8 @@ Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore||⭐⭐⭐ Valentina Piccoli<br/>
-Miglior Portiere||
+Miglior Giocatore| | ⭐⭐⭐ Valentina Piccoli<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:63
@@ -1070,13 +1070,13 @@ Data: 2015-08-15 18:20:00
 | | Martzial cygnorelli | Totò sapore |
 |:-----:|-----|-----|
 Risultato|3|4
-Goals|⚽⚽ Davide Raffaelli<br/>⚽ Matteo Pilati|⚽⚽⚽ Alessandro Galvagni<br/><br/>⚽ Walter Filippi<br/>
+Goals|⚽⚽ Davide Raffaelli<br/>⚽ Matteo Pilati|⚽⚽⚽ Alessandro Galvagni<br/>⚽ Walter Filippi
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Vito Incandela<br/>|⭐⭐ Alessandro Galvagni<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Vito Incandela<br/>| ⭐⭐ Alessandro Galvagni<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:64
@@ -1087,13 +1087,13 @@ Data: 2015-08-15 18:40:00
 | | Bionde! Punto. | Beck's to the island |
 |:-----:|-----|-----|
 Risultato|13|1
-Goals|⚽⚽⚽⚽⚽⚽ Chiara Groff<br/>⚽⚽⚽⚽ Cristina Gottardi<br/>⚽⚽ Elisa Zanelli<br/>⚽ Chiara Barberi|⚽ Martina Francescatti<br/>
+Goals|⚽⚽⚽⚽⚽⚽ Chiara Groff<br/>⚽⚽⚽⚽ Cristina Gottardi<br/>⚽⚽ Elisa Zanelli<br/>⚽ Chiara Barberi|⚽ Martina Francescatti
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Chiara Groff<br/>|⭐ Martina Francescatti<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐⭐ Chiara Groff<br/>| ⭐ Martina Francescatti<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:65
@@ -1104,13 +1104,13 @@ Data: 2015-08-15 19:00:00
 | | Modium | Werder bever |
 |:-----:|-----|-----|
 Risultato|2|2
-Goals|⚽ Matteo Lanaro<br/>⚽ Federico Pomarolli|⚽⚽ Andrea Gober<br/>
+Goals|⚽ Matteo Lanaro<br/>⚽ Federico Pomarolli|⚽⚽ Andrea Gober
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Federico Pomarolli<br/>|⭐ Bertolini Giovanni<br/><br/>⭐ Andrea Gober<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Federico Pomarolli<br/>| ⭐ Bertolini Giovanni<br/><br/>⭐ Andrea Gober<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:66
@@ -1121,13 +1121,13 @@ Data: 2015-08-15 19:20:00
 | | Discepoli del luppolo | Titslovers |
 |:-----:|-----|-----|
 Risultato|5|3
-Goals|⚽⚽⚽ Michele Bertolini<br/>⚽ Luca Miorandi<br/>⚽ Marco Sala|⚽⚽ Federico Mortillaro<br/><br/>⚽ Stefano Tettamanti<br/>
+Goals|⚽⚽⚽ Michele Bertolini<br/>⚽ Luca Miorandi<br/>⚽ Marco Sala|⚽⚽ Federico Mortillaro<br/>⚽ Stefano Tettamanti
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Michele Bertolini<br/><br/>⭐ Marco Sala<br/>|⭐ Marco Maffei<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Michele Bertolini<br/><br/>⭐ Marco Sala<br/>| ⭐ Marco Maffei<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:67
@@ -1138,13 +1138,13 @@ Data: 2015-08-15 19:40:00
 | | Bar Ru: passione Rubar | Gli ortolani |
 |:-----:|-----|-----|
 Risultato|2|5
-Goals|⚽ Andrea Candioli<br/>⚽ Daniele Penati|⚽⚽⚽ Federico Andreis<br/><br/>⚽ Arvin Zanolli<br/><br/>⚽ Samuele Mancino<br/>
+Goals|⚽ Andrea Candioli<br/>⚽ Daniele Penati|⚽⚽⚽ Federico Andreis<br/>⚽ Arvin Zanolli<br/>⚽ Samuele Mancino
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore||⭐⭐ Federico Andreis<br/><br/>⭐ Arvin Zanolli<br/>
-Miglior Portiere||
+Miglior Giocatore| | ⭐⭐ Federico Andreis<br/><br/>⭐ Arvin Zanolli<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:68
@@ -1155,13 +1155,13 @@ Data: 2015-08-15 20:00:00
 | | Le scarsele | Le amiche di città laggiù |
 |:-----:|-----|-----|
 Risultato|4|1
-Goals|⚽⚽ Irene Tovazzi<br/>⚽ Sara Consolati<br/>⚽ Sofia Calliari|⚽ Jessica Angheben<br/>
+Goals|⚽⚽ Irene Tovazzi<br/>⚽ Sara Consolati<br/>⚽ Sofia Calliari|⚽ Jessica Angheben
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore||
-Miglior Portiere||
+Miglior Giocatore| | 
+Miglior Portiere| | 
 
 
 # PARTITA:69
@@ -1172,13 +1172,13 @@ Data: 2015-08-15 20:40:00
 | | Dinkel Team | Mai una gioia |
 |:-----:|-----|-----|
 Risultato|1|6
-Goals|⚽ Giacomo Valduga|⚽⚽⚽ Thomas Cavagna<br/><br/>⚽⚽ Maickol Azocar<br/><br/>⚽ Stefano Mattioli<br/>
+Goals|⚽ Giacomo Valduga|⚽⚽⚽ Thomas Cavagna<br/>⚽⚽ Maickol Azocar<br/>⚽ Stefano Mattioli
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore||⭐ Thomas Cavagna<br/><br/>⭐ Randy Cobbinah<br/><br/>⭐ Thomas Debiasi<br/>
-Miglior Portiere||
+Miglior Giocatore| | ⭐ Thomas Cavagna<br/><br/>⭐ Randy Cobbinah<br/><br/>⭐ Thomas Debiasi<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:70
@@ -1189,13 +1189,13 @@ Data: 2015-08-15 14:20:00
 | | Pinguini trentini | Tecnica pura |
 |:-----:|-----|-----|
 Risultato|3|5
-Goals|⚽⚽ Matteo Brigo<br/>⚽ Alessio Farinati|⚽⚽ Leonardo Stiz<br/><br/>⚽ Alessandro Zandonai<br/><br/>⚽ Luca Dellagiacoma<br/><br/>⚽ Alessandro Fait<br/>
+Goals|⚽⚽ Matteo Brigo<br/>⚽ Alessio Farinati|⚽⚽ Leonardo Stiz<br/>⚽ Alessandro Zandonai<br/>⚽ Luca Dellagiacoma<br/>⚽ Alessandro Fait
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Matteo Prezzi<br/>|⭐ Massimiliano Bettini<br/><br/>⭐ Alessandro Zandonai<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Matteo Prezzi<br/>| ⭐ Massimiliano Bettini<br/><br/>⭐ Alessandro Zandonai<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:71
@@ -1206,13 +1206,13 @@ Data: 2015-08-15 21:20:00
 | | Ematoma | Filfs & Co. |
 |:-----:|-----|-----|
 Risultato|1|1
-Goals|⚽ Nicola Di Marco|⚽ Andrea Barozzi<br/>
+Goals|⚽ Nicola Di Marco|⚽ Andrea Barozzi
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Peter Castelletti<br/><br/>⭐ Nicola Di Marco<br/>|⭐ Michele Ruele<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Peter Castelletti<br/><br/>⭐ Nicola Di Marco<br/>| ⭐ Michele Ruele<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:72
@@ -1223,13 +1223,13 @@ Data: 2015-08-15 14:40:00
 | | F.C. Judica | F.C. Julia |
 |:-----:|-----|-----|
 Risultato|4|2
-Goals|⚽⚽⚽ Carlo Stedile<br/>⚽ Andrea Potrich|⚽ Giovanni Zamboni<br/><br/>⚽ Pietro Dallabernardina<br/>
+Goals|⚽⚽⚽ Carlo Stedile<br/>⚽ Andrea Potrich|⚽ Giovanni Zamboni<br/>⚽ Pietro Dallabernardina
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Carlo Stedile<br/><br/>⭐ Alessandro Zamboni<br/>|⭐ Francesco Vettori<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Carlo Stedile<br/><br/>⭐ Alessandro Zamboni<br/>| ⭐ Francesco Vettori<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:101
@@ -1245,8 +1245,8 @@ Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Leonardo Ceschini<br/><br/>⭐ Edoardo Pomarolli<br/>|⭐ Corrado Larcher<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Leonardo Ceschini<br/><br/>⭐ Edoardo Pomarolli<br/>| ⭐ Corrado Larcher<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:102
@@ -1257,13 +1257,13 @@ Data: 2015-08-15 22:00:00
 | | JLA: Justice League of Aperitiv | Una quarta in quattro |
 |:-----:|-----|-----|
 Risultato|6|2
-Goals|⚽⚽⚽ Marie Stöger<br/>⚽⚽ Giulia Scrinzi<br/>⚽ Manuela Perini|⚽ Stefania Gazzini<br/><br/>⚽ Erika Amigoni<br/>
+Goals|⚽⚽⚽ Marie Stöger<br/>⚽⚽ Giulia Scrinzi<br/>⚽ Manuela Perini|⚽ Stefania Gazzini<br/>⚽ Erika Amigoni
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Giulia Scrinzi<br/><br/>⭐ Marie Stöger<br/>|⭐ Stefania Gazzini<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Giulia Scrinzi<br/><br/>⭐ Marie Stöger<br/>| ⭐ Stefania Gazzini<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:103
@@ -1274,13 +1274,13 @@ Data: 2015-08-15 22:20:00
 | | Cika-Banana | Le porcahontas |
 |:-----:|-----|-----|
 Risultato|3|2
-Goals|⚽⚽ Sharon Vicentini<br/>⚽ Eleonora Giramonti|⚽ Licia Fondriest<br/><br/>⚽ Valentina Bisoffi<br/>
+Goals|⚽⚽ Sharon Vicentini<br/>⚽ Eleonora Giramonti|⚽ Licia Fondriest<br/>⚽ Valentina Bisoffi
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Angela Incandela<br/><br/>⭐ Sharon Vicentini<br/>|⭐ Licia Fondriest<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Angela Incandela<br/><br/>⭐ Sharon Vicentini<br/>| ⭐ Licia Fondriest<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:104
@@ -1291,13 +1291,13 @@ Data: 2015-08-15 23:20:00
 | | F.C. Judica | Pinguini trentini |
 |:-----:|-----|-----|
 Risultato|3|1
-Goals|⚽⚽ Carlo Stedile<br/>⚽ Andrea Potrich|⚽ Matteo Brigo<br/>
+Goals|⚽⚽ Carlo Stedile<br/>⚽ Andrea Potrich|⚽ Matteo Brigo
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Andrea Potrich<br/><br/>⭐ Carlo Stedile<br/>|⭐ Matteo Prezzi<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Andrea Potrich<br/><br/>⭐ Carlo Stedile<br/>| ⭐ Matteo Prezzi<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:105
@@ -1308,13 +1308,13 @@ Data: 2015-08-15 21:40:00
 | | F.C. Julia | Tecnica pura |
 |:-----:|-----|-----|
 Risultato|1|3
-Goals|⚽ Filippo Simoncelli|⚽⚽ Alessandro Zandonai<br/><br/>⚽ Alessandro Fait<br/>
+Goals|⚽ Filippo Simoncelli|⚽⚽ Alessandro Zandonai<br/>⚽ Alessandro Fait
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Filippo Simoncelli<br/>|⭐ Massimiliano Bettini<br/><br/>⭐ Alessandro Zandonai<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Filippo Simoncelli<br/>| ⭐ Massimiliano Bettini<br/><br/>⭐ Alessandro Zandonai<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:106
@@ -1325,13 +1325,13 @@ Data: 2015-08-15 22:40:00
 | | Bionde! Punto. | Le scarsele |
 |:-----:|-----|-----|
 Risultato|9|3
-Goals|⚽⚽⚽ Cristina Gottardi<br/>⚽⚽⚽ Chiara Groff<br/>⚽⚽ Giulia Stedile<br/>⚽ Elisa Zanelli|⚽⚽ Irene Tovazzi<br/><br/>⚽ Naomi Zambelli<br/>
+Goals|⚽⚽⚽ Cristina Gottardi<br/>⚽⚽⚽ Chiara Groff<br/>⚽⚽ Giulia Stedile<br/>⚽ Elisa Zanelli|⚽⚽ Irene Tovazzi<br/>⚽ Naomi Zambelli
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Cristina Gottardi<br/><br/>⭐ Chiara Groff<br/>|⭐ Irene Tovazzi<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Cristina Gottardi<br/><br/>⭐ Chiara Groff<br/>| ⭐ Irene Tovazzi<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:107
@@ -1342,13 +1342,13 @@ Data: 2015-08-15 23:00:00
 | | Beck's to the island | Le bele united |
 |:-----:|-----|-----|
 Risultato|1|3
-Goals|⚽ Martina Francescatti|⚽⚽⚽ Valentina Perghem<br/>
+Goals|⚽ Martina Francescatti|⚽⚽⚽ Valentina Perghem
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Federica Francescatti<br/>|⭐ Valentina Perghem<br/><br/>⭐ Giorgia Turchini<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Federica Francescatti<br/>| ⭐ Valentina Perghem<br/><br/>⭐ Giorgia Turchini<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:108
@@ -1359,13 +1359,13 @@ Data: 2015-08-15 23:40:00
 | | F.C. Savignano | Dog of the grape |
 |:-----:|-----|-----|
 Risultato|6|1
-Goals|⚽⚽⚽⚽ Andrea Conzatti<br/>⚽ Giacomo De Zambotti<br/>⚽ Alessandro Maffei|⚽ Stefano Voltolini<br/>
+Goals|⚽⚽⚽⚽ Andrea Conzatti<br/>⚽ Giacomo De Zambotti<br/>⚽ Alessandro Maffei|⚽ Stefano Voltolini
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Andrea Conzatti<br/><br/>⭐ Giacomo De Zambotti<br/>|⭐ Stefano Voltolini<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Andrea Conzatti<br/><br/>⭐ Giacomo De Zambotti<br/>| ⭐ Stefano Voltolini<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:109
@@ -1376,13 +1376,13 @@ Data: 2015-08-16 10:30:00
 | | Buzzer beater | Werder bever |
 |:-----:|-----|-----|
 Risultato|4|3
-Goals|⚽⚽ Francesco Russo<br/>⚽⚽ Mattia Baldessarini|⚽⚽ Andrea Gober<br/><br/>⚽ Simone Martini<br/>
+Goals|⚽⚽ Francesco Russo<br/>⚽⚽ Mattia Baldessarini|⚽⚽ Andrea Gober<br/>⚽ Simone Martini
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Mattia Baldessarini<br/>|⭐ Manuel Cescatti<br/><br/>⭐ Andrea Gober<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Mattia Baldessarini<br/>| ⭐ Manuel Cescatti<br/><br/>⭐ Andrea Gober<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:110
@@ -1393,13 +1393,13 @@ Data: 2015-08-16 11:00:00
 | | Clitoriders | Mai una gioia |
 |:-----:|-----|-----|
 Risultato|3|4
-Goals|⚽⚽ Stefano Galvagni<br/>⚽ Filippo Parisi|⚽⚽ Thomas Cavagna<br/><br/>⚽ Stefano Mattioli<br/>
+Goals|⚽⚽ Stefano Galvagni<br/>⚽ Filippo Parisi|⚽⚽ Thomas Cavagna<br/>⚽ Stefano Mattioli
 Autogoals||⛔ Stefano Mattioli<br/>
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Stefano Galvagni<br/>|⭐⭐ Thomas Debiasi<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Stefano Galvagni<br/>| ⭐⭐ Thomas Debiasi<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:111
@@ -1410,13 +1410,13 @@ Data: 2015-08-16 11:20:00
 | | Titslovers | Filfs & Co. |
 |:-----:|-----|-----|
 Risultato|1|2
-Goals|⚽ Federico Mortillaro|⚽ Andrea Barozzi<br/><br/>⚽ Flavio Cattoi<br/>
+Goals|⚽ Federico Mortillaro|⚽ Andrea Barozzi<br/>⚽ Flavio Cattoi
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Marco Maffei<br/>|⭐ Andrea Barozzi<br/><br/>⭐ Flavio Cattoi<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Marco Maffei<br/>| ⭐ Andrea Barozzi<br/><br/>⭐ Flavio Cattoi<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:112
@@ -1427,13 +1427,13 @@ Data: 2015-08-16 11:40:00
 | | Gli ortolani | Ematoma |
 |:-----:|-----|-----|
 Risultato|0|1
-Goals||⚽ Nicola Di Marco<br/>
+Goals||⚽ Nicola Di Marco
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore||⭐⭐⭐ Peter Castelletti<br/>
-Miglior Portiere||
+Miglior Giocatore| | ⭐⭐⭐ Peter Castelletti<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:113
@@ -1444,13 +1444,13 @@ Data: 2015-08-16 12:40:00
 | | Le amiche di città laggiù | Le papere agonizzanti |
 |:-----:|-----|-----|
 Risultato|3|4
-Goals|⚽⚽⚽ Jessica Angheben|⚽⚽⚽⚽ Rachele Gugole<br/>
+Goals|⚽⚽⚽ Jessica Angheben|⚽⚽⚽⚽ Rachele Gugole
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Jessica Angheben<br/><br/>⭐ Federica Bertolli<br/>|⭐ Rachele Gugole<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Jessica Angheben<br/><br/>⭐ Federica Bertolli<br/>| ⭐ Rachele Gugole<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:114
@@ -1461,13 +1461,13 @@ Data: 2015-08-16 17:00:00
 | | A22 | Tettenzampi |
 |:-----:|-----|-----|
 Risultato|1|4
-Goals|⚽ Elisabetta Pisetti|⚽⚽ Serena Barozzi<br/><br/>⚽ Mara Barozzi<br/><br/>⚽ Elisabetta Azzolini<br/>
+Goals|⚽ Elisabetta Pisetti|⚽⚽ Serena Barozzi<br/>⚽ Mara Barozzi<br/>⚽ Elisabetta Azzolini
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Elisabetta Pisetti<br/>|⭐ Serena Barozzi<br/><br/>⭐ Mara Barozzi<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Elisabetta Pisetti<br/>| ⭐ Serena Barozzi<br/><br/>⭐ Mara Barozzi<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:115
@@ -1478,13 +1478,13 @@ Data: 2015-08-16 17:30:00
 | | JLA: Justice League of Aperitiv | Bionde! Punto. |
 |:-----:|-----|-----|
 Risultato|0|5
-Goals||⚽⚽ Cristina Gottardi<br/><br/>⚽⚽ Giulia Stedile<br/><br/>⚽ Chiara Groff<br/>
+Goals||⚽⚽ Cristina Gottardi<br/>⚽⚽ Giulia Stedile<br/>⚽ Chiara Groff
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Valentina Giovannini<br/><br/>⭐ Giulia Scrinzi<br/>|⭐ Cristina Gottardi<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Valentina Giovannini<br/><br/>⭐ Giulia Scrinzi<br/>| ⭐ Cristina Gottardi<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:116
@@ -1495,13 +1495,13 @@ Data: 2015-08-16 18:30:00
 | | Cika-Banana | Le bele united |
 |:-----:|-----|-----|
 Risultato|3|1
-Goals|⚽⚽ Angela Incandela<br/>⚽ Sharon Vicentini|⚽ Valentina Perghem<br/>
+Goals|⚽⚽ Angela Incandela<br/>⚽ Sharon Vicentini|⚽ Valentina Perghem
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Angela Incandela<br/><br/>⭐⭐ Nicole Larentis<br/>|
-Miglior Portiere||
+Miglior Giocatore| ⭐ Angela Incandela<br/><br/>⭐⭐ Nicole Larentis<br/>| 
+Miglior Portiere| | 
 
 
 # PARTITA:118
@@ -1512,13 +1512,13 @@ Data: 2015-08-16 19:30:00
 | | Le minne | Do birete |
 |:-----:|-----|-----|
 Risultato|3|4
-Goals|⚽⚽ Diletta Fait<br/>⚽ Cristina Tognarelli|⚽⚽ Francesca Stefani<br/><br/>⚽ Micaela Maraner<br/><br/>⚽ Stefania Planchestainer<br/>
+Goals|⚽⚽ Diletta Fait<br/>⚽ Cristina Tognarelli|⚽⚽ Francesca Stefani<br/>⚽ Micaela Maraner<br/>⚽ Stefania Planchestainer
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Diletta Fait<br/>|⭐ Stefania Planchestainer<br/><br/>⭐ Francesca Stefani<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Diletta Fait<br/>| ⭐ Stefania Planchestainer<br/><br/>⭐ Francesca Stefani<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:120
@@ -1529,13 +1529,13 @@ Data: 2015-08-16 14:30:00
 | | Arcoiris | Nerz |
 |:-----:|-----|-----|
 Risultato|0|3
-Goals||⚽ Gessica Zendri<br/><br/>⚽   Autogol<br/><br/>⚽ Silvia Mozzi<br/>
+Goals||⚽ Gessica Zendri<br/>⚽   Autogol<br/>⚽ Silvia Mozzi
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Matilde Gugole<br/>|⭐ Alessandra Marangoni<br/><br/>⭐ Silvia Mozzi<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Matilde Gugole<br/>| ⭐ Alessandra Marangoni<br/><br/>⭐ Silvia Mozzi<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:121
@@ -1546,13 +1546,13 @@ Data: 2015-08-16 15:00:00
 | | Modium | F.C. Savignano |
 |:-----:|-----|-----|
 Risultato|6|2
-Goals|⚽⚽⚽⚽ Andrea Bertolini<br/>⚽⚽ Federico Pomarolli|⚽⚽ Andrea Conzatti<br/>
+Goals|⚽⚽⚽⚽ Andrea Bertolini<br/>⚽⚽ Federico Pomarolli|⚽⚽ Andrea Conzatti
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Andrea Bertolini<br/><br/>⭐ Leonardo Ceschini<br/>|⭐ Pietro Gioffrè<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Andrea Bertolini<br/><br/>⭐ Leonardo Ceschini<br/>| ⭐ Pietro Gioffrè<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:122
@@ -1563,13 +1563,13 @@ Data: 2015-08-16 15:30:00
 | | Buzzer beater | Mai una gioia |
 |:-----:|-----|-----|
 Risultato|2|3
-Goals|⚽ Mattia Baldessarini<br/>⚽ Luca Giordani|⚽⚽ Maickol Azocar<br/><br/>⚽ Stefano Mattioli<br/>
+Goals|⚽ Mattia Baldessarini<br/>⚽ Luca Giordani|⚽⚽ Maickol Azocar<br/>⚽ Stefano Mattioli
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Stefano Tita<br/>|⭐ Randy Cobbinah<br/><br/>⭐ Thomas Debiasi<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Stefano Tita<br/>| ⭐ Randy Cobbinah<br/><br/>⭐ Thomas Debiasi<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:123
@@ -1580,13 +1580,13 @@ Data: 2015-08-16 16:00:00
 | | Tecnica pura | Filfs & Co. |
 |:-----:|-----|-----|
 Risultato|1|4
-Goals|⚽ Luca Dellagiacoma|⚽⚽ Andrea Barozzi<br/><br/>⚽ Matteo Manconi<br/><br/>⚽ Flavio Cattoi<br/>
+Goals|⚽ Luca Dellagiacoma|⚽⚽ Andrea Barozzi<br/>⚽ Matteo Manconi<br/>⚽ Flavio Cattoi
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Alessandro Fait<br/>|⭐ Lorenzo Barozzi<br/><br/>⭐ Michele Ruele<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Alessandro Fait<br/>| ⭐ Lorenzo Barozzi<br/><br/>⭐ Michele Ruele<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:124
@@ -1597,13 +1597,13 @@ Data: 2015-08-16 16:30:00
 | | Ematoma | F.C. Judica |
 |:-----:|-----|-----|
 Risultato|0|5
-Goals||⚽⚽⚽⚽ Carlo Stedile<br/><br/>⚽ Gabriele Galli<br/>
+Goals||⚽⚽⚽⚽ Carlo Stedile<br/>⚽ Gabriele Galli
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore||⭐ Gabriele Galli<br/><br/>⭐⭐ Carlo Stedile<br/>
-Miglior Portiere||
+Miglior Giocatore| | ⭐ Gabriele Galli<br/><br/>⭐⭐ Carlo Stedile<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:125
@@ -1614,13 +1614,13 @@ Data: 2015-08-16 18:00:00
 | | Modium | F.C. Judica |
 |:-----:|-----|-----|
 Risultato|4|2
-Goals|⚽⚽ Matteo Lanaro<br/>⚽ Edoardo Pomarolli<br/>⚽ Federico Pomarolli|⚽ Carlo Stedile<br/><br/>⚽ Andrea Manfredi<br/>
+Goals|⚽⚽ Matteo Lanaro<br/>⚽ Edoardo Pomarolli<br/>⚽ Federico Pomarolli|⚽ Carlo Stedile<br/>⚽ Andrea Manfredi
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Leonardo Ceschini<br/><br/>⭐ Matteo Lanaro<br/>|⭐ Alessandro Zamboni<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Leonardo Ceschini<br/><br/>⭐ Matteo Lanaro<br/>| ⭐ Alessandro Zamboni<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:126
@@ -1636,8 +1636,8 @@ Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Thomas Cavagna<br/><br/>⭐⭐ Thomas Debiasi<br/>|
-Miglior Portiere||
+Miglior Giocatore| ⭐ Thomas Cavagna<br/><br/>⭐⭐ Thomas Debiasi<br/>| 
+Miglior Portiere| | 
 
 
 # PARTITA:127
@@ -1653,8 +1653,8 @@ Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore||⭐⭐ Nicole Larentis<br/>
-Miglior Portiere||
+Miglior Giocatore| | ⭐⭐ Nicole Larentis<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:128
@@ -1665,13 +1665,13 @@ Data: 2015-08-16 20:30:00
 | | JLA: Justice League of Aperitiv | Le bele united |
 |:-----:|-----|-----|
 Risultato|4|1
-Goals|⚽⚽ Manuela Perini<br/>⚽ Marie Stöger<br/>⚽ Valentina Giovannini|⚽ Valentina Perghem<br/>
+Goals|⚽⚽ Manuela Perini<br/>⚽ Marie Stöger<br/>⚽ Valentina Giovannini|⚽ Valentina Perghem
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Valentina Giovannini<br/><br/>⭐ Manuela Perini<br/><br/>⭐ Giulia Scrinzi<br/>|
-Miglior Portiere||
+Miglior Giocatore| ⭐ Valentina Giovannini<br/><br/>⭐ Manuela Perini<br/><br/>⭐ Giulia Scrinzi<br/>| 
+Miglior Portiere| | 
 
 
 # PARTITA:129
@@ -1682,13 +1682,13 @@ Data: 2015-08-16 22:00:00
 | | Mai una gioia | Modium |
 |:-----:|-----|-----|
 Risultato|4|8
-Goals|⚽⚽ Maickol Azocar<br/>⚽⚽ Stefano Mattioli|⚽⚽⚽⚽ Andrea Bertolini<br/><br/>⚽⚽ Federico Pomarolli<br/><br/>⚽ Matteo Lanaro<br/><br/>⚽ Edoardo Pomarolli<br/>
+Goals|⚽⚽ Maickol Azocar<br/>⚽⚽ Stefano Mattioli|⚽⚽⚽⚽ Andrea Bertolini<br/>⚽⚽ Federico Pomarolli<br/>⚽ Matteo Lanaro<br/>⚽ Edoardo Pomarolli
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Thomas Debiasi<br/>|⭐ Leonardo Ceschini<br/><br/>⭐ Edoardo Pomarolli<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Thomas Debiasi<br/>| ⭐ Leonardo Ceschini<br/><br/>⭐ Edoardo Pomarolli<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:130
@@ -1699,10 +1699,10 @@ Data: 2015-08-16 21:00:00
 | | Filfs & Co. | F.C. Judica |
 |:-----:|-----|-----|
 Risultato|4|3
-Goals|⚽⚽ Flavio Cattoi<br/>⚽ Andrea Barozzi<br/>⚽ Lorenzo Barozzi|⚽⚽⚽ Carlo Stedile<br/>
+Goals|⚽⚽ Flavio Cattoi<br/>⚽ Andrea Barozzi<br/>⚽ Lorenzo Barozzi|⚽⚽⚽ Carlo Stedile
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Flavio Cattoi<br/><br/>⭐ Michele Ruele<br/>|⭐ Alessandro Zamboni<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Flavio Cattoi<br/><br/>⭐ Michele Ruele<br/>| ⭐ Alessandro Zamboni<br/>
+Miglior Portiere| | 

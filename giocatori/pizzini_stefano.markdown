@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-06-26 22:08:44.847875
+date: 2022-07-01 09:59:37.750454
 categories: torneo
 permalink: /giocatore/pizzini_stefano/
 ---

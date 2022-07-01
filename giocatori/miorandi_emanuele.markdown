@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-06-26 22:08:44.794468
+date: 2022-07-01 09:59:37.727000
 categories: torneo
 permalink: /giocatore/miorandi_emanuele/
 ---

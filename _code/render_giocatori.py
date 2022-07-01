@@ -62,10 +62,13 @@ def render_player_page(nome):
     markdown.append("<link rel='stylesheets' href='./../assets/giocatori.css'>\n")
 
     # title and image
-    nominativo = nome if max(player_data['soprannome'].values()) == "" else f"{nome} ({max(player_data['soprannome'].values())})"
+    nominativo = nome if max(
+        player_data['soprannome'].values()) == "" else f"{nome} ({max(player_data['soprannome'].values())})"
     titolo = "\n".join([f"| {nominativo} |", "|:-----:|",
                         f"| ![{nome.lower().replace(' ', '_')}]('./../../assets/giocatori/{nome.lower().replace(' ', '_')}.png)'" + "{:.immagine_giocatori} |"])
-    tabella_carriera = "\n".join([f"|{y}|{player_data['squadra'][y].strip()}|{player_data['soprannome'][y].strip()}|" for y in player_data["anni"]])
+    tabella_carriera = "\n".join(
+        [f"|{y}|{player_data['squadra'][y].strip()}|{player_data['soprannome'][y].strip()}|" for y in
+         player_data["anni"]])
     carriera = "\n".join(["## Carriera",
                           "----\n",
                           "|Anno|Squadra|Soprannome|",
@@ -75,7 +78,8 @@ def render_player_page(nome):
     # goals
     tabella_goal = "|Goal|" + "|".join([f"{player_data['goal'][y]}" for y in player_data["anni"]]) + "|" + str(
         sum([player_data['goal'][y] for y in player_data["anni"]])) + "|"
-    tabella_autogol = "|Autogoal|" + "|".join([f"{player_data['autogol'][y]}" for y in player_data["anni"]]) + "|" + str(
+    tabella_autogol = "|Autogoal|" + "|".join(
+        [f"{player_data['autogol'][y]}" for y in player_data["anni"]]) + "|" + str(
         sum([player_data['autogol'][y] for y in player_data["anni"]])) + "|"
     goal = "\n".join(["## Goal",
                       "----\n",
@@ -116,12 +120,13 @@ def render_player_page(nome):
 
 
 if __name__ == "__main__":
-    giocatori = ["Raffaelli Davide",
-                "Giordani Nicolas","Conzatti Andrea", "Maffei Alessandro", "De Zambotti Davide","De Zambotti Giacomo","Di Meo Samuel",
-                 "Ceschini Leonardo", "Barbiero Riccardo","Miorandi Emanuele",
-                 "Mazzola Matteo", "Parisi Leonardo", "Anzelini Andrea", "Gerola Marco","Pizzini Stefano"]
+    giocatori = ["Zandonati Stefania", "Raffaelli Davide",
+                 "Giordani Nicolas", "Conzatti Andrea", "Maffei Alessandro", "De Zambotti Davide",
+                 "De Zambotti Giacomo", "Di Meo Samuel",
+                 "Ceschini Leonardo", "Barbiero Riccardo", "Miorandi Emanuele",
+                 "Mazzola Matteo", "Parisi Leonardo", "Anzelini Andrea", "Gerola Marco", "Pizzini Stefano"]
     for giocatore in tqdm(giocatori, desc="rendering players..."):
         try:
             render_player_page(giocatore)
         except Exception as e:
-            print("Cannot render "+giocatore+". "+str(e))
+            print("Cannot render " + giocatore + ". " + str(e))

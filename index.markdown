@@ -1,8 +1,15 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
 <h1>Il mondiale si gioca sul gonfiabile</h1>
-![LOGO](./assets/images/home/logo.jpeg)
+
+<p align="center">
+  <img src="./assets/images/home/logo.jpeg">
+</p>
+
+## Iscrizioni
+
+---
+
+| **EDIZIONE 2022** | [Modulo](./assets/documents/2022_iscrizione.pdf) | [Liberatoria](./assets/documents/2022_liberatoria.pdf) |
+

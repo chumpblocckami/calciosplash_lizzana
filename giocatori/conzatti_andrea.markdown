@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-06-26 22:08:44.725436
+date: 2022-07-01 09:59:37.692545
 categories: torneo
 permalink: /giocatore/conzatti_andrea/
 ---

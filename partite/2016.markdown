@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-06-29 12:25:50.218071
+date: 2022-07-01 10:08:32.346553
 categories: partite
 permalink: /partite/2016/
 ---
@@ -16,13 +16,13 @@ Data: 2016-08-11 17:00:00
 | | S.C. Alda Fregna | Mai Una Gioia |
 |:-----:|-----|-----|
 Risultato|2|1
-Goals|⚽ Alessandro Zandonai<br/>⚽ Federico Andreis|⚽ Reda Boutahir<br/>
+Goals|⚽ Alessandro Zandonai<br/>⚽ Federico Andreis|⚽ Reda Boutahir
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Alessandro Zandonai<br/>|⭐ Randy Cobbinah<br/><br/>⭐ Thomas Debiasi<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Alessandro Zandonai<br/>| ⭐ Randy Cobbinah<br/><br/>⭐ Thomas Debiasi<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:2
@@ -33,13 +33,13 @@ Data: 2016-08-11 17:20:00
 | | Pinguini Trentini | Caffè Grazia |
 |:-----:|-----|-----|
 Risultato|4|1
-Goals|⚽⚽ Matteo Brigo<br/>⚽ Alessio Farinati<br/>⚽ Davide Manica|⚽ Andrea Candioli<br/>
+Goals|⚽⚽ Matteo Brigo<br/>⚽ Alessio Farinati<br/>⚽ Davide Manica|⚽ Andrea Candioli
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Leonardo Ceschini<br/><br/>⭐⭐ Marco Sala<br/>|
-Miglior Portiere||
+Miglior Giocatore| ⭐ Leonardo Ceschini<br/><br/>⭐⭐ Marco Sala<br/>| 
+Miglior Portiere| | 
 
 
 # PARTITA:3
@@ -50,13 +50,13 @@ Data: 2016-08-11 17:40:00
 | | ...tutti per una | Le Par Sgherle |
 |:-----:|-----|-----|
 Risultato|5|1
-Goals|⚽⚽⚽ Marta Rabini<br/>⚽⚽ Federica Francescatti|⚽ Rachele Gugole<br/>
+Goals|⚽⚽⚽ Marta Rabini<br/>⚽⚽ Federica Francescatti|⚽ Rachele Gugole
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Martina Francescatti<br/><br/>⭐ Marta Rabini<br/>|
-Miglior Portiere||
+Miglior Giocatore| ⭐⭐ Martina Francescatti<br/><br/>⭐ Marta Rabini<br/>| 
+Miglior Portiere| | 
 
 
 # PARTITA:4
@@ -67,13 +67,13 @@ Data: 2016-08-11 18:00:00
 | | I Fatti del Giorno | Nocera Inferiore Vive |
 |:-----:|-----|-----|
 Risultato|0|6
-Goals||⚽⚽ Luca Dellagiacoma<br/><br/>⚽⚽ Omar Russo<br/><br/>⚽ Enzo Criscuolo<br/><br/>⚽ Giovanni Bertolini<br/>
+Goals||⚽⚽ Luca Dellagiacoma<br/>⚽⚽ Omar Russo<br/>⚽ Enzo Criscuolo<br/>⚽ Giovanni Bertolini
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore||⭐⭐ Luca Dellagiacoma<br/><br/>⭐ Omar Russo<br/>
-Miglior Portiere||
+Miglior Giocatore| | ⭐⭐ Luca Dellagiacoma<br/><br/>⭐ Omar Russo<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:5
@@ -84,13 +84,13 @@ Data: 2016-08-11 18:20:00
 | | I Svergoi | Pokemonae |
 |:-----:|-----|-----|
 Risultato|1|2
-Goals|⚽ Matteo De Vettori|⚽ Leonardo Parisi<br/><br/>⚽ Davide Raffaelli<br/>
+Goals|⚽ Matteo De Vettori|⚽ Leonardo Parisi<br/>⚽ Davide Raffaelli
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore||⭐⭐ Samuel Di Meo<br/><br/>⭐ Leonardo Parisi<br/>
-Miglior Portiere||
+Miglior Giocatore| | ⭐⭐ Samuel Di Meo<br/><br/>⭐ Leonardo Parisi<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:6
@@ -101,13 +101,13 @@ Data: 2016-08-11 18:40:00
 | | Le Amiche di Città Laggiù | Una per tutti... |
 |:-----:|-----|-----|
 Risultato|0|6
-Goals||⚽⚽⚽ Laura Manconi<br/><br/>⚽⚽ Margherita Prezzi<br/><br/>⚽ Serena Barozzi<br/>
+Goals||⚽⚽⚽ Laura Manconi<br/>⚽⚽ Margherita Prezzi<br/>⚽ Serena Barozzi
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore||⭐ Mara Barozzi<br/><br/>⭐⭐ Margherita Prezzi<br/>
-Miglior Portiere||
+Miglior Giocatore| | ⭐ Mara Barozzi<br/><br/>⭐⭐ Margherita Prezzi<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:7
@@ -118,13 +118,13 @@ Data: 2016-08-11 19:00:00
 | | Clandes Team | Babarum |
 |:-----:|-----|-----|
 Risultato|4|1
-Goals|⚽ Marco Castaldo<br/>⚽ Pietro Zandonai<br/>⚽ Riccardo Brunelli<br/>⚽ Marco Scottini|⚽ Michele Morandi<br/>
+Goals|⚽ Marco Castaldo<br/>⚽ Pietro Zandonai<br/>⚽ Riccardo Brunelli<br/>⚽ Marco Scottini|⚽ Michele Morandi
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Marco Castaldo<br/><br/>⭐ Pietro Zandonai<br/>|⭐ Maurizio Secchi<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Marco Castaldo<br/><br/>⭐ Pietro Zandonai<br/>| ⭐ Maurizio Secchi<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:8
@@ -135,13 +135,13 @@ Data: 2016-08-11 19:20:00
 | | Fel Lazio 2.0 | I Montagna |
 |:-----:|-----|-----|
 Risultato|1|2
-Goals|⚽ Nicola Conti|⚽ Andrea Pedrotti<br/><br/>⚽ Mirko Santoni<br/>
+Goals|⚽ Nicola Conti|⚽ Andrea Pedrotti<br/>⚽ Mirko Santoni
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Manuel Cescatti<br/>|⭐⭐ Daniele Dalbosco<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Manuel Cescatti<br/>| ⭐⭐ Daniele Dalbosco<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:9
@@ -157,8 +157,8 @@ Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Leonardo Ceschini<br/><br/>⭐ Marco Sala<br/>|
-Miglior Portiere||
+Miglior Giocatore| ⭐⭐ Leonardo Ceschini<br/><br/>⭐ Marco Sala<br/>| 
+Miglior Portiere| | 
 
 
 # PARTITA:10
@@ -169,13 +169,13 @@ Data: 2016-08-11 20:40:00
 | | I Pini | No Name |
 |:-----:|-----|-----|
 Risultato|2|3
-Goals|⚽ Giacomo Saccani<br/>⚽ Massimo Giovannini|⚽⚽ Elia Tomasoni<br/><br/>⚽ Andrea Aste<br/>
+Goals|⚽ Giacomo Saccani<br/>⚽ Massimo Giovannini|⚽⚽ Elia Tomasoni<br/>⚽ Andrea Aste
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Giacomo Saccani<br/>|⭐ Andrea Aste<br/><br/>⭐ Elia Tomasoni<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Giacomo Saccani<br/>| ⭐ Andrea Aste<br/><br/>⭐ Elia Tomasoni<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:11
@@ -186,13 +186,13 @@ Data: 2016-08-11 21:00:00
 | | JLA: Justice League of Aperitiv | Le Scarsele |
 |:-----:|-----|-----|
 Risultato|1|1
-Goals|⚽ Giulia  Scrinzi|⚽ Irene Tovazzi<br/>
+Goals|⚽ Giulia  Scrinzi|⚽ Irene Tovazzi
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Giulia  Scrinzi<br/>|⭐ Sofia Brazzo<br/><br/>⭐ Irene Tovazzi<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Giulia  Scrinzi<br/>| ⭐ Sofia Brazzo<br/><br/>⭐ Irene Tovazzi<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:12
@@ -208,8 +208,8 @@ Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore||⭐⭐⭐ Erik Feldkircher<br/>
-Miglior Portiere||
+Miglior Giocatore| | ⭐⭐⭐ Erik Feldkircher<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:13
@@ -220,13 +220,13 @@ Data: 2016-08-11 21:40:00
 | | Bionde! Punto | Baby Nerz |
 |:-----:|-----|-----|
 Risultato|5|1
-Goals|⚽⚽⚽ Elisa Zanelli<br/>⚽ Chiara Groff<br/>⚽ Margherita Planchesteiner|⚽ Stefania Viola<br/>
+Goals|⚽⚽⚽ Elisa Zanelli<br/>⚽ Chiara Groff<br/>⚽ Margherita Planchesteiner|⚽ Stefania Viola
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Elisa Zanelli<br/>|⭐⭐ Alessandra Marangoni<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Elisa Zanelli<br/>| ⭐⭐ Alessandra Marangoni<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:14
@@ -237,13 +237,13 @@ Data: 2016-08-11 22:00:00
 | | Malmö Stoss | Nocera Inferiore Vive |
 |:-----:|-----|-----|
 Risultato|4|1
-Goals|⚽⚽ Giulio Barozzi<br/>⚽ Federico Folchini<br/>⚽ Sebastiano Azzolini|⚽ Giovanni Bertolini<br/>
+Goals|⚽⚽ Giulio Barozzi<br/>⚽ Federico Folchini<br/>⚽ Sebastiano Azzolini|⚽ Giovanni Bertolini
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Sebastiano Azzolini<br/>|
-Miglior Portiere||
+Miglior Giocatore| ⭐ Sebastiano Azzolini<br/>| 
+Miglior Portiere| | 
 
 
 # PARTITA:15
@@ -259,8 +259,8 @@ Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Erika Amigoni<br/><br/>⭐⭐ Stefania Gazzini<br/>|
-Miglior Portiere||
+Miglior Giocatore| ⭐ Erika Amigoni<br/><br/>⭐⭐ Stefania Gazzini<br/>| 
+Miglior Portiere| | 
 
 
 # PARTITA:16
@@ -271,13 +271,13 @@ Data: 2016-08-11 22:40:00
 | | Shark Attak | Mai Una Gioia |
 |:-----:|-----|-----|
 Risultato|3|2
-Goals|⚽ Mattia Festi<br/>⚽ Mattia Baldessarini<br/>⚽ Fabio Festini|⚽⚽ Nadir Chtioui<br/>
+Goals|⚽ Mattia Festi<br/>⚽ Mattia Baldessarini<br/>⚽ Fabio Festini|⚽⚽ Nadir Chtioui
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Mattia Baldessarini<br/><br/>⭐ Alberto Cerisara<br/>|⭐ Nadir Chtioui<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Mattia Baldessarini<br/><br/>⭐ Alberto Cerisara<br/>| ⭐ Nadir Chtioui<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:17
@@ -288,13 +288,13 @@ Data: 2016-08-11 23:00:00
 | | Cacao Meravigliao | Titslovers |
 |:-----:|-----|-----|
 Risultato|2|1
-Goals|⚽ Roberto Gasperotti<br/>⚽ Matteo Zanini|⚽ Micheal Zanoni<br/>
+Goals|⚽ Roberto Gasperotti<br/>⚽ Matteo Zanini|⚽ Micheal Zanoni
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore||
-Miglior Portiere||
+Miglior Giocatore| | 
+Miglior Portiere| | 
 
 
 # PARTITA:18
@@ -305,13 +305,13 @@ Data: 2016-08-11 23:20:00
 | | Pokemonae | F.C. Judica |
 |:-----:|-----|-----|
 Risultato|0|3
-Goals||⚽⚽ Carlo Stedile<br/><br/>⚽ Dario Cappelletti<br/>
+Goals||⚽⚽ Carlo Stedile<br/>⚽ Dario Cappelletti
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Davide Raffaelli<br/>|⭐ Carlo Stedile<br/><br/>⭐ Alessandro Zamboni<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Davide Raffaelli<br/>| ⭐ Carlo Stedile<br/><br/>⭐ Alessandro Zamboni<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:19
@@ -327,8 +327,8 @@ Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore||⭐ Carlotta Broll<br/><br/>⭐ Valeria Simonini<br/><br/>⭐ Ilaria Zendri<br/>
-Miglior Portiere||
+Miglior Giocatore| | ⭐ Carlotta Broll<br/><br/>⭐ Valeria Simonini<br/><br/>⭐ Ilaria Zendri<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:20
@@ -339,13 +339,13 @@ Data: 2016-08-12 17:20:00
 | | I Fatti del Giorno | F.C. Savignano |
 |:-----:|-----|-----|
 Risultato|3|5
-Goals|⚽ Manolo Pisoni<br/>⚽ Roberto Pedri<br/>⚽ Samuel Zaratin|⚽⚽⚽ Giacomo  De Zambotti<br/><br/>⚽⚽ Andrea Conzatti<br/>
+Goals|⚽ Manolo Pisoni<br/>⚽ Roberto Pedri<br/>⚽ Samuel Zaratin|⚽⚽⚽ Giacomo  De Zambotti<br/>⚽⚽ Andrea Conzatti
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Daniele Salomoni<br/>|⭐⭐ Giacomo  De Zambotti<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Daniele Salomoni<br/>| ⭐⭐ Giacomo  De Zambotti<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:21
@@ -356,13 +356,13 @@ Data: 2016-08-12 17:40:00
 | | Esperimento 626 | I Montagna |
 |:-----:|-----|-----|
 Risultato|1|5
-Goals|⚽ Nicolò  Azzolini|⚽⚽⚽ Omar Mastroiacovo<br/><br/>⚽⚽ Michele Bertolini<br/>
+Goals|⚽ Nicolò  Azzolini|⚽⚽⚽ Omar Mastroiacovo<br/>⚽⚽ Michele Bertolini
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Tobia Brussich<br/>|⭐⭐ Omar Mastroiacovo<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Tobia Brussich<br/>| ⭐⭐ Omar Mastroiacovo<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:22
@@ -378,8 +378,8 @@ Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Thomas Cavagna<br/><br/>⭐ Nadir Chtioui<br/><br/>⭐ Stefano Mattioli<br/>|
-Miglior Portiere||
+Miglior Giocatore| ⭐ Thomas Cavagna<br/><br/>⭐ Nadir Chtioui<br/><br/>⭐ Stefano Mattioli<br/>| 
+Miglior Portiere| | 
 
 
 # PARTITA:23
@@ -390,13 +390,13 @@ Data: 2016-08-12 18:20:00
 | | Ematoma | I Svergoi |
 |:-----:|-----|-----|
 Risultato|1|1
-Goals|⚽ Gianluca Veneri|⚽ Matteo De Vettori<br/>
+Goals|⚽ Gianluca Veneri|⚽ Matteo De Vettori
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore||⭐ Massimo Chiodini<br/>
-Miglior Portiere||
+Miglior Giocatore| | ⭐ Massimo Chiodini<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:24
@@ -407,13 +407,13 @@ Data: 2016-08-12 18:40:00
 | | ...tutti per una | Le Lavandaie |
 |:-----:|-----|-----|
 Risultato|8|1
-Goals|⚽⚽⚽ Federica Francescatti<br/>⚽⚽ Martina Francescatti<br/>⚽⚽ Eleonora Barozzi<br/>⚽ Lorenza Simoncelli|⚽ Gaia Zanoni<br/>
+Goals|⚽⚽⚽ Federica Francescatti<br/>⚽⚽ Martina Francescatti<br/>⚽⚽ Eleonora Barozzi<br/>⚽ Lorenza Simoncelli|⚽ Gaia Zanoni
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Lorenza Simoncelli<br/>|⭐ Valentina Garniga<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐⭐ Lorenza Simoncelli<br/>| ⭐ Valentina Garniga<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:25
@@ -424,13 +424,13 @@ Data: 2016-08-12 19:00:00
 | | F.C. Julia | I Pini |
 |:-----:|-----|-----|
 Risultato|2|6
-Goals|⚽ Francesco Vettori<br/>⚽ Giovanni Zamboni|⚽⚽⚽⚽ Giacomo Saccani<br/><br/>⚽ Fabrizio Maraner<br/><br/>⚽ Luca Tonolli<br/>
+Goals|⚽ Francesco Vettori<br/>⚽ Giovanni Zamboni|⚽⚽⚽⚽ Giacomo Saccani<br/>⚽ Fabrizio Maraner<br/>⚽ Luca Tonolli
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore||⭐⭐⭐ Giacomo Saccani<br/>
-Miglior Portiere||
+Miglior Giocatore| | ⭐⭐⭐ Giacomo Saccani<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:26
@@ -446,8 +446,8 @@ Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore||
-Miglior Portiere||
+Miglior Giocatore| | 
+Miglior Portiere| | 
 
 
 # PARTITA:27
@@ -458,13 +458,13 @@ Data: 2016-08-12 19:40:00
 | | Dinkel Team | Lizzanella's Old Sughi |
 |:-----:|-----|-----|
 Risultato|1|3
-Goals|⚽ Riccardo Versini|⚽ Daniele Feltrinelli<br/><br/>⚽ Michele Leonardi<br/><br/>⚽ Federico Ignaccolo<br/>
+Goals|⚽ Riccardo Versini|⚽ Daniele Feltrinelli<br/>⚽ Michele Leonardi<br/>⚽ Federico Ignaccolo
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Pietro Brussich<br/>|⭐ Federico Leonardi<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐⭐ Pietro Brussich<br/>| ⭐ Federico Leonardi<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:28
@@ -475,13 +475,13 @@ Data: 2016-08-12 20:00:00
 | | Malmö Stoss | F.C. Savignano |
 |:-----:|-----|-----|
 Risultato|0|6
-Goals||⚽⚽ Alessandro Maffei<br/><br/>⚽⚽ Giacomo  De Zambotti<br/><br/>⚽ Nicolas Giordani<br/><br/>⚽ Andrea Conzatti<br/>
+Goals||⚽⚽ Alessandro Maffei<br/>⚽⚽ Giacomo  De Zambotti<br/>⚽ Nicolas Giordani<br/>⚽ Andrea Conzatti
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore||⭐ Andrea Conzatti<br/><br/>⭐ Giacomo  De Zambotti<br/><br/>⭐ Nicolas Giordani<br/>
-Miglior Portiere||
+Miglior Giocatore| | ⭐ Andrea Conzatti<br/><br/>⭐ Giacomo  De Zambotti<br/><br/>⭐ Nicolas Giordani<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:29
@@ -492,13 +492,13 @@ Data: 2016-08-12 20:40:00
 | | Titslovers | Babarum |
 |:-----:|-----|-----|
 Risultato|9|3
-Goals|⚽⚽⚽⚽⚽⚽⚽⚽ Federico Mortillaro<br/>⚽ Micheal Zanoni|⚽⚽ Maurizio Secchi<br/><br/>⚽ Michele Morandi<br/>
+Goals|⚽⚽⚽⚽⚽⚽⚽⚽ Federico Mortillaro<br/>⚽ Micheal Zanoni|⚽⚽ Maurizio Secchi<br/>⚽ Michele Morandi
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐⭐ Federico Mortillaro<br/>|
-Miglior Portiere||
+Miglior Giocatore| ⭐⭐⭐ Federico Mortillaro<br/>| 
+Miglior Portiere| | 
 
 
 # PARTITA:30
@@ -509,13 +509,13 @@ Data: 2016-08-12 21:00:00
 | | JLA: Justice League of Aperitiv | Le Amiche di Città Laggiù |
 |:-----:|-----|-----|
 Risultato|6|1
-Goals|⚽⚽⚽⚽⚽ Laura Minuto<br/>⚽ Giulia  Scrinzi|⚽ Tatiana  Zendri<br/>
+Goals|⚽⚽⚽⚽⚽ Laura Minuto<br/>⚽ Giulia  Scrinzi|⚽ Tatiana  Zendri
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Laura Minuto<br/><br/>⭐ Giulia  Scrinzi<br/>|
-Miglior Portiere||
+Miglior Giocatore| ⭐⭐ Laura Minuto<br/><br/>⭐ Giulia  Scrinzi<br/>| 
+Miglior Portiere| | 
 
 
 # PARTITA:31
@@ -531,8 +531,8 @@ Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Daniele Feltrinelli<br/><br/>⭐ Federico Ignaccolo<br/><br/>⭐ Federico Leonardi<br/>|
-Miglior Portiere||
+Miglior Giocatore| ⭐ Daniele Feltrinelli<br/><br/>⭐ Federico Ignaccolo<br/><br/>⭐ Federico Leonardi<br/>| 
+Miglior Portiere| | 
 
 
 # PARTITA:32
@@ -543,13 +543,13 @@ Data: 2016-08-12 21:40:00
 | | Una per tutti... | Le Scarsele |
 |:-----:|-----|-----|
 Risultato|2|2
-Goals|⚽ Laura Manconi<br/>⚽ Margherita Prezzi|⚽ Irene Tovazzi<br/><br/>⚽ Sofia Calliari<br/>
+Goals|⚽ Laura Manconi<br/>⚽ Margherita Prezzi|⚽ Irene Tovazzi<br/>⚽ Sofia Calliari
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Andrea Veronica Degan<br/><br/>⭐ Laura Manconi<br/><br/>⭐ Alice Scottini<br/>|
-Miglior Portiere||
+Miglior Giocatore| ⭐ Andrea Veronica Degan<br/><br/>⭐ Laura Manconi<br/><br/>⭐ Alice Scottini<br/>| 
+Miglior Portiere| | 
 
 
 # PARTITA:33
@@ -560,13 +560,13 @@ Data: 2016-08-12 22:00:00
 | | Clitoriders | Caffè Grazia |
 |:-----:|-----|-----|
 Risultato|6|2
-Goals|⚽⚽⚽ Michele Merighi<br/>⚽⚽ Andrea Giordani<br/>⚽ Stefano Galvagni|⚽⚽ Andrea Candioli<br/>
+Goals|⚽⚽⚽ Michele Merighi<br/>⚽⚽ Andrea Giordani<br/>⚽ Stefano Galvagni|⚽⚽ Andrea Candioli
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Stefano Galvagni<br/><br/>⭐⭐ Michele Merighi<br/>|
-Miglior Portiere||
+Miglior Giocatore| ⭐ Stefano Galvagni<br/><br/>⭐⭐ Michele Merighi<br/>| 
+Miglior Portiere| | 
 
 
 # PARTITA:34
@@ -577,13 +577,13 @@ Data: 2016-08-12 22:20:00
 | | Tigre Intigra Tigre | Mary Pompins |
 |:-----:|-----|-----|
 Risultato|2|1
-Goals|⚽⚽ Francesca Debiasi|⚽ Greta Filizola<br/>
+Goals|⚽⚽ Francesca Debiasi|⚽ Greta Filizola
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Valentina Voltolini<br/>|⭐ Alice Finarolli<br/><br/>⭐ Veronica Osele<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Valentina Voltolini<br/>| ⭐ Alice Finarolli<br/><br/>⭐ Veronica Osele<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:35
@@ -594,13 +594,13 @@ Data: 2016-08-12 22:40:00
 | | Dinkel Team | Filfs & Co. |
 |:-----:|-----|-----|
 Risultato|1|4
-Goals|⚽ Pietro Brussich|⚽⚽⚽ Flavio Cattoi<br/><br/>⚽ Michele Ruele<br/>
+Goals|⚽ Pietro Brussich|⚽⚽⚽ Flavio Cattoi<br/>⚽ Michele Ruele
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Pietro Brussich<br/>|⭐⭐ Michele Ruele<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Pietro Brussich<br/>| ⭐⭐ Michele Ruele<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:36
@@ -611,13 +611,13 @@ Data: 2016-08-12 23:00:00
 | | Modium | I Montagna |
 |:-----:|-----|-----|
 Risultato|6|1
-Goals|⚽⚽ Edoardo Pomarolli<br/>⚽⚽ Marco Sartorelli<br/>⚽ Andrea Bertolini<br/>⚽ Luca Barozzi|⚽ Omar Mastroiacovo<br/>
+Goals|⚽⚽ Edoardo Pomarolli<br/>⚽⚽ Marco Sartorelli<br/>⚽ Andrea Bertolini<br/>⚽ Luca Barozzi|⚽ Omar Mastroiacovo
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Edoardo Pomarolli<br/>|⭐ Omar Mastroiacovo<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐⭐ Edoardo Pomarolli<br/>| ⭐ Omar Mastroiacovo<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:37
@@ -628,13 +628,13 @@ Data: 2016-08-12 23:20:00
 | | Cacao Meravigliao | Babarum |
 |:-----:|-----|-----|
 Risultato|3|1
-Goals|⚽⚽ Giacomo Larcher<br/>⚽ Luca Frasca|⚽ Michele Morandi<br/>
+Goals|⚽⚽ Giacomo Larcher<br/>⚽ Luca Frasca|⚽ Michele Morandi
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Giacomo Larcher<br/>|⭐ Maurizio Secchi<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐⭐ Giacomo Larcher<br/>| ⭐ Maurizio Secchi<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:38
@@ -645,13 +645,13 @@ Data: 2016-08-12 23:40:00
 | | Montenegro City Ramblers | No Name |
 |:-----:|-----|-----|
 Risultato|1|3
-Goals|⚽ Elia Giordani|⚽ Andrea Aste<br/><br/>⚽ Elia Tomasoni<br/><br/>⚽ Filippo Senter<br/>
+Goals|⚽ Elia Giordani|⚽ Andrea Aste<br/>⚽ Elia Tomasoni<br/>⚽ Filippo Senter
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Elia Giordani<br/>|⭐ Andrea Aste<br/><br/>⭐ Elia Tomasoni<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Elia Giordani<br/>| ⭐ Andrea Aste<br/><br/>⭐ Elia Tomasoni<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:39
@@ -667,8 +667,8 @@ Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Federico Mortillaro<br/><br/>⭐ Micheal Zanoni<br/>|⭐ Tommaso Canepel<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Federico Mortillaro<br/><br/>⭐ Micheal Zanoni<br/>| ⭐ Tommaso Canepel<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:40
@@ -679,13 +679,13 @@ Data: 2016-08-13 10:20:00
 | | Tigre Intigra Tigre | Atletic(he) Al Bar |
 |:-----:|-----|-----|
 Risultato|2|4
-Goals|⚽ Valentina Perghem<br/>⚽ Francesca Debiasi|⚽⚽ Giorgia Larcher<br/><br/>⚽⚽ Carlotta Pomarolli<br/>
+Goals|⚽ Valentina Perghem<br/>⚽ Francesca Debiasi|⚽⚽ Giorgia Larcher<br/>⚽⚽ Carlotta Pomarolli
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Francesca Debiasi<br/><br/>⭐ Valentina Perghem<br/>|⭐ Carlotta Pomarolli<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Francesca Debiasi<br/><br/>⭐ Valentina Perghem<br/>| ⭐ Carlotta Pomarolli<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:41
@@ -696,13 +696,13 @@ Data: 2016-08-13 10:40:00
 | | Montenegro City Ramblers | I Pini |
 |:-----:|-----|-----|
 Risultato|2|5
-Goals|⚽⚽ Federico Simonini|⚽⚽ Giacomo Saccani<br/><br/>⚽⚽ Luca Tonolli<br/><br/>⚽ Fabrizio Maraner<br/>
+Goals|⚽⚽ Federico Simonini|⚽⚽ Giacomo Saccani<br/>⚽⚽ Luca Tonolli<br/>⚽ Fabrizio Maraner
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Federico Simonini<br/>|⭐ Giacomo Saccani<br/><br/>⭐ Matteo Franchini<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Federico Simonini<br/>| ⭐ Giacomo Saccani<br/><br/>⭐ Matteo Franchini<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:42
@@ -718,8 +718,8 @@ Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Stefano Galvagni<br/><br/>⭐ Andrea Giordani<br/><br/>⭐ Michele Merighi<br/>|
-Miglior Portiere||
+Miglior Giocatore| ⭐ Stefano Galvagni<br/><br/>⭐ Andrea Giordani<br/><br/>⭐ Michele Merighi<br/>| 
+Miglior Portiere| | 
 
 
 # PARTITA:43
@@ -730,13 +730,13 @@ Data: 2016-08-13 11:20:00
 | | Panze da Bira | Dinkel Team |
 |:-----:|-----|-----|
 Risultato|2|8
-Goals|⚽⚽ Claudio Prezzi|⚽⚽⚽ Pietro Brussich<br/><br/>⚽⚽⚽ Giacomo Valduga<br/><br/>⚽⚽ Riccardo Versini<br/>
+Goals|⚽⚽ Claudio Prezzi|⚽⚽⚽ Pietro Brussich<br/>⚽⚽⚽ Giacomo Valduga<br/>⚽⚽ Riccardo Versini
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Claudio Prezzi<br/>|⭐⭐ Pietro Brussich<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Claudio Prezzi<br/>| ⭐⭐ Pietro Brussich<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:44
@@ -752,8 +752,8 @@ Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Edoardo Pomarolli<br/><br/>⭐ Luca Barozzi<br/>|⭐ Tobia Brussich<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Edoardo Pomarolli<br/><br/>⭐ Luca Barozzi<br/>| ⭐ Tobia Brussich<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:45
@@ -764,13 +764,13 @@ Data: 2016-08-13 12:00:00
 | | Sbocca Juniors | Shark Attak |
 |:-----:|-----|-----|
 Risultato|2|9
-Goals|⚽⚽ Gianluca Marano|⚽⚽⚽ Fabio Festini<br/><br/>⚽⚽⚽ Mattia Festi<br/><br/>⚽ Mattia Baldessarini<br/><br/>⚽ Alberto Cerisara<br/><br/>⚽ Isaia Cerisara<br/>
+Goals|⚽⚽ Gianluca Marano|⚽⚽⚽ Fabio Festini<br/>⚽⚽⚽ Mattia Festi<br/>⚽ Mattia Baldessarini<br/>⚽ Alberto Cerisara<br/>⚽ Isaia Cerisara
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Erik Feldkircher<br/><br/>⭐ Gianluca Marano<br/>|⭐ Luca Giordani<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Erik Feldkircher<br/><br/>⭐ Gianluca Marano<br/>| ⭐ Luca Giordani<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:46
@@ -786,8 +786,8 @@ Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Matilde Gugole<br/><br/>⭐ Valeria Simonini<br/>|
-Miglior Portiere||
+Miglior Giocatore| ⭐⭐ Matilde Gugole<br/><br/>⭐ Valeria Simonini<br/>| 
+Miglior Portiere| | 
 
 
 # PARTITA:47
@@ -798,13 +798,13 @@ Data: 2016-08-13 12:40:00
 | | Panze da Bira | Filfs & Co. |
 |:-----:|-----|-----|
 Risultato|1|5
-Goals|⚽ Claudio Prezzi|⚽⚽⚽ Flavio Cattoi<br/><br/>⚽ Andrea Barozzi<br/><br/>⚽   Autogol<br/>
+Goals|⚽ Claudio Prezzi|⚽⚽⚽ Flavio Cattoi<br/>⚽ Andrea Barozzi<br/>⚽   Autogol
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Stefano Zendri<br/>|⭐ Lorenzo Barozzi<br/><br/>⭐ Flavio Cattoi<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Stefano Zendri<br/>| ⭐ Lorenzo Barozzi<br/><br/>⭐ Flavio Cattoi<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:48
@@ -820,8 +820,8 @@ Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Alessandro Zamboni<br/>|⭐ Massimo Todesco<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐⭐ Alessandro Zamboni<br/>| ⭐ Massimo Todesco<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:49
@@ -832,13 +832,13 @@ Data: 2016-08-13 15:00:00
 | | Ematoma | Pokemonae |
 |:-----:|-----|-----|
 Risultato|0|1
-Goals||⚽ Leonardo Parisi<br/>
+Goals||⚽ Leonardo Parisi
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Peter Castelletti<br/>|⭐ Davide Raffaelli<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐⭐ Peter Castelletti<br/>| ⭐ Davide Raffaelli<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:50
@@ -849,13 +849,13 @@ Data: 2016-08-13 15:20:00
 | | Atletic(he) Al Bar | Mary Pompins |
 |:-----:|-----|-----|
 Risultato|1|2
-Goals|⚽ Carlotta Pomarolli|⚽⚽ Veronica Osele<br/>
+Goals|⚽ Carlotta Pomarolli|⚽⚽ Veronica Osele
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Carlotta Pomarolli<br/>|⭐⭐ Alice Finarolli<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Carlotta Pomarolli<br/>| ⭐⭐ Alice Finarolli<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:51
@@ -866,13 +866,13 @@ Data: 2016-08-13 15:40:00
 | | Fel Lazio 2.0 | Esperimento 626 |
 |:-----:|-----|-----|
 Risultato|8|1
-Goals|⚽⚽⚽ Mauro Prezzi<br/>⚽⚽⚽ Manuel Cescatti<br/>⚽ Andrea  Gober<br/>⚽ Simone Martini|⚽ Mattia Ferrari<br/>
+Goals|⚽⚽⚽ Mauro Prezzi<br/>⚽⚽⚽ Manuel Cescatti<br/>⚽ Andrea  Gober<br/>⚽ Simone Martini|⚽ Mattia Ferrari
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Manuel Cescatti<br/><br/>⭐ Andrea  Gober<br/>|⭐ Tobia Brussich<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Manuel Cescatti<br/><br/>⭐ Andrea  Gober<br/>| ⭐ Tobia Brussich<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:52
@@ -883,13 +883,13 @@ Data: 2016-08-13 16:00:00
 | | No Name | F.C. Julia |
 |:-----:|-----|-----|
 Risultato|2|3
-Goals|⚽ Andrea Aste<br/>⚽ Elia Tomasoni|⚽⚽ Giovanni Zamboni<br/><br/>⚽   Autogol<br/>
+Goals|⚽ Andrea Aste<br/>⚽ Elia Tomasoni|⚽⚽ Giovanni Zamboni<br/>⚽   Autogol
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore||⭐ Giovanni Zamboni<br/>
-Miglior Portiere||
+Miglior Giocatore| | ⭐ Giovanni Zamboni<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:53
@@ -900,13 +900,13 @@ Data: 2016-08-13 16:20:00
 | | JLA: Justice League of Aperitiv | Una per tutti... |
 |:-----:|-----|-----|
 Risultato|0|1
-Goals||⚽ Laura Manconi<br/>
+Goals||⚽ Laura Manconi
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Giulia  Scrinzi<br/>|⭐ Mara Barozzi<br/><br/>⭐ Andrea Veronica Degan<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Giulia  Scrinzi<br/>| ⭐ Mara Barozzi<br/><br/>⭐ Andrea Veronica Degan<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:54
@@ -917,13 +917,13 @@ Data: 2016-08-13 16:40:00
 | | I Fatti del Giorno | Malmö Stoss |
 |:-----:|-----|-----|
 Risultato|0|7
-Goals||⚽⚽⚽⚽ Federico Folchini<br/><br/>⚽⚽ Simone Miorelli<br/><br/>⚽ Nicola Manfredi<br/>
+Goals||⚽⚽⚽⚽ Federico Folchini<br/>⚽⚽ Simone Miorelli<br/>⚽ Nicola Manfredi
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Manolo Pisoni<br/><br/>⭐ Emanuele Prosser<br/>|
-Miglior Portiere||
+Miglior Giocatore| ⭐⭐ Manolo Pisoni<br/><br/>⭐ Emanuele Prosser<br/>| 
+Miglior Portiere| | 
 
 
 # PARTITA:55
@@ -934,13 +934,13 @@ Data: 2016-08-13 17:00:00
 | | Una Quarta in 4 | ...tutti per una |
 |:-----:|-----|-----|
 Risultato|2|1
-Goals|⚽⚽ Stefania Gazzini|⚽ Martina Francescatti<br/>
+Goals|⚽⚽ Stefania Gazzini|⚽ Martina Francescatti
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐⭐ Stefania Gazzini<br/>|
-Miglior Portiere||
+Miglior Giocatore| ⭐⭐⭐ Stefania Gazzini<br/>| 
+Miglior Portiere| | 
 
 
 # PARTITA:56
@@ -951,13 +951,13 @@ Data: 2016-08-13 17:20:00
 | | Caffè Grazia | Atletico Madrink |
 |:-----:|-----|-----|
 Risultato|11|1
-Goals|⚽⚽⚽⚽⚽ Andrea Candioli<br/>⚽⚽⚽⚽ Matteo Maraner<br/>⚽ Federico Nicolodi<br/>⚽ Daniele Candioli|⚽ Filippo Alovisi<br/>
+Goals|⚽⚽⚽⚽⚽ Andrea Candioli<br/>⚽⚽⚽⚽ Matteo Maraner<br/>⚽ Federico Nicolodi<br/>⚽ Daniele Candioli|⚽ Filippo Alovisi
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Andrea Candioli<br/><br/>⭐ Matteo Maraner<br/>|⭐ Filippo Alovisi<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Andrea Candioli<br/><br/>⭐ Matteo Maraner<br/>| ⭐ Filippo Alovisi<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:57
@@ -968,13 +968,13 @@ Data: 2016-08-13 17:40:00
 | | Cacao Meravigliao | Clandes Team |
 |:-----:|-----|-----|
 Risultato|1|1
-Goals|⚽ Luca Frasca|⚽ Riccardo Brunelli<br/>
+Goals|⚽ Luca Frasca|⚽ Riccardo Brunelli
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Leonardo  Stiz<br/>|⭐ Marco Castaldo<br/><br/>⭐ Marco Scottini<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Leonardo  Stiz<br/>| ⭐ Marco Castaldo<br/><br/>⭐ Marco Scottini<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:58
@@ -985,13 +985,13 @@ Data: 2016-08-13 18:00:00
 | | Le Lavandaie | Le Par Sgherle |
 |:-----:|-----|-----|
 Risultato|3|3
-Goals|⚽⚽ Erika Ricci<br/>⚽ Elisa Moratelli|⚽⚽ Rachele Gugole<br/><br/>⚽ Natalia Bordato<br/>
+Goals|⚽⚽ Erika Ricci<br/>⚽ Elisa Moratelli|⚽⚽ Rachele Gugole<br/>⚽ Natalia Bordato
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Valentina Garniga<br/>|⭐⭐ Rachele Gugole<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Valentina Garniga<br/>| ⭐⭐ Rachele Gugole<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:59
@@ -1002,13 +1002,13 @@ Data: 2016-08-13 18:20:00
 | | Nocera Inferiore Vive | F.C. Savignano |
 |:-----:|-----|-----|
 Risultato|2|6
-Goals|⚽⚽ Giovanni Bertolini|⚽⚽ Giacomo  De Zambotti<br/><br/>⚽⚽ Alessandro Maffei<br/><br/>⚽⚽ Andrea Conzatti<br/>
+Goals|⚽⚽ Giovanni Bertolini|⚽⚽ Giacomo  De Zambotti<br/>⚽⚽ Alessandro Maffei<br/>⚽⚽ Andrea Conzatti
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore||⭐ Andrea Conzatti<br/><br/>⭐ Giacomo  De Zambotti<br/><br/>⭐ Alessandro Maffei<br/>
-Miglior Portiere||
+Miglior Giocatore| | ⭐ Andrea Conzatti<br/><br/>⭐ Giacomo  De Zambotti<br/><br/>⭐ Alessandro Maffei<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:60
@@ -1019,13 +1019,13 @@ Data: 2016-08-13 18:40:00
 | | Filfs & Co. | Lizzanella's Old Sughi |
 |:-----:|-----|-----|
 Risultato|6|1
-Goals|⚽⚽ Matteo Manconi<br/>⚽⚽ Flavio Cattoi<br/>⚽ Lorenzo Barozzi<br/>⚽ Luca Zorzutti|⚽ Alessandro Mario Monaco<br/>
+Goals|⚽⚽ Matteo Manconi<br/>⚽⚽ Flavio Cattoi<br/>⚽ Lorenzo Barozzi<br/>⚽ Luca Zorzutti|⚽ Alessandro Mario Monaco
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Andrea Barozzi<br/><br/>⭐ Flavio Cattoi<br/>|⭐ Federico Leonardi<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Andrea Barozzi<br/><br/>⭐ Flavio Cattoi<br/>| ⭐ Federico Leonardi<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:61
@@ -1036,13 +1036,13 @@ Data: 2016-08-13 19:00:00
 | | Montenegro City Ramblers | F.C. Julia |
 |:-----:|-----|-----|
 Risultato|1|6
-Goals|⚽ Elia Giordani|⚽⚽⚽⚽ Francesco Vettori<br/><br/>⚽⚽ Giovanni Zamboni<br/>
+Goals|⚽ Elia Giordani|⚽⚽⚽⚽ Francesco Vettori<br/>⚽⚽ Giovanni Zamboni
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore||⭐ Francesco Vettori<br/><br/>⭐⭐ Giovanni Zamboni<br/>
-Miglior Portiere||
+Miglior Giocatore| | ⭐ Francesco Vettori<br/><br/>⭐⭐ Giovanni Zamboni<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:62
@@ -1053,13 +1053,13 @@ Data: 2016-08-13 19:20:00
 | | F.C. Judica | Ematoma |
 |:-----:|-----|-----|
 Risultato|1|2
-Goals|⚽ Carlo Stedile|⚽ Mattia Penasa<br/><br/>⚽ Nicola Di Marco<br/>
+Goals|⚽ Carlo Stedile|⚽ Mattia Penasa<br/>⚽ Nicola Di Marco
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Alessandro Zamboni<br/>|
-Miglior Portiere||
+Miglior Giocatore| ⭐ Alessandro Zamboni<br/>| 
+Miglior Portiere| | 
 
 
 # PARTITA:65
@@ -1075,8 +1075,8 @@ Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore||⭐⭐⭐ Eliana Bancaro<br/>
-Miglior Portiere||
+Miglior Giocatore| | ⭐⭐⭐ Eliana Bancaro<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:66
@@ -1087,13 +1087,13 @@ Data: 2016-08-13 21:00:00
 | | Modium | Fel Lazio 2.0 |
 |:-----:|-----|-----|
 Risultato|5|3
-Goals|⚽⚽⚽⚽ Luca Barozzi<br/>⚽ Andrea Bertolini|⚽   Autogol<br/><br/>⚽ Andrea  Gober<br/><br/>⚽ Tommaso  Bruschetti<br/>
+Goals|⚽⚽⚽⚽ Luca Barozzi<br/>⚽ Andrea Bertolini|⚽   Autogol<br/>⚽ Andrea  Gober<br/>⚽ Tommaso  Bruschetti
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Luca Barozzi<br/>|⭐⭐ Davide Erspamer<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Luca Barozzi<br/>| ⭐⭐ Davide Erspamer<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:67
@@ -1104,13 +1104,13 @@ Data: 2016-08-13 21:20:00
 | | S.C. Alda Fregna | Shark Attak |
 |:-----:|-----|-----|
 Risultato|2|2
-Goals|⚽ Alessandro Zandonai<br/>⚽ Samuele Mancino|⚽ Mattia Baldessarini<br/><br/>⚽ Fabio Festini<br/>
+Goals|⚽ Alessandro Zandonai<br/>⚽ Samuele Mancino|⚽ Mattia Baldessarini<br/>⚽ Fabio Festini
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Alessandro Zandonai<br/>|⭐ Mattia Baldessarini<br/><br/>⭐ Alberto Cerisara<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Alessandro Zandonai<br/>| ⭐ Mattia Baldessarini<br/><br/>⭐ Alberto Cerisara<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:68
@@ -1121,13 +1121,13 @@ Data: 2016-08-13 21:40:00
 | | Pinguini Trentini | Clitoriders |
 |:-----:|-----|-----|
 Risultato|0|5
-Goals||⚽⚽⚽ Andrea Giordani<br/><br/>⚽ Michele Merighi<br/><br/>⚽ Stefano Galvagni<br/>
+Goals||⚽⚽⚽ Andrea Giordani<br/>⚽ Michele Merighi<br/>⚽ Stefano Galvagni
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Leonardo Ceschini<br/>|⭐⭐ Andrea Giordani<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Leonardo Ceschini<br/>| ⭐⭐ Andrea Giordani<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:94
@@ -1143,8 +1143,8 @@ Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore||
-Miglior Portiere||
+Miglior Giocatore| | 
+Miglior Portiere| | 
 
 
 # PARTITA:99
@@ -1155,13 +1155,13 @@ Data: 2016-08-13 19:40:00
 | | Mary Pompins | Baby Nerz |
 |:-----:|-----|-----|
 Risultato|3|1
-Goals|⚽ Greta Filizola<br/>⚽ Valentina Bisoffi<br/>⚽ Veronica Osele|⚽ Silvia Debiasi<br/>
+Goals|⚽ Greta Filizola<br/>⚽ Valentina Bisoffi<br/>⚽ Veronica Osele|⚽ Silvia Debiasi
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Alice Finarolli<br/>|⭐⭐ Alessandra Marangoni<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Alice Finarolli<br/>| ⭐⭐ Alessandra Marangoni<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:100
@@ -1172,13 +1172,13 @@ Data: 2016-08-13 20:00:00
 | | Arcoiris | Tigre Intigra Tigre |
 |:-----:|-----|-----|
 Risultato|0|5
-Goals||⚽⚽⚽⚽ Francesca Debiasi<br/><br/>⚽ Valentina Perghem<br/>
+Goals||⚽⚽⚽⚽ Francesca Debiasi<br/>⚽ Valentina Perghem
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Laura Adami<br/><br/>⭐ Matilde Gugole<br/>|⭐ Valentina Perghem<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Laura Adami<br/><br/>⭐ Matilde Gugole<br/>| ⭐ Valentina Perghem<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:101
@@ -1189,13 +1189,13 @@ Data: 2016-08-13 22:00:00
 | | Atletic(he) Al Bar | ...tutti per una |
 |:-----:|-----|-----|
 Risultato|5|1
-Goals|⚽⚽⚽ Giorgia Larcher<br/>⚽   Autogol<br/>⚽ Valentina Salzani|⚽ Martina Francescatti<br/>
+Goals|⚽⚽⚽ Giorgia Larcher<br/>⚽   Autogol<br/>⚽ Valentina Salzani|⚽ Martina Francescatti
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Giorgia Larcher<br/><br/>⭐ Carlotta Pomarolli<br/>|⭐ Martina Francescatti<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Giorgia Larcher<br/><br/>⭐ Carlotta Pomarolli<br/>| ⭐ Martina Francescatti<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:102
@@ -1211,8 +1211,8 @@ Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Giacomo Larcher<br/>|⭐ Federico Leonardi<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐⭐ Giacomo Larcher<br/>| ⭐ Federico Leonardi<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:103
@@ -1223,13 +1223,13 @@ Data: 2016-08-13 23:40:00
 | | Filfs & Co. | Titslovers |
 |:-----:|-----|-----|
 Risultato|2|1
-Goals|⚽ Lorenzo Barozzi|⚽ Daniel D'Alu<br/>
+Goals|⚽ Lorenzo Barozzi|⚽ Daniel D'Alu
 Autogoals|⛔ Lorenzo Barozzi|
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Lorenzo Barozzi<br/><br/>⭐ Michele Ruele<br/>|⭐ Marco Maffei<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Lorenzo Barozzi<br/><br/>⭐ Michele Ruele<br/>| ⭐ Marco Maffei<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:104
@@ -1240,13 +1240,13 @@ Data: 2016-08-13 22:20:00
 | | Una Quarta in 4 | Mary Pompins |
 |:-----:|-----|-----|
 Risultato|2|4
-Goals|⚽⚽ Stefania Gazzini|⚽⚽ Valentina Bisoffi<br/><br/>⚽ Licia Fondriest<br/>
+Goals|⚽⚽ Stefania Gazzini|⚽⚽ Valentina Bisoffi<br/>⚽ Licia Fondriest
 Autogoals||⛔ Veronica Osele<br/>
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Stefania Gazzini<br/>|⭐ Valentina Bisoffi<br/><br/>⭐ Alice Finarolli<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Stefania Gazzini<br/>| ⭐ Valentina Bisoffi<br/><br/>⭐ Alice Finarolli<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:105
@@ -1257,13 +1257,13 @@ Data: 2016-08-13 23:00:00
 | | Una per tutti... | Tigre Intigra Tigre |
 |:-----:|-----|-----|
 Risultato|3|4
-Goals|⚽⚽ Laura Manconi<br/>⚽ Mara Barozzi|⚽⚽⚽ Francesca Debiasi<br/><br/>⚽ Maddalena Calzà<br/>
+Goals|⚽⚽ Laura Manconi<br/>⚽ Mara Barozzi|⚽⚽⚽ Francesca Debiasi<br/>⚽ Maddalena Calzà
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Andrea Veronica Degan<br/><br/>⭐ Laura Manconi<br/>|⭐ Francesca Debiasi<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Andrea Veronica Degan<br/><br/>⭐ Laura Manconi<br/>| ⭐ Francesca Debiasi<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:106
@@ -1274,13 +1274,13 @@ Data: 2016-08-13 22:40:00
 | | Bionde! Punto | JLA: Justice League of Aperitiv |
 |:-----:|-----|-----|
 Risultato|3|2
-Goals|⚽ Cristina Gottardi<br/>⚽ Chiara Barberi<br/>⚽ Chiara Groff|⚽ Ariele Manfrini<br/><br/>⚽ Giulia  Scrinzi<br/>
+Goals|⚽ Cristina Gottardi<br/>⚽ Chiara Barberi<br/>⚽ Chiara Groff|⚽ Ariele Manfrini<br/>⚽ Giulia  Scrinzi
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Chiara Barberi<br/>|⭐ Martina Frapporti<br/><br/>⭐ Ariele Manfrini<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Chiara Barberi<br/>| ⭐ Martina Frapporti<br/><br/>⭐ Ariele Manfrini<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:107
@@ -1296,8 +1296,8 @@ Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Federico Giordani<br/><br/>⭐ Marco Heidenpergher<br/>|⭐ Federico Folchini<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Federico Giordani<br/><br/>⭐ Marco Heidenpergher<br/>| ⭐ Federico Folchini<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:108
@@ -1313,8 +1313,8 @@ Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Nicolas Giordani<br/><br/>⭐ Alessandro Maffei<br/>|⭐ Isaia Cerisara<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Nicolas Giordani<br/><br/>⭐ Alessandro Maffei<br/>| ⭐ Isaia Cerisara<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:110
@@ -1325,13 +1325,13 @@ Data: 2016-08-14 11:20:00
 | | I Pini | I Montagna |
 |:-----:|-----|-----|
 Risultato|2|3
-Goals|⚽ Luca Tonolli<br/>⚽ Giacomo Saccani|⚽⚽ Omar Mastroiacovo<br/><br/>⚽ Michele Bertolini<br/>
+Goals|⚽ Luca Tonolli<br/>⚽ Giacomo Saccani|⚽⚽ Omar Mastroiacovo<br/>⚽ Michele Bertolini
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Matteo Franchini<br/>|⭐⭐ Daniele Dalbosco<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Matteo Franchini<br/>| ⭐⭐ Daniele Dalbosco<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:112
@@ -1342,13 +1342,13 @@ Data: 2016-08-14 11:40:00
 | | Modium | F.C. Julia |
 |:-----:|-----|-----|
 Risultato|6|2
-Goals|⚽⚽⚽⚽ Marco Sartorelli<br/>⚽ Edoardo Pomarolli<br/>⚽ Andrea Bertolini|⚽ Giovanni Zamboni<br/><br/>⚽ Filippo Simoncelli<br/>
+Goals|⚽⚽⚽⚽ Marco Sartorelli<br/>⚽ Edoardo Pomarolli<br/>⚽ Andrea Bertolini|⚽ Giovanni Zamboni<br/>⚽ Filippo Simoncelli
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Marco Sartorelli<br/>|⭐ Francesco Vettori<br/><br/>⭐ Giovanni Zamboni<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Marco Sartorelli<br/>| ⭐ Francesco Vettori<br/><br/>⭐ Giovanni Zamboni<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:113
@@ -1359,13 +1359,13 @@ Data: 2016-08-14 12:00:00
 | | F.C. Judica | Pinguini Trentini |
 |:-----:|-----|-----|
 Risultato|1|2
-Goals|⚽ Carlo Stedile|⚽ Matteo Brigo<br/><br/>⚽ Marco Sala<br/>
+Goals|⚽ Carlo Stedile|⚽ Matteo Brigo<br/>⚽ Marco Sala
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Carlo Stedile<br/>|⭐ Leonardo Ceschini<br/><br/>⭐ Alessio Farinati<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Carlo Stedile<br/>| ⭐ Leonardo Ceschini<br/><br/>⭐ Alessio Farinati<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:114
@@ -1376,13 +1376,13 @@ Data: 2016-08-14 12:20:00
 | | Clitoriders | Pokemonae |
 |:-----:|-----|-----|
 Risultato|3|1
-Goals|⚽ Michele Merighi|⚽   Autogol<br/>
+Goals|⚽ Michele Merighi|⚽   Autogol
 Autogoals|⛔ Andrea Giordani<br/>⛔ Stefano Galvagni|
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Andrea Giordani<br/><br/>⭐ Michele Merighi<br/>|⭐ Leonardo Parisi<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Andrea Giordani<br/><br/>⭐ Michele Merighi<br/>| ⭐ Leonardo Parisi<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:115
@@ -1393,13 +1393,13 @@ Data: 2016-08-14 17:30:00
 | | Bionde! Punto | Atletic(he) Al Bar |
 |:-----:|-----|-----|
 Risultato|6|2
-Goals|⚽⚽⚽ Chiara Groff<br/>⚽⚽ Cristina Gottardi<br/>⚽ Margherita Planchesteiner|⚽ Giorgia Larcher<br/><br/>⚽ Carlotta Pomarolli<br/>
+Goals|⚽⚽⚽ Chiara Groff<br/>⚽⚽ Cristina Gottardi<br/>⚽ Margherita Planchesteiner|⚽ Giorgia Larcher<br/>⚽ Carlotta Pomarolli
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Cristina Gottardi<br/><br/>⭐ Elisa Zanelli<br/>|⭐ Carlotta Pomarolli<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Cristina Gottardi<br/><br/>⭐ Elisa Zanelli<br/>| ⭐ Carlotta Pomarolli<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:116
@@ -1410,13 +1410,13 @@ Data: 2016-08-14 17:00:00
 | | Le Lavandaie | Baby Nerz |
 |:-----:|-----|-----|
 Risultato|2|3
-Goals|⚽ Elisa Moratelli<br/>⚽ Erika Ricci|⚽ Silvia Debiasi<br/><br/>⚽ Paolina Rosani<br/><br/>⚽ Stefania Viola<br/>
+Goals|⚽ Elisa Moratelli<br/>⚽ Erika Ricci|⚽ Silvia Debiasi<br/>⚽ Paolina Rosani<br/>⚽ Stefania Viola
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore||⭐⭐ Paolina Rosani<br/>
-Miglior Portiere||
+Miglior Giocatore| | ⭐⭐ Paolina Rosani<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:117
@@ -1427,13 +1427,13 @@ Data: 2016-08-14 18:30:00
 | | Mary Pompins | Tigre Intigra Tigre |
 |:-----:|-----|-----|
 Risultato|3|2
-Goals|⚽⚽ Veronica Osele|⚽⚽ Francesca Debiasi<br/>
+Goals|⚽⚽ Veronica Osele|⚽⚽ Francesca Debiasi
 Autogoals|⛔ Licia Fondriest|
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Valentina Bisoffi<br/><br/>⭐ Veronica Osele<br/>|⭐ Valentina Perghem<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Valentina Bisoffi<br/><br/>⭐ Veronica Osele<br/>| ⭐ Valentina Perghem<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:118
@@ -1444,13 +1444,13 @@ Data: 2016-08-14 19:30:00
 | | Le Amiche di Città Laggiù | Le Par Sgherle |
 |:-----:|-----|-----|
 Risultato|3|1
-Goals|⚽⚽ Benedetta  Raffaelli<br/>⚽ Tatiana  Zendri|⚽ Virginia Simoncelli<br/>
+Goals|⚽⚽ Benedetta  Raffaelli<br/>⚽ Tatiana  Zendri|⚽ Virginia Simoncelli
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Eliana Bancaro<br/>|⭐ Rachele Gugole<br/><br/>⭐ Virginia Simoncelli<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Eliana Bancaro<br/>| ⭐ Rachele Gugole<br/><br/>⭐ Virginia Simoncelli<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:119
@@ -1461,13 +1461,13 @@ Data: 2016-08-14 20:00:00
 | | Arcoiris | Le Scarsele |
 |:-----:|-----|-----|
 Risultato|1|5
-Goals|⚽ Carlotta Broll|⚽⚽ Sofia Brazzo<br/><br/>⚽⚽ Irene Tovazzi<br/><br/>⚽   Autogol<br/>
+Goals|⚽ Carlotta Broll|⚽⚽ Sofia Brazzo<br/>⚽⚽ Irene Tovazzi<br/>⚽   Autogol
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Carlotta Broll<br/>|⭐ Sofia Brazzo<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐⭐ Carlotta Broll<br/>| ⭐ Sofia Brazzo<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:120
@@ -1483,8 +1483,8 @@ Autogoals||⛔ Andrea Conzatti<br/>
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Lorenzo Barozzi<br/><br/>⭐ Flavio Cattoi<br/>|⭐ Gabriele Ciaghi<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Lorenzo Barozzi<br/><br/>⭐ Flavio Cattoi<br/>| ⭐ Gabriele Ciaghi<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:121
@@ -1500,8 +1500,8 @@ Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Roberto Gasperotti<br/>|⭐ Marco Heidenpergher<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐⭐ Roberto Gasperotti<br/>| ⭐ Marco Heidenpergher<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:122
@@ -1512,13 +1512,13 @@ Data: 2016-08-14 15:30:00
 | | I Montagna | Pinguini Trentini |
 |:-----:|-----|-----|
 Risultato|3|2
-Goals|⚽ Omar Mastroiacovo<br/>⚽ Michele Bertolini<br/>⚽ Mirko Santoni|⚽⚽ Marco Sala<br/>
+Goals|⚽ Omar Mastroiacovo<br/>⚽ Michele Bertolini<br/>⚽ Mirko Santoni|⚽⚽ Marco Sala
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Daniele Dalbosco<br/><br/>⭐ Mirko Santoni<br/>|
-Miglior Portiere||
+Miglior Giocatore| ⭐⭐ Daniele Dalbosco<br/><br/>⭐ Mirko Santoni<br/>| 
+Miglior Portiere| | 
 
 
 # PARTITA:123
@@ -1529,13 +1529,13 @@ Data: 2016-08-14 16:30:00
 | | Modium | Clitoriders |
 |:-----:|-----|-----|
 Risultato|2|3
-Goals|⚽ Edoardo Pomarolli<br/>⚽ Marco Sartorelli|⚽ Riccardo Saccani<br/><br/>⚽ Michele Merighi<br/><br/>⚽ Andrea Giordani<br/>
+Goals|⚽ Edoardo Pomarolli<br/>⚽ Marco Sartorelli|⚽ Riccardo Saccani<br/>⚽ Michele Merighi<br/>⚽ Andrea Giordani
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Edoardo Pomarolli<br/>|⭐ Stefano Galvagni<br/><br/>⭐ Andrea Giordani<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Edoardo Pomarolli<br/>| ⭐ Stefano Galvagni<br/><br/>⭐ Andrea Giordani<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:124
@@ -1546,13 +1546,13 @@ Data: 2016-08-14 18:00:00
 | | Cacao Meravigliao | I Montagna |
 |:-----:|-----|-----|
 Risultato|1|2
-Goals|⚽ Matteo Zanini|⚽ Omar Mastroiacovo<br/>
+Goals|⚽ Matteo Zanini|⚽ Omar Mastroiacovo
 Autogoals||⛔ Michele Bertolini<br/>
 Falli||
 Gialli|Giacomo Larcher<br/>Matteo Zanini<br/>Roberto Gasperotti|
 Rossi||
-Miglior Giocatore||
-Miglior Portiere||
+Miglior Giocatore| | 
+Miglior Portiere| | 
 
 
 # PARTITA:125
@@ -1563,13 +1563,13 @@ Data: 2016-08-14 19:00:00
 | | F.C. Savignano | Clitoriders |
 |:-----:|-----|-----|
 Risultato|2|4
-Goals|⚽⚽ Alessandro Maffei|⚽ Michele Merighi<br/><br/>⚽ Andrea Giordani<br/>
+Goals|⚽⚽ Alessandro Maffei|⚽ Michele Merighi<br/>⚽ Andrea Giordani
 Autogoals||⛔ Andrea Giordani<br/><br/>⛔ Stefano Galvagni<br/>
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Alessandro Maffei<br/>|⭐ Andrea Giordani<br/><br/>⭐ Riccardo Saccani<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Alessandro Maffei<br/>| ⭐ Andrea Giordani<br/><br/>⭐ Riccardo Saccani<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:127
@@ -1580,13 +1580,13 @@ Data: 2016-08-14 21:30:00
 | | F.C. Savignano | Cacao Meravigliao |
 |:-----:|-----|-----|
 Risultato|2|3
-Goals|⚽ Nicolas Giordani<br/>⚽ Giacomo  De Zambotti|⚽⚽ Luca Frasca<br/><br/>⚽ Francesco Modena<br/>
+Goals|⚽ Nicolas Giordani<br/>⚽ Giacomo  De Zambotti|⚽⚽ Luca Frasca<br/>⚽ Francesco Modena
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Giacomo  De Zambotti<br/>|⭐⭐ Luca Frasca<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Giacomo  De Zambotti<br/>| ⭐⭐ Luca Frasca<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:128
@@ -1597,13 +1597,13 @@ Data: 2016-08-14 21:00:00
 | | Tigre Intigra Tigre | Atletic(he) Al Bar |
 |:-----:|-----|-----|
 Risultato|5|3
-Goals|⚽⚽⚽ Valentina Perghem|⚽⚽⚽ Carlotta Pomarolli<br/>
+Goals|⚽⚽⚽ Valentina Perghem|⚽⚽⚽ Carlotta Pomarolli
 Autogoals|⛔ Silvia Modena<br/>⛔ Francesca Debiasi|
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Valentina Perghem<br/>|⭐ Carlotta Pomarolli<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐⭐ Valentina Perghem<br/>| ⭐ Carlotta Pomarolli<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:129
@@ -1614,13 +1614,13 @@ Data: 2016-08-14 22:00:00
 | | Bionde! Punto | Mary Pompins |
 |:-----:|-----|-----|
 Risultato|2|1
-Goals|⚽ Chiara Groff<br/>⚽   Autogol|⚽ Valentina Bisoffi<br/>
+Goals|⚽ Chiara Groff<br/>⚽   Autogol|⚽ Valentina Bisoffi
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore||⭐⭐⭐ Alice Finarolli<br/>
-Miglior Portiere||
+Miglior Giocatore| | ⭐⭐⭐ Alice Finarolli<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:130
@@ -1631,10 +1631,10 @@ Data: 2016-08-14 22:30:00
 | | Clitoriders | I Montagna |
 |:-----:|-----|-----|
 Risultato|2|1
-Goals|⚽⚽ Michele Merighi|⚽ Omar Mastroiacovo<br/>
+Goals|⚽⚽ Michele Merighi|⚽ Omar Mastroiacovo
 Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Michele Merighi<br/><br/>⭐ Stefano Tita<br/>|⭐ Omar Mastroiacovo<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Michele Merighi<br/><br/>⭐ Stefano Tita<br/>| ⭐ Omar Mastroiacovo<br/>
+Miglior Portiere| | 

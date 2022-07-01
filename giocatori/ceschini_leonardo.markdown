@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-06-26 22:08:44.763218
+date: 2022-07-01 09:59:37.717653
 categories: torneo
 permalink: /giocatore/ceschini_leonardo/
 ---

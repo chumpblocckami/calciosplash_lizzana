@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-06-26 22:08:44.709821
+date: 2022-07-01 09:59:37.687598
 categories: torneo
 permalink: /giocatore/giordani_nicolas/
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-06-29 12:25:50.124298
+date: 2022-07-01 10:08:32.318110
 categories: partite
 permalink: /partite/2019/
 ---
@@ -16,13 +16,13 @@ Data: 2019-08-15 16:00:00
 | | F.C. Savignano | Positivi All'Etanolo |
 |:-----:|-----|-----|
 Risultato|6|1
-Goals|⚽⚽⚽ Andrea Conzatti (Caldaia)<br/>⚽⚽ Alessandro Maffei  (Fondatore Di Social Network)|⚽ Mirko Fasanelli<br/>
+Goals|⚽⚽⚽ Andrea Conzatti (Caldaia)<br/>⚽⚽ Alessandro Maffei  (Fondatore Di Social Network)|⚽ Mirko Fasanelli
 Autogoals||
 Falli|0|2
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Andrea Conzatti (Caldaia)<br/>|⭐ Filippo Alovisi (Tromba)<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐⭐ Andrea Conzatti (Caldaia)<br/>| ⭐ Filippo Alovisi (Tromba)<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:2
@@ -33,13 +33,13 @@ Data: 2019-08-15 16:20:00
 | | Doppie Solo Due | Up-Pero' |
 |:-----:|-----|-----|
 Risultato|3|6
-Goals|⚽⚽⚽ Francesca Montermini|⚽⚽⚽⚽ Matilde Gugole (Asfidanken)<br/><br/>⚽ Rachele Gugole (Pannocchia)<br/><br/>⚽ Michela Pezzato (Cocca Di Mamma)<br/>
+Goals|⚽⚽⚽ Francesca Montermini|⚽⚽⚽⚽ Matilde Gugole (Asfidanken)<br/>⚽ Rachele Gugole (Pannocchia)<br/>⚽ Michela Pezzato (Cocca Di Mamma)
 Autogoals||
 Falli|0|0
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Francesca Montermini<br/>|⭐⭐ Matilde Gugole (Asfidanken)<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Francesca Montermini<br/>| ⭐⭐ Matilde Gugole (Asfidanken)<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:3
@@ -55,8 +55,8 @@ Autogoals||
 Falli|1|0
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Francesca Debiasi (David Gnomo)<br/><br/>⭐⭐ Stefania Gazzini (Skeleton)<br/>|
-Miglior Portiere||
+Miglior Giocatore| ⭐ Francesca Debiasi (David Gnomo)<br/><br/>⭐⭐ Stefania Gazzini (Skeleton)<br/>| 
+Miglior Portiere| | 
 
 
 # PARTITA:4
@@ -67,13 +67,13 @@ Data: 2019-08-15 17:00:00
 | | Paris San Gennar | Caffe' Grazia |
 |:-----:|-----|-----|
 Risultato|3|4
-Goals|⚽⚽⚽ Alex Bragagna|⚽ Andrea Candioli (Can Da L'Ua)<br/><br/>⚽ Matteo Cembrani<br/>
+Goals|⚽⚽⚽ Alex Bragagna|⚽ Andrea Candioli (Can Da L'Ua)<br/>⚽ Matteo Cembrani
 Autogoals||
 Falli|0|0
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Alex Bragagna<br/>|⭐ Matteo Cembrani<br/>
-Miglior Portiere|⭐ Daniele Seranifini<br/>|⭐ Daniele Candioli (Bimbo Del Grest)<br/>
+Miglior Giocatore| ⭐⭐ Alex Bragagna<br/>| ⭐ Matteo Cembrani<br/>
+Miglior Portiere| ⭐ Daniele Seranifini<br/>| ⭐ Daniele Candioli (Bimbo Del Grest)<br/>
 
 
 # PARTITA:5
@@ -84,14 +84,13 @@ Data: 2019-08-15 17:20:00
 | | Quele Del '20. Alora | Le Osce |
 |:-----:|-----|-----|
 Risultato|12|1
-Goals|⚽⚽⚽⚽⚽ Silvia Veneri<br/>⚽⚽⚽⚽ Margherita Prezzi (Acquaragia)<br/>⚽⚽⚽ Serena Barozzi (Miss Patatina
-)|
+Goals|⚽⚽⚽⚽⚽ Silvia Veneri<br/>⚽⚽⚽⚽ Margherita Prezzi (Acquaragia)<br/>⚽⚽⚽ Serena Barozzi (Miss Patatina)|
 Autogoals||
 Falli|0|0
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Margherita Prezzi (Acquaragia)<br/><br/>⭐ Silvia Veneri<br/>|
-Miglior Portiere||
+Miglior Giocatore| ⭐⭐ Margherita Prezzi (Acquaragia)<br/><br/>⭐ Silvia Veneri<br/>| 
+Miglior Portiere| | 
 
 
 # PARTITA:6
@@ -107,8 +106,8 @@ Autogoals||
 Falli|0|0
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Mattia Baldessarini (L'Assassino Cerebrale)<br/><br/>⭐ Gabriele Brentari (Mocio Vileda)<br/>|
-Miglior Portiere|⭐⭐⭐ Alberto Cerisara (L'Uomo Che Ha Mangiato Justin Bieber)<br/>|
+Miglior Giocatore| ⭐⭐ Mattia Baldessarini (L'Assassino Cerebrale)<br/><br/>⭐ Gabriele Brentari (Mocio Vileda)<br/>| 
+Miglior Portiere| ⭐⭐⭐ Alberto Cerisara (L'Uomo Che Ha Mangiato Justin Bieber)<br/>| 
 
 
 # PARTITA:7
@@ -119,15 +118,13 @@ Data: 2019-08-15 18:00:00
 | | Fel Lazio | Panchester United |
 |:-----:|-----|-----|
 Risultato|12|2
-Goals|⚽⚽⚽⚽⚽⚽ Andrea Gober (Scintillio)<br/>⚽⚽⚽ Alessandro Zandonai (L'Uomo Che Sussurrava Ai Ghepardi)<br/>⚽ Simone Martini (Donatella Rettore)<br/>⚽ Mauro Prezzi (Il Sergente Di Via Al Cristo)<br/>⚽ Manuel Cescatti (Il Bolscevico)|⚽ Rudy Somadossi (Musica e Magia
-)<br/>
+Goals|⚽⚽⚽⚽⚽⚽ Andrea Gober (Scintillio)<br/>⚽⚽⚽ Alessandro Zandonai (L'Uomo Che Sussurrava Ai Ghepardi)<br/>⚽ Simone Martini (Donatella Rettore)<br/>⚽ Mauro Prezzi (Il Sergente Di Via Al Cristo)<br/>⚽ Manuel Cescatti (Il Bolscevico)|⚽ Rudy Somadossi (Musica e Magia)
 Autogoals||
 Falli|0|0
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Andrea Gober (Scintillio)<br/>|⭐ Rudy Somadossi (Musica e Magia
-)<br/>
-Miglior Portiere|⭐ Matteo Pilati (Ponzio Pilati)<br/>|⭐⭐ Alessio Ecchel<br/>
+Miglior Giocatore| ⭐⭐ Andrea Gober (Scintillio)<br/>| ⭐ Rudy Somadossi (Musica e Magia)<br/>
+Miglior Portiere| ⭐ Matteo Pilati (Ponzio Pilati)<br/>| ⭐⭐ Alessio Ecchel<br/>
 
 
 # PARTITA:8
@@ -138,13 +135,13 @@ Data: 2019-08-15 18:20:00
 | | Pinguini Trentini | Dmentoni (La D E' Muta) |
 |:-----:|-----|-----|
 Risultato|13|1
-Goals|⚽⚽⚽⚽⚽⚽⚽⚽ Alessio Farinati (Proteina)<br/>⚽⚽⚽ Matteo Brigo (Eurobrigo)<br/>⚽ Yuri Andreolli<br/>⚽ Andrea Mandredi|⚽ Damiano Simoncelli<br/>
+Goals|⚽⚽⚽⚽⚽⚽⚽⚽ Alessio Farinati (Proteina)<br/>⚽⚽⚽ Matteo Brigo (Eurobrigo)<br/>⚽ Yuri Andreolli<br/>⚽ Andrea Mandredi|⚽ Damiano Simoncelli
 Autogoals||
 Falli|1|1
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Alessio Farinati (Proteina)<br/><br/>⭐ Andrea Mandredi<br/>|
-Miglior Portiere||
+Miglior Giocatore| ⭐⭐ Alessio Farinati (Proteina)<br/><br/>⭐ Andrea Mandredi<br/>| 
+Miglior Portiere| | 
 
 
 # PARTITA:9
@@ -155,13 +152,13 @@ Data: 2019-08-15 18:40:00
 | | I Montagna | Soda |
 |:-----:|-----|-----|
 Risultato|4|1
-Goals|⚽⚽⚽ Marco Sala (Cane Rognoso)<br/>⚽ Francesco Russo (Il Falso Balcanico)|⚽ Massimo Chiodini<br/>
+Goals|⚽⚽⚽ Marco Sala (Cane Rognoso)<br/>⚽ Francesco Russo (Il Falso Balcanico)|⚽ Massimo Chiodini
 Autogoals||
 Falli|0|4
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Federico Andreis (Bel Ragazzo)<br/><br/>⭐⭐ Marco Sala (Cane Rognoso)<br/>|
-Miglior Portiere||
+Miglior Giocatore| ⭐ Federico Andreis (Bel Ragazzo)<br/><br/>⭐⭐ Marco Sala (Cane Rognoso)<br/>| 
+Miglior Portiere| | 
 
 
 # PARTITA:10
@@ -172,13 +169,13 @@ Data: 2019-08-15 19:00:00
 | | Mai Una Gioia | Clandes-Team |
 |:-----:|-----|-----|
 Risultato|4|3
-Goals|⚽⚽ Carlo Stedile (Welcome To Paradise)<br/>⚽ Nadir Chtioui (Casablanca)<br/>⚽ Pietro Gasparini|⚽ Pietro Tasini<br/><br/>⚽ Riccardo Brunelli<br/><br/>⚽ Pietro Zandonai (Boyscout)<br/>
+Goals|⚽⚽ Carlo Stedile (Welcome To Paradise)<br/>⚽ Nadir Chtioui (Casablanca)<br/>⚽ Pietro Gasparini|⚽ Pietro Tasini<br/>⚽ Riccardo Brunelli<br/>⚽ Pietro Zandonai (Boyscout)
 Autogoals||
 Falli|0|5
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Nadir Chtioui (Casablanca)<br/><br/>⭐⭐ Carlo Stedile (Welcome To Paradise)<br/>|
-Miglior Portiere|⭐⭐ Thomas Debiasi (L'Organizzatore Di Eventi Bruti)<br/>|⭐ Tommaso Canepel (Ridge Forester)<br/>
+Miglior Giocatore| ⭐ Nadir Chtioui (Casablanca)<br/><br/>⭐⭐ Carlo Stedile (Welcome To Paradise)<br/>| 
+Miglior Portiere| ⭐⭐ Thomas Debiasi (L'Organizzatore Di Eventi Bruti)<br/>| ⭐ Tommaso Canepel (Ridge Forester)<br/>
 
 
 # PARTITA:11
@@ -189,13 +186,13 @@ Data: 2019-08-15 19:20:00
 | | S.S. Tecnica Pura | Cgb Gamberoni |
 |:-----:|-----|-----|
 Risultato|3|2
-Goals|⚽ Mirco Salvetti<br/>⚽ Matteo Azzolini|⚽ Francesco Piamarta<br/><br/>⚽ Tommaso Bruschetti (Sindaco)<br/>
+Goals|⚽ Mirco Salvetti<br/>⚽ Matteo Azzolini|⚽ Francesco Piamarta<br/>⚽ Tommaso Bruschetti (Sindaco)
 Autogoals||
 Falli|0|0
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Matteo Azzolini<br/><br/>⭐ Luca Dellagiacoma (La Locomotiva Di Lizzanella)<br/><br/>⭐ Omar Russo (Lizzanella Vende Moda)<br/>|
-Miglior Portiere|⭐⭐ Francesco Modena<br/>|⭐ Sebastiano Zoller<br/>
+Miglior Giocatore| ⭐ Matteo Azzolini<br/><br/>⭐ Luca Dellagiacoma (La Locomotiva Di Lizzanella)<br/><br/>⭐ Omar Russo (Lizzanella Vende Moda)<br/>| 
+Miglior Portiere| ⭐⭐ Francesco Modena<br/>| ⭐ Sebastiano Zoller<br/>
 
 
 # PARTITA:13
@@ -206,13 +203,13 @@ Data: 2019-08-15 19:40:00
 | | Dinamo Nada | Up-Pero' |
 |:-----:|-----|-----|
 Risultato|9|1
-Goals|⚽⚽⚽ Irene Tovazzi (La Marmelona)<br/>⚽⚽ Maira Bertolini<br/>⚽⚽ Margherita Planchestainer (Mamma Di Bambi)<br/>⚽ Sara Consolati (Colonne D'Ercole)|⚽ Rachele Gugole (Pannocchia)<br/>
+Goals|⚽⚽⚽ Irene Tovazzi (La Marmelona)<br/>⚽⚽ Maira Bertolini<br/>⚽⚽ Margherita Planchestainer (Mamma Di Bambi)<br/>⚽ Sara Consolati (Colonne D'Ercole)|⚽ Rachele Gugole (Pannocchia)
 Autogoals||
 Falli|0|1
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Margherita Planchestainer (Mamma Di Bambi)<br/><br/>⭐⭐ Irene Tovazzi (La Marmelona)<br/>|
-Miglior Portiere||
+Miglior Giocatore| ⭐ Margherita Planchestainer (Mamma Di Bambi)<br/><br/>⭐⭐ Irene Tovazzi (La Marmelona)<br/>| 
+Miglior Portiere| | 
 
 
 # PARTITA:14
@@ -223,13 +220,13 @@ Data: 2019-08-15 20:00:00
 | | Mai Un Limone | Le Gretine |
 |:-----:|-----|-----|
 Risultato|10|1
-Goals|⚽⚽⚽⚽ Carlotta Pomarolli (La Predestinata)<br/>⚽⚽⚽⚽ Laura Manconi (Skeletor the original)<br/>⚽ Valentina Salzani (Hello Kitty)|⚽ Claudia Manzana (La Bolscevica)<br/>
+Goals|⚽⚽⚽⚽ Carlotta Pomarolli (La Predestinata)<br/>⚽⚽⚽⚽ Laura Manconi (Skeletor the original)<br/>⚽ Valentina Salzani (Hello Kitty)|⚽ Claudia Manzana (La Bolscevica)
 Autogoals||
 Falli|2|0
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Laura Manconi (Skeletor the original)<br/><br/>⭐⭐ Carlotta Pomarolli (La Predestinata)<br/>|
-Miglior Portiere||
+Miglior Giocatore| ⭐ Laura Manconi (Skeletor the original)<br/><br/>⭐⭐ Carlotta Pomarolli (La Predestinata)<br/>| 
+Miglior Portiere| | 
 
 
 # PARTITA:15
@@ -240,13 +237,13 @@ Data: 2019-08-15 20:20:00
 | | Shark Attack | The Periti Informatici |
 |:-----:|-----|-----|
 Risultato|14|1
-Goals|⚽⚽⚽⚽⚽⚽⚽⚽ Mattia Baldessarini (L'Assassino Cerebrale)<br/>⚽⚽⚽ Mattia Festi (Plastic Man)<br/>⚽⚽ Gabriele Brentari (Mocio Vileda)<br/>⚽ Riccardo Saccani (Rosso Malpelo)|⚽ Giovanni Simoncelli (Ritornello)<br/>
+Goals|⚽⚽⚽⚽⚽⚽⚽⚽ Mattia Baldessarini (L'Assassino Cerebrale)<br/>⚽⚽⚽ Mattia Festi (Plastic Man)<br/>⚽⚽ Gabriele Brentari (Mocio Vileda)<br/>⚽ Riccardo Saccani (Rosso Malpelo)|⚽ Giovanni Simoncelli (Ritornello)
 Autogoals||
 Falli|0|1
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐⭐ Mattia Baldessarini (L'Assassino Cerebrale)<br/>|
-Miglior Portiere|⭐ Alberto Cerisara (L'Uomo Che Ha Mangiato Justin Bieber)<br/>|⭐⭐ Francesco Passuello (Crumiro)<br/>
+Miglior Giocatore| ⭐⭐⭐ Mattia Baldessarini (L'Assassino Cerebrale)<br/>| 
+Miglior Portiere| ⭐ Alberto Cerisara (L'Uomo Che Ha Mangiato Justin Bieber)<br/>| ⭐⭐ Francesco Passuello (Crumiro)<br/>
 
 
 # PARTITA:16
@@ -257,13 +254,13 @@ Data: 2019-08-15 21:00:00
 | | U.S. Guarna | F.C. Julia |
 |:-----:|-----|-----|
 Risultato|4|6
-Goals|⚽⚽ Andrea Prombergher<br/>⚽ Federico Nicolodi (Notti Magiche)<br/>⚽ Samuele Angheben (Bubbone)|⚽⚽⚽ Michele Lovisi<br/><br/>⚽ Andrea Potrich (Il Brasiliano Bianco)<br/><br/>⚽ Giovanni Zamboni (Nano Malefico)<br/><br/>⚽ Mattia Gerosa (Minchia Gigi)<br/>
+Goals|⚽⚽ Andrea Prombergher<br/>⚽ Federico Nicolodi (Notti Magiche)<br/>⚽ Samuele Angheben (Bubbone)|⚽⚽⚽ Michele Lovisi<br/>⚽ Andrea Potrich (Il Brasiliano Bianco)<br/>⚽ Giovanni Zamboni (Nano Malefico)<br/>⚽ Mattia Gerosa (Minchia Gigi)
 Autogoals||
 Falli|0|0
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Andrea Prombergher<br/>|⭐⭐ Michele Lovisi<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Andrea Prombergher<br/>| ⭐⭐ Michele Lovisi<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:17
@@ -274,13 +271,13 @@ Data: 2019-08-15 21:20:00
 | | Lizzanella'S Old Sughi | Hellas Madonna |
 |:-----:|-----|-----|
 Risultato|3|3
-Goals|⚽ Daniele Feltrinelli (La Transiberiana)<br/>⚽ Emanuele Miorandi (Braghe Da Sci)<br/>⚽ Federico Ignaccolo (Fidel)|⚽ Filippo Benetti<br/><br/>⚽ Jacopo Ricci<br/><br/>⚽ Davide Rosa'<br/>
+Goals|⚽ Daniele Feltrinelli (La Transiberiana)<br/>⚽ Emanuele Miorandi (Braghe Da Sci)<br/>⚽ Federico Ignaccolo (Fidel)|⚽ Filippo Benetti<br/>⚽ Jacopo Ricci<br/>⚽ Davide Rosa'
 Autogoals||
 Falli|1|2
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Federico Ignaccolo (Fidel)<br/>|
-Miglior Portiere|⭐ Federico Leonardi (Pan Carre')<br/>|⭐ Raffaele Prezzi<br/>
+Miglior Giocatore| ⭐ Federico Ignaccolo (Fidel)<br/>| 
+Miglior Portiere| ⭐ Federico Leonardi (Pan Carre')<br/>| ⭐ Raffaele Prezzi<br/>
 
 
 # PARTITA:18
@@ -291,13 +288,13 @@ Data: 2019-08-15 21:40:00
 | | Porcahontas | La Carica Delle 02 |
 |:-----:|-----|-----|
 Risultato|3|2
-Goals|⚽⚽ Licia Fondriest (Anza)<br/>⚽ Valentina Bisoffi (Nano da Giardino)|⚽ Emma Tesini<br/><br/>⚽ Elena Bordato<br/>
+Goals|⚽⚽ Licia Fondriest (Anza)<br/>⚽ Valentina Bisoffi (Nano da Giardino)|⚽ Emma Tesini<br/>⚽ Elena Bordato
 Autogoals||
 Falli|1|2
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Licia Fondriest (Anza)<br/>|⭐ Emma Tesini<br/>
-Miglior Portiere|⭐⭐ Alice Finarolli (Alice in Wonderland)<br/>|⭐ Margherita Bottesi (Pe Williams)<br/>
+Miglior Giocatore| ⭐⭐ Licia Fondriest (Anza)<br/>| ⭐ Emma Tesini<br/>
+Miglior Portiere| ⭐⭐ Alice Finarolli (Alice in Wonderland)<br/>| ⭐ Margherita Bottesi (Pe Williams)<br/>
 
 
 # PARTITA:19
@@ -308,15 +305,13 @@ Data: 2019-08-15 22:00:00
 | | Panchester United | Cacao Meravigliao |
 |:-----:|-----|-----|
 Risultato|1|6
-Goals|⚽ Rudy Somadossi (Musica e Magia
-)|⚽⚽⚽ Giacomo Larcher (Occhio Ceruleo)<br/><br/>⚽⚽ Leonardo Stiz (Mio Nonno)<br/><br/>⚽ Andrea Togni<br/>
+Goals|⚽ Rudy Somadossi (Musica e Magia)|⚽⚽⚽ Giacomo Larcher (Occhio Ceruleo)<br/>⚽⚽ Leonardo Stiz (Mio Nonno)<br/>⚽ Andrea Togni
 Autogoals||
 Falli|0|0
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Rudy Somadossi (Musica e Magia
-)<br/>|⭐ Giacomo Larcher (Occhio Ceruleo)<br/><br/>⭐ Andrea Togni<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Rudy Somadossi (Musica e Magia)<br/>| ⭐ Giacomo Larcher (Occhio Ceruleo)<br/><br/>⭐ Andrea Togni<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:20
@@ -327,13 +322,13 @@ Data: 2019-08-15 22:20:00
 | | F.C. Savignano | Clitoriders |
 |:-----:|-----|-----|
 Risultato|2|7
-Goals|⚽ Alessandro Maffei  (Fondatore Di Social Network)<br/>⚽ Andrea Conzatti (Caldaia)|⚽⚽ Luca Frasca (Delirium Tremens)<br/><br/>⚽⚽ Michele Merighi (La Iena Ridens)<br/><br/>⚽⚽ Andrea Giordani (Orso Bruno)<br/><br/>⚽ Stefano Galvagni (Mentadent)<br/>
+Goals|⚽ Alessandro Maffei  (Fondatore Di Social Network)<br/>⚽ Andrea Conzatti (Caldaia)|⚽⚽ Luca Frasca (Delirium Tremens)<br/>⚽⚽ Michele Merighi (La Iena Ridens)<br/>⚽⚽ Andrea Giordani (Orso Bruno)<br/>⚽ Stefano Galvagni (Mentadent)
 Autogoals||
 Falli|1|3
 Gialli||
 Rossi||
-Miglior Giocatore||⭐⭐ Luca Frasca (Delirium Tremens)<br/><br/>⭐ Andrea Giordani (Orso Bruno)<br/>
-Miglior Portiere|⭐ Samuel Di Meo<br/>|⭐ Stefano Tita (Giannizzero)<br/>
+Miglior Giocatore| | ⭐⭐ Luca Frasca (Delirium Tremens)<br/><br/>⭐ Andrea Giordani (Orso Bruno)<br/>
+Miglior Portiere| ⭐ Samuel Di Meo<br/>| ⭐ Stefano Tita (Giannizzero)<br/>
 
 
 # PARTITA:21
@@ -344,13 +339,13 @@ Data: 2019-08-15 22:40:00
 | | Plus Ultra | Le Sughe |
 |:-----:|-----|-----|
 Risultato|1|1
-Goals|⚽ Isotta Battisti|⚽ Anna Rigo<br/>
+Goals|⚽ Isotta Battisti|⚽ Anna Rigo
 Autogoals||
 Falli|0|4
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Isotta Battisti<br/>|⭐ Anna Rigo<br/>
-Miglior Portiere|⭐ Aurora Cavalieri<br/>|
+Miglior Giocatore| ⭐ Isotta Battisti<br/>| ⭐ Anna Rigo<br/>
+Miglior Portiere| ⭐ Aurora Cavalieri<br/>| 
 
 
 # PARTITA:22
@@ -366,8 +361,8 @@ Autogoals||
 Falli|2|3
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Leonardo Parisi (Il Fratello Di Ron Weasley)<br/><br/>⭐ Davide Raffaelli (Giraffa Di Frassino)<br/>|
-Miglior Portiere||
+Miglior Giocatore| ⭐⭐ Leonardo Parisi (Il Fratello Di Ron Weasley)<br/><br/>⭐ Davide Raffaelli (Giraffa Di Frassino)<br/>| 
+Miglior Portiere| | 
 
 
 # PARTITA:23
@@ -378,13 +373,13 @@ Data: 2019-08-15 23:20:00
 | | Cgb Gamberoni | St'Am No Zugo |
 |:-----:|-----|-----|
 Risultato|13|3
-Goals|⚽⚽⚽⚽⚽ Francesco Piamarta<br/>⚽⚽⚽⚽ Gabriele Gottardi<br/>⚽⚽ Sebastiano Zoller<br/>⚽ Tommaso Bruschetti (Sindaco)<br/>⚽ Luca Perenzoni (Il Lettone)|⚽⚽ Mattia Ferrari (Manichino)<br/><br/>⚽ Thomas Azzolini<br/>
+Goals|⚽⚽⚽⚽⚽ Francesco Piamarta<br/>⚽⚽⚽⚽ Gabriele Gottardi<br/>⚽⚽ Sebastiano Zoller<br/>⚽ Tommaso Bruschetti (Sindaco)<br/>⚽ Luca Perenzoni (Il Lettone)|⚽⚽ Mattia Ferrari (Manichino)<br/>⚽ Thomas Azzolini
 Autogoals||
 Falli|0|1
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Tommaso Bruschetti (Sindaco)<br/><br/>⭐⭐ Sebastiano Zoller<br/>|
-Miglior Portiere||
+Miglior Giocatore| ⭐ Tommaso Bruschetti (Sindaco)<br/><br/>⭐⭐ Sebastiano Zoller<br/>| 
+Miglior Portiere| | 
 
 
 # PARTITA:24
@@ -400,8 +395,8 @@ Autogoals||
 Falli|1|0
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐⭐ Matteo Bazzanella<br/>|
-Miglior Portiere|⭐ Raffaele Prezzi<br/>|⭐ Mattia Spagnolli<br/>
+Miglior Giocatore| ⭐⭐⭐ Matteo Bazzanella<br/>| 
+Miglior Portiere| ⭐ Raffaele Prezzi<br/>| ⭐ Mattia Spagnolli<br/>
 
 
 # PARTITA:25
@@ -412,13 +407,13 @@ Data: 2019-08-16 16:00:00
 | | Sbarx | Fel Lazio |
 |:-----:|-----|-----|
 Risultato|3|7
-Goals|⚽ Nicholas Marzadro<br/>⚽ Alex Manica<br/>⚽ Simone Miorelli|⚽⚽⚽ Andrea Gober (Scintillio)<br/><br/>⚽⚽ Manuel Cescatti (Il Bolscevico)<br/><br/>⚽ Alessandro Zandonai (L'Uomo Che Sussurrava Ai Ghepardi)<br/><br/>⚽ Mauro Prezzi (Il Sergente Di Via Al Cristo)<br/>
+Goals|⚽ Nicholas Marzadro<br/>⚽ Alex Manica<br/>⚽ Simone Miorelli|⚽⚽⚽ Andrea Gober (Scintillio)<br/>⚽⚽ Manuel Cescatti (Il Bolscevico)<br/>⚽ Alessandro Zandonai (L'Uomo Che Sussurrava Ai Ghepardi)<br/>⚽ Mauro Prezzi (Il Sergente Di Via Al Cristo)
 Autogoals||
 Falli|0|2
 Gialli||
 Rossi||
-Miglior Giocatore||⭐⭐⭐ Andrea Gober (Scintillio)<br/>
-Miglior Portiere||⭐⭐⭐ Matteo Pilati (Ponzio Pilati)<br/>
+Miglior Giocatore| | ⭐⭐⭐ Andrea Gober (Scintillio)<br/>
+Miglior Portiere| | ⭐⭐⭐ Matteo Pilati (Ponzio Pilati)<br/>
 
 
 # PARTITA:26
@@ -429,13 +424,13 @@ Data: 2019-08-16 16:20:00
 | | Up-Pero' | Quele Del '20. Ades |
 |:-----:|-----|-----|
 Risultato|1|2
-Goals|⚽ Sharik Handson|⚽⚽ Martina Francescatti<br/>
+Goals|⚽ Sharik Handson|⚽⚽ Martina Francescatti
 Autogoals||
 Falli|2|1
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Sharik Handson<br/>|⭐⭐ Martina Francescatti<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Sharik Handson<br/>| ⭐⭐ Martina Francescatti<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:27
@@ -451,8 +446,8 @@ Autogoals||
 Falli|0|1
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Angela Adami (Ananas)<br/><br/>⭐ Valentina Perghem<br/>|
-Miglior Portiere||
+Miglior Giocatore| ⭐⭐ Angela Adami (Ananas)<br/><br/>⭐ Valentina Perghem<br/>| 
+Miglior Portiere| | 
 
 
 # PARTITA:28
@@ -463,16 +458,13 @@ Data: 2019-08-16 17:00:00
 | | Quele Del '20. Alora | Pink Ladies |
 |:-----:|-----|-----|
 Risultato|12|2
-Goals|⚽⚽⚽⚽⚽⚽⚽ Margherita Prezzi (Acquaragia)<br/>⚽⚽ Serena Barozzi (Miss Patatina
-)<br/>⚽⚽ Nazarena Raos (L'Usignolo di Corna Calda
-)<br/>⚽ Silvia Veneri|⚽ Alessandra Zampol (Vileda
-)<br/><br/>⚽ Sofia Manica<br/>
+Goals|⚽⚽⚽⚽⚽⚽⚽ Margherita Prezzi (Acquaragia)<br/>⚽⚽ Serena Barozzi (Miss Patatina)<br/>⚽⚽ Nazarena Raos (L'Usignolo di Corna Calda)<br/>⚽ Silvia Veneri|⚽ Alessandra Zampol (Vileda)<br/>⚽ Sofia Manica
 Autogoals||
 Falli|0|0
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Margherita Prezzi (Acquaragia)<br/><br/>⭐ Silvia Veneri<br/>|
-Miglior Portiere|⭐ Andrea Veronica Degan (WonderRea)<br/>|
+Miglior Giocatore| ⭐⭐ Margherita Prezzi (Acquaragia)<br/><br/>⭐ Silvia Veneri<br/>| 
+Miglior Portiere| ⭐ Andrea Veronica Degan (WonderRea)<br/>| 
 
 
 # PARTITA:29
@@ -488,8 +480,8 @@ Autogoals||
 Falli|0|0
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Francesca Debiasi (David Gnomo)<br/><br/>⭐ Stefania Gazzini (Skeleton)<br/>|
-Miglior Portiere||
+Miglior Giocatore| ⭐⭐ Francesca Debiasi (David Gnomo)<br/><br/>⭐ Stefania Gazzini (Skeleton)<br/>| 
+Miglior Portiere| | 
 
 
 # PARTITA:30
@@ -505,8 +497,8 @@ Autogoals||
 Falli|3|2
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Simone Chizzola (Il Mozzo)<br/><br/>⭐ Andrea Mandredi<br/><br/>⭐ Davide Manica (Pala Eolica)<br/>|
-Miglior Portiere||
+Miglior Giocatore| ⭐ Simone Chizzola (Il Mozzo)<br/><br/>⭐ Andrea Mandredi<br/><br/>⭐ Davide Manica (Pala Eolica)<br/>| 
+Miglior Portiere| | 
 
 
 # PARTITA:31
@@ -517,13 +509,13 @@ Data: 2019-08-16 18:00:00
 | | Panchester United | Sbarx |
 |:-----:|-----|-----|
 Risultato|1|2
-Goals|⚽ Hernan Suarez|⚽ Alex Manica<br/><br/>⚽ Enrico Parisi<br/>
+Goals|⚽ Hernan Suarez|⚽ Alex Manica<br/>⚽ Enrico Parisi
 Autogoals||
 Falli|4|2
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Hernan Suarez<br/>|⭐ Alex Manica<br/>
-Miglior Portiere|⭐⭐⭐ Oscar Morin<br/>|
+Miglior Giocatore| ⭐ Hernan Suarez<br/>| ⭐ Alex Manica<br/>
+Miglior Portiere| ⭐⭐⭐ Oscar Morin<br/>| 
 
 
 # PARTITA:32
@@ -539,8 +531,8 @@ Autogoals||
 Falli|1|4
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Federico Ignaccolo (Fidel)<br/><br/>⭐ Emanuele Miorandi (Braghe Da Sci)<br/>|
-Miglior Portiere||
+Miglior Giocatore| ⭐⭐ Federico Ignaccolo (Fidel)<br/><br/>⭐ Emanuele Miorandi (Braghe Da Sci)<br/>| 
+Miglior Portiere| | 
 
 
 # PARTITA:33
@@ -551,13 +543,13 @@ Data: 2019-08-16 18:40:00
 | | Fel Lazio | Cacao Meravigliao |
 |:-----:|-----|-----|
 Risultato|4|3
-Goals|⚽⚽ Mauro Prezzi (Il Sergente Di Via Al Cristo)<br/>⚽ Matteo Pilati (Ponzio Pilati)<br/>⚽ Alessandro Zandonai (L'Uomo Che Sussurrava Ai Ghepardi)|⚽ Leonardo Stiz (Mio Nonno)<br/><br/>⚽ Andrea Togni<br/>
+Goals|⚽⚽ Mauro Prezzi (Il Sergente Di Via Al Cristo)<br/>⚽ Matteo Pilati (Ponzio Pilati)<br/>⚽ Alessandro Zandonai (L'Uomo Che Sussurrava Ai Ghepardi)|⚽ Leonardo Stiz (Mio Nonno)<br/>⚽ Andrea Togni
 Autogoals||
 Falli|3|4
 Gialli||
 Rossi||
-Miglior Giocatore||
-Miglior Portiere||
+Miglior Giocatore| | 
+Miglior Portiere| | 
 
 
 # PARTITA:34
@@ -568,13 +560,13 @@ Data: 2019-08-16 19:00:00
 | | Plus Ultra | La Carica Delle 02 |
 |:-----:|-----|-----|
 Risultato|2|4
-Goals|⚽ Isotta Battisti<br/>⚽ Carolina Zendri (Maestrale D'Inverno)|⚽⚽⚽ Emma Tesini<br/><br/>⚽ Jasmine Scottini<br/>
+Goals|⚽ Isotta Battisti<br/>⚽ Carolina Zendri (Maestrale D'Inverno)|⚽⚽⚽ Emma Tesini<br/>⚽ Jasmine Scottini
 Autogoals||
 Falli|2|3
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Carolina Zendri (Maestrale D'Inverno)<br/>|⭐⭐ Emma Tesini<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Carolina Zendri (Maestrale D'Inverno)<br/>| ⭐⭐ Emma Tesini<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:35
@@ -590,8 +582,8 @@ Autogoals||
 Falli|1|2
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Maira Bertolini<br/><br/>⭐ Margherita Planchestainer (Mamma Di Bambi)<br/><br/>⭐ Irene Tovazzi (La Marmelona)<br/>|
-Miglior Portiere||⭐ Mara Barozzi (La Nonna di Heidi)<br/>
+Miglior Giocatore| ⭐ Maira Bertolini<br/><br/>⭐ Margherita Planchestainer (Mamma Di Bambi)<br/><br/>⭐ Irene Tovazzi (La Marmelona)<br/>| 
+Miglior Portiere| | ⭐ Mara Barozzi (La Nonna di Heidi)<br/>
 
 
 # PARTITA:36
@@ -602,13 +594,13 @@ Data: 2019-08-16 19:40:00
 | | Discepoli Del Luppolo | Wanda Tim |
 |:-----:|-----|-----|
 Risultato|12|1
-Goals|⚽⚽⚽⚽⚽ Federico Giordani (L'Uomo Più Fuori Forma D'Europa)<br/>⚽⚽⚽ Michele Bertolini (Marco Columbro)<br/>⚽⚽ Nicola Conti (Parrucchino)<br/>⚽ Luca Miorandi (L'Uomo Più Brutto D'Europa)<br/>⚽ Riccardo Baldo (L'Idolo Delle 15enni)|⚽ Stefano Rosina<br/>
+Goals|⚽⚽⚽⚽⚽ Federico Giordani (L'Uomo Più Fuori Forma D'Europa)<br/>⚽⚽⚽ Michele Bertolini (Marco Columbro)<br/>⚽⚽ Nicola Conti (Parrucchino)<br/>⚽ Luca Miorandi (L'Uomo Più Brutto D'Europa)<br/>⚽ Riccardo Baldo (L'Idolo Delle 15enni)|⚽ Stefano Rosina
 Autogoals||
 Falli|1|1
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Federico Giordani (L'Uomo Più Fuori Forma D'Europa)<br/><br/>⭐ Luca Miorandi (L'Uomo Più Brutto D'Europa)<br/>|
-Miglior Portiere|⭐ Marco Maffei (Il Pranzo È Servito)<br/>|⭐ Mattia Spagnolli<br/>
+Miglior Giocatore| ⭐⭐ Federico Giordani (L'Uomo Più Fuori Forma D'Europa)<br/><br/>⭐ Luca Miorandi (L'Uomo Più Brutto D'Europa)<br/>| 
+Miglior Portiere| ⭐ Marco Maffei (Il Pranzo È Servito)<br/>| ⭐ Mattia Spagnolli<br/>
 
 
 # PARTITA:37
@@ -619,13 +611,13 @@ Data: 2019-08-16 20:00:00
 | | Fruit Ninja | Tigri Intigra Tighi |
 |:-----:|-----|-----|
 Risultato|7|2
-Goals|⚽⚽⚽⚽⚽ Marie Stöger (Torta Sacher)<br/>⚽ Manuela Perini (Callisto)|⚽ Cristina Tognarelli<br/><br/>⚽ Valentina Perghem<br/>
+Goals|⚽⚽⚽⚽⚽ Marie Stöger (Torta Sacher)<br/>⚽ Manuela Perini (Callisto)|⚽ Cristina Tognarelli<br/>⚽ Valentina Perghem
 Autogoals||
 Falli|1|0
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Giulia Scrinzi (La Bimba Bionica)<br/><br/>⭐ Marie Stöger (Torta Sacher)<br/>|
-Miglior Portiere|⭐⭐ Elena Loss (L'Astronauta)<br/>|
+Miglior Giocatore| ⭐⭐ Giulia Scrinzi (La Bimba Bionica)<br/><br/>⭐ Marie Stöger (Torta Sacher)<br/>| 
+Miglior Portiere| ⭐⭐ Elena Loss (L'Astronauta)<br/>| 
 
 
 # PARTITA:38
@@ -641,8 +633,8 @@ Autogoals||
 Falli|2|2
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Filippo Alovisi (Tromba)<br/><br/>⭐⭐ Michele Anselmi<br/>|
-Miglior Portiere||
+Miglior Giocatore| ⭐ Filippo Alovisi (Tromba)<br/><br/>⭐⭐ Michele Anselmi<br/>| 
+Miglior Portiere| | 
 
 
 # PARTITA:39
@@ -658,8 +650,8 @@ Autogoals||
 Falli|1|0
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Valentina Bisoffi (Nano da Giardino)<br/><br/>⭐ Veronica Osele (Marion Johns)<br/>|
-Miglior Portiere|⭐⭐ Alice Finarolli (Alice in Wonderland)<br/>|⭐ Sara Fait<br/>
+Miglior Giocatore| ⭐⭐ Valentina Bisoffi (Nano da Giardino)<br/><br/>⭐ Veronica Osele (Marion Johns)<br/>| 
+Miglior Portiere| ⭐⭐ Alice Finarolli (Alice in Wonderland)<br/>| ⭐ Sara Fait<br/>
 
 
 # PARTITA:40
@@ -670,13 +662,13 @@ Data: 2019-08-16 21:20:00
 | | Avanzi | Cgb Gamberoni |
 |:-----:|-----|-----|
 Risultato|4|3
-Goals|⚽ Luca Zorzutti (Speaker Zone)<br/>⚽ Matteo Manconi (Mancuso)<br/>⚽ Andrea Barozzi (Lo Zanetti Della Statale 12)<br/>⚽ Leonardo Viola (L'Uomo Informe 2.0)|⚽⚽ Gabriele Gottardi<br/><br/>⚽ Francesco Piamarta<br/>
+Goals|⚽ Luca Zorzutti (Speaker Zone)<br/>⚽ Matteo Manconi (Mancuso)<br/>⚽ Andrea Barozzi (Lo Zanetti Della Statale 12)<br/>⚽ Leonardo Viola (L'Uomo Informe 2.0)|⚽⚽ Gabriele Gottardi<br/>⚽ Francesco Piamarta
 Autogoals||
 Falli|0|0
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Lorenzo Barozzi (Il Tagliagole Canadese)<br/><br/>⭐ Andrea Barozzi (Lo Zanetti Della Statale 12)<br/><br/>⭐ Matteo Manconi (Mancuso)<br/>|
-Miglior Portiere|⭐ Michele Ruele (Ruy Misteryo)<br/>|⭐ Sebastiano Zoller<br/>
+Miglior Giocatore| ⭐ Lorenzo Barozzi (Il Tagliagole Canadese)<br/><br/>⭐ Andrea Barozzi (Lo Zanetti Della Statale 12)<br/><br/>⭐ Matteo Manconi (Mancuso)<br/>| 
+Miglior Portiere| ⭐ Michele Ruele (Ruy Misteryo)<br/>| ⭐ Sebastiano Zoller<br/>
 
 
 # PARTITA:41
@@ -687,13 +679,13 @@ Data: 2019-08-16 21:40:00
 | | I Modium | Buona La Merda |
 |:-----:|-----|-----|
 Risultato|3|1
-Goals|⚽ Luca Barozzi (Lupin)<br/>⚽ Federico Pomarolli (Il Principe Guerriero)|⚽ Davide De Zambotti<br/>
+Goals|⚽ Luca Barozzi (Lupin)<br/>⚽ Federico Pomarolli (Il Principe Guerriero)|⚽ Davide De Zambotti
 Autogoals||
 Falli|2|6
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Andrea Bertolini<br/><br/>⭐ Edoardo Pomarolli (Il Bello Della Piof)<br/><br/>⭐ Federico Pomarolli (Il Principe Guerriero)<br/>|
-Miglior Portiere|⭐ Riccardo Versini (La Pertica Dela Piof)<br/>|⭐⭐ Tiziano Tasini<br/>
+Miglior Giocatore| ⭐ Andrea Bertolini<br/><br/>⭐ Edoardo Pomarolli (Il Bello Della Piof)<br/><br/>⭐ Federico Pomarolli (Il Principe Guerriero)<br/>| 
+Miglior Portiere| ⭐ Riccardo Versini (La Pertica Dela Piof)<br/>| ⭐⭐ Tiziano Tasini<br/>
 
 
 # PARTITA:42
@@ -709,8 +701,8 @@ Autogoals||
 Falli|0|0
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Giulia Scrinzi (La Bimba Bionica)<br/>|⭐ Carlotta Pomarolli (La Predestinata)<br/>
-Miglior Portiere|⭐⭐⭐ Elena Loss (L'Astronauta)<br/>|
+Miglior Giocatore| ⭐⭐ Giulia Scrinzi (La Bimba Bionica)<br/>| ⭐ Carlotta Pomarolli (La Predestinata)<br/>
+Miglior Portiere| ⭐⭐⭐ Elena Loss (L'Astronauta)<br/>| 
 
 
 # PARTITA:43
@@ -721,13 +713,13 @@ Data: 2019-08-16 22:20:00
 | | Discepoli Del Luppolo | Hellas Madonna |
 |:-----:|-----|-----|
 Risultato|3|3
-Goals|⚽⚽ Michele Bertolini (Marco Columbro)<br/>⚽ Federico Giordani (L'Uomo Più Fuori Forma D'Europa)|⚽⚽ Filippo Benetti<br/><br/>⚽ Matteo Bazzanella<br/>
+Goals|⚽⚽ Michele Bertolini (Marco Columbro)<br/>⚽ Federico Giordani (L'Uomo Più Fuori Forma D'Europa)|⚽⚽ Filippo Benetti<br/>⚽ Matteo Bazzanella
 Autogoals||
 Falli|2|2
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Federico Giordani (L'Uomo Più Fuori Forma D'Europa)<br/>|⭐⭐ Filippo Benetti<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Federico Giordani (L'Uomo Più Fuori Forma D'Europa)<br/>| ⭐⭐ Filippo Benetti<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:44
@@ -738,13 +730,13 @@ Data: 2019-08-17 10:00:00
 | | Paris San Gennar | Buona La Merda |
 |:-----:|-----|-----|
 Risultato|1|2
-Goals|⚽ Andrea Pedrotti|⚽⚽ Nicolo' Giordani<br/>
+Goals|⚽ Andrea Pedrotti|⚽⚽ Nicolo' Giordani
 Autogoals||
 Falli|2|3
 Gialli||
 Rossi||
-Miglior Giocatore||⭐⭐⭐ Nicolo' Giordani<br/>
-Miglior Portiere||
+Miglior Giocatore| | ⭐⭐⭐ Nicolo' Giordani<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:45
@@ -760,8 +752,8 @@ Autogoals||
 Falli|1|1
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Randy Cobbinah (Baghera-West Coast)<br/><br/>⭐⭐ Pietro Gasparini<br/>|
-Miglior Portiere||
+Miglior Giocatore| ⭐ Randy Cobbinah (Baghera-West Coast)<br/><br/>⭐⭐ Pietro Gasparini<br/>| 
+Miglior Portiere| | 
 
 
 # PARTITA:46
@@ -772,13 +764,13 @@ Data: 2019-08-17 10:40:00
 | | Sbarx | Cacao Meravigliao |
 |:-----:|-----|-----|
 Risultato|2|8
-Goals|⚽⚽ Alex Manica|⚽⚽⚽ Giacomo Larcher (Occhio Ceruleo)<br/><br/>⚽⚽⚽ Davide Larcher (Paracetamolo)<br/><br/>⚽ Leonardo Stiz (Mio Nonno)<br/>
+Goals|⚽⚽ Alex Manica|⚽⚽⚽ Giacomo Larcher (Occhio Ceruleo)<br/>⚽⚽⚽ Davide Larcher (Paracetamolo)<br/>⚽ Leonardo Stiz (Mio Nonno)
 Autogoals||
 Falli|1|0
 Gialli||
 Rossi||
-Miglior Giocatore||⭐⭐ Giacomo Larcher (Occhio Ceruleo)<br/><br/>⭐ Leonardo Stiz (Mio Nonno)<br/>
-Miglior Portiere||
+Miglior Giocatore| | ⭐⭐ Giacomo Larcher (Occhio Ceruleo)<br/><br/>⭐ Leonardo Stiz (Mio Nonno)<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:47
@@ -789,13 +781,13 @@ Data: 2019-08-17 11:00:00
 | | The Periti Informatici | E Voi De Chi Se Fioi? |
 |:-----:|-----|-----|
 Risultato|0|6
-Goals||⚽⚽⚽⚽⚽ Pietro Brussich (Pie' Baracus)<br/><br/>⚽ Arik Kofranek<br/>
+Goals||⚽⚽⚽⚽⚽ Pietro Brussich (Pie' Baracus)<br/>⚽ Arik Kofranek
 Autogoals||
 Falli|1|0
 Gialli||
 Rossi||
-Miglior Giocatore||⭐⭐⭐ Pietro Brussich (Pie' Baracus)<br/>
-Miglior Portiere|⭐⭐ Francesco Passuello (Crumiro)<br/>|
+Miglior Giocatore| | ⭐⭐⭐ Pietro Brussich (Pie' Baracus)<br/>
+Miglior Portiere| ⭐⭐ Francesco Passuello (Crumiro)<br/>| 
 
 
 # PARTITA:48
@@ -806,13 +798,13 @@ Data: 2019-08-17 11:20:00
 | | S.S. Tecnica Pura | St'Am No Zugo |
 |:-----:|-----|-----|
 Risultato|7|1
-Goals|⚽⚽⚽⚽ Omar Russo (Lizzanella Vende Moda)<br/>⚽⚽⚽ Mirco Salvetti|⚽ Thomas Azzolini<br/>
+Goals|⚽⚽⚽⚽ Omar Russo (Lizzanella Vende Moda)<br/>⚽⚽⚽ Mirco Salvetti|⚽ Thomas Azzolini
 Autogoals||
 Falli|0|3
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Omar Russo (Lizzanella Vende Moda)<br/><br/>⭐ Mirco Salvetti<br/>|
-Miglior Portiere||
+Miglior Giocatore| ⭐⭐ Omar Russo (Lizzanella Vende Moda)<br/><br/>⭐ Mirco Salvetti<br/>| 
+Miglior Portiere| | 
 
 
 # PARTITA:49
@@ -823,13 +815,13 @@ Data: 2019-08-17 11:40:00
 | | F.C. Savignano | Il Terrone Va Di Moda |
 |:-----:|-----|-----|
 Risultato|13|2
-Goals|⚽⚽⚽⚽⚽⚽⚽⚽⚽ Andrea Conzatti (Caldaia)<br/>⚽⚽⚽ Alessandro Maffei  (Fondatore Di Social Network)<br/>⚽ Giacomo De Zambotti (Ferro Da Stiro)|⚽ Davide Mattei<br/><br/>⚽ Davide Gerola<br/>
+Goals|⚽⚽⚽⚽⚽⚽⚽⚽⚽ Andrea Conzatti (Caldaia)<br/>⚽⚽⚽ Alessandro Maffei  (Fondatore Di Social Network)<br/>⚽ Giacomo De Zambotti (Ferro Da Stiro)|⚽ Davide Mattei<br/>⚽ Davide Gerola
 Autogoals||
 Falli|0|0
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Andrea Conzatti (Caldaia)<br/><br/>⭐ Alessandro Maffei  (Fondatore Di Social Network)<br/>|
-Miglior Portiere|⭐⭐ Samuel Di Meo<br/>|⭐ Mirco Prezzi<br/>
+Miglior Giocatore| ⭐⭐ Andrea Conzatti (Caldaia)<br/><br/>⭐ Alessandro Maffei  (Fondatore Di Social Network)<br/>| 
+Miglior Portiere| ⭐⭐ Samuel Di Meo<br/>| ⭐ Mirco Prezzi<br/>
 
 
 # PARTITA:50
@@ -840,13 +832,13 @@ Data: 2019-08-17 12:00:00
 | | Le Sughe | La Carica Delle 02 |
 |:-----:|-----|-----|
 Risultato|1|5
-Goals|⚽ Alessia Bonafini|⚽⚽⚽ Emma Tesini<br/><br/>⚽ Marianna Bruschetti (La Assessora)<br/><br/>⚽ Elena Bordato<br/>
+Goals|⚽ Alessia Bonafini|⚽⚽⚽ Emma Tesini<br/>⚽ Marianna Bruschetti (La Assessora)<br/>⚽ Elena Bordato
 Autogoals||
 Falli|2|0
 Gialli||
 Rossi||
-Miglior Giocatore||⭐ Elena Bordato<br/><br/>⭐⭐ Emma Tesini<br/>
-Miglior Portiere||
+Miglior Giocatore| | ⭐ Elena Bordato<br/><br/>⭐⭐ Emma Tesini<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:51
@@ -857,13 +849,13 @@ Data: 2019-08-17 12:20:00
 | | U.S. Guarna | Soda |
 |:-----:|-----|-----|
 Risultato|7|2
-Goals|⚽⚽⚽⚽⚽ Elia Battisti<br/>⚽ Federico Nicolodi (Notti Magiche)<br/>⚽ Riccardo Zaffoni (Lugherim)|⚽ Denis Petrolli<br/><br/>⚽ Elia Giordani (Mesopotamia)<br/>
+Goals|⚽⚽⚽⚽⚽ Elia Battisti<br/>⚽ Federico Nicolodi (Notti Magiche)<br/>⚽ Riccardo Zaffoni (Lugherim)|⚽ Denis Petrolli<br/>⚽ Elia Giordani (Mesopotamia)
 Autogoals||
 Falli|1|2
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐⭐ Elia Battisti<br/>|
-Miglior Portiere|⭐⭐ Michele Zaffoni<br/>|⭐ Mattia Granello<br/>
+Miglior Giocatore| ⭐⭐⭐ Elia Battisti<br/>| 
+Miglior Portiere| ⭐⭐ Michele Zaffoni<br/>| ⭐ Mattia Granello<br/>
 
 
 # PARTITA:52
@@ -874,13 +866,13 @@ Data: 2019-08-17 14:40:00
 | | Clitoriders | Il Terrone Va Di Moda |
 |:-----:|-----|-----|
 Risultato|8|2
-Goals|⚽⚽⚽ Luca Frasca (Delirium Tremens)<br/>⚽⚽ Michele Merighi (La Iena Ridens)<br/>⚽⚽ Andrea Giordani (Orso Bruno)<br/>⚽ Stefano Galvagni (Mentadent)|⚽⚽ Davide Gerola<br/>
+Goals|⚽⚽⚽ Luca Frasca (Delirium Tremens)<br/>⚽⚽ Michele Merighi (La Iena Ridens)<br/>⚽⚽ Andrea Giordani (Orso Bruno)<br/>⚽ Stefano Galvagni (Mentadent)|⚽⚽ Davide Gerola
 Autogoals||
 Falli|3|2
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Stefano Galvagni (Mentadent)<br/><br/>⭐⭐ Michele Merighi (La Iena Ridens)<br/>|
-Miglior Portiere||
+Miglior Giocatore| ⭐ Stefano Galvagni (Mentadent)<br/><br/>⭐⭐ Michele Merighi (La Iena Ridens)<br/>| 
+Miglior Portiere| | 
 
 
 # PARTITA:53
@@ -891,13 +883,13 @@ Data: 2019-08-17 15:00:00
 | | Caffe' Grazia | Buona La Merda |
 |:-----:|-----|-----|
 Risultato|0|3
-Goals||⚽⚽ Nicolo' Giordani<br/><br/>⚽ Daniele Feller<br/>
+Goals||⚽⚽ Nicolo' Giordani<br/>⚽ Daniele Feller
 Autogoals||
 Falli|0|2
 Gialli||Davide De Zambotti<br/>Andrea Graziola<br/>Matteo Giovanella<br/>Nicolo' Giordani
 Rossi||
-Miglior Giocatore||⭐⭐ Daniele Feller<br/><br/>⭐ Nicolo' Giordani<br/>
-Miglior Portiere||
+Miglior Giocatore| | ⭐⭐ Daniele Feller<br/><br/>⭐ Nicolo' Giordani<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:54
@@ -908,13 +900,13 @@ Data: 2019-08-17 15:20:00
 | | Dinamo Nada | Doppie Solo Due |
 |:-----:|-----|-----|
 Risultato|7|1
-Goals|⚽⚽ Margherita Planchestainer (Mamma Di Bambi)<br/>⚽⚽ Maira Bertolini<br/>⚽⚽ Sara Consolati (Colonne D'Ercole)<br/>⚽ Irene Tovazzi (La Marmelona)|⚽ Manuela Montermini<br/>
+Goals|⚽⚽ Margherita Planchestainer (Mamma Di Bambi)<br/>⚽⚽ Maira Bertolini<br/>⚽⚽ Sara Consolati (Colonne D'Ercole)<br/>⚽ Irene Tovazzi (La Marmelona)|⚽ Manuela Montermini
 Autogoals||
 Falli|0|0
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Margherita Planchestainer (Mamma Di Bambi)<br/><br/>⭐ Irene Tovazzi (La Marmelona)<br/>|
-Miglior Portiere|⭐ Martina Niosi<br/>|⭐ Fabiola Tamburini<br/>
+Miglior Giocatore| ⭐ Margherita Planchestainer (Mamma Di Bambi)<br/><br/>⭐ Irene Tovazzi (La Marmelona)<br/>| 
+Miglior Portiere| ⭐ Martina Niosi<br/>| ⭐ Fabiola Tamburini<br/>
 
 
 # PARTITA:55
@@ -925,14 +917,13 @@ Data: 2019-08-17 15:40:00
 | | Clandes-Team | Dmentoni (La D E' Muta) |
 |:-----:|-----|-----|
 Risultato|10|0
-Goals|⚽⚽⚽⚽ Pietro Tasini<br/>⚽⚽⚽ Alberto Aste (Marmelom
-)<br/>⚽⚽ Riccardo Brunelli<br/>⚽ Pietro Zandonai (Boyscout)|
+Goals|⚽⚽⚽⚽ Pietro Tasini<br/>⚽⚽⚽ Alberto Aste (Marmelom)<br/>⚽⚽ Riccardo Brunelli<br/>⚽ Pietro Zandonai (Boyscout)|
 Autogoals||
 Falli|0|1
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Daniele Foroni (Swag Foroni)<br/><br/>⭐⭐ Pietro Tasini<br/>|
-Miglior Portiere||
+Miglior Giocatore| ⭐ Daniele Foroni (Swag Foroni)<br/><br/>⭐⭐ Pietro Tasini<br/>| 
+Miglior Portiere| | 
 
 
 # PARTITA:56
@@ -943,13 +934,13 @@ Data: 2019-08-17 16:00:00
 | | F.C. Julia | Soda |
 |:-----:|-----|-----|
 Risultato|3|2
-Goals|⚽⚽ Andrea Potrich (Il Brasiliano Bianco)<br/>⚽ Pietro Dallabernardina|⚽ Giulio Barozzi (Tutankhamon)<br/><br/>⚽ Massimo Chiodini<br/>
+Goals|⚽⚽ Andrea Potrich (Il Brasiliano Bianco)<br/>⚽ Pietro Dallabernardina|⚽ Giulio Barozzi (Tutankhamon)<br/>⚽ Massimo Chiodini
 Autogoals||
 Falli|2|4
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Andrea Potrich (Il Brasiliano Bianco)<br/>|⭐ Giulio Barozzi (Tutankhamon)<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐⭐ Andrea Potrich (Il Brasiliano Bianco)<br/>| ⭐ Giulio Barozzi (Tutankhamon)<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:58
@@ -960,14 +951,13 @@ Data: 2019-08-17 16:20:00
 | | Le Osce | Pink Ladies |
 |:-----:|-----|-----|
 Risultato|6|4
-Goals|⚽⚽⚽⚽⚽ Veronica Dalbosco<br/>⚽ Beatrice Veronelli (Santamonica)|⚽⚽ Sofia Manica<br/><br/>⚽ Alessandra Zampol (Vileda
-)<br/><br/>⚽ Arissa Ferrari<br/>
+Goals|⚽⚽⚽⚽⚽ Veronica Dalbosco<br/>⚽ Beatrice Veronelli (Santamonica)|⚽⚽ Sofia Manica<br/>⚽ Alessandra Zampol (Vileda)<br/>⚽ Arissa Ferrari
 Autogoals||
 Falli|0|1
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐⭐ Veronica Dalbosco<br/>|
-Miglior Portiere||
+Miglior Giocatore| ⭐⭐⭐ Veronica Dalbosco<br/>| 
+Miglior Portiere| | 
 
 
 # PARTITA:59
@@ -978,13 +968,13 @@ Data: 2019-08-17 16:40:00
 | | Mediaser.T | E Voi De Chi Se Fioi? |
 |:-----:|-----|-----|
 Risultato|6|1
-Goals|⚽⚽⚽ Davide Raffaelli (Giraffa Di Frassino)<br/>⚽⚽ Matteo Mazzola<br/>⚽ Andrea Anzelini|⚽ Arik Kofranek<br/>
+Goals|⚽⚽⚽ Davide Raffaelli (Giraffa Di Frassino)<br/>⚽⚽ Matteo Mazzola<br/>⚽ Andrea Anzelini|⚽ Arik Kofranek
 Autogoals||
 Falli|1|2
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Leonardo Parisi (Il Fratello Di Ron Weasley)<br/><br/>⭐⭐ Davide Raffaelli (Giraffa Di Frassino)<br/>|
-Miglior Portiere||
+Miglior Giocatore| ⭐ Leonardo Parisi (Il Fratello Di Ron Weasley)<br/><br/>⭐⭐ Davide Raffaelli (Giraffa Di Frassino)<br/>| 
+Miglior Portiere| | 
 
 
 # PARTITA:60
@@ -1000,8 +990,8 @@ Autogoals||
 Falli|1|1
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Luca Barozzi (Lupin)<br/><br/>⭐ Federico Pomarolli (Il Principe Guerriero)<br/>|
-Miglior Portiere||
+Miglior Giocatore| ⭐⭐ Luca Barozzi (Lupin)<br/><br/>⭐ Federico Pomarolli (Il Principe Guerriero)<br/>| 
+Miglior Portiere| | 
 
 
 # PARTITA:61
@@ -1017,8 +1007,8 @@ Autogoals||
 Falli|1|1
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Gianluca Veneri (Orsetto Lavatore)<br/><br/>⭐ Leonardo Viola (L'Uomo Informe 2.0)<br/>|
-Miglior Portiere||⭐ Leonardo Trinco (Corpo Nazionale)<br/>
+Miglior Giocatore| ⭐⭐ Gianluca Veneri (Orsetto Lavatore)<br/><br/>⭐ Leonardo Viola (L'Uomo Informe 2.0)<br/>| 
+Miglior Portiere| | ⭐ Leonardo Trinco (Corpo Nazionale)<br/>
 
 
 # PARTITA:62
@@ -1029,13 +1019,13 @@ Data: 2019-08-17 17:40:00
 | | I Montagna | U.S. Guarna |
 |:-----:|-----|-----|
 Risultato|3|1
-Goals|⚽⚽⚽ Marco Sala (Cane Rognoso)|⚽ Andrea Prombergher<br/>
+Goals|⚽⚽⚽ Marco Sala (Cane Rognoso)|⚽ Andrea Prombergher
 Autogoals||
 Falli|1|1
 Gialli|Francesco Russo (Il Falso Balcanico)<br/>Francesco Russo (Il Falso Balcanico)|
 Rossi||
-Miglior Giocatore|⭐ Federico Andreis (Bel Ragazzo)<br/><br/>⭐ Marco Sala (Cane Rognoso)<br/>|
-Miglior Portiere||
+Miglior Giocatore| ⭐ Federico Andreis (Bel Ragazzo)<br/><br/>⭐ Marco Sala (Cane Rognoso)<br/>| 
+Miglior Portiere| | 
 
 
 # PARTITA:63
@@ -1046,13 +1036,13 @@ Data: 2019-08-17 18:00:00
 | | Clitoriders | Positivi All'Etanolo |
 |:-----:|-----|-----|
 Risultato|3|3
-Goals|⚽⚽ Luca Frasca (Delirium Tremens)<br/>⚽ Michele Merighi (La Iena Ridens)|⚽ Michele Anselmi<br/><br/>⚽ Filippo Alovisi (Tromba)<br/><br/>⚽ Mirko Fasanelli<br/>
+Goals|⚽⚽ Luca Frasca (Delirium Tremens)<br/>⚽ Michele Merighi (La Iena Ridens)|⚽ Michele Anselmi<br/>⚽ Filippo Alovisi (Tromba)<br/>⚽ Mirko Fasanelli
 Autogoals||
 Falli|2|4
 Gialli||
 Rossi||
-Miglior Giocatore||⭐ Filippo Alovisi (Tromba)<br/><br/>⭐⭐ Michele Anselmi<br/>
-Miglior Portiere||
+Miglior Giocatore| | ⭐ Filippo Alovisi (Tromba)<br/><br/>⭐⭐ Michele Anselmi<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:64
@@ -1068,8 +1058,8 @@ Autogoals||
 Falli|1|0
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Francesca Debiasi (David Gnomo)<br/><br/>⭐⭐ Stefania Gazzini (Skeleton)<br/>|
-Miglior Portiere||
+Miglior Giocatore| ⭐ Francesca Debiasi (David Gnomo)<br/><br/>⭐⭐ Stefania Gazzini (Skeleton)<br/>| 
+Miglior Portiere| | 
 
 
 # PARTITA:65
@@ -1080,13 +1070,13 @@ Data: 2019-08-17 18:40:00
 | | Doppie Solo Due | Quele Del '20. Ades |
 |:-----:|-----|-----|
 Risultato|2|2
-Goals|⚽ Manuela Montermini|⚽ Debora Martini<br/><br/>⚽ Martina Francescatti<br/>
+Goals|⚽ Manuela Montermini|⚽ Debora Martini<br/>⚽ Martina Francescatti
 Autogoals||
 Falli|5|1
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Manuela Montermini<br/><br/>⭐ Francesca Montermini<br/>|⭐ Martina Francescatti<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Manuela Montermini<br/><br/>⭐ Francesca Montermini<br/>| ⭐ Martina Francescatti<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:66
@@ -1102,8 +1092,8 @@ Autogoals||
 Falli|0|0
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Laura Manconi (Skeletor the original)<br/><br/>⭐ Carlotta Pomarolli (La Predestinata)<br/>|
-Miglior Portiere||
+Miglior Giocatore| ⭐⭐ Laura Manconi (Skeletor the original)<br/><br/>⭐ Carlotta Pomarolli (La Predestinata)<br/>| 
+Miglior Portiere| | 
 
 
 # PARTITA:67
@@ -1114,13 +1104,13 @@ Data: 2019-08-17 19:20:00
 | | Mai Una Gioia | Pinguini Trentini |
 |:-----:|-----|-----|
 Risultato|3|2
-Goals|⚽⚽ Giacomo Gasparini<br/>⚽ Carlo Stedile (Welcome To Paradise)|⚽ Alessio Farinati (Proteina)<br/><br/>⚽ Yuri Andreolli<br/>
+Goals|⚽⚽ Giacomo Gasparini<br/>⚽ Carlo Stedile (Welcome To Paradise)|⚽ Alessio Farinati (Proteina)<br/>⚽ Yuri Andreolli
 Autogoals||
 Falli|2|5
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Giacomo Gasparini<br/>|⭐ Yuri Andreolli<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐⭐ Giacomo Gasparini<br/>| ⭐ Yuri Andreolli<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:68
@@ -1131,13 +1121,13 @@ Data: 2019-08-17 19:40:00
 | | I Modium | Caffe' Grazia |
 |:-----:|-----|-----|
 Risultato|1|1
-Goals|⚽ Matteo Lanaro (Il Cacciatore del Sole)|⚽ Daniele Candioli (Bimbo Del Grest)<br/>
+Goals|⚽ Matteo Lanaro (Il Cacciatore del Sole)|⚽ Daniele Candioli (Bimbo Del Grest)
 Autogoals||
 Falli|2|1
 Gialli||
 Rossi||
-Miglior Giocatore||
-Miglior Portiere|⭐ Riccardo Versini (La Pertica Dela Piof)<br/>|⭐⭐ Andrea Candioli (Can Da L'Ua)<br/>
+Miglior Giocatore| | 
+Miglior Portiere| ⭐ Riccardo Versini (La Pertica Dela Piof)<br/>| ⭐⭐ Andrea Candioli (Can Da L'Ua)<br/>
 
 
 # PARTITA:69
@@ -1153,8 +1143,8 @@ Autogoals||
 Falli|0|0
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Giulia Scrinzi (La Bimba Bionica)<br/><br/>⭐ Marie Stöger (Torta Sacher)<br/>|⭐ Claudia Manzana (La Bolscevica)<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Giulia Scrinzi (La Bimba Bionica)<br/><br/>⭐ Marie Stöger (Torta Sacher)<br/>| ⭐ Claudia Manzana (La Bolscevica)<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:70
@@ -1165,13 +1155,13 @@ Data: 2019-08-17 21:00:00
 | | Porcahontas | Plus Ultra |
 |:-----:|-----|-----|
 Risultato|1|2
-Goals|⚽ Valentina Bisoffi (Nano da Giardino)|⚽⚽ Carolina Zendri (Maestrale D'Inverno)<br/>
+Goals|⚽ Valentina Bisoffi (Nano da Giardino)|⚽⚽ Carolina Zendri (Maestrale D'Inverno)
 Autogoals||
 Falli|5|2
 Gialli||
 Rossi||
-Miglior Giocatore||⭐⭐⭐ Carolina Zendri (Maestrale D'Inverno)<br/>
-Miglior Portiere|⭐ Alice Finarolli (Alice in Wonderland)<br/>|⭐⭐ Aurora Cavalieri<br/>
+Miglior Giocatore| | ⭐⭐⭐ Carolina Zendri (Maestrale D'Inverno)<br/>
+Miglior Portiere| ⭐ Alice Finarolli (Alice in Wonderland)<br/>| ⭐⭐ Aurora Cavalieri<br/>
 
 
 # PARTITA:71
@@ -1182,13 +1172,13 @@ Data: 2019-08-17 21:20:00
 | | Shark Attack | Mediaser.T |
 |:-----:|-----|-----|
 Risultato|3|4
-Goals|⚽ Mattia Baldessarini (L'Assassino Cerebrale)<br/>⚽ Gabriele Brentari (Mocio Vileda)|⚽⚽ Davide Raffaelli (Giraffa Di Frassino)<br/><br/>⚽ Leonardo Parisi (Il Fratello Di Ron Weasley)<br/><br/>⚽ Andrea Anzelini<br/>
+Goals|⚽ Mattia Baldessarini (L'Assassino Cerebrale)<br/>⚽ Gabriele Brentari (Mocio Vileda)|⚽⚽ Davide Raffaelli (Giraffa Di Frassino)<br/>⚽ Leonardo Parisi (Il Fratello Di Ron Weasley)<br/>⚽ Andrea Anzelini
 Autogoals||
 Falli|1|1
 Gialli||
 Rossi||
-Miglior Giocatore||⭐⭐⭐ Davide Raffaelli (Giraffa Di Frassino)<br/>
-Miglior Portiere|⭐ Alberto Cerisara (L'Uomo Che Ha Mangiato Justin Bieber)<br/>|⭐⭐ Stefano Pizzini<br/>
+Miglior Giocatore| | ⭐⭐⭐ Davide Raffaelli (Giraffa Di Frassino)<br/>
+Miglior Portiere| ⭐ Alberto Cerisara (L'Uomo Che Ha Mangiato Justin Bieber)<br/>| ⭐⭐ Stefano Pizzini<br/>
 
 
 # PARTITA:72
@@ -1199,13 +1189,13 @@ Data: 2019-08-17 21:40:00
 | | Discepoli Del Luppolo | Lizzanella'S Old Sughi |
 |:-----:|-----|-----|
 Risultato|2|3
-Goals|⚽⚽ Federico Giordani (L'Uomo Più Fuori Forma D'Europa)|⚽⚽ Federico Ignaccolo (Fidel)<br/>
+Goals|⚽⚽ Federico Giordani (L'Uomo Più Fuori Forma D'Europa)|⚽⚽ Federico Ignaccolo (Fidel)
 Autogoals||
 Falli|1|4
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Federico Giordani (L'Uomo Più Fuori Forma D'Europa)<br/>|⭐⭐ Federico Ignaccolo (Fidel)<br/>
-Miglior Portiere||⭐⭐⭐ Federico Leonardi (Pan Carre')<br/>
+Miglior Giocatore| ⭐ Federico Giordani (L'Uomo Più Fuori Forma D'Europa)<br/>| ⭐⭐ Federico Ignaccolo (Fidel)<br/>
+Miglior Portiere| | ⭐⭐⭐ Federico Leonardi (Pan Carre')<br/>
 
 
 # PARTITA:73
@@ -1216,13 +1206,13 @@ Data: 2019-08-17 22:00:00
 | | S.S. Tecnica Pura | Avanzi |
 |:-----:|-----|-----|
 Risultato|1|2
-Goals|⚽ Roberto Gasperotti (L'Uomo Senza Amici)|⚽ Matteo Manconi (Mancuso)<br/><br/>⚽ Leonardo Viola (L'Uomo Informe 2.0)<br/>
+Goals|⚽ Roberto Gasperotti (L'Uomo Senza Amici)|⚽ Matteo Manconi (Mancuso)<br/>⚽ Leonardo Viola (L'Uomo Informe 2.0)
 Autogoals||
 Falli|0|2
 Gialli||
 Rossi||
-Miglior Giocatore||⭐⭐ Matteo Manconi (Mancuso)<br/><br/>⭐ Leonardo Viola (L'Uomo Informe 2.0)<br/>
-Miglior Portiere||
+Miglior Giocatore| | ⭐⭐ Matteo Manconi (Mancuso)<br/><br/>⭐ Leonardo Viola (L'Uomo Informe 2.0)<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:74
@@ -1238,8 +1228,8 @@ Autogoals||
 Falli|3|3
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Marco Sala (Cane Rognoso)<br/><br/>⭐ Federico Andreis (Bel Ragazzo)<br/>|
-Miglior Portiere|⭐⭐⭐ Daniele Dalbosco<br/>|
+Miglior Giocatore| ⭐⭐ Marco Sala (Cane Rognoso)<br/><br/>⭐ Federico Andreis (Bel Ragazzo)<br/>| 
+Miglior Portiere| ⭐⭐⭐ Daniele Dalbosco<br/>| 
 
 
 # PARTITA:103
@@ -1250,13 +1240,13 @@ Data: 2019-08-17 22:40:00
 | | Quele Del '20. Alora | Dinamo Nada |
 |:-----:|-----|-----|
 Risultato|1|8
-Goals|⚽ Margherita Prezzi (Acquaragia)|⚽⚽⚽⚽⚽ Margherita Planchestainer (Mamma Di Bambi)<br/><br/>⚽⚽ Irene Tovazzi (La Marmelona)<br/><br/>⚽ Maira Bertolini<br/>
+Goals|⚽ Margherita Prezzi (Acquaragia)|⚽⚽⚽⚽⚽ Margherita Planchestainer (Mamma Di Bambi)<br/>⚽⚽ Irene Tovazzi (La Marmelona)<br/>⚽ Maira Bertolini
 Autogoals||
 Falli|1|3
 Gialli||
 Rossi||
-Miglior Giocatore||⭐⭐ Margherita Planchestainer (Mamma Di Bambi)<br/><br/>⭐ Irene Tovazzi (La Marmelona)<br/>
-Miglior Portiere||⭐ Martina Niosi<br/>
+Miglior Giocatore| | ⭐⭐ Margherita Planchestainer (Mamma Di Bambi)<br/><br/>⭐ Irene Tovazzi (La Marmelona)<br/>
+Miglior Portiere| | ⭐ Martina Niosi<br/>
 
 
 # PARTITA:105
@@ -1267,13 +1257,13 @@ Data: 2019-08-17 23:20:00
 | | Cacao Meravigliao | Mai Una Gioia |
 |:-----:|-----|-----|
 Risultato|1|3
-Goals|⚽ Leonardo Stiz (Mio Nonno)|⚽ Carlo Stedile (Welcome To Paradise)<br/>
+Goals|⚽ Leonardo Stiz (Mio Nonno)|⚽ Carlo Stedile (Welcome To Paradise)
 Autogoals||⛔ Nadir Chtioui (Casablanca)<br/><br/>⛔ Thomas Cavagna (Gresta De Cunel)<br/>
 Falli|0|0
 Gialli||
 Rossi||
-Miglior Giocatore||
-Miglior Portiere|⭐ Jakub Lasko<br/>|⭐⭐ Thomas Debiasi (L'Organizzatore Di Eventi Bruti)<br/>
+Miglior Giocatore| | 
+Miglior Portiere| ⭐ Jakub Lasko<br/>| ⭐⭐ Thomas Debiasi (L'Organizzatore Di Eventi Bruti)<br/>
 
 
 # PARTITA:108
@@ -1284,13 +1274,13 @@ Data: 2019-08-17 23:00:00
 | | Fruit Ninja | La Carica Delle 02 |
 |:-----:|-----|-----|
 Risultato|1|6
-Goals|⚽ Manuela Perini (Callisto)|⚽⚽⚽⚽ Emma Tesini<br/><br/>⚽⚽ Elena Bordato<br/>
+Goals|⚽ Manuela Perini (Callisto)|⚽⚽⚽⚽ Emma Tesini<br/>⚽⚽ Elena Bordato
 Autogoals||
 Falli|0|1
 Gialli||
 Rossi||
-Miglior Giocatore||⭐⭐⭐ Emma Tesini<br/>
-Miglior Portiere||⭐⭐ Margherita Bottesi (Pe Williams)<br/>
+Miglior Giocatore| | ⭐⭐⭐ Emma Tesini<br/>
+Miglior Portiere| | ⭐⭐ Margherita Bottesi (Pe Williams)<br/>
 
 
 # PARTITA:109
@@ -1301,13 +1291,13 @@ Data: 2019-08-17 23:40:00
 | | Mai Un Limone | Porcahontas |
 |:-----:|-----|-----|
 Risultato|4|2
-Goals|⚽⚽⚽ Carlotta Pomarolli (La Predestinata)<br/>⚽ Laura Manconi (Skeletor the original)|⚽ Veronica Osele (Marion Johns)<br/><br/>⚽ Licia Fondriest (Anza)<br/>
+Goals|⚽⚽⚽ Carlotta Pomarolli (La Predestinata)<br/>⚽ Laura Manconi (Skeletor the original)|⚽ Veronica Osele (Marion Johns)<br/>⚽ Licia Fondriest (Anza)
 Autogoals||
 Falli|2|4
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Laura Manconi (Skeletor the original)<br/><br/>⭐⭐ Carlotta Pomarolli (La Predestinata)<br/>|
-Miglior Portiere|⭐ Francesca Sartori (Nastra Isolanta)<br/>|
+Miglior Giocatore| ⭐ Laura Manconi (Skeletor the original)<br/><br/>⭐⭐ Carlotta Pomarolli (La Predestinata)<br/>| 
+Miglior Portiere| ⭐ Francesca Sartori (Nastra Isolanta)<br/>| 
 
 
 # PARTITA:110
@@ -1318,13 +1308,13 @@ Data: 2019-08-18 10:00:00
 | | Shark Attack | Lizzanella'S Old Sughi |
 |:-----:|-----|-----|
 Risultato|3|1
-Goals|⚽⚽⚽ Mattia Baldessarini (L'Assassino Cerebrale)|⚽ Daniele Feltrinelli (La Transiberiana)<br/>
+Goals|⚽⚽⚽ Mattia Baldessarini (L'Assassino Cerebrale)|⚽ Daniele Feltrinelli (La Transiberiana)
 Autogoals||
 Falli|0|0
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐⭐ Mattia Baldessarini (L'Assassino Cerebrale)<br/>|
-Miglior Portiere|⭐⭐⭐ Alberto Cerisara (L'Uomo Che Ha Mangiato Justin Bieber)<br/>|
+Miglior Giocatore| ⭐⭐⭐ Mattia Baldessarini (L'Assassino Cerebrale)<br/>| 
+Miglior Portiere| ⭐⭐⭐ Alberto Cerisara (L'Uomo Che Ha Mangiato Justin Bieber)<br/>| 
 
 
 # PARTITA:111
@@ -1335,13 +1325,13 @@ Data: 2019-08-18 10:40:00
 | | Mediaser.T | Hellas Madonna |
 |:-----:|-----|-----|
 Risultato|4|2
-Goals|⚽⚽⚽ Leonardo Parisi (Il Fratello Di Ron Weasley)|⚽ Filippo Benetti<br/><br/>⚽ Jacopo Ricci<br/>
+Goals|⚽⚽⚽ Leonardo Parisi (Il Fratello Di Ron Weasley)|⚽ Filippo Benetti<br/>⚽ Jacopo Ricci
 Autogoals||
 Falli|5|4
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Leonardo Parisi (Il Fratello Di Ron Weasley)<br/>|⭐ Jacopo Ricci<br/>
-Miglior Portiere|⭐⭐ Stefano Pizzini<br/>|⭐ Raffaele Prezzi<br/>
+Miglior Giocatore| ⭐⭐ Leonardo Parisi (Il Fratello Di Ron Weasley)<br/>| ⭐ Jacopo Ricci<br/>
+Miglior Portiere| ⭐⭐ Stefano Pizzini<br/>| ⭐ Raffaele Prezzi<br/>
 
 
 # PARTITA:112
@@ -1352,13 +1342,13 @@ Data: 2019-08-18 11:00:00
 | | Avanzi | Buona La Merda |
 |:-----:|-----|-----|
 Risultato|4|2
-Goals|⚽⚽⚽ Lorenzo Barozzi (Il Tagliagole Canadese)<br/>⚽ Leonardo Viola (L'Uomo Informe 2.0)|⚽⚽ Daniele Feller<br/>
+Goals|⚽⚽⚽ Lorenzo Barozzi (Il Tagliagole Canadese)<br/>⚽ Leonardo Viola (L'Uomo Informe 2.0)|⚽⚽ Daniele Feller
 Autogoals||
 Falli|3|2
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐⭐ Lorenzo Barozzi (Il Tagliagole Canadese)<br/>|
-Miglior Portiere|⭐⭐ Michele Ruele (Ruy Misteryo)<br/>|
+Miglior Giocatore| ⭐⭐⭐ Lorenzo Barozzi (Il Tagliagole Canadese)<br/>| 
+Miglior Portiere| ⭐⭐ Michele Ruele (Ruy Misteryo)<br/>| 
 
 
 # PARTITA:113
@@ -1369,14 +1359,13 @@ Data: 2019-08-18 11:20:00
 | | Una Quarta In 4 | Quele Del '20. Ades |
 |:-----:|-----|-----|
 Risultato|4|2
-Goals|⚽⚽ Francesca Debiasi (David Gnomo)<br/>⚽⚽ Stefania Gazzini (Skeleton)|⚽⚽ Martina Francescatti<br/>
+Goals|⚽⚽ Francesca Debiasi (David Gnomo)<br/>⚽⚽ Stefania Gazzini (Skeleton)|⚽⚽ Martina Francescatti
 Autogoals||
 Falli|0|1
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Francesca Debiasi (David Gnomo)<br/><br/>⭐⭐ Stefania Gazzini (Skeleton)<br/>|
-Miglior Portiere|⭐ Valeria Paiola<br/>|⭐ Arianna Barozzi (Puccettina
-)<br/>
+Miglior Giocatore| ⭐ Francesca Debiasi (David Gnomo)<br/><br/>⭐⭐ Stefania Gazzini (Skeleton)<br/>| 
+Miglior Portiere| ⭐ Valeria Paiola<br/>| ⭐ Arianna Barozzi (Puccettina)<br/>
 
 
 # PARTITA:114
@@ -1387,13 +1376,13 @@ Data: 2019-08-18 12:00:00
 | | Fel Lazio | Pinguini Trentini |
 |:-----:|-----|-----|
 Risultato|1|6
-Goals|⚽ Mauro Prezzi (Il Sergente Di Via Al Cristo)|⚽⚽⚽⚽ Alessio Farinati (Proteina)<br/><br/>⚽ Yuri Andreolli<br/><br/>⚽ Davide Manica (Pala Eolica)<br/>
+Goals|⚽ Mauro Prezzi (Il Sergente Di Via Al Cristo)|⚽⚽⚽⚽ Alessio Farinati (Proteina)<br/>⚽ Yuri Andreolli<br/>⚽ Davide Manica (Pala Eolica)
 Autogoals||
 Falli|1|2
 Gialli||
 Rossi||
-Miglior Giocatore||⭐ Yuri Andreolli<br/><br/>⭐⭐ Alessio Farinati (Proteina)<br/>
-Miglior Portiere||
+Miglior Giocatore| | ⭐ Yuri Andreolli<br/><br/>⭐⭐ Alessio Farinati (Proteina)<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:115
@@ -1404,13 +1393,13 @@ Data: 2019-08-18 10:20:00
 | | Clitoriders | F.C. Julia |
 |:-----:|-----|-----|
 Risultato|9|2
-Goals|⚽⚽⚽⚽⚽ Luca Frasca (Delirium Tremens)<br/>⚽⚽ Michele Merighi (La Iena Ridens)<br/>⚽ Andrea Giordani (Orso Bruno)<br/>⚽ Stefano Galvagni (Mentadent)|⚽ Pietro Dallabernardina<br/><br/>⚽ Giovanni Zamboni (Nano Malefico)<br/>
+Goals|⚽⚽⚽⚽⚽ Luca Frasca (Delirium Tremens)<br/>⚽⚽ Michele Merighi (La Iena Ridens)<br/>⚽ Andrea Giordani (Orso Bruno)<br/>⚽ Stefano Galvagni (Mentadent)|⚽ Pietro Dallabernardina<br/>⚽ Giovanni Zamboni (Nano Malefico)
 Autogoals||
 Falli|3|3
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Luca Frasca (Delirium Tremens)<br/><br/>⭐ Michele Merighi (La Iena Ridens)<br/>|
-Miglior Portiere|⭐⭐ Stefano Tita (Giannizzero)<br/>|
+Miglior Giocatore| ⭐⭐ Luca Frasca (Delirium Tremens)<br/><br/>⭐ Michele Merighi (La Iena Ridens)<br/>| 
+Miglior Portiere| ⭐⭐ Stefano Tita (Giannizzero)<br/>| 
 
 
 # PARTITA:116
@@ -1421,13 +1410,13 @@ Data: 2019-08-18 11:40:00
 | | I Modium | S.S. Tecnica Pura |
 |:-----:|-----|-----|
 Risultato|4|3
-Goals|⚽ Luca Barozzi (Lupin)<br/>⚽ Edoardo Pomarolli (Il Bello Della Piof)<br/>⚽ Marco Sartorelli (Il Playboy Della Busa)|⚽⚽ Mirco Salvetti<br/><br/>⚽ Matteo Azzolini<br/>
+Goals|⚽ Luca Barozzi (Lupin)<br/>⚽ Edoardo Pomarolli (Il Bello Della Piof)<br/>⚽ Marco Sartorelli (Il Playboy Della Busa)|⚽⚽ Mirco Salvetti<br/>⚽ Matteo Azzolini
 Autogoals|⛔ Federico Pomarolli (Il Principe Guerriero)|
 Falli|1|4
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Marco Sartorelli (Il Playboy Della Busa)<br/>|⭐⭐ Mirco Salvetti<br/>
-Miglior Portiere|⭐ Riccardo Versini (La Pertica Dela Piof)<br/>|
+Miglior Giocatore| ⭐ Marco Sartorelli (Il Playboy Della Busa)<br/>| ⭐⭐ Mirco Salvetti<br/>
+Miglior Portiere| ⭐ Riccardo Versini (La Pertica Dela Piof)<br/>| 
 
 
 # PARTITA:117
@@ -1438,13 +1427,13 @@ Data: 2019-08-18 12:20:00
 | | F.C. Savignano | I Montagna |
 |:-----:|-----|-----|
 Risultato|0|3
-Goals||⚽⚽ Andrea Pedrotti<br/><br/>⚽ Marco Sala (Cane Rognoso)<br/>
+Goals||⚽⚽ Andrea Pedrotti<br/>⚽ Marco Sala (Cane Rognoso)
 Autogoals||
 Falli|1|3
 Gialli||
 Rossi||
-Miglior Giocatore||⭐⭐ Andrea Pedrotti<br/><br/>⭐ Marco Sala (Cane Rognoso)<br/>
-Miglior Portiere||⭐⭐ Daniele Dalbosco<br/>
+Miglior Giocatore| | ⭐⭐ Andrea Pedrotti<br/><br/>⭐ Marco Sala (Cane Rognoso)<br/>
+Miglior Portiere| | ⭐⭐ Daniele Dalbosco<br/>
 
 
 # PARTITA:118
@@ -1455,13 +1444,13 @@ Data: 2019-08-18 14:40:00
 | | Mai Una Gioia | Avanzi |
 |:-----:|-----|-----|
 Risultato|5|4
-Goals|⚽ Carlo Stedile (Welcome To Paradise)<br/>⚽ Nadir Chtioui (Casablanca)|⚽⚽ Leonardo Viola (L'Uomo Informe 2.0)<br/><br/>⚽ Matteo Manconi (Mancuso)<br/>
+Goals|⚽ Carlo Stedile (Welcome To Paradise)<br/>⚽ Nadir Chtioui (Casablanca)|⚽⚽ Leonardo Viola (L'Uomo Informe 2.0)<br/>⚽ Matteo Manconi (Mancuso)
 Autogoals|⛔ Nadir Chtioui (Casablanca)<br/>⛔ Thomas Cavagna (Gresta De Cunel)|⛔ Leonardo Viola (L'Uomo Informe 2.0)<br/>
 Falli|2|2
 Gialli||
 Rossi||
-Miglior Giocatore||⭐⭐ Leonardo Viola (L'Uomo Informe 2.0)<br/>
-Miglior Portiere|⭐ Thomas Debiasi (L'Organizzatore Di Eventi Bruti)<br/>|⭐⭐ Michele Ruele (Ruy Misteryo)<br/>
+Miglior Giocatore| | ⭐⭐ Leonardo Viola (L'Uomo Informe 2.0)<br/>
+Miglior Portiere| ⭐ Thomas Debiasi (L'Organizzatore Di Eventi Bruti)<br/>| ⭐⭐ Michele Ruele (Ruy Misteryo)<br/>
 
 
 # PARTITA:119
@@ -1472,13 +1461,13 @@ Data: 2019-08-18 15:10:00
 | | Shark Attack | I Montagna |
 |:-----:|-----|-----|
 Risultato|4|5
-Goals|⚽⚽ Mattia Baldessarini (L'Assassino Cerebrale)<br/>⚽ Mattia Festi (Plastic Man)<br/>⚽ Riccardo Saccani (Rosso Malpelo)|⚽⚽ Marco Sala (Cane Rognoso)<br/><br/>⚽⚽ Federico Andreis (Bel Ragazzo)<br/><br/>⚽ Daniele Dalbosco<br/>
+Goals|⚽⚽ Mattia Baldessarini (L'Assassino Cerebrale)<br/>⚽ Mattia Festi (Plastic Man)<br/>⚽ Riccardo Saccani (Rosso Malpelo)|⚽⚽ Marco Sala (Cane Rognoso)<br/>⚽⚽ Federico Andreis (Bel Ragazzo)<br/>⚽ Daniele Dalbosco
 Autogoals||
 Falli|1|0
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Mattia Baldessarini (L'Assassino Cerebrale)<br/>|⭐ Marco Sala (Cane Rognoso)<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐⭐ Mattia Baldessarini (L'Assassino Cerebrale)<br/>| ⭐ Marco Sala (Cane Rognoso)<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:120
@@ -1494,8 +1483,8 @@ Autogoals||
 Falli|2|2
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Luca Barozzi (Lupin)<br/>|
-Miglior Portiere|⭐ Andrea Bertolini<br/>|⭐⭐ Leonardo Ceschini (Pan Bauletto)<br/>
+Miglior Giocatore| ⭐⭐ Luca Barozzi (Lupin)<br/>| 
+Miglior Portiere| ⭐ Andrea Bertolini<br/>| ⭐⭐ Leonardo Ceschini (Pan Bauletto)<br/>
 
 
 # PARTITA:121
@@ -1506,13 +1495,13 @@ Data: 2019-08-18 16:10:00
 | | Clitoriders | Mediaser.T |
 |:-----:|-----|-----|
 Risultato|6|4
-Goals|⚽⚽⚽⚽ Michele Merighi (La Iena Ridens)<br/>⚽ Luca Frasca (Delirium Tremens)<br/>⚽ Stefano Galvagni (Mentadent)|⚽⚽⚽ Leonardo Parisi (Il Fratello Di Ron Weasley)<br/><br/>⚽ Andrea Anzelini<br/>
+Goals|⚽⚽⚽⚽ Michele Merighi (La Iena Ridens)<br/>⚽ Luca Frasca (Delirium Tremens)<br/>⚽ Stefano Galvagni (Mentadent)|⚽⚽⚽ Leonardo Parisi (Il Fratello Di Ron Weasley)<br/>⚽ Andrea Anzelini
 Autogoals||
 Falli|2|1
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐⭐ Michele Merighi (La Iena Ridens)<br/>|
-Miglior Portiere||⭐⭐ Stefano Pizzini<br/>
+Miglior Giocatore| ⭐⭐⭐ Michele Merighi (La Iena Ridens)<br/>| 
+Miglior Portiere| | ⭐⭐ Stefano Pizzini<br/>
 
 
 # PARTITA:122
@@ -1523,14 +1512,13 @@ Data: 2019-08-18 16:30:00
 | | Pink Ladies | Le Gretine |
 |:-----:|-----|-----|
 Risultato|2|5
-Goals|⚽ Alessandra Zampol (Vileda
-)<br/>⚽ Elisa Moratelli|⚽⚽⚽⚽ Claudia Manzana (La Bolscevica)<br/><br/>⚽ Federica Bertolli (Ectoplasma)<br/>
+Goals|⚽ Alessandra Zampol (Vileda)<br/>⚽ Elisa Moratelli|⚽⚽⚽⚽ Claudia Manzana (La Bolscevica)<br/>⚽ Federica Bertolli (Ectoplasma)
 Autogoals||
 Falli|0|1
 Gialli||
 Rossi||
-Miglior Giocatore||⭐⭐ Claudia Manzana (La Bolscevica)<br/>
-Miglior Portiere||
+Miglior Giocatore| | ⭐⭐ Claudia Manzana (La Bolscevica)<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:123
@@ -1541,13 +1529,13 @@ Data: 2019-08-18 16:50:00
 | | Le Sughe | Doppie Solo Due |
 |:-----:|-----|-----|
 Risultato|2|6
-Goals|⚽ Anna Rigo|⚽⚽⚽⚽⚽ Manuela Montermini<br/>
+Goals|⚽ Anna Rigo|⚽⚽⚽⚽⚽ Manuela Montermini
 Autogoals||
 Falli|0|1
 Gialli||
 Rossi||
-Miglior Giocatore||⭐⭐ Manuela Montermini<br/>
-Miglior Portiere||
+Miglior Giocatore| | ⭐⭐ Manuela Montermini<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:124
@@ -1558,13 +1546,13 @@ Data: 2019-08-18 17:10:00
 | | Le Osce | Up-Pero' |
 |:-----:|-----|-----|
 Risultato|1|5
-Goals|⚽ Beatrice Veronelli (Santamonica)|⚽⚽ Rachele Gugole (Pannocchia)<br/><br/>⚽⚽ Matilde Gugole (Asfidanken)<br/><br/>⚽ Serena Sega (Topa da Biblioteca)<br/>
+Goals|⚽ Beatrice Veronelli (Santamonica)|⚽⚽ Rachele Gugole (Pannocchia)<br/>⚽⚽ Matilde Gugole (Asfidanken)<br/>⚽ Serena Sega (Topa da Biblioteca)
 Autogoals||
 Falli|0|0
 Gialli||
 Rossi||
-Miglior Giocatore||⭐ Matilde Gugole (Asfidanken)<br/><br/>⭐ Rachele Gugole (Pannocchia)<br/>
-Miglior Portiere||
+Miglior Giocatore| | ⭐ Matilde Gugole (Asfidanken)<br/><br/>⭐ Rachele Gugole (Pannocchia)<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:125
@@ -1575,13 +1563,13 @@ Data: 2019-08-18 17:30:00
 | | Plus Ultra | Tigri Intigra Tighi |
 |:-----:|-----|-----|
 Risultato|2|1
-Goals|⚽ Erika Ricci (Erikacollakappa)<br/>⚽ Carolina Zendri (Maestrale D'Inverno)|⚽ Valentina Perghem<br/>
+Goals|⚽ Erika Ricci (Erikacollakappa)<br/>⚽ Carolina Zendri (Maestrale D'Inverno)|⚽ Valentina Perghem
 Autogoals||
 Falli|1|2
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Carolina Zendri (Maestrale D'Inverno)<br/>|⭐ Valentina Perghem<br/>
-Miglior Portiere|⭐⭐⭐ Aurora Cavalieri<br/>|
+Miglior Giocatore| ⭐⭐ Carolina Zendri (Maestrale D'Inverno)<br/>| ⭐ Valentina Perghem<br/>
+Miglior Portiere| ⭐⭐⭐ Aurora Cavalieri<br/>| 
 
 
 # PARTITA:126
@@ -1592,13 +1580,13 @@ Data: 2019-08-18 18:00:00
 | | La Carica Delle 02 | Dinamo Nada |
 |:-----:|-----|-----|
 Risultato|2|6
-Goals|⚽ Emma Tesini<br/>⚽ Marianna Bruschetti (La Assessora)|⚽⚽⚽ Sara Consolati (Colonne D'Ercole)<br/><br/>⚽ Margherita Planchestainer (Mamma Di Bambi)<br/><br/>⚽ Maira Bertolini<br/><br/>⚽ Irene Tovazzi (La Marmelona)<br/>
+Goals|⚽ Emma Tesini<br/>⚽ Marianna Bruschetti (La Assessora)|⚽⚽⚽ Sara Consolati (Colonne D'Ercole)<br/>⚽ Margherita Planchestainer (Mamma Di Bambi)<br/>⚽ Maira Bertolini<br/>⚽ Irene Tovazzi (La Marmelona)
 Autogoals||
 Falli|3|2
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Emma Tesini<br/>|⭐ Irene Tovazzi (La Marmelona)<br/>
-Miglior Portiere|⭐⭐⭐ Margherita Bottesi (Pe Williams)<br/>|
+Miglior Giocatore| ⭐⭐ Emma Tesini<br/>| ⭐ Irene Tovazzi (La Marmelona)<br/>
+Miglior Portiere| ⭐⭐⭐ Margherita Bottesi (Pe Williams)<br/>| 
 
 
 # PARTITA:127
@@ -1609,13 +1597,13 @@ Data: 2019-08-18 19:30:00
 | | Una Quarta In 4 | Mai Un Limone |
 |:-----:|-----|-----|
 Risultato|1|5
-Goals|⚽ Stefania Gazzini (Skeleton)|⚽⚽ Laura Manconi (Skeletor the original)<br/><br/>⚽⚽ Carlotta Pomarolli (La Predestinata)<br/><br/>⚽ Chiara Deimichei<br/>
+Goals|⚽ Stefania Gazzini (Skeleton)|⚽⚽ Laura Manconi (Skeletor the original)<br/>⚽⚽ Carlotta Pomarolli (La Predestinata)<br/>⚽ Chiara Deimichei
 Autogoals||
 Falli|0|1
 Gialli||
 Rossi||
-Miglior Giocatore||⭐ Laura Manconi (Skeletor the original)<br/><br/>⭐⭐ Carlotta Pomarolli (La Predestinata)<br/>
-Miglior Portiere|⭐ Valeria Paiola<br/>|⭐⭐ Francesca Sartori (Nastra Isolanta)<br/>
+Miglior Giocatore| | ⭐ Laura Manconi (Skeletor the original)<br/><br/>⭐⭐ Carlotta Pomarolli (La Predestinata)<br/>
+Miglior Portiere| ⭐ Valeria Paiola<br/>| ⭐⭐ Francesca Sartori (Nastra Isolanta)<br/>
 
 
 # PARTITA:128
@@ -1626,13 +1614,13 @@ Data: 2019-08-18 18:30:00
 | | Mai Una Gioia | Clitoriders |
 |:-----:|-----|-----|
 Risultato|3|1
-Goals|⚽⚽ Carlo Stedile (Welcome To Paradise)|⚽ Luca Frasca (Delirium Tremens)<br/>
+Goals|⚽⚽ Carlo Stedile (Welcome To Paradise)|⚽ Luca Frasca (Delirium Tremens)
 Autogoals||
 Falli|4|1
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐⭐ Carlo Stedile (Welcome To Paradise)<br/>|
-Miglior Portiere|⭐⭐ Thomas Debiasi (L'Organizzatore Di Eventi Bruti)<br/>|
+Miglior Giocatore| ⭐⭐⭐ Carlo Stedile (Welcome To Paradise)<br/>| 
+Miglior Portiere| ⭐⭐ Thomas Debiasi (L'Organizzatore Di Eventi Bruti)<br/>| 
 
 
 # PARTITA:129
@@ -1643,13 +1631,13 @@ Data: 2019-08-18 19:00:00
 | | I Montagna | I Modium |
 |:-----:|-----|-----|
 Risultato|3|4
-Goals|⚽ Federico Andreis (Bel Ragazzo)<br/>⚽ Marco Sala (Cane Rognoso)|⚽⚽ Marco Sartorelli (Il Playboy Della Busa)<br/>
+Goals|⚽ Federico Andreis (Bel Ragazzo)<br/>⚽ Marco Sala (Cane Rognoso)|⚽⚽ Marco Sartorelli (Il Playboy Della Busa)
 Autogoals|⛔ Marco Sala (Cane Rognoso)|⛔ Andrea Bertolini<br/><br/>⛔ Edoardo Pomarolli (Il Bello Della Piof)<br/>
 Falli|3|3
 Gialli|Federico Andreis (Bel Ragazzo)<br/>Francesco Russo (Il Falso Balcanico)|
 Rossi||
-Miglior Giocatore||⭐ Luca Barozzi (Lupin)<br/><br/>⭐⭐ Marco Sartorelli (Il Playboy Della Busa)<br/>
-Miglior Portiere|⭐ Daniele Dalbosco<br/>|⭐⭐ Riccardo Versini (La Pertica Dela Piof)<br/>
+Miglior Giocatore| | ⭐ Luca Barozzi (Lupin)<br/><br/>⭐⭐ Marco Sartorelli (Il Playboy Della Busa)<br/>
+Miglior Portiere| ⭐ Daniele Dalbosco<br/>| ⭐⭐ Riccardo Versini (La Pertica Dela Piof)<br/>
 
 
 # PARTITA:130
@@ -1660,13 +1648,13 @@ Data: 2019-08-18 21:00:00
 | | Clitoriders | I Montagna |
 |:-----:|-----|-----|
 Risultato|9|6
-Goals|⚽⚽⚽⚽ Michele Merighi (La Iena Ridens)<br/>⚽⚽⚽ Luca Frasca (Delirium Tremens)<br/>⚽ Andrea Giordani (Orso Bruno)|⚽⚽⚽ Marco Sala (Cane Rognoso)<br/><br/>⚽⚽ Federico Andreis (Bel Ragazzo)<br/>
+Goals|⚽⚽⚽⚽ Michele Merighi (La Iena Ridens)<br/>⚽⚽⚽ Luca Frasca (Delirium Tremens)<br/>⚽ Andrea Giordani (Orso Bruno)|⚽⚽⚽ Marco Sala (Cane Rognoso)<br/>⚽⚽ Federico Andreis (Bel Ragazzo)
 Autogoals||
 Falli|0|1
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Luca Frasca (Delirium Tremens)<br/>|⭐⭐ Federico Andreis (Bel Ragazzo)<br/>
-Miglior Portiere||
+Miglior Giocatore| ⭐ Luca Frasca (Delirium Tremens)<br/>| ⭐⭐ Federico Andreis (Bel Ragazzo)<br/>
+Miglior Portiere| | 
 
 
 # PARTITA:131
@@ -1677,13 +1665,13 @@ Data: 2019-08-18 22:00:00
 | | I Modium | Mai Una Gioia |
 |:-----:|-----|-----|
 Risultato|2|3
-Goals|⚽ Luca Barozzi (Lupin)<br/>⚽ Federico Pomarolli (Il Principe Guerriero)|⚽⚽ Giacomo Gasparini<br/><br/>⚽ Carlo Stedile (Welcome To Paradise)<br/>
+Goals|⚽ Luca Barozzi (Lupin)<br/>⚽ Federico Pomarolli (Il Principe Guerriero)|⚽⚽ Giacomo Gasparini<br/>⚽ Carlo Stedile (Welcome To Paradise)
 Autogoals||
 Falli|5|2
 Gialli||
 Rossi||
-Miglior Giocatore||⭐ Giacomo Gasparini<br/><br/>⭐⭐ Carlo Stedile (Welcome To Paradise)<br/>
-Miglior Portiere||⭐⭐ Thomas Debiasi (L'Organizzatore Di Eventi Bruti)<br/>
+Miglior Giocatore| | ⭐ Giacomo Gasparini<br/><br/>⭐⭐ Carlo Stedile (Welcome To Paradise)<br/>
+Miglior Portiere| | ⭐⭐ Thomas Debiasi (L'Organizzatore Di Eventi Bruti)<br/>
 
 
 # PARTITA:135
@@ -1694,13 +1682,13 @@ Data: 2019-08-18 20:30:00
 | | La Carica Delle 02 | Una Quarta In 4 |
 |:-----:|-----|-----|
 Risultato|2|3
-Goals|⚽ Emma Tesini|⚽ Francesca Debiasi (David Gnomo)<br/>
+Goals|⚽ Emma Tesini|⚽ Francesca Debiasi (David Gnomo)
 Autogoals|⛔ Elena Bordato|⛔ Stefania Gazzini (Skeleton)<br/><br/>⛔ Nicol Filippi (Capitale Umano)<br/>
 Falli|1|2
 Gialli||
 Rossi||
-Miglior Giocatore|⭐⭐ Emma Tesini<br/>|⭐ Stefania Gazzini (Skeleton)<br/>
-Miglior Portiere|⭐⭐ Margherita Bottesi (Pe Williams)<br/>|⭐ Valeria Paiola<br/>
+Miglior Giocatore| ⭐⭐ Emma Tesini<br/>| ⭐ Stefania Gazzini (Skeleton)<br/>
+Miglior Portiere| ⭐⭐ Margherita Bottesi (Pe Williams)<br/>| ⭐ Valeria Paiola<br/>
 
 
 # PARTITA:136
@@ -1711,10 +1699,10 @@ Data: 2019-08-18 21:30:00
 | | Mai Un Limone | Dinamo Nada |
 |:-----:|-----|-----|
 Risultato|4|5
-Goals|⚽⚽ Laura Manconi (Skeletor the original)<br/>⚽ Carlotta Pomarolli (La Predestinata)|⚽⚽ Sara Consolati (Colonne D'Ercole)<br/><br/>⚽ Irene Tovazzi (La Marmelona)<br/>
+Goals|⚽⚽ Laura Manconi (Skeletor the original)<br/>⚽ Carlotta Pomarolli (La Predestinata)|⚽⚽ Sara Consolati (Colonne D'Ercole)<br/>⚽ Irene Tovazzi (La Marmelona)
 Autogoals|⛔ Laura Manconi (Skeletor the original)|⛔ Margherita Planchestainer (Mamma Di Bambi)<br/><br/>⛔ Sara Consolati (Colonne D'Ercole)<br/>
 Falli|1|4
 Gialli||
 Rossi||
-Miglior Giocatore|⭐ Laura Manconi (Skeletor the original)<br/><br/>⭐ Carlotta Pomarolli (La Predestinata)<br/>|⭐ Irene Tovazzi (La Marmelona)<br/>
-Miglior Portiere|⭐ Francesca Sartori (Nastra Isolanta)<br/>|⭐ Martina Niosi<br/>
+Miglior Giocatore| ⭐ Laura Manconi (Skeletor the original)<br/><br/>⭐ Carlotta Pomarolli (La Predestinata)<br/>| ⭐ Irene Tovazzi (La Marmelona)<br/>
+Miglior Portiere| ⭐ Francesca Sartori (Nastra Isolanta)<br/>| ⭐ Martina Niosi<br/>
