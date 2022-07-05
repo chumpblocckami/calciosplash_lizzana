@@ -54,7 +54,7 @@ def render_calciosplash(anno):
                 f"permalink: /partite/{anno}/", "---"]
     dettagli.append(f"\nQui puoi trovare tutte le partite del {anno}")
     for index, document in tqdm(data[f"torneo_{anno}"].items(), desc=f"Rendering torneo {anno}"):
-        try:
+        #try:
             link = f"[Info](/calciosplash_lizzana/partite/{anno}/#partita{index})"  # f"[Info](/calciosplash_lizzana/torneo/{anno}#{index})"
             genere = "🍻" if document["genere_gironi"] == 1 else "🍸"
             row = [index, document["gironi"], f"{document['data'] if 'data' in document else dt.datetime.now()}",
@@ -63,8 +63,8 @@ def render_calciosplash(anno):
             markdown.append("| ".join([str(x) for x in row]))
             # if anno == 2019 or anno == 2018:
             dettagli.append(make_dettagli(index, document))
-        except Exception as e:
-            print(e)
+        #except Exception as e:
+        #    print(e)
 
     results = "\n".join(markdown)
     with open(f"./../tornei/{anno}.markdown", "w", encoding="utf-8") as file:

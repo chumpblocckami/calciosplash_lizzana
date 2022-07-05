@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-05 12:10:54.580477
+date: 2022-07-05 12:32:39.308182
 categories: torneo
 permalink: /torneo/2021/
 ---
@@ -37,7 +37,7 @@ permalink: /torneo/2021/
 28| | 2021-08-10 19:20:00| Modium - Clitoriders| 1 - 2| 🍻| [Info](/calciosplash_lizzana/partite/2021/#partita28)
 29| | 2021-08-10 19:40:00| Fc Savignano - I Montagna| 1 - 4| 🍻| [Info](/calciosplash_lizzana/partite/2021/#partita29)
 30| | 2021-08-10 21:00:00| Green Passere - Four Taie| 0 - 2| 🍸| [Info](/calciosplash_lizzana/partite/2021/#partita30)
-31| Semifinale| 2021-08-10 21:20:00| I Montagna - Clitoriders| 1 - 2| 🍸| [Info](/calciosplash_lizzana/partite/2021/#partita31)
+31| | 2021-08-10 21:20:00| I Montagna - Clitoriders| 1 - 2| 🍸| [Info](/calciosplash_lizzana/partite/2021/#partita31)
 32| Finale 3/4| 2021-08-10 21:40:00| Al Volo - Green Passere| 4 - 3| 🍸| [Info](/calciosplash_lizzana/partite/2021/#partita32)
 33| Finale 3/4| 2021-08-10 22:00:00| I Montagna - Pinguini Trentini| 1 - 1| 🍸| [Info](/calciosplash_lizzana/partite/2021/#partita33)
 34| Finalissima| 2021-08-10 22:30:00| Al Volo - Four Taie| 5 - 2| 🍸| [Info](/calciosplash_lizzana/partite/2021/#partita34)

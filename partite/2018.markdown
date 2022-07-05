@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-05 12:10:54.627357
+date: 2022-07-05 12:32:39.370643
 categories: partite
 permalink: /partite/2018/
 ---

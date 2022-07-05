@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-05 12:10:54.580477
+date: 2022-07-05 12:32:39.308182
 categories: partite
 permalink: /partite/2021/
 ---
@@ -40,7 +40,7 @@ Risultato|2|2
 Goals|⚽ Parisi Leonardo<br/>⚽ Raffaelli Davide|⚽ Todeschi Leonardo<br/>⚽ Giovanella Matteo
 Autogoals||
 Falli||1
-Gialli|Feller Daniele|
+Gialli||Feller Daniele
 Rossi||
 Miglior Giocatore| ⭐ Raffaelli Davide<br/>| ⭐⭐ Tasini Tiziano<br/>
 Miglior Portiere| | 
@@ -407,6 +407,25 @@ Miglior Giocatore| ⭐⭐ Barozzi Luca<br/>|
 Miglior Portiere| | 
 
 
+# PARTITA:21
+**Girone**: 
+
+Data: 2021-08-10 17:00:00
+
+Note: 
+
+| | O Sol E Nott | Clitoriders |
+|:-----:|-----|-----|
+Risultato|0|2
+Goals||⚽⚽ Galvagni Stefano
+Autogoals||
+Falli||2
+Gialli||
+Rossi||
+Miglior Giocatore| | ⭐⭐⭐ Galvagni Stefano<br/>
+Miglior Portiere| | 
+
+
 # PARTITA:22
 **Girone**: 
 
@@ -579,7 +598,7 @@ Miglior Portiere| |
 
 
 # PARTITA:31
-**Girone**: Semifinale
+**Girone**: 
 
 Data: 2021-08-10 21:20:00
 
@@ -594,6 +613,25 @@ Falli|1|1
 Gialli||
 Rossi||
 Miglior Giocatore| ⭐ Giordani Federico<br/>| ⭐⭐ Frasca Luca<br/>
+Miglior Portiere| | 
+
+
+# PARTITA:32
+**Girone**: Finale 3/4
+
+Data: 2021-08-10 21:40:00
+
+Note: 
+
+| | Al Volo | Green Passere |
+|:-----:|-----|-----|
+Risultato|4|3
+Goals|⚽⚽ Prosperi Laura<br/>⚽⚽ Scrinzi Giulia|⚽ Zanelli Elisa<br/>⚽ Dal Ri Marzia<br/>⚽ Manzana Claudia
+Autogoals||
+Falli|1|1
+Gialli||
+Rossi||
+Miglior Giocatore| ⭐ Prosperi Laura<br/>| 
 Miglior Portiere| | 
 
 
