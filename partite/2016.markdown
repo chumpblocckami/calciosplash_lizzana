@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 17:19:03.861368
+date: 2022-07-05 12:10:54.649488
 categories: partite
 permalink: /partite/2016/
 ---
@@ -12,6 +12,8 @@ Qui puoi trovare tutte le partite del 2016
 **Girone**: Cavroni
 
 Data: 2016-08-11 17:00:00
+
+Note: 
 
 | | S.C. Alda Fregna | Mai Una Gioia |
 |:-----:|-----|-----|
@@ -30,6 +32,8 @@ Miglior Portiere| |
 
 Data: 2016-08-11 17:20:00
 
+Note: 
+
 | | Pinguini Trentini | Caffè Grazia |
 |:-----:|-----|-----|
 Risultato|4|1
@@ -46,6 +50,8 @@ Miglior Portiere| |
 **Girone**: Pojane
 
 Data: 2016-08-11 17:40:00
+
+Note: 
 
 | | ...tutti per una | Le Par Sgherle |
 |:-----:|-----|-----|
@@ -64,6 +70,8 @@ Miglior Portiere| |
 
 Data: 2016-08-11 18:00:00
 
+Note: 
+
 | | I Fatti del Giorno | Nocera Inferiore Vive |
 |:-----:|-----|-----|
 Risultato|0|6
@@ -80,6 +88,8 @@ Miglior Portiere| |
 **Girone**: Usei
 
 Data: 2016-08-11 18:20:00
+
+Note: 
 
 | | I Svergoi | Pokemonae |
 |:-----:|-----|-----|
@@ -98,6 +108,8 @@ Miglior Portiere| |
 
 Data: 2016-08-11 18:40:00
 
+Note: 
+
 | | Le Amiche di Città Laggiù | Una per tutti... |
 |:-----:|-----|-----|
 Risultato|0|6
@@ -114,6 +126,8 @@ Miglior Portiere| |
 **Girone**: Cavai
 
 Data: 2016-08-11 19:00:00
+
+Note: 
 
 | | Clandes Team | Babarum |
 |:-----:|-----|-----|
@@ -132,6 +146,8 @@ Miglior Portiere| |
 
 Data: 2016-08-11 19:20:00
 
+Note: 
+
 | | Fel Lazio 2.0 | I Montagna |
 |:-----:|-----|-----|
 Risultato|1|2
@@ -148,6 +164,8 @@ Miglior Portiere| |
 **Girone**: Zorzi
 
 Data: 2016-08-11 19:40:00
+
+Note: 
 
 | | Pinguini Trentini | Atletico Madrink |
 |:-----:|-----|-----|
@@ -166,6 +184,8 @@ Miglior Portiere| |
 
 Data: 2016-08-11 20:40:00
 
+Note: 
+
 | | I Pini | No Name |
 |:-----:|-----|-----|
 Risultato|2|3
@@ -182,6 +202,8 @@ Miglior Portiere| |
 **Girone**: Pantegane
 
 Data: 2016-08-11 21:00:00
+
+Note: 
 
 | | JLA: Justice League of Aperitiv | Le Scarsele |
 |:-----:|-----|-----|
@@ -200,6 +222,8 @@ Miglior Portiere| |
 
 Data: 2016-08-11 21:20:00
 
+Note: 
+
 | | S.C. Alda Fregna | Sbocca Juniors |
 |:-----:|-----|-----|
 Risultato|8|0
@@ -216,6 +240,8 @@ Miglior Portiere| |
 **Girone**: Pegore
 
 Data: 2016-08-11 21:40:00
+
+Note: 
 
 | | Bionde! Punto | Baby Nerz |
 |:-----:|-----|-----|
@@ -234,6 +260,8 @@ Miglior Portiere| |
 
 Data: 2016-08-11 22:00:00
 
+Note: 
+
 | | Malmö Stoss | Nocera Inferiore Vive |
 |:-----:|-----|-----|
 Risultato|4|1
@@ -250,6 +278,8 @@ Miglior Portiere| |
 **Girone**: Pojane
 
 Data: 2016-08-11 22:20:00
+
+Note: 
 
 | | Una Quarta in 4 | Le Lavandaie |
 |:-----:|-----|-----|
@@ -268,6 +298,8 @@ Miglior Portiere| |
 
 Data: 2016-08-11 22:40:00
 
+Note: 
+
 | | Shark Attak | Mai Una Gioia |
 |:-----:|-----|-----|
 Risultato|3|2
@@ -284,6 +316,8 @@ Miglior Portiere| |
 **Girone**: Cavai
 
 Data: 2016-08-11 23:00:00
+
+Note: 
 
 | | Cacao Meravigliao | Titslovers |
 |:-----:|-----|-----|
@@ -302,6 +336,8 @@ Miglior Portiere| |
 
 Data: 2016-08-11 23:20:00
 
+Note: 
+
 | | Pokemonae | F.C. Judica |
 |:-----:|-----|-----|
 Risultato|0|3
@@ -318,6 +354,8 @@ Miglior Portiere| |
 **Girone**: Pegore
 
 Data: 2016-08-12 17:00:00
+
+Note: 
 
 | | Bionde! Punto | Arcoiris |
 |:-----:|-----|-----|
@@ -336,6 +374,8 @@ Miglior Portiere| |
 
 Data: 2016-08-12 17:20:00
 
+Note: 
+
 | | I Fatti del Giorno | F.C. Savignano |
 |:-----:|-----|-----|
 Risultato|3|5
@@ -352,6 +392,8 @@ Miglior Portiere| |
 **Girone**: Ruganti
 
 Data: 2016-08-12 17:40:00
+
+Note: 
 
 | | Esperimento 626 | I Montagna |
 |:-----:|-----|-----|
@@ -370,6 +412,8 @@ Miglior Portiere| |
 
 Data: 2016-08-12 18:00:00
 
+Note: 
+
 | | Mai Una Gioia | Sbocca Juniors |
 |:-----:|-----|-----|
 Risultato|15|0
@@ -386,6 +430,8 @@ Miglior Portiere| |
 **Girone**: Usei
 
 Data: 2016-08-12 18:20:00
+
+Note: 
 
 | | Ematoma | I Svergoi |
 |:-----:|-----|-----|
@@ -404,6 +450,8 @@ Miglior Portiere| |
 
 Data: 2016-08-12 18:40:00
 
+Note: 
+
 | | ...tutti per una | Le Lavandaie |
 |:-----:|-----|-----|
 Risultato|8|1
@@ -420,6 +468,8 @@ Miglior Portiere| |
 **Girone**: Mussi
 
 Data: 2016-08-12 19:00:00
+
+Note: 
 
 | | F.C. Julia | I Pini |
 |:-----:|-----|-----|
@@ -438,6 +488,8 @@ Miglior Portiere| |
 
 Data: 2016-08-12 19:20:00
 
+Note: 
+
 | | Una Quarta in 4 | Le Par Sgherle |
 |:-----:|-----|-----|
 Risultato|6|0
@@ -454,6 +506,8 @@ Miglior Portiere| |
 **Girone**: Cunei
 
 Data: 2016-08-12 19:40:00
+
+Note: 
 
 | | Dinkel Team | Lizzanella's Old Sughi |
 |:-----:|-----|-----|
@@ -472,6 +526,8 @@ Miglior Portiere| |
 
 Data: 2016-08-12 20:00:00
 
+Note: 
+
 | | Malmö Stoss | F.C. Savignano |
 |:-----:|-----|-----|
 Risultato|0|6
@@ -488,6 +544,8 @@ Miglior Portiere| |
 **Girone**: Cavai
 
 Data: 2016-08-12 20:40:00
+
+Note: 
 
 | | Titslovers | Babarum |
 |:-----:|-----|-----|
@@ -506,6 +564,8 @@ Miglior Portiere| |
 
 Data: 2016-08-12 21:00:00
 
+Note: 
+
 | | JLA: Justice League of Aperitiv | Le Amiche di Città Laggiù |
 |:-----:|-----|-----|
 Risultato|6|1
@@ -522,6 +582,8 @@ Miglior Portiere| |
 **Girone**: Cunei
 
 Data: 2016-08-12 21:20:00
+
+Note: 
 
 | | Lizzanella's Old Sughi | Panze da Bira |
 |:-----:|-----|-----|
@@ -540,6 +602,8 @@ Miglior Portiere| |
 
 Data: 2016-08-12 21:40:00
 
+Note: 
+
 | | Una per tutti... | Le Scarsele |
 |:-----:|-----|-----|
 Risultato|2|2
@@ -556,6 +620,8 @@ Miglior Portiere| |
 **Girone**: Zorzi
 
 Data: 2016-08-12 22:00:00
+
+Note: 
 
 | | Clitoriders | Caffè Grazia |
 |:-----:|-----|-----|
@@ -574,6 +640,8 @@ Miglior Portiere| |
 
 Data: 2016-08-12 22:20:00
 
+Note: 
+
 | | Tigre Intigra Tigre | Mary Pompins |
 |:-----:|-----|-----|
 Risultato|2|1
@@ -590,6 +658,8 @@ Miglior Portiere| |
 **Girone**: Cunei
 
 Data: 2016-08-12 22:40:00
+
+Note: 
 
 | | Dinkel Team | Filfs & Co. |
 |:-----:|-----|-----|
@@ -608,6 +678,8 @@ Miglior Portiere| |
 
 Data: 2016-08-12 23:00:00
 
+Note: 
+
 | | Modium | I Montagna |
 |:-----:|-----|-----|
 Risultato|6|1
@@ -624,6 +696,8 @@ Miglior Portiere| |
 **Girone**: Cavai
 
 Data: 2016-08-12 23:20:00
+
+Note: 
 
 | | Cacao Meravigliao | Babarum |
 |:-----:|-----|-----|
@@ -642,6 +716,8 @@ Miglior Portiere| |
 
 Data: 2016-08-12 23:40:00
 
+Note: 
+
 | | Montenegro City Ramblers | No Name |
 |:-----:|-----|-----|
 Risultato|1|3
@@ -658,6 +734,8 @@ Miglior Portiere| |
 **Girone**: Cavai
 
 Data: 2016-08-13 10:00:00
+
+Note: 
 
 | | Titslovers | Clandes Team |
 |:-----:|-----|-----|
@@ -676,6 +754,8 @@ Miglior Portiere| |
 
 Data: 2016-08-13 10:20:00
 
+Note: 
+
 | | Tigre Intigra Tigre | Atletic(he) Al Bar |
 |:-----:|-----|-----|
 Risultato|2|4
@@ -692,6 +772,8 @@ Miglior Portiere| |
 **Girone**: Mussi
 
 Data: 2016-08-13 10:40:00
+
+Note: 
 
 | | Montenegro City Ramblers | I Pini |
 |:-----:|-----|-----|
@@ -710,6 +792,8 @@ Miglior Portiere| |
 
 Data: 2016-08-13 11:00:00
 
+Note: 
+
 | | Clitoriders | Atletico Madrink |
 |:-----:|-----|-----|
 Risultato|9|0
@@ -726,6 +810,8 @@ Miglior Portiere| |
 **Girone**: Cunei
 
 Data: 2016-08-13 11:20:00
+
+Note: 
 
 | | Panze da Bira | Dinkel Team |
 |:-----:|-----|-----|
@@ -744,6 +830,8 @@ Miglior Portiere| |
 
 Data: 2016-08-13 11:40:00
 
+Note: 
+
 | | Modium | Esperimento 626 |
 |:-----:|-----|-----|
 Risultato|4|0
@@ -760,6 +848,8 @@ Miglior Portiere| |
 **Girone**: Cavroni
 
 Data: 2016-08-13 12:00:00
+
+Note: 
 
 | | Sbocca Juniors | Shark Attak |
 |:-----:|-----|-----|
@@ -778,6 +868,8 @@ Miglior Portiere| |
 
 Data: 2016-08-13 12:20:00
 
+Note: 
+
 | | Arcoiris | Baby Nerz |
 |:-----:|-----|-----|
 Risultato|5|0
@@ -794,6 +886,8 @@ Miglior Portiere| |
 **Girone**: Cunei
 
 Data: 2016-08-13 12:40:00
+
+Note: 
 
 | | Panze da Bira | Filfs & Co. |
 |:-----:|-----|-----|
@@ -812,6 +906,8 @@ Miglior Portiere| |
 
 Data: 2016-08-13 14:40:00
 
+Note: 
+
 | | F.C. Judica | I Svergoi |
 |:-----:|-----|-----|
 Risultato|2|0
@@ -828,6 +924,8 @@ Miglior Portiere| |
 **Girone**: Usei
 
 Data: 2016-08-13 15:00:00
+
+Note: 
 
 | | Ematoma | Pokemonae |
 |:-----:|-----|-----|
@@ -846,6 +944,8 @@ Miglior Portiere| |
 
 Data: 2016-08-13 15:20:00
 
+Note: 
+
 | | Atletic(he) Al Bar | Mary Pompins |
 |:-----:|-----|-----|
 Risultato|1|2
@@ -862,6 +962,8 @@ Miglior Portiere| |
 **Girone**: Ruganti
 
 Data: 2016-08-13 15:40:00
+
+Note: 
 
 | | Fel Lazio 2.0 | Esperimento 626 |
 |:-----:|-----|-----|
@@ -880,6 +982,8 @@ Miglior Portiere| |
 
 Data: 2016-08-13 16:00:00
 
+Note: 
+
 | | No Name | F.C. Julia |
 |:-----:|-----|-----|
 Risultato|2|3
@@ -896,6 +1000,8 @@ Miglior Portiere| |
 **Girone**: Pantegane
 
 Data: 2016-08-13 16:20:00
+
+Note: 
 
 | | JLA: Justice League of Aperitiv | Una per tutti... |
 |:-----:|-----|-----|
@@ -914,6 +1020,8 @@ Miglior Portiere| |
 
 Data: 2016-08-13 16:40:00
 
+Note: 
+
 | | I Fatti del Giorno | Malmö Stoss |
 |:-----:|-----|-----|
 Risultato|0|7
@@ -930,6 +1038,8 @@ Miglior Portiere| |
 **Girone**: Pojane
 
 Data: 2016-08-13 17:00:00
+
+Note: 
 
 | | Una Quarta in 4 | ...tutti per una |
 |:-----:|-----|-----|
@@ -948,6 +1058,8 @@ Miglior Portiere| |
 
 Data: 2016-08-13 17:20:00
 
+Note: 
+
 | | Caffè Grazia | Atletico Madrink |
 |:-----:|-----|-----|
 Risultato|11|1
@@ -964,6 +1076,8 @@ Miglior Portiere| |
 **Girone**: Cavai
 
 Data: 2016-08-13 17:40:00
+
+Note: 
 
 | | Cacao Meravigliao | Clandes Team |
 |:-----:|-----|-----|
@@ -982,6 +1096,8 @@ Miglior Portiere| |
 
 Data: 2016-08-13 18:00:00
 
+Note: 
+
 | | Le Lavandaie | Le Par Sgherle |
 |:-----:|-----|-----|
 Risultato|3|3
@@ -998,6 +1114,8 @@ Miglior Portiere| |
 **Girone**: Lumazi
 
 Data: 2016-08-13 18:20:00
+
+Note: 
 
 | | Nocera Inferiore Vive | F.C. Savignano |
 |:-----:|-----|-----|
@@ -1016,6 +1134,8 @@ Miglior Portiere| |
 
 Data: 2016-08-13 18:40:00
 
+Note: 
+
 | | Filfs & Co. | Lizzanella's Old Sughi |
 |:-----:|-----|-----|
 Risultato|6|1
@@ -1032,6 +1152,8 @@ Miglior Portiere| |
 **Girone**: Mussi
 
 Data: 2016-08-13 19:00:00
+
+Note: 
 
 | | Montenegro City Ramblers | F.C. Julia |
 |:-----:|-----|-----|
@@ -1050,6 +1172,8 @@ Miglior Portiere| |
 
 Data: 2016-08-13 19:20:00
 
+Note: 
+
 | | F.C. Judica | Ematoma |
 |:-----:|-----|-----|
 Risultato|1|2
@@ -1066,6 +1190,8 @@ Miglior Portiere| |
 **Girone**: Pantegane
 
 Data: 2016-08-13 20:40:00
+
+Note: 
 
 | | Le Scarsele | Le Amiche di Città Laggiù |
 |:-----:|-----|-----|
@@ -1084,6 +1210,8 @@ Miglior Portiere| |
 
 Data: 2016-08-13 21:00:00
 
+Note: 
+
 | | Modium | Fel Lazio 2.0 |
 |:-----:|-----|-----|
 Risultato|5|3
@@ -1100,6 +1228,8 @@ Miglior Portiere| |
 **Girone**: Cavroni
 
 Data: 2016-08-13 21:20:00
+
+Note: 
 
 | | S.C. Alda Fregna | Shark Attak |
 |:-----:|-----|-----|
@@ -1118,6 +1248,8 @@ Miglior Portiere| |
 
 Data: 2016-08-13 21:40:00
 
+Note: 
+
 | | Pinguini Trentini | Clitoriders |
 |:-----:|-----|-----|
 Risultato|0|5
@@ -1134,6 +1266,8 @@ Miglior Portiere| |
 **Girone**: 1000
 
 Data: 2016-08-14 20:30:00
+
+Note: 
 
 | | Sorpresa | Sorpresa |
 |:-----:|-----|-----|
@@ -1152,6 +1286,8 @@ Miglior Portiere| |
 
 Data: 2016-08-13 19:40:00
 
+Note: 
+
 | | Mary Pompins | Baby Nerz |
 |:-----:|-----|-----|
 Risultato|3|1
@@ -1168,6 +1304,8 @@ Miglior Portiere| |
 **Girone**: 2000
 
 Data: 2016-08-13 20:00:00
+
+Note: 
 
 | | Arcoiris | Tigre Intigra Tigre |
 |:-----:|-----|-----|
@@ -1186,6 +1324,8 @@ Miglior Portiere| |
 
 Data: 2016-08-13 22:00:00
 
+Note: 
+
 | | Atletic(he) Al Bar | ...tutti per una |
 |:-----:|-----|-----|
 Risultato|5|1
@@ -1202,6 +1342,8 @@ Miglior Portiere| |
 **Girone**: 1008
 
 Data: 2016-08-13 23:20:00
+
+Note: 
 
 | | Cacao Meravigliao | Lizzanella's Old Sughi |
 |:-----:|-----|-----|
@@ -1220,6 +1362,8 @@ Miglior Portiere| |
 
 Data: 2016-08-13 23:40:00
 
+Note: 
+
 | | Filfs & Co. | Titslovers |
 |:-----:|-----|-----|
 Risultato|2|1
@@ -1236,6 +1380,8 @@ Miglior Portiere| |
 **Girone**: 2004
 
 Data: 2016-08-13 22:20:00
+
+Note: 
 
 | | Una Quarta in 4 | Mary Pompins |
 |:-----:|-----|-----|
@@ -1254,6 +1400,8 @@ Miglior Portiere| |
 
 Data: 2016-08-13 23:00:00
 
+Note: 
+
 | | Una per tutti... | Tigre Intigra Tigre |
 |:-----:|-----|-----|
 Risultato|3|4
@@ -1270,6 +1418,8 @@ Miglior Portiere| |
 **Girone**: 2004
 
 Data: 2016-08-13 22:40:00
+
+Note: 
 
 | | Bionde! Punto | JLA: Justice League of Aperitiv |
 |:-----:|-----|-----|
@@ -1288,6 +1438,8 @@ Miglior Portiere| |
 
 Data: 2016-08-14 10:30:00
 
+Note: 
+
 | | S.C. Alda Fregna | Malmö Stoss |
 |:-----:|-----|-----|
 Risultato|3|0
@@ -1304,6 +1456,8 @@ Miglior Portiere| |
 **Girone**: 1008
 
 Data: 2016-08-14 11:00:00
+
+Note: 
 
 | | F.C. Savignano | Shark Attak |
 |:-----:|-----|-----|
@@ -1322,6 +1476,8 @@ Miglior Portiere| |
 
 Data: 2016-08-14 11:20:00
 
+Note: 
+
 | | I Pini | I Montagna |
 |:-----:|-----|-----|
 Risultato|2|3
@@ -1338,6 +1494,8 @@ Miglior Portiere| |
 **Girone**: 1008
 
 Data: 2016-08-14 11:40:00
+
+Note: 
 
 | | Modium | F.C. Julia |
 |:-----:|-----|-----|
@@ -1356,6 +1514,8 @@ Miglior Portiere| |
 
 Data: 2016-08-14 12:00:00
 
+Note: 
+
 | | F.C. Judica | Pinguini Trentini |
 |:-----:|-----|-----|
 Risultato|1|2
@@ -1372,6 +1532,8 @@ Miglior Portiere| |
 **Girone**: 1008
 
 Data: 2016-08-14 12:20:00
+
+Note: 
 
 | | Clitoriders | Pokemonae |
 |:-----:|-----|-----|
@@ -1390,6 +1552,8 @@ Miglior Portiere| |
 
 Data: 2016-08-14 17:30:00
 
+Note: 
+
 | | Bionde! Punto | Atletic(he) Al Bar |
 |:-----:|-----|-----|
 Risultato|6|2
@@ -1406,6 +1570,8 @@ Miglior Portiere| |
 **Girone**: 2000
 
 Data: 2016-08-14 17:00:00
+
+Note: 
 
 | | Le Lavandaie | Baby Nerz |
 |:-----:|-----|-----|
@@ -1424,6 +1590,8 @@ Miglior Portiere| |
 
 Data: 2016-08-14 18:30:00
 
+Note: 
+
 | | Mary Pompins | Tigre Intigra Tigre |
 |:-----:|-----|-----|
 Risultato|3|2
@@ -1440,6 +1608,8 @@ Miglior Portiere| |
 **Girone**: 2000
 
 Data: 2016-08-14 19:30:00
+
+Note: 
 
 | | Le Amiche di Città Laggiù | Le Par Sgherle |
 |:-----:|-----|-----|
@@ -1458,6 +1628,8 @@ Miglior Portiere| |
 
 Data: 2016-08-14 20:00:00
 
+Note: 
+
 | | Arcoiris | Le Scarsele |
 |:-----:|-----|-----|
 Risultato|1|5
@@ -1474,6 +1646,8 @@ Miglior Portiere| |
 **Girone**: 1004
 
 Data: 2016-08-14 15:00:00
+
+Note: 
 
 | | Filfs & Co. | F.C. Savignano |
 |:-----:|-----|-----|
@@ -1492,6 +1666,8 @@ Miglior Portiere| |
 
 Data: 2016-08-14 16:00:00
 
+Note: 
+
 | | Cacao Meravigliao | S.C. Alda Fregna |
 |:-----:|-----|-----|
 Risultato|2|0
@@ -1508,6 +1684,8 @@ Miglior Portiere| |
 **Girone**: 1004
 
 Data: 2016-08-14 15:30:00
+
+Note: 
 
 | | I Montagna | Pinguini Trentini |
 |:-----:|-----|-----|
@@ -1526,6 +1704,8 @@ Miglior Portiere| |
 
 Data: 2016-08-14 16:30:00
 
+Note: 
+
 | | Modium | Clitoriders |
 |:-----:|-----|-----|
 Risultato|2|3
@@ -1542,6 +1722,8 @@ Miglior Portiere| |
 **Girone**: 1002
 
 Data: 2016-08-14 18:00:00
+
+Note: 
 
 | | Cacao Meravigliao | I Montagna |
 |:-----:|-----|-----|
@@ -1560,6 +1742,8 @@ Miglior Portiere| |
 
 Data: 2016-08-14 19:00:00
 
+Note: 
+
 | | F.C. Savignano | Clitoriders |
 |:-----:|-----|-----|
 Risultato|2|4
@@ -1576,6 +1760,8 @@ Miglior Portiere| |
 **Girone**: 1000
 
 Data: 2016-08-14 21:30:00
+
+Note: 
 
 | | F.C. Savignano | Cacao Meravigliao |
 |:-----:|-----|-----|
@@ -1594,6 +1780,8 @@ Miglior Portiere| |
 
 Data: 2016-08-14 21:00:00
 
+Note: 
+
 | | Tigre Intigra Tigre | Atletic(he) Al Bar |
 |:-----:|-----|-----|
 Risultato|5|3
@@ -1611,6 +1799,8 @@ Miglior Portiere| |
 
 Data: 2016-08-14 22:00:00
 
+Note: 
+
 | | Bionde! Punto | Mary Pompins |
 |:-----:|-----|-----|
 Risultato|2|1
@@ -1627,6 +1817,8 @@ Miglior Portiere| |
 **Girone**: 1001
 
 Data: 2016-08-14 22:30:00
+
+Note: 
 
 | | Clitoriders | I Montagna |
 |:-----:|-----|-----|

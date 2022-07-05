@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 17:19:03.844722
+date: 2022-07-05 12:10:54.611726
 categories: partite
 permalink: /partite/2019/
 ---
@@ -12,6 +12,8 @@ Qui puoi trovare tutte le partite del 2019
 **Girone**: C - Cavroni
 
 Data: 2019-08-15 16:00:00
+
+Note: 
 
 | | F.C. Savignano | Positivi All'Etanolo |
 |:-----:|-----|-----|
@@ -30,6 +32,8 @@ Miglior Portiere| |
 
 Data: 2019-08-15 16:20:00
 
+Note: 
+
 | | Doppie Solo Due | Up-Pero' |
 |:-----:|-----|-----|
 Risultato|3|6
@@ -46,6 +50,8 @@ Miglior Portiere| |
 **Girone**: B - Pantegane
 
 Data: 2019-08-15 16:40:00
+
+Note: 
 
 | | Una Quarta In 4 | Pink Ladies |
 |:-----:|-----|-----|
@@ -64,6 +70,8 @@ Miglior Portiere| |
 
 Data: 2019-08-15 17:00:00
 
+Note: 
+
 | | Paris San Gennar | Caffe' Grazia |
 |:-----:|-----|-----|
 Risultato|3|4
@@ -80,6 +88,8 @@ Miglior Portiere| ⭐ Daniele Seranifini<br/>| ⭐ Daniele Candioli (Bimbo Del G
 **Girone**: B - Pantegane
 
 Data: 2019-08-15 17:20:00
+
+Note: 
 
 | | Quele Del '20. Alora | Le Osce |
 |:-----:|-----|-----|
@@ -98,6 +108,8 @@ Miglior Portiere| |
 
 Data: 2019-08-15 17:40:00
 
+Note: 
+
 | | Shark Attack | E Voi De Chi Se Fioi? |
 |:-----:|-----|-----|
 Risultato|5|0
@@ -114,6 +126,8 @@ Miglior Portiere| ⭐⭐⭐ Alberto Cerisara (L'Uomo Che Ha Mangiato Justin Bieb
 **Girone**: H - Zorzi
 
 Data: 2019-08-15 18:00:00
+
+Note: 
 
 | | Fel Lazio | Panchester United |
 |:-----:|-----|-----|
@@ -132,6 +146,8 @@ Miglior Portiere| ⭐ Matteo Pilati (Ponzio Pilati)<br/>| ⭐⭐ Alessio Ecchel<
 
 Data: 2019-08-15 18:20:00
 
+Note: 
+
 | | Pinguini Trentini | Dmentoni (La D E' Muta) |
 |:-----:|-----|-----|
 Risultato|13|1
@@ -148,6 +164,8 @@ Miglior Portiere| |
 **Girone**: D - Lumazi
 
 Data: 2019-08-15 18:40:00
+
+Note: 
 
 | | I Montagna | Soda |
 |:-----:|-----|-----|
@@ -166,6 +184,8 @@ Miglior Portiere| |
 
 Data: 2019-08-15 19:00:00
 
+Note: 
+
 | | Mai Una Gioia | Clandes-Team |
 |:-----:|-----|-----|
 Risultato|4|3
@@ -182,6 +202,8 @@ Miglior Portiere| ⭐⭐ Thomas Debiasi (L'Organizzatore Di Eventi Bruti)<br/>| 
 **Girone**: E - Mussi
 
 Data: 2019-08-15 19:20:00
+
+Note: 
 
 | | S.S. Tecnica Pura | Cgb Gamberoni |
 |:-----:|-----|-----|
@@ -200,6 +222,8 @@ Miglior Portiere| ⭐⭐ Francesco Modena<br/>| ⭐ Sebastiano Zoller<br/>
 
 Data: 2019-08-15 19:40:00
 
+Note: 
+
 | | Dinamo Nada | Up-Pero' |
 |:-----:|-----|-----|
 Risultato|9|1
@@ -216,6 +240,8 @@ Miglior Portiere| |
 **Girone**: C - Galinote
 
 Data: 2019-08-15 20:00:00
+
+Note: 
 
 | | Mai Un Limone | Le Gretine |
 |:-----:|-----|-----|
@@ -234,6 +260,8 @@ Miglior Portiere| |
 
 Data: 2019-08-15 20:20:00
 
+Note: 
+
 | | Shark Attack | The Periti Informatici |
 |:-----:|-----|-----|
 Risultato|14|1
@@ -250,6 +278,8 @@ Miglior Portiere| ⭐ Alberto Cerisara (L'Uomo Che Ha Mangiato Justin Bieber)<br
 **Girone**: D - Lumazi
 
 Data: 2019-08-15 21:00:00
+
+Note: 
 
 | | U.S. Guarna | F.C. Julia |
 |:-----:|-----|-----|
@@ -268,6 +298,8 @@ Miglior Portiere| |
 
 Data: 2019-08-15 21:20:00
 
+Note: 
+
 | | Lizzanella'S Old Sughi | Hellas Madonna |
 |:-----:|-----|-----|
 Risultato|3|3
@@ -284,6 +316,8 @@ Miglior Portiere| ⭐ Federico Leonardi (Pan Carre')<br/>| ⭐ Raffaele Prezzi<b
 **Girone**: A - Pojane
 
 Data: 2019-08-15 21:40:00
+
+Note: 
 
 | | Porcahontas | La Carica Delle 02 |
 |:-----:|-----|-----|
@@ -302,6 +336,8 @@ Miglior Portiere| ⭐⭐ Alice Finarolli (Alice in Wonderland)<br/>| ⭐ Margher
 
 Data: 2019-08-15 22:00:00
 
+Note: 
+
 | | Panchester United | Cacao Meravigliao |
 |:-----:|-----|-----|
 Risultato|1|6
@@ -318,6 +354,8 @@ Miglior Portiere| |
 **Girone**: C - Cavroni
 
 Data: 2019-08-15 22:20:00
+
+Note: 
 
 | | F.C. Savignano | Clitoriders |
 |:-----:|-----|-----|
@@ -336,6 +374,8 @@ Miglior Portiere| ⭐ Samuel Di Meo<br/>| ⭐ Stefano Tita (Giannizzero)<br/>
 
 Data: 2019-08-15 22:40:00
 
+Note: 
+
 | | Plus Ultra | Le Sughe |
 |:-----:|-----|-----|
 Risultato|1|1
@@ -352,6 +392,8 @@ Miglior Portiere| ⭐ Aurora Cavalieri<br/>|
 **Girone**: A - Cavai
 
 Data: 2019-08-15 23:00:00
+
+Note: 
 
 | | Mediaser.T | The Periti Informatici |
 |:-----:|-----|-----|
@@ -370,6 +412,8 @@ Miglior Portiere| |
 
 Data: 2019-08-15 23:20:00
 
+Note: 
+
 | | Cgb Gamberoni | St'Am No Zugo |
 |:-----:|-----|-----|
 Risultato|13|3
@@ -386,6 +430,8 @@ Miglior Portiere| |
 **Girone**: B - Cunei
 
 Data: 2019-08-15 23:40:00
+
+Note: 
 
 | | Hellas Madonna | Wanda Tim |
 |:-----:|-----|-----|
@@ -404,6 +450,8 @@ Miglior Portiere| ⭐ Raffaele Prezzi<br/>| ⭐ Mattia Spagnolli<br/>
 
 Data: 2019-08-16 16:00:00
 
+Note: 
+
 | | Sbarx | Fel Lazio |
 |:-----:|-----|-----|
 Risultato|3|7
@@ -420,6 +468,8 @@ Miglior Portiere| | ⭐⭐⭐ Matteo Pilati (Ponzio Pilati)<br/>
 **Girone**: D - Pegore
 
 Data: 2019-08-16 16:20:00
+
+Note: 
 
 | | Up-Pero' | Quele Del '20. Ades |
 |:-----:|-----|-----|
@@ -438,6 +488,8 @@ Miglior Portiere| |
 
 Data: 2019-08-16 16:40:00
 
+Note: 
+
 | | Tigri Intigra Tighi | Le Gretine |
 |:-----:|-----|-----|
 Risultato|6|0
@@ -454,6 +506,8 @@ Miglior Portiere| |
 **Girone**: B - Pantegane
 
 Data: 2019-08-16 17:00:00
+
+Note: 
 
 | | Quele Del '20. Alora | Pink Ladies |
 |:-----:|-----|-----|
@@ -472,6 +526,8 @@ Miglior Portiere| ⭐ Andrea Veronica Degan (WonderRea)<br/>|
 
 Data: 2019-08-16 17:20:00
 
+Note: 
+
 | | Una Quarta In 4 | Le Osce |
 |:-----:|-----|-----|
 Risultato|10|0
@@ -488,6 +544,8 @@ Miglior Portiere| |
 **Girone**: G - Usei
 
 Data: 2019-08-16 17:40:00
+
+Note: 
 
 | | Pinguini Trentini | Clandes-Team |
 |:-----:|-----|-----|
@@ -506,6 +564,8 @@ Miglior Portiere| |
 
 Data: 2019-08-16 18:00:00
 
+Note: 
+
 | | Panchester United | Sbarx |
 |:-----:|-----|-----|
 Risultato|1|2
@@ -522,6 +582,8 @@ Miglior Portiere| ⭐⭐⭐ Oscar Morin<br/>|
 **Girone**: B - Cunei
 
 Data: 2019-08-16 18:20:00
+
+Note: 
 
 | | Lizzanella'S Old Sughi | Wanda Tim |
 |:-----:|-----|-----|
@@ -540,6 +602,8 @@ Miglior Portiere| |
 
 Data: 2019-08-16 18:40:00
 
+Note: 
+
 | | Fel Lazio | Cacao Meravigliao |
 |:-----:|-----|-----|
 Risultato|4|3
@@ -556,6 +620,8 @@ Miglior Portiere| |
 **Girone**: A - Pojane
 
 Data: 2019-08-16 19:00:00
+
+Note: 
 
 | | Plus Ultra | La Carica Delle 02 |
 |:-----:|-----|-----|
@@ -574,6 +640,8 @@ Miglior Portiere| |
 
 Data: 2019-08-16 19:20:00
 
+Note: 
+
 | | Dinamo Nada | Quele Del '20. Ades |
 |:-----:|-----|-----|
 Risultato|6|0
@@ -590,6 +658,8 @@ Miglior Portiere| | ⭐ Mara Barozzi (La Nonna di Heidi)<br/>
 **Girone**: B - Cunei
 
 Data: 2019-08-16 19:40:00
+
+Note: 
 
 | | Discepoli Del Luppolo | Wanda Tim |
 |:-----:|-----|-----|
@@ -608,6 +678,8 @@ Miglior Portiere| ⭐ Marco Maffei (Il Pranzo È Servito)<br/>| ⭐ Mattia Spagn
 
 Data: 2019-08-16 20:00:00
 
+Note: 
+
 | | Fruit Ninja | Tigri Intigra Tighi |
 |:-----:|-----|-----|
 Risultato|7|2
@@ -624,6 +696,8 @@ Miglior Portiere| ⭐⭐ Elena Loss (L'Astronauta)<br/>|
 **Girone**: C - Cavroni
 
 Data: 2019-08-16 20:20:00
+
+Note: 
 
 | | Positivi All'Etanolo | Il Terrone Va Di Moda |
 |:-----:|-----|-----|
@@ -642,6 +716,8 @@ Miglior Portiere| |
 
 Data: 2019-08-16 21:00:00
 
+Note: 
+
 | | Porcahontas | Le Sughe |
 |:-----:|-----|-----|
 Risultato|5|0
@@ -658,6 +734,8 @@ Miglior Portiere| ⭐⭐ Alice Finarolli (Alice in Wonderland)<br/>| ⭐ Sara Fa
 **Girone**: E - Mussi
 
 Data: 2019-08-16 21:20:00
+
+Note: 
 
 | | Avanzi | Cgb Gamberoni |
 |:-----:|-----|-----|
@@ -676,6 +754,8 @@ Miglior Portiere| ⭐ Michele Ruele (Ruy Misteryo)<br/>| ⭐ Sebastiano Zoller<b
 
 Data: 2019-08-16 21:40:00
 
+Note: 
+
 | | I Modium | Buona La Merda |
 |:-----:|-----|-----|
 Risultato|3|1
@@ -692,6 +772,8 @@ Miglior Portiere| ⭐ Riccardo Versini (La Pertica Dela Piof)<br/>| ⭐⭐ Tizia
 **Girone**: C - Galinote
 
 Data: 2019-08-16 22:00:00
+
+Note: 
 
 | | Fruit Ninja | Mai Un Limone |
 |:-----:|-----|-----|
@@ -710,6 +792,8 @@ Miglior Portiere| ⭐⭐⭐ Elena Loss (L'Astronauta)<br/>|
 
 Data: 2019-08-16 22:20:00
 
+Note: 
+
 | | Discepoli Del Luppolo | Hellas Madonna |
 |:-----:|-----|-----|
 Risultato|3|3
@@ -726,6 +810,8 @@ Miglior Portiere| |
 **Girone**: F - Ruganti
 
 Data: 2019-08-17 10:00:00
+
+Note: 
 
 | | Paris San Gennar | Buona La Merda |
 |:-----:|-----|-----|
@@ -744,6 +830,8 @@ Miglior Portiere| |
 
 Data: 2019-08-17 10:20:00
 
+Note: 
+
 | | Mai Una Gioia | Dmentoni (La D E' Muta) |
 |:-----:|-----|-----|
 Risultato|14|0
@@ -760,6 +848,8 @@ Miglior Portiere| |
 **Girone**: H - Zorzi
 
 Data: 2019-08-17 10:40:00
+
+Note: 
 
 | | Sbarx | Cacao Meravigliao |
 |:-----:|-----|-----|
@@ -778,6 +868,8 @@ Miglior Portiere| |
 
 Data: 2019-08-17 11:00:00
 
+Note: 
+
 | | The Periti Informatici | E Voi De Chi Se Fioi? |
 |:-----:|-----|-----|
 Risultato|0|6
@@ -794,6 +886,8 @@ Miglior Portiere| ⭐⭐ Francesco Passuello (Crumiro)<br/>|
 **Girone**: E - Mussi
 
 Data: 2019-08-17 11:20:00
+
+Note: 
 
 | | S.S. Tecnica Pura | St'Am No Zugo |
 |:-----:|-----|-----|
@@ -812,6 +906,8 @@ Miglior Portiere| |
 
 Data: 2019-08-17 11:40:00
 
+Note: 
+
 | | F.C. Savignano | Il Terrone Va Di Moda |
 |:-----:|-----|-----|
 Risultato|13|2
@@ -828,6 +924,8 @@ Miglior Portiere| ⭐⭐ Samuel Di Meo<br/>| ⭐ Mirco Prezzi<br/>
 **Girone**: A - Pojane
 
 Data: 2019-08-17 12:00:00
+
+Note: 
 
 | | Le Sughe | La Carica Delle 02 |
 |:-----:|-----|-----|
@@ -846,6 +944,8 @@ Miglior Portiere| |
 
 Data: 2019-08-17 12:20:00
 
+Note: 
+
 | | U.S. Guarna | Soda |
 |:-----:|-----|-----|
 Risultato|7|2
@@ -862,6 +962,8 @@ Miglior Portiere| ⭐⭐ Michele Zaffoni<br/>| ⭐ Mattia Granello<br/>
 **Girone**: C - Cavroni
 
 Data: 2019-08-17 14:40:00
+
+Note: 
 
 | | Clitoriders | Il Terrone Va Di Moda |
 |:-----:|-----|-----|
@@ -880,6 +982,8 @@ Miglior Portiere| |
 
 Data: 2019-08-17 15:00:00
 
+Note: 
+
 | | Caffe' Grazia | Buona La Merda |
 |:-----:|-----|-----|
 Risultato|0|3
@@ -896,6 +1000,8 @@ Miglior Portiere| |
 **Girone**: D - Pegore
 
 Data: 2019-08-17 15:20:00
+
+Note: 
 
 | | Dinamo Nada | Doppie Solo Due |
 |:-----:|-----|-----|
@@ -914,6 +1020,8 @@ Miglior Portiere| ⭐ Martina Niosi<br/>| ⭐ Fabiola Tamburini<br/>
 
 Data: 2019-08-17 15:40:00
 
+Note: 
+
 | | Clandes-Team | Dmentoni (La D E' Muta) |
 |:-----:|-----|-----|
 Risultato|10|0
@@ -930,6 +1038,8 @@ Miglior Portiere| |
 **Girone**: D - Lumazi
 
 Data: 2019-08-17 16:00:00
+
+Note: 
 
 | | F.C. Julia | Soda |
 |:-----:|-----|-----|
@@ -948,6 +1058,8 @@ Miglior Portiere| |
 
 Data: 2019-08-17 16:20:00
 
+Note: 
+
 | | Le Osce | Pink Ladies |
 |:-----:|-----|-----|
 Risultato|6|4
@@ -964,6 +1076,8 @@ Miglior Portiere| |
 **Girone**: A - Cavai
 
 Data: 2019-08-17 16:40:00
+
+Note: 
 
 | | Mediaser.T | E Voi De Chi Se Fioi? |
 |:-----:|-----|-----|
@@ -982,6 +1096,8 @@ Miglior Portiere| |
 
 Data: 2019-08-17 17:00:00
 
+Note: 
+
 | | I Modium | Paris San Gennar |
 |:-----:|-----|-----|
 Risultato|6|0
@@ -998,6 +1114,8 @@ Miglior Portiere| |
 **Girone**: E - Mussi
 
 Data: 2019-08-17 17:20:00
+
+Note: 
 
 | | Avanzi | St'Am No Zugo |
 |:-----:|-----|-----|
@@ -1016,6 +1134,8 @@ Miglior Portiere| | ⭐ Leonardo Trinco (Corpo Nazionale)<br/>
 
 Data: 2019-08-17 17:40:00
 
+Note: 
+
 | | I Montagna | U.S. Guarna |
 |:-----:|-----|-----|
 Risultato|3|1
@@ -1032,6 +1152,8 @@ Miglior Portiere| |
 **Girone**: C - Cavroni
 
 Data: 2019-08-17 18:00:00
+
+Note: 
 
 | | Clitoriders | Positivi All'Etanolo |
 |:-----:|-----|-----|
@@ -1050,6 +1172,8 @@ Miglior Portiere| |
 
 Data: 2019-08-17 18:20:00
 
+Note: 
+
 | | Una Quarta In 4 | Quele Del '20. Alora |
 |:-----:|-----|-----|
 Risultato|6|0
@@ -1066,6 +1190,8 @@ Miglior Portiere| |
 **Girone**: D - Pegore
 
 Data: 2019-08-17 18:40:00
+
+Note: 
 
 | | Doppie Solo Due | Quele Del '20. Ades |
 |:-----:|-----|-----|
@@ -1084,6 +1210,8 @@ Miglior Portiere| |
 
 Data: 2019-08-17 19:00:00
 
+Note: 
+
 | | Mai Un Limone | Tigri Intigra Tighi |
 |:-----:|-----|-----|
 Risultato|4|0
@@ -1100,6 +1228,8 @@ Miglior Portiere| |
 **Girone**: G - Usei
 
 Data: 2019-08-17 19:20:00
+
+Note: 
 
 | | Mai Una Gioia | Pinguini Trentini |
 |:-----:|-----|-----|
@@ -1118,6 +1248,8 @@ Miglior Portiere| |
 
 Data: 2019-08-17 19:40:00
 
+Note: 
+
 | | I Modium | Caffe' Grazia |
 |:-----:|-----|-----|
 Risultato|1|1
@@ -1134,6 +1266,8 @@ Miglior Portiere| ⭐ Riccardo Versini (La Pertica Dela Piof)<br/>| ⭐⭐ Andre
 **Girone**: C - Galinote
 
 Data: 2019-08-17 20:00:00
+
+Note: 
 
 | | Fruit Ninja | Le Gretine |
 |:-----:|-----|-----|
@@ -1152,6 +1286,8 @@ Miglior Portiere| |
 
 Data: 2019-08-17 21:00:00
 
+Note: 
+
 | | Porcahontas | Plus Ultra |
 |:-----:|-----|-----|
 Risultato|1|2
@@ -1168,6 +1304,8 @@ Miglior Portiere| ⭐ Alice Finarolli (Alice in Wonderland)<br/>| ⭐⭐ Aurora 
 **Girone**: A - Cavai
 
 Data: 2019-08-17 21:20:00
+
+Note: 
 
 | | Shark Attack | Mediaser.T |
 |:-----:|-----|-----|
@@ -1186,6 +1324,8 @@ Miglior Portiere| ⭐ Alberto Cerisara (L'Uomo Che Ha Mangiato Justin Bieber)<br
 
 Data: 2019-08-17 21:40:00
 
+Note: 
+
 | | Discepoli Del Luppolo | Lizzanella'S Old Sughi |
 |:-----:|-----|-----|
 Risultato|2|3
@@ -1202,6 +1342,8 @@ Miglior Portiere| | ⭐⭐⭐ Federico Leonardi (Pan Carre')<br/>
 **Girone**: E - Mussi
 
 Data: 2019-08-17 22:00:00
+
+Note: 
 
 | | S.S. Tecnica Pura | Avanzi |
 |:-----:|-----|-----|
@@ -1220,6 +1362,8 @@ Miglior Portiere| |
 
 Data: 2019-08-17 22:20:00
 
+Note: 
+
 | | I Montagna | F.C. Julia |
 |:-----:|-----|-----|
 Risultato|3|0
@@ -1236,6 +1380,8 @@ Miglior Portiere| ⭐⭐⭐ Daniele Dalbosco<br/>|
 **Girone**: 2004
 
 Data: 2019-08-17 22:40:00
+
+Note: 
 
 | | Quele Del '20. Alora | Dinamo Nada |
 |:-----:|-----|-----|
@@ -1254,6 +1400,8 @@ Miglior Portiere| | ⭐ Martina Niosi<br/>
 
 Data: 2019-08-17 23:20:00
 
+Note: 
+
 | | Cacao Meravigliao | Mai Una Gioia |
 |:-----:|-----|-----|
 Risultato|1|3
@@ -1270,6 +1418,8 @@ Miglior Portiere| ⭐ Jakub Lasko<br/>| ⭐⭐ Thomas Debiasi (L'Organizzatore D
 **Girone**: 2004
 
 Data: 2019-08-17 23:00:00
+
+Note: 
 
 | | Fruit Ninja | La Carica Delle 02 |
 |:-----:|-----|-----|
@@ -1288,6 +1438,8 @@ Miglior Portiere| | ⭐⭐ Margherita Bottesi (Pe Williams)<br/>
 
 Data: 2019-08-17 23:40:00
 
+Note: 
+
 | | Mai Un Limone | Porcahontas |
 |:-----:|-----|-----|
 Risultato|4|2
@@ -1304,6 +1456,8 @@ Miglior Portiere| ⭐ Francesca Sartori (Nastra Isolanta)<br/>|
 **Girone**: 1008
 
 Data: 2019-08-18 10:00:00
+
+Note: 
 
 | | Shark Attack | Lizzanella'S Old Sughi |
 |:-----:|-----|-----|
@@ -1322,6 +1476,8 @@ Miglior Portiere| ⭐⭐⭐ Alberto Cerisara (L'Uomo Che Ha Mangiato Justin Bieb
 
 Data: 2019-08-18 10:40:00
 
+Note: 
+
 | | Mediaser.T | Hellas Madonna |
 |:-----:|-----|-----|
 Risultato|4|2
@@ -1338,6 +1494,8 @@ Miglior Portiere| ⭐⭐ Stefano Pizzini<br/>| ⭐ Raffaele Prezzi<br/>
 **Girone**: 1008
 
 Data: 2019-08-18 11:00:00
+
+Note: 
 
 | | Avanzi | Buona La Merda |
 |:-----:|-----|-----|
@@ -1356,6 +1514,8 @@ Miglior Portiere| ⭐⭐ Michele Ruele (Ruy Misteryo)<br/>|
 
 Data: 2019-08-18 11:20:00
 
+Note: 
+
 | | Una Quarta In 4 | Quele Del '20. Ades |
 |:-----:|-----|-----|
 Risultato|4|2
@@ -1372,6 +1532,8 @@ Miglior Portiere| ⭐ Valeria Paiola<br/>| ⭐ Arianna Barozzi (Puccettina)<br/>
 **Girone**: 1008
 
 Data: 2019-08-18 12:00:00
+
+Note: 
 
 | | Fel Lazio | Pinguini Trentini |
 |:-----:|-----|-----|
@@ -1390,6 +1552,8 @@ Miglior Portiere| |
 
 Data: 2019-08-18 10:20:00
 
+Note: 
+
 | | Clitoriders | F.C. Julia |
 |:-----:|-----|-----|
 Risultato|9|2
@@ -1406,6 +1570,8 @@ Miglior Portiere| ⭐⭐ Stefano Tita (Giannizzero)<br/>|
 **Girone**: 1008
 
 Data: 2019-08-18 11:40:00
+
+Note: 
 
 | | I Modium | S.S. Tecnica Pura |
 |:-----:|-----|-----|
@@ -1424,6 +1590,8 @@ Miglior Portiere| ⭐ Riccardo Versini (La Pertica Dela Piof)<br/>|
 
 Data: 2019-08-18 12:20:00
 
+Note: 
+
 | | F.C. Savignano | I Montagna |
 |:-----:|-----|-----|
 Risultato|0|3
@@ -1440,6 +1608,8 @@ Miglior Portiere| | ⭐⭐ Daniele Dalbosco<br/>
 **Girone**: 1004
 
 Data: 2019-08-18 14:40:00
+
+Note: 
 
 | | Mai Una Gioia | Avanzi |
 |:-----:|-----|-----|
@@ -1458,6 +1628,8 @@ Miglior Portiere| ⭐ Thomas Debiasi (L'Organizzatore Di Eventi Bruti)<br/>| ⭐
 
 Data: 2019-08-18 15:10:00
 
+Note: 
+
 | | Shark Attack | I Montagna |
 |:-----:|-----|-----|
 Risultato|4|5
@@ -1474,6 +1646,8 @@ Miglior Portiere| |
 **Girone**: 1004
 
 Data: 2019-08-18 15:40:00
+
+Note: 
 
 | | I Modium | Pinguini Trentini |
 |:-----:|-----|-----|
@@ -1492,6 +1666,8 @@ Miglior Portiere| ⭐ Andrea Bertolini<br/>| ⭐⭐ Leonardo Ceschini (Pan Baule
 
 Data: 2019-08-18 16:10:00
 
+Note: 
+
 | | Clitoriders | Mediaser.T |
 |:-----:|-----|-----|
 Risultato|6|4
@@ -1508,6 +1684,8 @@ Miglior Portiere| | ⭐⭐ Stefano Pizzini<br/>
 **Girone**: 2000
 
 Data: 2019-08-18 16:30:00
+
+Note: 
 
 | | Pink Ladies | Le Gretine |
 |:-----:|-----|-----|
@@ -1526,6 +1704,8 @@ Miglior Portiere| |
 
 Data: 2019-08-18 16:50:00
 
+Note: 
+
 | | Le Sughe | Doppie Solo Due |
 |:-----:|-----|-----|
 Risultato|2|6
@@ -1542,6 +1722,8 @@ Miglior Portiere| |
 **Girone**: 2000
 
 Data: 2019-08-18 17:10:00
+
+Note: 
 
 | | Le Osce | Up-Pero' |
 |:-----:|-----|-----|
@@ -1560,6 +1742,8 @@ Miglior Portiere| |
 
 Data: 2019-08-18 17:30:00
 
+Note: 
+
 | | Plus Ultra | Tigri Intigra Tighi |
 |:-----:|-----|-----|
 Risultato|2|1
@@ -1576,6 +1760,8 @@ Miglior Portiere| ⭐⭐⭐ Aurora Cavalieri<br/>|
 **Girone**: 2002
 
 Data: 2019-08-18 18:00:00
+
+Note: 
 
 | | La Carica Delle 02 | Dinamo Nada |
 |:-----:|-----|-----|
@@ -1594,6 +1780,8 @@ Miglior Portiere| ⭐⭐⭐ Margherita Bottesi (Pe Williams)<br/>|
 
 Data: 2019-08-18 19:30:00
 
+Note: 
+
 | | Una Quarta In 4 | Mai Un Limone |
 |:-----:|-----|-----|
 Risultato|1|5
@@ -1610,6 +1798,8 @@ Miglior Portiere| ⭐ Valeria Paiola<br/>| ⭐⭐ Francesca Sartori (Nastra Isol
 **Girone**: 1002
 
 Data: 2019-08-18 18:30:00
+
+Note: 
 
 | | Mai Una Gioia | Clitoriders |
 |:-----:|-----|-----|
@@ -1628,6 +1818,8 @@ Miglior Portiere| ⭐⭐ Thomas Debiasi (L'Organizzatore Di Eventi Bruti)<br/>|
 
 Data: 2019-08-18 19:00:00
 
+Note: 
+
 | | I Montagna | I Modium |
 |:-----:|-----|-----|
 Risultato|3|4
@@ -1644,6 +1836,8 @@ Miglior Portiere| ⭐ Daniele Dalbosco<br/>| ⭐⭐ Riccardo Versini (La Pertica
 **Girone**: 1000
 
 Data: 2019-08-18 21:00:00
+
+Note: 
 
 | | Clitoriders | I Montagna |
 |:-----:|-----|-----|
@@ -1662,6 +1856,8 @@ Miglior Portiere| |
 
 Data: 2019-08-18 22:00:00
 
+Note: 
+
 | | I Modium | Mai Una Gioia |
 |:-----:|-----|-----|
 Risultato|2|3
@@ -1679,6 +1875,8 @@ Miglior Portiere| | ⭐⭐ Thomas Debiasi (L'Organizzatore Di Eventi Bruti)<br/>
 
 Data: 2019-08-18 20:30:00
 
+Note: 
+
 | | La Carica Delle 02 | Una Quarta In 4 |
 |:-----:|-----|-----|
 Risultato|2|3
@@ -1695,6 +1893,8 @@ Miglior Portiere| ⭐⭐ Margherita Bottesi (Pe Williams)<br/>| ⭐ Valeria Paio
 **Girone**: 2001
 
 Data: 2019-08-18 21:30:00
+
+Note: 
 
 | | Mai Un Limone | Dinamo Nada |
 |:-----:|-----|-----|

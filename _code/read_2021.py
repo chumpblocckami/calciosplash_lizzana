@@ -43,7 +43,7 @@ def make_giocatori():
         player_data["cognome"] = "".join(idx.split(" ")[:-1])
         player_data["soprannome"] = nicknames[nominativo] if nominativo in nicknames else ""
         player_data["nominativo"] = nominativo
-        player_data["squadra"] = "".join([x.capitalize() for x in row["2021_team"].split(" ")]) if pd.isna(
+        player_data["squadra"] = " ".join([x.capitalize() for x in row["2021_team"].split(" ")]) if pd.isna(
             row["2021_team"]) == False else ""
         player_data["gialli"] = len([x for x in matches["gialli1"].values if x == idx])
         player_data["rossi"] = 0
@@ -76,34 +76,35 @@ def make_torneo():
                        "genere_gironi",
                        "id", "tempo", "goal", "best_giocatore", "gialli1", "team"]
     matches = matches.drop(columns=["id"])
-
+    matches.sort_values("orario", inplace=True)
     data = {f"torneo_{anno}": {}}
     n = 0
     for idx, row in matches.iterrows():
         match_data = {}
         match_data["gol_squadra_1"] = row["gol_squadra_1"]
         match_data["gol_squadra_2"] = row["gol_squadra_2"]
-        match_data["falli_squadra_1"] = row["gol_squadra_1"]
-        match_data["falli_squadra_2"] = row["gol_squadra_2"]
-        match_data["squadra_1"] = row["squadra_1"]
-        match_data["squadra_2"] = row["squadra_2"]
+        match_data["falli_squadra_1"] = ""
+        match_data["falli_squadra_2"] = ""
+        match_data["data"] = "unknown" if pd.isna(row["orario"]) else "2021-08-10 " + row["orario"] + ":00"
+        match_data["squadra_1"] = " ".join([x.capitalize() for x in row["squadra_1"].split(" ")])
+        match_data["squadra_2"] = " ".join([x.capitalize() for x in row["squadra_2"].split(" ")])
         match_data["gironi"] = ""
-        match_data["genere_gironi"] = row["genere_gironi"]
-        match_data["gialli1"] = row["gialli1"]
+        match_data["genere_gironi"] = 1 if row["genere_gironi"] == "M" else 2
+        match_data["gialli1"] = "" if pd.isna(row["gialli1"]) else row["gialli1"]
         match_data["gialli2"] = ""
         match_data["rossi1"] = ""
         match_data["rossi2"] = ""
         try:
-            match_data["goleador1"] = {x: len([y for y in eval(row["goal"]) if x == y]) for x in eval(row["goal"])}
+            match_data["goleador_1"] = str({x: len([y for y in eval(row["goal"]) if x == y]) for x in eval(row["goal"])})
         except:
-            match_data["goleador1"] = {}
-        match_data["goleador2"] = ""
+            match_data["goleador_1"] = str({})
+        match_data["goleador_2"] = "{}"
         match_data["orario"] = row["tempo"]
         match_data["autogol1"] = "{}"
         match_data["autogol2"] = "{}"
         match_data["best_giocatore_1"] = {row["best_giocatore"]: 1}
-        match_data["best_giocatore_2"] = {},
-        match_data["best_portiere_1"] = {},
+        match_data["best_giocatore_2"] = {}
+        match_data["best_portiere_1"] = {}
         match_data["best_portiere_2"] = {}
         data[f"torneo_{anno}"][str(n)] = match_data
         n = n + 1
@@ -111,6 +112,7 @@ def make_torneo():
     with open(f"./../_legacy/calciosplash_{anno}/torneo_{anno}.json", "w") as file:
         json.dump(data, file)
 
+
 if __name__ == "__main__":
-    # make_giocatori()
-    make_torneo()
+    make_giocatori()
+    # make_torneo()

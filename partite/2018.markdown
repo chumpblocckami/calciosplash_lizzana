@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 17:19:03.850113
+date: 2022-07-05 12:10:54.627357
 categories: partite
 permalink: /partite/2018/
 ---
@@ -12,6 +12,8 @@ Qui puoi trovare tutte le partite del 2018
 **Girone**: H - Zorzi
 
 Data: 2018-08-16 16:20:00
+
+Note: 
 
 | | Bolognini | Sbarx |
 |:-----:|-----|-----|
@@ -30,6 +32,8 @@ Miglior Portiere| |
 
 Data: 2018-08-16 16:40:00
 
+Note: 
+
 | | Atletico Al Bar | Shark Attack |
 |:-----:|-----|-----|
 Risultato|2|11
@@ -46,6 +50,8 @@ Miglior Portiere| |
 **Girone**: E - Mussi
 
 Data: 2018-08-16 17:00:00
+
+Note: 
 
 | | F.C. Savignano | I Ragazzi Della Via Gra |
 |:-----:|-----|-----|
@@ -64,6 +70,8 @@ Miglior Portiere| |
 
 Data: 2018-08-16 16:00:00
 
+Note: 
+
 | | Dinamo Nada | Le Zeropersonalita' |
 |:-----:|-----|-----|
 Risultato|11|0
@@ -80,6 +88,8 @@ Miglior Portiere| |
 **Girone**: B - Pantegane
 
 Data: 2018-08-16 17:20:00
+
+Note: 
 
 | | A.S. Tronze | Le Citregne |
 |:-----:|-----|-----|
@@ -98,6 +108,8 @@ Miglior Portiere| |
 
 Data: 2018-08-16 17:40:00
 
+Note: 
+
 | | Le Zeropersonalita' | Le Par Sgherle |
 |:-----:|-----|-----|
 Risultato|2|3
@@ -114,6 +126,8 @@ Miglior Portiere| |
 **Girone**: G - Usei
 
 Data: 2018-08-16 18:00:00
+
+Note: 
 
 | | Clitoriders | Squadra Materasso |
 |:-----:|-----|-----|
@@ -132,6 +146,8 @@ Miglior Portiere| |
 
 Data: 2018-08-16 18:20:00
 
+Note: 
+
 | | I Modium | Sbocca Juniors |
 |:-----:|-----|-----|
 Risultato|6|2
@@ -148,6 +164,8 @@ Miglior Portiere| |
 **Girone**: A - Pojane
 
 Data: 2018-08-16 18:40:00
+
+Note: 
 
 | | Sgherle Le Par | Liverpolle |
 |:-----:|-----|-----|
@@ -166,6 +184,8 @@ Miglior Portiere| |
 
 Data: 2018-08-16 19:00:00
 
+Note: 
+
 | | Dinamo Nada | Italia '18 |
 |:-----:|-----|-----|
 Risultato|3|1
@@ -182,6 +202,8 @@ Miglior Portiere| |
 **Girone**: E - Mussi
 
 Data: 2018-08-16 19:20:00
+
+Note: 
 
 | | No S.A.V. | Fassone & Mirabelli |
 |:-----:|-----|-----|
@@ -200,6 +222,8 @@ Miglior Portiere| |
 
 Data: 2018-08-16 19:40:00
 
+Note: 
+
 | | Titslovers | Bolognini |
 |:-----:|-----|-----|
 Risultato|3|0
@@ -216,6 +240,8 @@ Miglior Portiere| |
 **Girone**: D - Lumazi
 
 Data: 2018-08-16 20:00:00
+
+Note: 
 
 | | U.S. Guarna | E Voi De Chi Se Fioi |
 |:-----:|-----|-----|
@@ -234,6 +260,8 @@ Miglior Portiere| |
 
 Data: 2018-08-16 20:20:00
 
+Note: 
+
 | | Italia '18 | Le Par Sgherle |
 |:-----:|-----|-----|
 Risultato|3|1
@@ -250,6 +278,8 @@ Miglior Portiere| |
 **Girone**: B - Pantegane
 
 Data: 2018-08-16 21:00:00
+
+Note: 
 
 | | Plus Ultra | Name Loading |
 |:-----:|-----|-----|
@@ -268,6 +298,8 @@ Miglior Portiere| |
 
 Data: 2018-08-16 22:00:00
 
+Note: 
+
 | | Le Siretette | Le Amiche Di Citta' Laggiu' |
 |:-----:|-----|-----|
 Risultato|6|0
@@ -284,6 +316,8 @@ Miglior Portiere| |
 **Girone**: A - Cavai
 
 Data: 2018-08-16 21:40:00
+
+Note: 
 
 | | Gli Avanzi | I Botanici |
 |:-----:|-----|-----|
@@ -302,6 +336,8 @@ Miglior Portiere| |
 
 Data: 2018-08-16 21:20:00
 
+Note: 
+
 | | Discepoli Del Luppolo | La Banda Biscotti |
 |:-----:|-----|-----|
 Risultato|14|0
@@ -318,6 +354,8 @@ Miglior Portiere| |
 **Girone**: D - Lumazi
 
 Data: 2018-08-16 22:20:00
+
+Note: 
 
 | | Pinguini Trentini | F.C. Julia |
 |:-----:|-----|-----|
@@ -336,6 +374,8 @@ Miglior Portiere| |
 
 Data: 2018-08-16 22:40:00
 
+Note: 
+
 | | Plus Ultra | Le Citregne |
 |:-----:|-----|-----|
 Risultato|5|4
@@ -352,6 +392,8 @@ Miglior Portiere| |
 **Girone**: G - Usei
 
 Data: 2018-08-16 23:00:00
+
+Note: 
 
 | | I Diversamente Lucidi | CGB Gamberoni |
 |:-----:|-----|-----|
@@ -370,6 +412,8 @@ Miglior Portiere| |
 
 Data: 2018-08-16 23:20:00
 
+Note: 
+
 | | Fel. Lazio | La Banda Biscotti |
 |:-----:|-----|-----|
 Risultato|7|3
@@ -386,6 +430,8 @@ Miglior Portiere| |
 **Girone**: A - Cavai
 
 Data: 2018-08-16 23:40:00
+
+Note: 
 
 | | I Botanici | Panze Da Bira |
 |:-----:|-----|-----|
@@ -404,6 +450,8 @@ Miglior Portiere| |
 
 Data: 2018-08-17 16:00:00
 
+Note: 
+
 | | Dinamo Nada | Le Par Sgherle |
 |:-----:|-----|-----|
 Risultato|7|0
@@ -420,6 +468,8 @@ Miglior Portiere| |
 **Girone**: B - Cunei
 
 Data: 2018-08-17 16:20:00
+
+Note: 
 
 | | Atletico Al Bar | Lizzanella's Old Sughi |
 |:-----:|-----|-----|
@@ -438,6 +488,8 @@ Miglior Portiere| |
 
 Data: 2018-08-17 16:40:00
 
+Note: 
+
 | | Atletik-àlbar | Plus Ultra |
 |:-----:|-----|-----|
 Risultato|6|6
@@ -454,6 +506,8 @@ Miglior Portiere| |
 **Girone**: G - Usei
 
 Data: 2018-08-17 17:00:00
+
+Note: 
 
 | | Clitoriders | CGB Gamberoni |
 |:-----:|-----|-----|
@@ -472,6 +526,8 @@ Miglior Portiere| |
 
 Data: 2018-08-17 17:20:00
 
+Note: 
+
 | | Name Loading | A.S. Tronze |
 |:-----:|-----|-----|
 Risultato|8|1
@@ -488,6 +544,8 @@ Miglior Portiere| |
 **Girone**: A - Cavai
 
 Data: 2018-08-17 17:40:00
+
+Note: 
 
 | | Gli Avanzi | Panze Da Bira |
 |:-----:|-----|-----|
@@ -506,6 +564,8 @@ Miglior Portiere| |
 
 Data: 2018-08-17 18:00:00
 
+Note: 
+
 | | F.C. Savignano | Fassone & Mirabelli |
 |:-----:|-----|-----|
 Risultato|2|1
@@ -522,6 +582,8 @@ Miglior Portiere| |
 **Girone**: H - Zorzi
 
 Data: 2018-08-17 18:20:00
+
+Note: 
 
 | | Seitenfeitelbeutel | Bolognini |
 |:-----:|-----|-----|
@@ -540,6 +602,8 @@ Miglior Portiere| |
 
 Data: 2018-08-17 18:40:00
 
+Note: 
+
 | | Mai Una Gioia | Buona La Merda |
 |:-----:|-----|-----|
 Risultato|3|1
@@ -556,6 +620,8 @@ Miglior Portiere| |
 **Girone**: A - Pojane
 
 Data: 2018-08-17 19:00:00
+
+Note: 
 
 | | Una Quarta In Quattro | Liverpolle |
 |:-----:|-----|-----|
@@ -574,6 +640,8 @@ Miglior Portiere| |
 
 Data: 2018-08-17 19:20:00
 
+Note: 
+
 | | Le Par Sgherle | Sexy On The Pitch |
 |:-----:|-----|-----|
 Risultato|0|4
@@ -590,6 +658,8 @@ Miglior Portiere| |
 **Girone**: A - Pojane
 
 Data: 2018-08-17 19:40:00
+
+Note: 
 
 | | Le Siretette | Sgherle Le Par |
 |:-----:|-----|-----|
@@ -608,6 +678,8 @@ Miglior Portiere| |
 
 Data: 2018-08-17 20:00:00
 
+Note: 
+
 | | Lizzanella's Old Sughi | Positivi all'Etanolo |
 |:-----:|-----|-----|
 Risultato|5|2
@@ -624,6 +696,8 @@ Miglior Portiere| |
 **Girone**: B - Pantegane
 
 Data: 2018-08-17 20:20:00
+
+Note: 
 
 | | Plus Ultra | A.S. Tronze |
 |:-----:|-----|-----|
@@ -642,6 +716,8 @@ Miglior Portiere| |
 
 Data: 2018-08-17 21:00:00
 
+Note: 
+
 | | Italia '18 | Le Zeropersonalita' |
 |:-----:|-----|-----|
 Risultato|7|0
@@ -658,6 +734,8 @@ Miglior Portiere| |
 **Girone**: D - Lumazi
 
 Data: 2018-08-17 21:20:00
+
+Note: 
 
 | | Pinguini Trentini | U.S. Guarna |
 |:-----:|-----|-----|
@@ -676,6 +754,8 @@ Miglior Portiere| |
 
 Data: 2018-08-17 21:40:00
 
+Note: 
+
 | | Atletik-àlbar | Name Loading |
 |:-----:|-----|-----|
 Risultato|7|2
@@ -692,6 +772,8 @@ Miglior Portiere| |
 **Girone**: D - Lumazi
 
 Data: 2018-08-17 22:00:00
+
+Note: 
 
 | | F.C. Julia | E Voi De Chi Se Fioi |
 |:-----:|-----|-----|
@@ -710,6 +792,8 @@ Miglior Portiere| |
 
 Data: 2018-08-17 22:20:00
 
+Note: 
+
 | | La Banda Biscotti | Hellas Madonna |
 |:-----:|-----|-----|
 Risultato|2|4
@@ -726,6 +810,8 @@ Miglior Portiere| |
 **Girone**: F - Ruganti
 
 Data: 2018-08-17 22:40:00
+
+Note: 
 
 | | Discepoli Del Luppolo | Fel. Lazio |
 |:-----:|-----|-----|
@@ -744,6 +830,8 @@ Miglior Portiere| |
 
 Data: 2018-08-17 23:00:00
 
+Note: 
+
 | | Squadra Materasso | I Diversamente Lucidi |
 |:-----:|-----|-----|
 Risultato|2|6
@@ -760,6 +848,8 @@ Miglior Portiere| |
 **Girone**: C - Cavroni
 
 Data: 2018-08-17 23:20:00
+
+Note: 
 
 | | I Modium | Buona La Merda |
 |:-----:|-----|-----|
@@ -778,6 +868,8 @@ Miglior Portiere| |
 
 Data: 2018-08-17 23:40:00
 
+Note: 
+
 | | I Botanici | Caffe' Grazia |
 |:-----:|-----|-----|
 Risultato|1|4
@@ -794,6 +886,8 @@ Miglior Portiere| |
 **Girone**: C - Galinote
 
 Data: 2018-08-18 10:00:00
+
+Note: 
 
 | | Dinamo Nada | Sexy On The Pitch |
 |:-----:|-----|-----|
@@ -812,6 +906,8 @@ Miglior Portiere| |
 
 Data: 2018-08-18 10:20:00
 
+Note: 
+
 | | Mai Una Gioia | Sbocca Juniors |
 |:-----:|-----|-----|
 Risultato|2|2
@@ -828,6 +924,8 @@ Miglior Portiere| |
 **Girone**: G - Usei
 
 Data: 2018-08-18 10:40:00
+
+Note: 
 
 | | CGB Gamberoni | Squadra Materasso |
 |:-----:|-----|-----|
@@ -846,6 +944,8 @@ Miglior Portiere| |
 
 Data: 2018-08-18 11:00:00
 
+Note: 
+
 | | No S.A.V. | I Ragazzi Della Via Gra |
 |:-----:|-----|-----|
 Risultato|10|0
@@ -862,6 +962,8 @@ Miglior Portiere| |
 **Girone**: F - Ruganti
 
 Data: 2018-08-18 11:20:00
+
+Note: 
 
 | | Discepoli Del Luppolo | Hellas Madonna |
 |:-----:|-----|-----|
@@ -880,6 +982,8 @@ Miglior Portiere| |
 
 Data: 2018-08-18 11:40:00
 
+Note: 
+
 | | Una Quarta In Quattro | Le Amiche Di Citta' Laggiu' |
 |:-----:|-----|-----|
 Risultato|5|1
@@ -896,6 +1000,8 @@ Miglior Portiere| |
 **Girone**: D - Lumazi
 
 Data: 2018-08-18 12:00:00
+
+Note: 
 
 | | F.C. Julia | U.S. Guarna |
 |:-----:|-----|-----|
@@ -914,6 +1020,8 @@ Miglior Portiere| |
 
 Data: 2018-08-18 12:20:00
 
+Note: 
+
 | | Italia '18 | Sexy On The Pitch |
 |:-----:|-----|-----|
 Risultato|6|1
@@ -930,6 +1038,8 @@ Miglior Portiere| |
 **Girone**: H - Zorzi
 
 Data: 2018-08-18 12:40:00
+
+Note: 
 
 | | Seitenfeitelbeutel | Sbarx |
 |:-----:|-----|-----|
@@ -948,6 +1058,8 @@ Miglior Portiere| |
 
 Data: 2018-08-18 14:20:00
 
+Note: 
+
 | | Atletico Al Bar | Positivi all'Etanolo |
 |:-----:|-----|-----|
 Risultato|7|4
@@ -964,6 +1076,8 @@ Miglior Portiere| |
 **Girone**: A - Pojane
 
 Data: 2018-08-18 14:40:00
+
+Note: 
 
 | | Le Amiche Di Citta' Laggiu' | Liverpolle |
 |:-----:|-----|-----|
@@ -982,6 +1096,8 @@ Miglior Portiere| |
 
 Data: 2018-08-18 15:00:00
 
+Note: 
+
 | | Caffe' Grazia | Panze Da Bira |
 |:-----:|-----|-----|
 Risultato|9|0
@@ -998,6 +1114,8 @@ Miglior Portiere| |
 **Girone**: H - Zorzi
 
 Data: 2018-08-18 15:20:00
+
+Note: 
 
 | | Titslovers | Sbarx |
 |:-----:|-----|-----|
@@ -1016,6 +1134,8 @@ Miglior Portiere| |
 
 Data: 2018-08-18 15:40:00
 
+Note: 
+
 | | Atletik-àlbar | Le Citregne |
 |:-----:|-----|-----|
 Risultato|11|0
@@ -1032,6 +1152,8 @@ Miglior Portiere| |
 **Girone**: E - Mussi
 
 Data: 2018-08-18 16:00:00
+
+Note: 
 
 | | I Ragazzi Della Via Gra | Fassone & Mirabelli |
 |:-----:|-----|-----|
@@ -1050,6 +1172,8 @@ Miglior Portiere| |
 
 Data: 2018-08-18 16:20:00
 
+Note: 
+
 | | Una Quarta In Quattro | Sgherle Le Par |
 |:-----:|-----|-----|
 Risultato|8|1
@@ -1066,6 +1190,8 @@ Miglior Portiere| |
 **Girone**: F - Ruganti
 
 Data: 2018-08-18 16:40:00
+
+Note: 
 
 | | Fel. Lazio | Hellas Madonna |
 |:-----:|-----|-----|
@@ -1084,6 +1210,8 @@ Miglior Portiere| |
 
 Data: 2018-08-18 17:00:00
 
+Note: 
+
 | | Le Siretette | Liverpolle |
 |:-----:|-----|-----|
 Risultato|2|1
@@ -1100,6 +1228,8 @@ Miglior Portiere| |
 **Girone**: C - Galinote
 
 Data: 2018-08-18 17:20:00
+
+Note: 
 
 | | Le Zeropersonalita' | Sexy On The Pitch |
 |:-----:|-----|-----|
@@ -1118,6 +1248,8 @@ Miglior Portiere| |
 
 Data: 2018-08-18 18:00:00
 
+Note: 
+
 | | Name Loading | Le Citregne |
 |:-----:|-----|-----|
 Risultato|6|2
@@ -1134,6 +1266,8 @@ Miglior Portiere| |
 **Girone**: A - Pojane
 
 Data: 2018-08-18 17:40:00
+
+Note: 
 
 | | Le Amiche Di Citta' Laggiu' | Sgherle Le Par |
 |:-----:|-----|-----|
@@ -1152,6 +1286,8 @@ Miglior Portiere| |
 
 Data: 2018-08-18 18:20:00
 
+Note: 
+
 | | Buona La Merda | Sbocca Juniors |
 |:-----:|-----|-----|
 Risultato|1|9
@@ -1168,6 +1304,8 @@ Miglior Portiere| |
 **Girone**: B - Pantegane
 
 Data: 2018-08-18 18:40:00
+
+Note: 
 
 | | Atletik-àlbar | A.S. Tronze |
 |:-----:|-----|-----|
@@ -1186,6 +1324,8 @@ Miglior Portiere| |
 
 Data: 2018-08-18 19:00:00
 
+Note: 
+
 | | Shark Attack | Positivi all'Etanolo |
 |:-----:|-----|-----|
 Risultato|9|2
@@ -1202,6 +1342,8 @@ Miglior Portiere| |
 **Girone**: H - Zorzi
 
 Data: 2018-08-18 19:20:00
+
+Note: 
 
 | | Titslovers | Seitenfeitelbeutel |
 |:-----:|-----|-----|
@@ -1220,6 +1362,8 @@ Miglior Portiere| |
 
 Data: 2018-08-18 19:40:00
 
+Note: 
+
 | | Clitoriders | I Diversamente Lucidi |
 |:-----:|-----|-----|
 Risultato|3|1
@@ -1236,6 +1380,8 @@ Miglior Portiere| |
 **Girone**: A - Pojane
 
 Data: 2018-08-18 20:00:00
+
+Note: 
 
 | | Le Siretette | Una Quarta In Quattro |
 |:-----:|-----|-----|
@@ -1254,6 +1400,8 @@ Miglior Portiere| |
 
 Data: 2018-08-18 21:00:00
 
+Note: 
+
 | | F.C. Savignano | No S.A.V. |
 |:-----:|-----|-----|
 Risultato|1|2
@@ -1270,6 +1418,8 @@ Miglior Portiere| |
 **Girone**: D - Lumazi
 
 Data: 2018-08-18 21:20:00
+
+Note: 
 
 | | Pinguini Trentini | E Voi De Chi Se Fioi |
 |:-----:|-----|-----|
@@ -1288,6 +1438,8 @@ Miglior Portiere| |
 
 Data: 2018-08-18 21:40:00
 
+Note: 
+
 | | Gli Avanzi | Caffe' Grazia |
 |:-----:|-----|-----|
 Risultato|2|2
@@ -1304,6 +1456,8 @@ Miglior Portiere| |
 **Girone**: B - Cunei
 
 Data: 2018-08-18 22:00:00
+
+Note: 
 
 | | Shark Attack | Lizzanella's Old Sughi |
 |:-----:|-----|-----|
@@ -1322,6 +1476,8 @@ Miglior Portiere| |
 
 Data: 2018-08-18 22:20:00
 
+Note: 
+
 | | I Modium | Mai Una Gioia |
 |:-----:|-----|-----|
 Risultato|3|3
@@ -1338,6 +1494,8 @@ Miglior Portiere| |
 **Girone**: 2004
 
 Data: 2018-08-18 22:40:00
+
+Note: 
 
 | | Una Quarta In Quattro | Sexy On The Pitch |
 |:-----:|-----|-----|
@@ -1356,6 +1514,8 @@ Miglior Portiere| |
 
 Data: 2018-08-18 23:00:00
 
+Note: 
+
 | | Name Loading | Italia '18 |
 |:-----:|-----|-----|
 Risultato|2|5
@@ -1372,6 +1532,8 @@ Miglior Portiere| |
 **Girone**: 2004
 
 Data: 2018-08-19 11:00:00
+
+Note: 
 
 | | Dinamo Nada | Plus Ultra |
 |:-----:|-----|-----|
@@ -1390,6 +1552,8 @@ Miglior Portiere| |
 
 Data: 2018-08-19 11:20:00
 
+Note: 
+
 | | Atletik-àlbar | Le Siretette |
 |:-----:|-----|-----|
 Risultato|2|3
@@ -1406,6 +1570,8 @@ Miglior Portiere| |
 **Girone**: 1008
 
 Data: 2018-08-18 23:40:00
+
+Note: 
 
 | | Clitoriders | Seitenfeitelbeutel |
 |:-----:|-----|-----|
@@ -1424,6 +1590,8 @@ Miglior Portiere| |
 
 Data: 2018-08-19 10:00:00
 
+Note: 
+
 | | CGB Gamberoni | Titslovers |
 |:-----:|-----|-----|
 Risultato|3|5
@@ -1440,6 +1608,8 @@ Miglior Portiere| |
 **Girone**: 1008
 
 Data: 2018-08-18 23:20:00
+
+Note: 
 
 | | Fel. Lazio | No S.A.V. |
 |:-----:|-----|-----|
@@ -1458,6 +1628,8 @@ Miglior Portiere| |
 
 Data: 2018-08-19 10:40:00
 
+Note: 
+
 | | Shark Attack | Gli Avanzi |
 |:-----:|-----|-----|
 Risultato|2|4
@@ -1474,6 +1646,8 @@ Miglior Portiere| |
 **Girone**: 1008
 
 Data: 2018-08-19 11:40:00
+
+Note: 
 
 | | Discepoli Del Luppolo | F.C. Savignano |
 |:-----:|-----|-----|
@@ -1492,6 +1666,8 @@ Miglior Portiere| |
 
 Data: 2018-08-19 12:20:00
 
+Note: 
+
 | | Lizzanella's Old Sughi | Caffe' Grazia |
 |:-----:|-----|-----|
 Risultato|2|1
@@ -1508,6 +1684,8 @@ Miglior Portiere| |
 **Girone**: 2000
 
 Data: 2018-08-19 17:00:00
+
+Note: 
 
 | | Sgherle Le Par | Le Zeropersonalita' |
 |:-----:|-----|-----|
@@ -1526,6 +1704,8 @@ Miglior Portiere| |
 
 Data: 2018-08-19 17:20:00
 
+Note: 
+
 | | Le Citregne | Le Par Sgherle |
 |:-----:|-----|-----|
 Risultato|3|1
@@ -1542,6 +1722,8 @@ Miglior Portiere| |
 **Girone**: 2000
 
 Data: 2018-08-19 17:40:00
+
+Note: 
 
 | | Liverpolle | Le Amiche Di Citta' Laggiu' |
 |:-----:|-----|-----|
@@ -1560,6 +1742,8 @@ Miglior Portiere| |
 
 Data: 2018-08-19 10:20:00
 
+Note: 
+
 | | Pinguini Trentini | Mai Una Gioia |
 |:-----:|-----|-----|
 Risultato|1|4
@@ -1576,6 +1760,8 @@ Miglior Portiere| |
 **Girone**: 1008
 
 Data: 2018-08-19 12:00:00
+
+Note: 
 
 | | I Modium | F.C. Julia |
 |:-----:|-----|-----|
@@ -1594,6 +1780,8 @@ Miglior Portiere| |
 
 Data: 2018-08-19 14:20:00
 
+Note: 
+
 | | Fel. Lazio | Clitoriders |
 |:-----:|-----|-----|
 Risultato|1|13
@@ -1610,6 +1798,8 @@ Miglior Portiere| |
 **Girone**: 1004
 
 Data: 2018-08-19 15:00:00
+
+Note: 
 
 | | Mai Una Gioia | Gli Avanzi |
 |:-----:|-----|-----|
@@ -1628,6 +1818,8 @@ Miglior Portiere| |
 
 Data: 2018-08-19 15:30:00
 
+Note: 
+
 | | Titslovers | Discepoli Del Luppolo |
 |:-----:|-----|-----|
 Risultato|1|2
@@ -1644,6 +1836,8 @@ Miglior Portiere| |
 **Girone**: 2002
 
 Data: 2018-08-19 18:00:00
+
+Note: 
 
 | | Una Quarta In Quattro | Le Siretette |
 |:-----:|-----|-----|
@@ -1662,6 +1856,8 @@ Miglior Portiere| |
 
 Data: 2018-08-19 18:30:00
 
+Note: 
+
 | | Italia '18 | Dinamo Nada |
 |:-----:|-----|-----|
 Risultato|2|3
@@ -1678,6 +1874,8 @@ Miglior Portiere| |
 **Girone**: 1004
 
 Data: 2018-08-19 14:40:00
+
+Note: 
 
 | | I Modium | Lizzanella's Old Sughi |
 |:-----:|-----|-----|
@@ -1696,6 +1894,8 @@ Miglior Portiere| |
 
 Data: 2018-08-19 19:30:00
 
+Note: 
+
 | | Mai Una Gioia | Discepoli Del Luppolo |
 |:-----:|-----|-----|
 Risultato|3|7
@@ -1712,6 +1912,8 @@ Miglior Portiere| |
 **Girone**: 1002
 
 Data: 2018-08-19 20:00:00
+
+Note: 
 
 | | I Modium | Clitoriders |
 |:-----:|-----|-----|
@@ -1730,6 +1932,8 @@ Miglior Portiere| |
 
 Data: 2018-08-19 21:00:00
 
+Note: 
+
 | | Le Siretette | Italia '18 |
 |:-----:|-----|-----|
 Risultato|2|5
@@ -1746,6 +1950,8 @@ Miglior Portiere| |
 **Girone**: 2001
 
 Data: 2018-08-19 22:00:00
+
+Note: 
 
 | | Una Quarta In Quattro | Dinamo Nada |
 |:-----:|-----|-----|
@@ -1764,6 +1970,8 @@ Miglior Portiere| |
 
 Data: 2018-08-19 21:30:00
 
+Note: 
+
 | | Mai Una Gioia | Clitoriders |
 |:-----:|-----|-----|
 Risultato|2|5
@@ -1780,6 +1988,8 @@ Miglior Portiere| |
 **Girone**: 1001
 
 Data: 2018-08-19 22:30:00
+
+Note: 
 
 | | Discepoli Del Luppolo | I Modium |
 |:-----:|-----|-----|
