@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2022-07-01 17:19:03.828157
+categories: torneo
+permalink: /torneo/2021/
+---
+| PARTITA | GIRONE | DATA|  INCONTRO | RISULTATO | GENERE |DETTAGLI |
+|:-----:|-----|-----|-------|------|----|------|

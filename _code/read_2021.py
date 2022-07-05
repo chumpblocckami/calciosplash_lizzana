@@ -5,17 +5,20 @@ from collections import Counter
 import json
 
 anno = 2021
-password = input("Insert Password")
+password = input("Insert Password: ")
 client = pymongo.MongoClient(f"mongodb+srv://gsp:{password}@gsp.pfv6c.mongodb.net/?retryWrites=true&w=majority")
 db = client.test
 
+
 def make_giocatori():
     matches = pd.DataFrame().from_records([x for x in client.GSP.matches.find({})])
-    matches.columns = ["id", "squadra_1", "squadra_2", "gol_squadra_1", "gol_squadra_2", "data", "orario", "genere_gironi",
+    matches.columns = ["id", "squadra_1", "squadra_2", "gol_squadra_1", "gol_squadra_2", "data", "orario",
+                       "genere_gironi",
                        "id", "tempo", "goal", "best_giocatore", "gialli1", "team"]
     matches = matches.drop(columns=["id"])
     goleador = [x.rstrip().lstrip() for x in ",".join(list(itertools.chain(
-        matches["goal"].fillna("[]").apply(lambda x: ''.join(e for e in x if e.isalnum() or e == "," or e == " "))))).split(
+        matches["goal"].fillna("[]").apply(
+            lambda x: ''.join(e for e in x if e.isalnum() or e == "," or e == " "))))).split(
         ",")]
     goals = Counter(goleador)
 
@@ -66,15 +69,17 @@ def make_giocatori():
     anonimi.to_excel(writer, sheet_name="giocatori_senza_soprannome")
     writer.save()
 
+
 def make_torneo():
     matches = pd.DataFrame().from_records([x for x in client.GSP.matches.find({})])
-    matches.columns = ["id", "squadra_1", "squadra_2", "gol_squadra_1", "gol_squadra_2", "data", "orario", "genere_gironi",
+    matches.columns = ["id", "squadra_1", "squadra_2", "gol_squadra_1", "gol_squadra_2", "data", "orario",
+                       "genere_gironi",
                        "id", "tempo", "goal", "best_giocatore", "gialli1", "team"]
     matches = matches.drop(columns=["id"])
 
-    data = [f"calciosplash_{anno}"]
+    data = {f"torneo_{anno}": {}}
     n = 0
-    for idx,row in matches.iterrows():
+    for idx, row in matches.iterrows():
         match_data = {}
         match_data["gol_squadra_1"] = row["gol_squadra_1"]
         match_data["gol_squadra_2"] = row["gol_squadra_2"]
@@ -86,20 +91,26 @@ def make_torneo():
         match_data["genere_gironi"] = row["genere_gironi"]
         match_data["gialli1"] = row["gialli1"]
         match_data["gialli2"] = ""
-        match_data["rossi1"] =  ""
-        match_data["rossi2"] =  ""
-        match_data["goleador1"] = {x:len(x) for x in row["goal"]} #qua devo parsare e prendere tutto e bla bla bla
+        match_data["rossi1"] = ""
+        match_data["rossi2"] = ""
+        try:
+            match_data["goleador1"] = {x: len([y for y in eval(row["goal"]) if x == y]) for x in eval(row["goal"])}
+        except:
+            match_data["goleador1"] = {}
         match_data["goleador2"] = ""
-        match_data["data"] = row["tempo"]
-        match_data["autogol1"] =  "{}"
-        match_data["autogol2"] =  "{}"
-        match_data["best_giocatore_1"] =  { },
-        match_data["best_giocatore_2"] =  {},
-        match_data["best_portiere_1"] =  {},
-        match_data["best_portiere_2"] =  {}
-        data[f"calciosplash_anno"][str(n)] = match_data
-        n = n+1
+        match_data["orario"] = row["tempo"]
+        match_data["autogol1"] = "{}"
+        match_data["autogol2"] = "{}"
+        match_data["best_giocatore_1"] = {row["best_giocatore"]: 1}
+        match_data["best_giocatore_2"] = {},
+        match_data["best_portiere_1"] = {},
+        match_data["best_portiere_2"] = {}
+        data[f"torneo_{anno}"][str(n)] = match_data
+        n = n + 1
+
+    with open(f"./../_legacy/calciosplash_{anno}/torneo_{anno}.json", "w") as file:
+        json.dump(data, file)
 
 if __name__ == "__main__":
-    #make_giocatori()
+    # make_giocatori()
     make_torneo()

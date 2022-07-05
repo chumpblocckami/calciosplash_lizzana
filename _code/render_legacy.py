@@ -74,5 +74,5 @@ def render_calciosplash(anno):
 
 
 if __name__ == "__main__":
-    for anno in [2019, 2018, 2017, 2016, 2015, 2014]:
+    for anno in [2021, 2019, 2018, 2017, 2016, 2015, 2014]:
         render_calciosplash(anno=anno)
