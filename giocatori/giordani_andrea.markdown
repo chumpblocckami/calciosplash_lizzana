@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 16:03:37.465411
+date: 2022-07-12 16:45:01.960650
 categories: torneo
 permalink: /giocatore/giordani_andrea/
 ---

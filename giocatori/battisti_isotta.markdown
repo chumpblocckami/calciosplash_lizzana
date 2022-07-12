@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 16:03:37.500837
+date: 2022-07-12 16:45:01.991899
 categories: torneo
 permalink: /giocatore/battisti_isotta/
 ---

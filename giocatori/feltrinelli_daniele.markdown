@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 16:03:37.523706
+date: 2022-07-12 16:45:02.045298
 categories: torneo
 permalink: /giocatore/feltrinelli_daniele/
 ---
@@ -16,7 +16,7 @@ permalink: /giocatore/feltrinelli_daniele/
 
 |Anno|Squadra|Soprannome|
 |:---:|---|---|
-|2021|LizzanellaAllSughi|La Transiberiana|
+|2021|Lizzanella All Sughi|La Transiberiana|
 |2019|Lizzanella'S Old Sughi|La Transiberiana|
 |2018|Lizzanella's Old Sughi|La Transiberiana|
 |2017|Lizzanella's old sughi||

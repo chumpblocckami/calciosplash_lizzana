@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 16:03:37.753938
+date: 2022-07-12 16:45:02.290453
 categories: torneo
 permalink: /giocatore/parisi_leonardo/
 ---

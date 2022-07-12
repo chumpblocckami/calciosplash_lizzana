@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 16:03:37.349201
+date: 2022-07-12 16:45:01.829069
 categories: torneo
 permalink: /giocatore/chiusole_cecilia/
 ---

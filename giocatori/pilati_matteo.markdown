@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 16:03:37.277737
+date: 2022-07-12 16:45:01.760059
 categories: torneo
 permalink: /giocatore/pilati_matteo/
 ---
@@ -16,7 +16,7 @@ permalink: /giocatore/pilati_matteo/
 
 |Anno|Squadra|Soprannome|
 |:---:|---|---|
-|2021|OSolENott|Ponzio Pilati|
+|2021|O Sol E Nott|Ponzio Pilati|
 |2019|Fel Lazio|Ponzio Pilati|
 |2018|Fel. Lazio|Ponzio Pilati|
 |2017|Tutto Capsule Rovereto||

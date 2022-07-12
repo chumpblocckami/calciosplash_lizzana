@@ -1,12 +1,12 @@
 ---
 layout: post
-date: 2022-07-01 16:03:37.254313
+date: 2022-07-12 16:45:01.728801
 categories: torneo
 permalink: /giocatore/zandonati_stefania/
 ---
 <link rel='stylesheets' href='./../assets/giocatori.css'>
 
-| Zandonati Stefania (Quella Nuova
+| Zandonati Stefania (Quella Nuova
 ) |
 |:-----:|
 | ![Immagine mancante]('./../../assets/giocatori/zandonati_stefania.png){:.immagine_giocatori} |

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 16:03:37.477342
+date: 2022-07-12 16:45:01.960650
 categories: torneo
 permalink: /giocatore/zaffoni_michele/
 ---

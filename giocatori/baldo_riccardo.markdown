@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 16:03:37.313078
+date: 2022-07-12 16:45:01.791301
 categories: torneo
 permalink: /giocatore/baldo_riccardo/
 ---
@@ -16,7 +16,7 @@ permalink: /giocatore/baldo_riccardo/
 
 |Anno|Squadra|Soprannome|
 |:---:|---|---|
-|2021|WandaTeam|L'Idolo Delle 15enni|
+|2021|Wanda Team|L'Idolo Delle 15enni|
 |2019|Discepoli Del Luppolo|L'Idolo Delle 15enni|
 |2018|Discepoli Del Luppolo|L'idolo delle 15enni|
 |2017|Discepoli del luppolo||

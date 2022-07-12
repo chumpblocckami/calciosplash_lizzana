@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 16:03:37.429763
+date: 2022-07-12 16:45:01.913761
 categories: torneo
 permalink: /giocatore/maraner_matteo/
 ---

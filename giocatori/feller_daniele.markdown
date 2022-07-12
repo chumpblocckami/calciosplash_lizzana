@@ -1,12 +1,12 @@
 ---
 layout: post
-date: 2022-07-01 16:03:37.453785
+date: 2022-07-12 16:45:01.945023
 categories: torneo
 permalink: /giocatore/feller_daniele/
 ---
 <link rel='stylesheets' href='./../assets/giocatori.css'>
 
-| Feller Daniele |
+| Feller Daniele (Babbuino) |
 |:-----:|
 | ![Immagine mancante]('./../../assets/giocatori/feller_daniele.png){:.immagine_giocatori} |
 
@@ -16,8 +16,8 @@ permalink: /giocatore/feller_daniele/
 
 |Anno|Squadra|Soprannome|
 |:---:|---|---|
-|2021|BuonaLaMerda||
-|2019|Buona La Merda||
+|2021|Buona La Merda|Babbuino|
+|2019|Buona La Merda|Babbuino|
 |2018|Buona La Merda||
 
 

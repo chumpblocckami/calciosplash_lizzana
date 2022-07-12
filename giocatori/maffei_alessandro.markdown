@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 16:03:37.581990
+date: 2022-07-12 16:45:02.114307
 categories: torneo
 permalink: /giocatore/maffei_alessandro/
 ---
@@ -16,7 +16,7 @@ permalink: /giocatore/maffei_alessandro/
 
 |Anno|Squadra|Soprannome|
 |:---:|---|---|
-|2021|FcSavignano|Fondatore Di Social Network|
+|2021|Fc Savignano|Fondatore Di Social Network|
 |2019|F.C. Savignano|Fondatore Di Social Network|
 |2018|F.C. Savignano|Fondatore di social network|
 |2017|F.C. Savignano||

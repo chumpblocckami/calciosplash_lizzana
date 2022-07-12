@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 16:03:37.360716
+date: 2022-07-12 16:45:01.844698
 categories: torneo
 permalink: /giocatore/deimichei_chiara/
 ---

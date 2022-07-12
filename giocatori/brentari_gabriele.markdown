@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 16:03:37.372133
+date: 2022-07-12 16:45:01.860325
 categories: torneo
 permalink: /giocatore/brentari_gabriele/
 ---
@@ -16,7 +16,7 @@ permalink: /giocatore/brentari_gabriele/
 
 |Anno|Squadra|Soprannome|
 |:---:|---|---|
-|2021|SharkAttack|Mocio Vileda|
+|2021|Shark Attack|Mocio Vileda|
 |2019|Shark Attack|Mocio Vileda|
 |2018|Shark Attack|Mocio Vileda|
 |2017|Shark attak||

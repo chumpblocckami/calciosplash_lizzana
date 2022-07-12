@@ -18,7 +18,7 @@ layout: home
     width: 800,
     height: 500,
     channel: "mutande_bianche_bombo",
-    parent: ["calciosplashlizzana.it"]
+    parent: ["chumpblocckami.github.io"]
   };
   var player = new Twitch.Player("test", options);
 </script>

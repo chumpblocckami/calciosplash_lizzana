@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 16:03:37.707556
+date: 2022-07-12 16:45:02.230215
 categories: torneo
 permalink: /giocatore/ceschini_leonardo/
 ---
@@ -16,7 +16,7 @@ permalink: /giocatore/ceschini_leonardo/
 
 |Anno|Squadra|Soprannome|
 |:---:|---|---|
-|2021|PinguiniTrentini|Pan Bauletto|
+|2021|Pinguini Trentini|Pan Bauletto|
 |2019|Pinguini Trentini|Pan Bauletto|
 |2018|Pinguini Trentini|Pan bauletto|
 |2016|Pinguini Trentini||

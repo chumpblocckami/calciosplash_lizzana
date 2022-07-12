@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 16:03:37.488915
+date: 2022-07-12 16:45:01.976280
 categories: torneo
 permalink: /giocatore/martini_simone/
 ---
@@ -16,7 +16,7 @@ permalink: /giocatore/martini_simone/
 
 |Anno|Squadra|Soprannome|
 |:---:|---|---|
-|2021|FelLazio|Donatella Rettore|
+|2021|Fel Lazio|Donatella Rettore|
 |2019|Fel Lazio|Donatella Rettore|
 |2018|Fel. Lazio|Donatella Rettore|
 |2017|Fel Lazio||

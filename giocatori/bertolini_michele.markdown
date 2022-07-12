@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 16:03:37.650343
+date: 2022-07-12 16:45:02.176819
 categories: torneo
 permalink: /giocatore/bertolini_michele/
 ---
@@ -16,7 +16,7 @@ permalink: /giocatore/bertolini_michele/
 
 |Anno|Squadra|Soprannome|
 |:---:|---|---|
-|2021|WandaTeam|Marco Columbro|
+|2021|Wanda Team|Marco Columbro|
 |2019|Discepoli Del Luppolo|Marco Columbro|
 |2018|Discepoli Del Luppolo|Marco Columbro|
 |2017|Discepoli del luppolo||

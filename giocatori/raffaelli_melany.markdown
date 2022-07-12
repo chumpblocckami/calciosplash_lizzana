@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 16:03:37.535328
+date: 2022-07-12 16:45:02.060924
 categories: torneo
 permalink: /giocatore/raffaelli_melany/
 ---
@@ -16,7 +16,7 @@ permalink: /giocatore/raffaelli_melany/
 
 |Anno|Squadra|Soprannome|
 |:---:|---|---|
-|2021|FourTaie||
+|2021|Four Taie||
 |2018|Le Amiche Di Citta' Laggiu'|Corazon Espinado|
 |2017|Le amiche di città laggiù||
 

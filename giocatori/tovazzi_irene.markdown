@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 16:03:37.336606
+date: 2022-07-12 16:45:01.813435
 categories: torneo
 permalink: /giocatore/tovazzi_irene/
 ---
@@ -16,7 +16,7 @@ permalink: /giocatore/tovazzi_irene/
 
 |Anno|Squadra|Soprannome|
 |:---:|---|---|
-|2021|FourTaie|La Marmelona|
+|2021|Four Taie|La Marmelona|
 |2019|Dinamo Nada|La Marmelona|
 |2018|Dinamo Nada|La Marmelona|
 |2017|Dinamo nada||

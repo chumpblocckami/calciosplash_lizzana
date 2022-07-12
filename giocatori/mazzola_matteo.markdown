@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 16:03:37.742434
+date: 2022-07-12 16:45:02.277091
 categories: torneo
 permalink: /giocatore/mazzola_matteo/
 ---

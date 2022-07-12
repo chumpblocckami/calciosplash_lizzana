@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 16:03:37.673774
+date: 2022-07-12 16:45:02.192443
 categories: torneo
 permalink: /giocatore/cescatti_manuel/
 ---
@@ -16,7 +16,7 @@ permalink: /giocatore/cescatti_manuel/
 
 |Anno|Squadra|Soprannome|
 |:---:|---|---|
-|2021|FelLazio|Il Bolscevico|
+|2021|Fel Lazio|Il Bolscevico|
 |2019|Fel Lazio|Il Bolscevico|
 |2018|Fel. Lazio|Il Bolscevico|
 |2017|Fel Lazio||

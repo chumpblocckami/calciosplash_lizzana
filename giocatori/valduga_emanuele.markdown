@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 16:03:37.512473
+date: 2022-07-12 16:45:02.029675
 categories: torneo
 permalink: /giocatore/valduga_emanuele/
 ---
@@ -16,7 +16,7 @@ permalink: /giocatore/valduga_emanuele/
 
 |Anno|Squadra|Soprannome|
 |:---:|---|---|
-|2021|WandaTeam||
+|2021|Wanda Team||
 |2019|Wanda Tim||
 
 

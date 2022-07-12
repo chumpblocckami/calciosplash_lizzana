@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 16:03:37.406764
+date: 2022-07-12 16:45:01.891568
 categories: torneo
 permalink: /giocatore/finarolli_alice/
 ---

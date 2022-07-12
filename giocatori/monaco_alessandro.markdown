@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 16:03:37.395060
+date: 2022-07-12 16:45:01.875949
 categories: torneo
 permalink: /giocatore/monaco_alessandro/
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 16:03:37.570447
+date: 2022-07-12 16:45:02.092172
 categories: torneo
 permalink: /giocatore/conzatti_andrea/
 ---
@@ -16,7 +16,7 @@ permalink: /giocatore/conzatti_andrea/
 
 |Anno|Squadra|Soprannome|
 |:---:|---|---|
-|2021|FcSavignano|Caldaia|
+|2021|Fc Savignano|Caldaia|
 |2019|F.C. Savignano|Caldaia|
 |2018|F.C. Savignano|Caldaia|
 |2017|F.C. Savignano||

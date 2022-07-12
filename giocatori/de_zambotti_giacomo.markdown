@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 16:03:37.604669
+date: 2022-07-12 16:45:02.129947
 categories: torneo
 permalink: /giocatore/de_zambotti_giacomo/
 ---

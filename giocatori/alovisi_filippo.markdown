@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 16:03:37.288882
+date: 2022-07-12 16:45:01.775722
 categories: torneo
 permalink: /giocatore/alovisi_filippo/
 ---
@@ -16,7 +16,7 @@ permalink: /giocatore/alovisi_filippo/
 
 |Anno|Squadra|Soprannome|
 |:---:|---|---|
-|2021|PositiviAll'etanolo|Tromba|
+|2021|Positivi All'etanolo|Tromba|
 |2019|Positivi All'Etanolo|Tromba|
 |2018|Positivi all'Etanolo|Tromba|
 |2017|Atletico madrink (bvft)||

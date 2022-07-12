@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 16:03:37.559073
+date: 2022-07-12 16:45:02.076548
 categories: torneo
 permalink: /giocatore/giordani_nicolas/
 ---
@@ -16,7 +16,7 @@ permalink: /giocatore/giordani_nicolas/
 
 |Anno|Squadra|Soprannome|
 |:---:|---|---|
-|2021|FcSavignano|El Tiburon|
+|2021|Fc Savignano|El Tiburon|
 |2019|F.C. Savignano|El Tiburon|
 |2017|F.C. Savignano||
 |2016|F.C. Savignano||

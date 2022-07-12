@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 16:03:37.730728
+date: 2022-07-12 16:45:02.261466
 categories: torneo
 permalink: /giocatore/miorandi_emanuele/
 ---
@@ -16,7 +16,7 @@ permalink: /giocatore/miorandi_emanuele/
 
 |Anno|Squadra|Soprannome|
 |:---:|---|---|
-|2021|LizzanellaAllSughi|Braghe Da Sci|
+|2021|Lizzanella All Sughi|Braghe Da Sci|
 |2019|Lizzanella'S Old Sughi|Braghe Da Sci|
 |2018|Lizzanella's Old Sughi|Braghe da Sci|
 |2017|Lizzanella's old sughi||

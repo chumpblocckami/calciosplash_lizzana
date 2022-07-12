@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 16:03:37.301598
+date: 2022-07-12 16:45:01.791301
 categories: torneo
 permalink: /giocatore/manica_davide/
 ---
@@ -16,7 +16,7 @@ permalink: /giocatore/manica_davide/
 
 |Anno|Squadra|Soprannome|
 |:---:|---|---|
-|2021|PinguiniTrentini|Pala Eolica|
+|2021|Pinguini Trentini|Pala Eolica|
 |2019|Pinguini Trentini|Pala Eolica|
 |2018|Pinguini Trentini|Pala Eolica|
 |2017|Pinguini trentini||

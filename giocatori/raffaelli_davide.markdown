@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 16:03:37.266087
+date: 2022-07-12 16:45:01.744427
 categories: torneo
 permalink: /giocatore/raffaelli_davide/
 ---

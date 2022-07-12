@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 16:03:37.383753
+date: 2022-07-12 16:45:01.860325
 categories: torneo
 permalink: /giocatore/graziola_andrea/
 ---
@@ -16,7 +16,7 @@ permalink: /giocatore/graziola_andrea/
 
 |Anno|Squadra|Soprannome|
 |:---:|---|---|
-|2021|BuonaLaMerda||
+|2021|Buona La Merda||
 |2019|Buona La Merda||
 |2018|Buona La Merda||
 

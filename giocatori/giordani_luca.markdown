@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-01 16:03:37.418261
+date: 2022-07-12 16:45:01.907252
 categories: torneo
 permalink: /giocatore/giordani_luca/
 ---
@@ -16,7 +16,7 @@ permalink: /giocatore/giordani_luca/
 
 |Anno|Squadra|Soprannome|
 |:---:|---|---|
-|2021|SharkAttack|Lo Chef Più In Forma D'Europa|
+|2021|Shark Attack|Lo Chef Più In Forma D'Europa|
 |2019|Shark Attack|Lo Chef Più In Forma D'Europa|
 |2018|Shark Attack|Lo chef più in forma d'europa|
 |2017|Shark attak||
