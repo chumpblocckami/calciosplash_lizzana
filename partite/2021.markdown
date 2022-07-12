@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-05 12:32:39.308182
+date: 2022-07-12 14:06:53.923968
 categories: partite
 permalink: /partite/2021/
 ---
@@ -18,12 +18,12 @@ Note:
 | | Positivi All'etanolo | Hellas Madonna |
 |:-----:|-----|-----|
 Risultato|0|2
-Goals|⚽ Benetti Filippo|⚽ Galvagni Alessandro
+Goals||⚽ Galvagni Alessandro<br/>⚽ Benetti Filippo
 Autogoals||
 Falli|2|2
 Gialli||
 Rossi||
-Miglior Giocatore| | ⭐ Ricci Jacopo<br/><br/>⭐ Galvagni Alessandro<br/>
+Miglior Giocatore| | ⭐ Ricci Jacopo<br/><br/>⭐ Galvagni Alessandro<br/><br/>⭐ Benetti Filippo<br/>
 Miglior Portiere| | 
 
 
@@ -61,7 +61,7 @@ Autogoals||
 Falli||
 Gialli||
 Rossi||
-Miglior Giocatore| | ⭐ Manica Davide<br/>
+Miglior Giocatore| | ⭐⭐ Manica Davide<br/><br/>⭐ Brigo Matteo<br/>
 Miglior Portiere| | 
 
 

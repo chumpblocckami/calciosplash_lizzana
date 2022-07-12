@@ -25,7 +25,7 @@ def render():
             n=n+1
             giocatori = giocatori.replace(".markdown","")
             giocatore = " ".join([x.capitalize() for x in giocatori.split("_")])
-            row += " | " + f"[{giocatore}](/calciosplash_lizzana/giocatore/{giocatori})"
+            row += " | " + f"[{giocatore}](/giocatore/{giocatori})"
             if n % 3 == 0:
                 row = row + ""
                 markdown.append(row)

@@ -55,7 +55,7 @@ def render_calciosplash(anno):
     dettagli.append(f"\nQui puoi trovare tutte le partite del {anno}")
     for index, document in tqdm(data[f"torneo_{anno}"].items(), desc=f"Rendering torneo {anno}"):
         #try:
-            link = f"[Info](/calciosplash_lizzana/partite/{anno}/#partita{index})"  # f"[Info](/calciosplash_lizzana/torneo/{anno}#{index})"
+            link = f"[Info](/partite/{anno}/#partita{index})"  # f"[Info](/calciosplash_lizzana/torneo/{anno}#{index})"
             genere = "🍻" if document["genere_gironi"] == 1 else "🍸"
             row = [index, document["gironi"], f"{document['data'] if 'data' in document else dt.datetime.now()}",
                    f'{document["squadra_1"].rstrip()} - {document["squadra_2"].rstrip()}',

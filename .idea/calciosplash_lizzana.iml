@@ -5,7 +5,7 @@
       <excludeFolder url="file://$MODULE_DIR$/calciosplash" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.9 (calciosplash_lizzana)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.8 (calciosplash_lizzana)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="PyDocumentationSettings">
