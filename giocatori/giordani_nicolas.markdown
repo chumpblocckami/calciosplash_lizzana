@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-12 16:45:02.076548
+date: 2022-07-14 15:39:58.976884
 categories: torneo
 permalink: /giocatore/giordani_nicolas/
 ---
@@ -42,3 +42,9 @@ permalink: /giocatore/giordani_nicolas/
 |Rossi|0|0|0|0|0|0|0|
 |Best player|0|0|0|2|0|2|4|
 |Stelle|0|0|0|2|0|3|5|
+
+
+## Palmares
+----
+
+- **458°** posto per goal segnati (goal fatti: 4)

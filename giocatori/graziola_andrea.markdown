@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-12 16:45:01.860325
+date: 2022-07-14 15:39:58.823691
 categories: torneo
 permalink: /giocatore/graziola_andrea/
 ---
@@ -39,3 +39,9 @@ permalink: /giocatore/graziola_andrea/
 |Rossi|0|0|1|1|
 |Best player|0|0|0|0|
 |Stelle|0|0|0|0|
+
+
+## Palmares
+----
+
+**Impegnete de pu! Grinta!!!! Mai subire zo bire!!🍻🍻** 

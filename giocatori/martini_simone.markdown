@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-12 16:45:01.976280
+date: 2022-07-14 15:39:58.917454
 categories: torneo
 permalink: /giocatore/martini_simone/
 ---
@@ -43,3 +43,9 @@ permalink: /giocatore/martini_simone/
 |Rossi|0|0|0|0|0|0|0|0|
 |Best player|0|0|2|0|0|0|0|2|
 |Stelle|0|0|2|0|0|0|0|2|
+
+
+## Palmares
+----
+
+- **229°** posto per goal segnati (goal fatti: 9)

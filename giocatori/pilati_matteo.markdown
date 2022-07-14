@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-12 16:45:01.760059
+date: 2022-07-14 15:39:58.723650
 categories: torneo
 permalink: /giocatore/pilati_matteo/
 ---
@@ -43,3 +43,9 @@ permalink: /giocatore/pilati_matteo/
 |Rossi|0|0|0|0|0|0|0|0|
 |Best player|0|2|2|0|0|2|2|8|
 |Stelle|0|4|3|0|0|2|2|11|
+
+
+## Palmares
+----
+
+- **646°** posto per goal segnati (goal fatti: 2)

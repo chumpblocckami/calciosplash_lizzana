@@ -23,8 +23,7 @@ def load_template():
 
 def create_albo(data):
     albo = []
-    columns = ["GOL", "NOMINATIVO", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17",
-               "18", "19"]
+    columns = ["GOL", "NOMINATIVO", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17","18", "19"]
     albo.append("|".join(columns))
     albo.append("|:-----:|-----------|-------|------|------|------|")
     for player_history in data[1:]:

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-12 16:45:01.728801
+date: 2022-07-14 12:48:44.423547
 categories: torneo
 permalink: /giocatore/zandonati_anna/
 ---
@@ -37,3 +37,9 @@ permalink: /giocatore/zandonati_anna/
 |Rossi||0|
 |Best player||0|
 |Stelle||0|
+
+
+## Palmares
+----
+
+** Impegnete de pu! Grinta!!!! Mai subire zo bire!!🍻🍻 ** 

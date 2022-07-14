@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-12 16:45:01.960650
+date: 2022-07-14 15:39:58.886205
 categories: torneo
 permalink: /giocatore/giordani_andrea/
 ---
@@ -30,7 +30,7 @@ permalink: /giocatore/giordani_andrea/
 
 | |2021|2019|2018|2017|2016|2015|2014| Totale |
 |---|---|---|---|---|---|---|---|---|
-|Goal|2|6|4|2|10|2|7|33|
+|Goal|0|6|4|2|10|2|7|31|
 |Autogoal|0|0|1|0|2|0|2|5|
 
 
@@ -43,3 +43,9 @@ permalink: /giocatore/giordani_andrea/
 |Rossi|0|0|0|0|0|0|0|0|
 |Best player|0|1|0|1|5|0|1|8|
 |Stelle|0|1|0|1|6|0|2|10|
+
+
+## Palmares
+----
+
+- **63°** posto per goal segnati (goal fatti: 36)

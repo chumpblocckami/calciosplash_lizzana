@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-12 16:45:02.114307
+date: 2022-07-14 15:39:58.997292
 categories: torneo
 permalink: /giocatore/maffei_alessandro/
 ---
@@ -30,7 +30,7 @@ permalink: /giocatore/maffei_alessandro/
 
 | |2021|2019|2018|2017|2016|2015|2014| Totale |
 |---|---|---|---|---|---|---|---|---|
-|Goal|2|6|7|2|7|4|1|29|
+|Goal|0|6|7|2|7|4|1|27|
 |Autogoal|0|0|0|0|0|0|0|0|
 
 
@@ -43,3 +43,9 @@ permalink: /giocatore/maffei_alessandro/
 |Rossi|0|0|0|0|0|0|0|0|
 |Best player|1|1|2|0|3|0|1|8|
 |Stelle|2|1|3|0|3|0|1|10|
+
+
+## Palmares
+----
+
+- **74°** posto per goal segnati (goal fatti: 31)

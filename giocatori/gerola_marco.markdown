@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-12 16:45:02.314983
+date: 2022-07-14 15:39:59.191409
 categories: torneo
 permalink: /giocatore/gerola_marco/
 ---
@@ -16,7 +16,6 @@ permalink: /giocatore/gerola_marco/
 
 |Anno|Squadra|Soprannome|
 |:---:|---|---|
-|2021|||
 |2019|Mediaser.T||
 |2018|No S.A.V.||
 
@@ -24,18 +23,24 @@ permalink: /giocatore/gerola_marco/
 ## Goal
 ----
 
-| |2021|2019|2018| Totale |
-|---|---|---|---|---|
-|Goal|0|0|3|3|
-|Autogoal|0|0|0|0|
+| |2019|2018| Totale |
+|---|---|---|---|
+|Goal|0|3|3|
+|Autogoal|0|0|0|
 
 
 ## Statistiche
 ----
 
-| |2021|2019|2018| Totale |
-|---|---|---|---|---|
-|Gialli|0|1|0|1|
-|Rossi|0|0|0|0|
-|Best player|0|0|0|0|
-|Stelle|0|0|0|0|
+| |2019|2018| Totale |
+|---|---|---|---|
+|Gialli|1|0|1|
+|Rossi|0|0|0|
+|Best player|0|0|0|
+|Stelle|0|0|0|
+
+
+## Palmares
+----
+
+- **492°** posto per goal segnati (goal fatti: 3)

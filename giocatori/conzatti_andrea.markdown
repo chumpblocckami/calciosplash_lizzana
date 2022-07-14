@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-12 16:45:02.092172
+date: 2022-07-14 15:39:58.987182
 categories: torneo
 permalink: /giocatore/conzatti_andrea/
 ---
@@ -30,7 +30,7 @@ permalink: /giocatore/conzatti_andrea/
 
 | |2021|2019|2018|2017|2016|2015|2014| Totale |
 |---|---|---|---|---|---|---|---|---|
-|Goal|1|13|7|3|5|9|7|45|
+|Goal|0|13|7|3|5|9|7|44|
 |Autogoal|0|0|0|0|1|0|0|1|
 
 
@@ -43,3 +43,9 @@ permalink: /giocatore/conzatti_andrea/
 |Rossi|0|0|0|0|0|0|0|0|
 |Best player|0|2|2|1|2|2|2|11|
 |Stelle|0|4|2|1|2|3|2|14|
+
+
+## Palmares
+----
+
+- **43°** posto per goal segnati (goal fatti: 48)

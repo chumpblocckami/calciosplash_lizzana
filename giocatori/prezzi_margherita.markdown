@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-12 16:45:01.813435
+date: 2022-07-14 15:39:58.770540
 categories: torneo
 permalink: /giocatore/prezzi_margherita/
 ---
@@ -16,7 +16,6 @@ permalink: /giocatore/prezzi_margherita/
 
 |Anno|Squadra|Soprannome|
 |:---:|---|---|
-|2021||Acquaragia|
 |2019|Quele Del '20. Alora|Acquaragia|
 |2018|Name Loading|Acquaragia|
 |2016|Una per tutti...||
@@ -25,18 +24,24 @@ permalink: /giocatore/prezzi_margherita/
 ## Goal
 ----
 
-| |2021|2019|2018|2016| Totale |
-|---|---|---|---|---|---|
-|Goal|0|12|5|3|20|
-|Autogoal|0|0|0|0|0|
+| |2019|2018|2016| Totale |
+|---|---|---|---|---|
+|Goal|12|5|3|20|
+|Autogoal|0|0|0|0|
 
 
 ## Statistiche
 ----
 
-| |2021|2019|2018|2016| Totale |
-|---|---|---|---|---|---|
-|Gialli|0|0|0|0|0|
-|Rossi|0|0|0|0|0|
-|Best player|0|2|0|1|3|
-|Stelle|0|4|0|2|6|
+| |2019|2018|2016| Totale |
+|---|---|---|---|---|
+|Gialli|0|0|0|0|
+|Rossi|0|0|0|0|
+|Best player|2|0|1|3|
+|Stelle|4|0|2|6|
+
+
+## Palmares
+----
+
+- **44°** posto per goal segnati (goal fatti: 47)

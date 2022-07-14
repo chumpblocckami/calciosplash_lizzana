@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-12 16:45:02.176819
+date: 2022-07-14 15:39:59.078396
 categories: torneo
 permalink: /giocatore/bertolini_michele/
 ---
@@ -30,7 +30,7 @@ permalink: /giocatore/bertolini_michele/
 
 | |2021|2019|2018|2017|2016|2015|2014| Totale |
 |---|---|---|---|---|---|---|---|---|
-|Goal|4|5|15|0|4|7|8|43|
+|Goal|0|5|15|0|4|7|8|39|
 |Autogoal|0|0|1|0|1|0|2|4|
 
 
@@ -43,3 +43,9 @@ permalink: /giocatore/bertolini_michele/
 |Rossi|0|0|0|0|0|0|0|0|
 |Best player|1|0|2|0|0|3|4|10|
 |Stelle|2|0|2|0|0|3|4|11|
+
+
+## Palmares
+----
+
+- **18°** posto per goal segnati (goal fatti: 77)

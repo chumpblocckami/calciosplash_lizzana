@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-12 16:45:02.245841
+date: 2022-07-14 15:39:58.701517
 categories: torneo
 permalink: /giocatore/barbiero_riccardo/
 ---
@@ -40,3 +40,10 @@ permalink: /giocatore/barbiero_riccardo/
 |Rossi|0|0|0|0|0|
 |Best player|0|0|0|0|0|
 |Stelle|0|0|0|0|0|
+
+
+## Palmares
+----
+
+- **ultimo°** posto per goal segnati (goal fatti: 0)
+- Uomo Inutile 2018

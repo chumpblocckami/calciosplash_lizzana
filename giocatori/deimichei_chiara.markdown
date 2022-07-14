@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-12 16:45:01.844698
+date: 2022-07-14 15:39:58.804052
 categories: torneo
 permalink: /giocatore/deimichei_chiara/
 ---
@@ -16,7 +16,6 @@ permalink: /giocatore/deimichei_chiara/
 
 |Anno|Squadra|Soprannome|
 |:---:|---|---|
-|2021|||
 |2019|Mai Un Limone||
 |2018|Atletik-àlbar||
 |2017|Atletiche àlbar||
@@ -25,18 +24,24 @@ permalink: /giocatore/deimichei_chiara/
 ## Goal
 ----
 
-| |2021|2019|2018|2017| Totale |
-|---|---|---|---|---|---|
-|Goal|0|1|2|3|6|
-|Autogoal|0|0|0|0|0|
+| |2019|2018|2017| Totale |
+|---|---|---|---|---|
+|Goal|1|2|3|6|
+|Autogoal|0|0|0|0|
 
 
 ## Statistiche
 ----
 
-| |2021|2019|2018|2017| Totale |
-|---|---|---|---|---|---|
-|Gialli|0|0|0|0|0|
-|Rossi|0|0|0|0|0|
-|Best player|0|0|0|2|2|
-|Stelle|0|0|0|2|2|
+| |2019|2018|2017| Totale |
+|---|---|---|---|---|
+|Gialli|0|0|0|0|
+|Rossi|0|0|0|0|
+|Best player|0|0|2|2|
+|Stelle|0|0|2|2|
+
+
+## Palmares
+----
+
+- **295°** posto per goal segnati (goal fatti: 6)

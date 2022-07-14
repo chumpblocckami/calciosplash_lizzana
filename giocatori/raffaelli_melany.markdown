@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-12 16:45:02.060924
+date: 2022-07-14 15:39:58.956483
 categories: torneo
 permalink: /giocatore/raffaelli_melany/
 ---
@@ -26,7 +26,7 @@ permalink: /giocatore/raffaelli_melany/
 
 | |2021|2018|2017| Totale |
 |---|---|---|---|---|
-|Goal|3|0|0|3|
+|Goal|0|0|0|0|
 |Autogoal|0|0|0|0|
 
 
@@ -39,3 +39,9 @@ permalink: /giocatore/raffaelli_melany/
 |Rossi|0|0|0|0|
 |Best player|0|0|0|0|
 |Stelle|0|0|0|0|
+
+
+## Palmares
+----
+
+- **471°** posto per goal segnati (goal fatti: 3)

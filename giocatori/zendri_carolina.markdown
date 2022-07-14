@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-12 16:45:01.929398
+date: 2022-07-14 15:39:58.870579
 categories: torneo
 permalink: /giocatore/zendri_carolina/
 ---
@@ -16,7 +16,6 @@ permalink: /giocatore/zendri_carolina/
 
 |Anno|Squadra|Soprannome|
 |:---:|---|---|
-|2021||Maestrale D'Inverno|
 |2019|Plus Ultra|Maestrale D'Inverno|
 |2018|Plus Ultra|Maestrale d'Inverno|
 
@@ -24,18 +23,24 @@ permalink: /giocatore/zendri_carolina/
 ## Goal
 ----
 
-| |2021|2019|2018| Totale |
-|---|---|---|---|---|
-|Goal|0|4|17|21|
-|Autogoal|0|0|0|0|
+| |2019|2018| Totale |
+|---|---|---|---|
+|Goal|4|17|21|
+|Autogoal|0|0|0|
 
 
 ## Statistiche
 ----
 
-| |2021|2019|2018| Totale |
-|---|---|---|---|---|
-|Gialli|0|0|0|0|
-|Rossi|0|0|0|0|
-|Best player|0|3|4|7|
-|Stelle|0|6|6|12|
+| |2019|2018| Totale |
+|---|---|---|---|
+|Gialli|0|0|0|
+|Rossi|0|0|0|
+|Best player|3|4|7|
+|Stelle|6|6|12|
+
+
+## Palmares
+----
+
+- **114°** posto per goal segnati (goal fatti: 21)

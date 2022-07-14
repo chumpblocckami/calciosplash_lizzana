@@ -4,13 +4,18 @@ import datetime as dt
 from tqdm import tqdm
 import render_giocatori_page
 
+with open(f"./../_legacy/palmares_definitivo.json", "r", encoding="UTF-8") as file:
+    palmares = json.load(file)
+file.close()
+
+
 def join_player_data():
     player_data = {}
     for anno in [2021, 2019, 2018, 2017, 2016, 2015, 2014]:
         path = f"./../_legacy/calciosplash_{anno}/giocatori_{anno}.json"
-        with open(path, "r") as file:
+        with open(path, "r", encoding="UTF-8") as file:
             data = json.load(file)
-
+        file.close()
         for index, document in data[f"calciosplash_{anno}"].items():
             if document["nominativo"] not in player_data:
                 player_data[document["nominativo"]] = {}
@@ -63,6 +68,7 @@ def render_player_page(nome):
 
     # title and image
     nominativo = nome if "".join(player_data['soprannome'].values()) == "" else f"{nome} ({max(player_data['soprannome'].values())})"
+    nominativo = nominativo.lstrip().rstrip().replace('\n','').replace("\r","")
     titolo = "\n".join([f"| {nominativo} |", "|:-----:|",
                         f"| ![Immagine mancante]('./../../assets/giocatori/{nome.lower().replace(' ', '_')}.png)" + "{:.immagine_giocatori} |"])
     tabella_carriera = "\n".join(
@@ -105,6 +111,21 @@ def render_player_page(nome):
                              tabella_best,
                              tabella_stelle])
 
+    if nome in palmares:
+        pos = palmares[nome]["Posizione"] + 1 if type(palmares[nome]["Posizione"]) == int else palmares[nome]["Posizione"]
+        totale_goals = palmares[nome]["Goals"]
+        premi = palmares[nome]["Premi"] if "Premi" in palmares[nome] else []
+        posizione = "\n".join(["## Palmares",
+                               "----\n",
+                               f"- **{pos}°** posto per goal segnati (goal fatti: {totale_goals})",
+                               "\n".join([f"- {x}" for x in premi])
+                               ])
+    else:
+        posizione = "\n".join(["## Palmares",
+                               "----\n",
+                               f"**Impegnete de pu! Grinta!!!! Mai subire zo bire!!🍻🍻** "
+                               ])
+
     markdown.append(titolo)
     markdown.append("\n")
     markdown.append(carriera)
@@ -112,6 +133,8 @@ def render_player_page(nome):
     markdown.append(goal)
     markdown.append("\n")
     markdown.append(statistiche)
+    markdown.append("\n")
+    markdown.append(posizione)
 
     output = "\n".join(markdown)
     with open(f"./../giocatori/{nome.lower().replace(' ', '_')}.markdown", "w", encoding="utf-8") as file:
@@ -119,7 +142,7 @@ def render_player_page(nome):
 
 
 if __name__ == "__main__":
-    giocatori = ["Zandonati Anna",  "Zandonati Stefania", "Raffaelli Davide", "Pilati Matteo", "Alovisi Filippo", "Manica Davide",
+    giocatori = ["Zandonati Stefania", "Barbiero Riccardo", "Zandonati Stefania", "Raffaelli Davide", "Pilati Matteo", "Alovisi Filippo", "Manica Davide",
                  "Baldo Riccardo", "Prezzi Margherita", "Tovazzi Irene", "Chiusole Cecilia", "Deimichei Chiara",
                  "Brentari Gabriele", "Graziola Andrea",
                  "Monaco Alessandro", "Finarolli Alice", "Giordani Luca", "Maraner Matteo", "Zendri Carolina",
@@ -127,10 +150,18 @@ if __name__ == "__main__":
                  "Valduga Emanuele", "Feltrinelli Daniele", "Raffaelli Melany", "Osele Veronica",
                  "Giordani Nicolas", "Conzatti Andrea", "Maffei Alessandro", "De Zambotti Davide",
                  "De Zambotti Giacomo", "Di Meo Samuel", "Zambanini Vanessa", "Miorandi Emanuele", "Bertolini Michele",
-                 "Frasca Luca", "Cescatti Manuel",
-                 "Pedrotti Serena", "Rigo Anna",
-                 "Ceschini Leonardo", "Barbiero Riccardo", "Miorandi Emanuele",
-                 "Mazzola Matteo", "Parisi Leonardo", "Anzelini Andrea", "Gerola Marco", "Pizzini Stefano"]
+                 "Frasca Luca", "Cescatti Manuel", "Pedrotti Serena", "Rigo Anna",
+                 "Ceschini Leonardo", "Miorandi Emanuele",
+                 "Mazzola Matteo", "Parisi Leonardo", "Anzelini Andrea", "Gerola Marco", "Pizzini Stefano", "Gazzini Stefania",
+                 "Sala Marco", "Tesini Emma", "Pomarolli Federico", "Manconi Laura", "Manconi Matteo", "Pomarolli Carlotta",
+                 "Scrinzi Giulia", "Gober Andrea", "Pomarolli Edoardo", "Incandela Angela", "Giordani Federico", "Russo Omar",
+                 "Pedrotti Serena", "Stedile Giulia", "Gottardi Cristina", "Vettori Francesco", "Lanaro Fabrizio", "Ceriani Silvia",
+                 "Festi Mattia", "Bottesi Margherita", "Manzana Silvia", "Tita Stefano", "Chiodini Massimo", "Sartori Francesca",
+                 "Finarolli Alice", "Dalbosco Daniele", "Turchini Giorgia", "Debiasi Thomas", "Parisi Michele", "Marangoni Alessandra",
+                 "Loss Elena", "Togni Nicola", "Castelletti Peter", "Azzolini Elisabetta", "Prezzi Matteo", "Lorandi Chiara",
+                 "Frasca Luca", "Arlanch Giorgia", "Tovazzi Irene", "Stedile Carlo", "Bertolini Andrea", "Merighi Michele",
+                 "Viola Leonardo", "Maraner Matteo", "Prezzi Sara", "Raffelli Melany"]
+
     for giocatore in tqdm(giocatori, desc="rendering players..."):
         try:
             render_player_page(giocatore)

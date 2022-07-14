@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-12 16:45:01.945023
+date: 2022-07-14 15:39:58.886205
 categories: torneo
 permalink: /giocatore/feller_daniele/
 ---
@@ -39,3 +39,9 @@ permalink: /giocatore/feller_daniele/
 |Rossi|0|0|0|0|
 |Best player|0|1|0|1|
 |Stelle|0|2|0|2|
+
+
+## Palmares
+----
+
+- **450°** posto per goal segnati (goal fatti: 4)

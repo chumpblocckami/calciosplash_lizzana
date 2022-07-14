@@ -23,6 +23,7 @@ def make_giocatori():
     goals = Counter(goleador)
 
     players = pd.DataFrame().from_records([x for x in client.GSP.player.find({})])
+    players = players.loc[pd.isna(players["2021_team"]) == False]
     players.set_index("name", inplace=True)
     data = {"calciosplash_2021": {}}
     n = 0

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-12 16:45:01.813435
+date: 2022-07-14 15:39:59.619573
 categories: torneo
 permalink: /giocatore/tovazzi_irene/
 ---
@@ -30,7 +30,7 @@ permalink: /giocatore/tovazzi_irene/
 
 | |2021|2019|2018|2017|2016|2015|2014| Totale |
 |---|---|---|---|---|---|---|---|---|
-|Goal|15|10|21|18|4|6|7|81|
+|Goal|0|10|21|18|4|6|7|66|
 |Autogoal|0|0|0|0|0|0|0|0|
 
 
@@ -43,3 +43,10 @@ permalink: /giocatore/tovazzi_irene/
 |Rossi|0|0|0|0|0|0|0|0|
 |Best player|2|6|2|4|1|1|3|19|
 |Stelle|4|7|4|4|1|1|3|24|
+
+
+## Palmares
+----
+
+- **16°** posto per goal segnati (goal fatti: 81)
+- 🏆 Goleador 2017

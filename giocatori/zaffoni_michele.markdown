@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-12 16:45:01.960650
+date: 2022-07-14 15:39:58.901827
 categories: torneo
 permalink: /giocatore/zaffoni_michele/
 ---
@@ -39,3 +39,9 @@ permalink: /giocatore/zaffoni_michele/
 |Rossi|0|0|0|0|
 |Best player|1|2|0|3|
 |Stelle|2|4|0|6|
+
+
+## Palmares
+----
+
+**Impegnete de pu! Grinta!!!! Mai subire zo bire!!🍻🍻** 

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-12 16:45:02.192443
+date: 2022-07-14 15:39:59.098651
 categories: torneo
 permalink: /giocatore/cescatti_manuel/
 ---
@@ -30,7 +30,7 @@ permalink: /giocatore/cescatti_manuel/
 
 | |2021|2019|2018|2017|2016|2015|2014| Totale |
 |---|---|---|---|---|---|---|---|---|
-|Goal|3|3|5|0|3|0|1|15|
+|Goal|0|3|5|0|3|0|1|12|
 |Autogoal|0|0|0|0|0|0|0|0|
 
 
@@ -43,3 +43,9 @@ permalink: /giocatore/cescatti_manuel/
 |Rossi|0|0|0|0|0|0|0|0|
 |Best player|1|0|1|0|2|1|0|5|
 |Stelle|2|0|2|0|2|1|0|7|
+
+
+## Palmares
+----
+
+- **62°** posto per goal segnati (goal fatti: 37)

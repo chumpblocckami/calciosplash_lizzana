@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-12 16:45:02.214579
+date: 2022-07-14 15:39:59.346787
 categories: torneo
 permalink: /giocatore/pedrotti_serena/
 ---
@@ -16,25 +16,31 @@ permalink: /giocatore/pedrotti_serena/
 
 |Anno|Squadra|Soprannome|
 |:---:|---|---|
-|2021|||
 |2014|Babybell||
 
 
 ## Goal
 ----
 
-| |2021|2014| Totale |
-|---|---|---|---|
-|Goal|0|17|17|
-|Autogoal|0|0|0|
+| |2014| Totale |
+|---|---|---|
+|Goal|17|17|
+|Autogoal|0|0|
 
 
 ## Statistiche
 ----
 
-| |2021|2014| Totale |
-|---|---|---|---|
-|Gialli|0|0|0|
-|Rossi|0|0|0|
-|Best player|0|3|3|
-|Stelle|0|3|3|
+| |2014| Totale |
+|---|---|---|
+|Gialli|0|0|
+|Rossi|0|0|
+|Best player|3|3|
+|Stelle|3|3|
+
+
+## Palmares
+----
+
+- **38°** posto per goal segnati (goal fatti: 51)
+- 🏆 Miglior giocatrice 2012

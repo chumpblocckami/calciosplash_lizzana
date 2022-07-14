@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-12 16:45:02.261466
+date: 2022-07-14 15:39:59.147410
 categories: torneo
 permalink: /giocatore/miorandi_emanuele/
 ---
@@ -42,3 +42,9 @@ permalink: /giocatore/miorandi_emanuele/
 |Rossi|0|0|0|0|0|0|0|
 |Best player|0|1|1|1|0|0|3|
 |Stelle|0|1|1|1|0|0|3|
+
+
+## Palmares
+----
+
+- **234°** posto per goal segnati (goal fatti: 9)

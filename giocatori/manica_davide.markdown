@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-12 16:45:01.791301
+date: 2022-07-14 15:39:58.754915
 categories: torneo
 permalink: /giocatore/manica_davide/
 ---
@@ -29,7 +29,7 @@ permalink: /giocatore/manica_davide/
 
 | |2021|2019|2018|2017|2016|2015| Totale |
 |---|---|---|---|---|---|---|---|
-|Goal|3|1|0|2|1|1|8|
+|Goal|0|1|0|2|1|1|5|
 |Autogoal|0|0|0|0|0|0|0|
 
 
@@ -42,3 +42,9 @@ permalink: /giocatore/manica_davide/
 |Rossi|0|0|0|0|0|0|0|
 |Best player|1|1|0|0|0|0|2|
 |Stelle|2|1|0|0|0|0|3|
+
+
+## Palmares
+----
+
+- **133°** posto per goal segnati (goal fatti: 18)

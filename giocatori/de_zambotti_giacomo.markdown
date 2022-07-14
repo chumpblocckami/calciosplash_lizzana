@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-12 16:45:02.129947
+date: 2022-07-14 15:39:59.017506
 categories: torneo
 permalink: /giocatore/de_zambotti_giacomo/
 ---
@@ -40,3 +40,10 @@ permalink: /giocatore/de_zambotti_giacomo/
 |Rossi|1|0|0|0|1|
 |Best player|0|4|2|0|6|
 |Stelle|0|5|2|0|7|
+
+
+## Palmares
+----
+
+- **359°** posto per goal segnati (goal fatti: 5)
+- 🏆 Miglior Giocatore 2016

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-12 16:45:02.114307
+date: 2022-07-14 15:39:59.005362
 categories: torneo
 permalink: /giocatore/de_zambotti_davide/
 ---
@@ -38,3 +38,9 @@ permalink: /giocatore/de_zambotti_davide/
 |Rossi|0|0|0|
 |Best player|0|0|0|
 |Stelle|0|0|0|
+
+
+## Palmares
+----
+
+- **563°** posto per goal segnati (goal fatti: 2)

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-12 16:45:02.290453
+date: 2022-07-14 15:39:59.170409
 categories: torneo
 permalink: /giocatore/parisi_leonardo/
 ---
@@ -28,7 +28,7 @@ permalink: /giocatore/parisi_leonardo/
 
 | |2021|2019|2018|2016|2014| Totale |
 |---|---|---|---|---|---|---|
-|Goal|1|14|11|2|4|32|
+|Goal|0|14|11|2|4|31|
 |Autogoal|0|0|0|0|0|0|
 
 
@@ -41,3 +41,9 @@ permalink: /giocatore/parisi_leonardo/
 |Rossi|0|0|0|0|0|0|
 |Best player|0|3|3|2|0|8|
 |Stelle|0|5|3|2|0|10|
+
+
+## Palmares
+----
+
+- **70°** posto per goal segnati (goal fatti: 32)

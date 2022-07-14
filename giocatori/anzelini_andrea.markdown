@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-12 16:45:02.303447
+date: 2022-07-14 15:39:59.180409
 categories: torneo
 permalink: /giocatore/anzelini_andrea/
 ---
@@ -39,3 +39,9 @@ permalink: /giocatore/anzelini_andrea/
 |Rossi|0|0|0|0|
 |Best player|0|0|0|0|
 |Stelle|0|0|0|0|
+
+
+## Palmares
+----
+
+- **241°** posto per goal segnati (goal fatti: 9)

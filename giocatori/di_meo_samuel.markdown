@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-12 16:45:02.145570
+date: 2022-07-14 15:39:59.027619
 categories: torneo
 permalink: /giocatore/di_meo_samuel/
 ---
@@ -38,3 +38,9 @@ permalink: /giocatore/di_meo_samuel/
 |Rossi|0|0|0|
 |Best player|2|1|3|
 |Stelle|3|2|5|
+
+
+## Palmares
+----
+
+**Impegnete de pu! Grinta!!!! Mai subire zo bire!!🍻🍻** 

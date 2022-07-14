@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-12 16:45:02.314983
+date: 2022-07-14 15:39:59.201164
 categories: torneo
 permalink: /giocatore/pizzini_stefano/
 ---
@@ -40,3 +40,9 @@ permalink: /giocatore/pizzini_stefano/
 |Rossi|0|0|0|0|0|
 |Best player|0|3|1|1|5|
 |Stelle|0|6|1|1|8|
+
+
+## Palmares
+----
+
+- **734°** posto per goal segnati (goal fatti: 1)

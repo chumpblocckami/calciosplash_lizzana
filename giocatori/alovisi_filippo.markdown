@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-12 16:45:01.775722
+date: 2022-07-14 15:39:58.739292
 categories: torneo
 permalink: /giocatore/alovisi_filippo/
 ---
@@ -41,3 +41,9 @@ permalink: /giocatore/alovisi_filippo/
 |Rossi|0|0|0|0|0|0|
 |Best player|0|3|1|1|1|6|
 |Stelle|0|3|1|1|1|6|
+
+
+## Palmares
+----
+
+- **253°** posto per goal segnati (goal fatti: 8)

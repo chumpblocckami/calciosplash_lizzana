@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-12 16:45:02.045298
+date: 2022-07-14 15:39:58.946324
 categories: torneo
 permalink: /giocatore/feltrinelli_daniele/
 ---
@@ -30,7 +30,7 @@ permalink: /giocatore/feltrinelli_daniele/
 
 | |2021|2019|2018|2017|2016|2015|2014| Totale |
 |---|---|---|---|---|---|---|---|---|
-|Goal|2|3|5|1|5|1|2|19|
+|Goal|0|3|5|1|5|1|2|17|
 |Autogoal|0|0|0|0|0|0|1|1|
 
 
@@ -43,3 +43,9 @@ permalink: /giocatore/feltrinelli_daniele/
 |Rossi|0|0|0|0|0|0|0|0|
 |Best player|0|0|2|0|1|1|1|5|
 |Stelle|0|0|2|0|1|1|1|5|
+
+
+## Palmares
+----
+
+- **98°** posto per goal segnati (goal fatti: 24)

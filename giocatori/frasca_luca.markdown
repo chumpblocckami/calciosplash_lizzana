@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-12 16:45:02.192443
+date: 2022-07-14 15:39:59.584839
 categories: torneo
 permalink: /giocatore/frasca_luca/
 ---
@@ -29,7 +29,7 @@ permalink: /giocatore/frasca_luca/
 
 | |2021|2019|2018|2017|2016|2014| Totale |
 |---|---|---|---|---|---|---|---|
-|Goal|2|17|12|2|5|1|39|
+|Goal|0|17|12|2|5|1|37|
 |Autogoal|0|0|0|1|0|0|1|
 
 
@@ -42,3 +42,10 @@ permalink: /giocatore/frasca_luca/
 |Rossi|0|0|0|0|0|0|0|
 |Best player|1|3|3|0|1|0|8|
 |Stelle|2|5|5|0|2|0|14|
+
+
+## Palmares
+----
+
+- **53°** posto per goal segnati (goal fatti: 42)
+- 🏆 Goleador 2019

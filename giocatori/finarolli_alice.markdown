@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-12 16:45:01.891568
+date: 2022-07-14 15:39:59.464786
 categories: torneo
 permalink: /giocatore/finarolli_alice/
 ---
@@ -41,3 +41,10 @@ permalink: /giocatore/finarolli_alice/
 |Rossi|0|0|0|0|0|0|
 |Best player|3|2|5|0|0|10|
 |Stelle|5|2|8|0|0|15|
+
+
+## Palmares
+----
+
+- **-°** posto per goal segnati (goal fatti: 0)
+- \uD83E\uDD47 Miglior portiere 2016

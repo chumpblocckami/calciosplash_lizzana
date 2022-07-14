@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-12 16:45:01.791301
+date: 2022-07-14 15:39:58.754915
 categories: torneo
 permalink: /giocatore/baldo_riccardo/
 ---
@@ -29,7 +29,7 @@ permalink: /giocatore/baldo_riccardo/
 
 | |2021|2019|2018|2017|2015|2014| Totale |
 |---|---|---|---|---|---|---|---|
-|Goal|1|1|0|0|0|0|2|
+|Goal|0|1|0|0|0|0|1|
 |Autogoal|0|0|0|0|0|1|1|
 
 
@@ -42,3 +42,9 @@ permalink: /giocatore/baldo_riccardo/
 |Rossi|0|0|0|0|0|0|0|
 |Best player|0|0|0|3|1|0|4|
 |Stelle|0|0|0|4|1|0|5|
+
+
+## Palmares
+----
+
+- **612°** posto per goal segnati (goal fatti: 2)

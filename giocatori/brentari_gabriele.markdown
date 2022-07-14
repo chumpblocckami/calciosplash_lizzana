@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-12 16:45:01.860325
+date: 2022-07-14 15:39:58.823691
 categories: torneo
 permalink: /giocatore/brentari_gabriele/
 ---
@@ -40,3 +40,9 @@ permalink: /giocatore/brentari_gabriele/
 |Rossi|0|0|0|0|0|
 |Best player|0|1|0|1|2|
 |Stelle|0|1|0|1|2|
+
+
+## Palmares
+----
+
+- **262°** posto per goal segnati (goal fatti: 8)

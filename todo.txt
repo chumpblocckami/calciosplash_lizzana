@@ -3,3 +3,7 @@
 2. Clone locally
 3. start jekyll using **jekyll new --skip-bundle .**
 4. bundle exec jekyll serve --incremental
+
+## DA FARE:
+1. Finire palmares dei partecipanti
+2. Squadre

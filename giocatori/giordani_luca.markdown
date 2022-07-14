@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-12 16:45:01.907252
+date: 2022-07-14 15:39:58.854954
 categories: torneo
 permalink: /giocatore/giordani_luca/
 ---
@@ -43,3 +43,9 @@ permalink: /giocatore/giordani_luca/
 |Rossi|0|0|0|0|0|0|0|0|
 |Best player|0|0|0|0|1|1|1|3|
 |Stelle|0|0|0|0|1|1|1|3|
+
+
+## Palmares
+----
+
+- **165°** posto per goal segnati (goal fatti: 15)

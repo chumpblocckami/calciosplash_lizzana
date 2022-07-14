@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-12 16:45:02.230215
+date: 2022-07-14 15:39:59.129140
 categories: torneo
 permalink: /giocatore/ceschini_leonardo/
 ---
@@ -42,3 +42,10 @@ permalink: /giocatore/ceschini_leonardo/
 |Rossi|0|0|0|0|0|0|0|
 |Best player|2|1|3|4|5|3|18|
 |Stelle|4|2|4|5|5|5|25|
+
+
+## Palmares
+----
+
+- **881°** posto per goal segnati (goal fatti: 1)
+- 🏆 Miglior portiere 2019

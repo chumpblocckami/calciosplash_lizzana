@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-12 16:45:02.029675
+date: 2022-07-14 15:39:58.936197
 categories: torneo
 permalink: /giocatore/valduga_emanuele/
 ---
@@ -38,3 +38,9 @@ permalink: /giocatore/valduga_emanuele/
 |Rossi|0|0|0|
 |Best player|0|0|0|
 |Stelle|0|0|0|
+
+
+## Palmares
+----
+
+**Impegnete de pu! Grinta!!!! Mai subire zo bire!!🍻🍻** 
