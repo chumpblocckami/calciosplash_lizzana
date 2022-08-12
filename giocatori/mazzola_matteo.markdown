@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-14 15:39:59.159414
+date: 2022-08-12 13:29:28.321424
 categories: torneo
 permalink: /giocatore/mazzola_matteo/
 ---
@@ -26,7 +26,7 @@ permalink: /giocatore/mazzola_matteo/
 
 | |2021|2019|2018| Totale |
 |---|---|---|---|---|
-|Goal|0|3|1|4|
+|Goal|1|3|1|5|
 |Autogoal|0|0|0|0|
 
 

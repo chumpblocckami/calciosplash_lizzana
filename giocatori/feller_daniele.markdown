@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-14 15:39:58.886205
+date: 2022-08-12 13:29:28.051789
 categories: torneo
 permalink: /giocatore/feller_daniele/
 ---

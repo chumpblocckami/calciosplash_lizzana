@@ -1,14 +1,14 @@
 ---
 layout: post
-date: 2022-08-12 13:29:28.020537
+date: 2022-08-12 13:29:28.290206
 categories: torneo
-permalink: /giocatore/giordani_luca/
+permalink: /giocatore/baldessarini_mattia/
 ---
 <link rel='stylesheets' href='./../assets/giocatori.css'>
 
-| Giordani Luca (Lo chef più in forma d'europa) |
+| Baldessarini Mattia (L'assassino cerebrale) |
 |:-----:|
-| ![Immagine mancante]('./../../assets/giocatori/giordani_luca.png){:.immagine_giocatori} |
+| ![Immagine mancante]('./../../assets/giocatori/baldessarini_mattia.png){:.immagine_giocatori} |
 
 
 ## Carriera
@@ -16,9 +16,9 @@ permalink: /giocatore/giordani_luca/
 
 |Anno|Squadra|Soprannome|
 |:---:|---|---|
-|2021|Shark Attack|Lo Chef Più In Forma D'Europa|
-|2019|Shark Attack|Lo Chef Più In Forma D'Europa|
-|2018|Shark Attack|Lo chef più in forma d'europa|
+|2021|Shark Attack|L'Assassino Cerebrale|
+|2019|Shark Attack|L'Assassino Cerebrale|
+|2018|Shark Attack|L'assassino cerebrale|
 |2017|Shark attak||
 |2016|Shark Attak||
 |2015|Buzzer beater||
@@ -30,7 +30,7 @@ permalink: /giocatore/giordani_luca/
 
 | |2021|2019|2018|2017|2016|2015|2014| Totale |
 |---|---|---|---|---|---|---|---|---|
-|Goal|0|0|2|2|0|4|0|8|
+|Goal|0|17|14|4|3|8|4|50|
 |Autogoal|0|0|0|0|0|0|0|0|
 
 
@@ -41,11 +41,11 @@ permalink: /giocatore/giordani_luca/
 |---|---|---|---|---|---|---|---|---|
 |Gialli|0|0|0|0|0|0|0|0|
 |Rossi|0|0|0|0|0|0|0|0|
-|Best player|0|0|0|0|1|1|1|3|
-|Stelle|0|0|0|0|1|1|1|3|
+|Best player|0|4|2|2|2|3|1|14|
+|Stelle|0|10|4|3|2|4|2|25|
 
 
 ## Palmares
 ----
 
-- **165°** posto per goal segnati (goal fatti: 15)
+- **39°** posto per goal segnati (goal fatti: 50)

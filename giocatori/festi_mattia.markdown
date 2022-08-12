@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-14 15:39:59.414787
+date: 2022-08-12 13:29:28.537728
 categories: torneo
 permalink: /giocatore/festi_mattia/
 ---
@@ -29,7 +29,7 @@ permalink: /giocatore/festi_mattia/
 
 | |2021|2019|2018|2017|2016|2014| Totale |
 |---|---|---|---|---|---|---|---|
-|Goal|0|5|2|2|4|7|20|
+|Goal|1|5|2|2|4|7|21|
 |Autogoal|0|0|0|0|0|0|0|
 
 

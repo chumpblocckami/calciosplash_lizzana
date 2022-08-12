@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-14 15:39:59.584839
+date: 2022-08-12 13:29:28.707098
 categories: torneo
 permalink: /giocatore/lorandi_chiara/
 ---

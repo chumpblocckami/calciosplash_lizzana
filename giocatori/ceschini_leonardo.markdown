@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-14 15:39:59.129140
+date: 2022-08-12 13:29:28.274528
 categories: torneo
 permalink: /giocatore/ceschini_leonardo/
 ---
@@ -21,7 +21,7 @@ permalink: /giocatore/ceschini_leonardo/
 |2018|Pinguini Trentini|Pan bauletto|
 |2016|Pinguini Trentini||
 |2015|Modium||
-|2014|Clandes-Team||
+|2014|Clandes-Team|La cosa|
 
 
 ## Goal

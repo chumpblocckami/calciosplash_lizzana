@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-14 15:39:59.219933
+date: 2022-08-12 13:29:28.374817
 categories: torneo
 permalink: /giocatore/sala_marco/
 ---
@@ -29,7 +29,7 @@ permalink: /giocatore/sala_marco/
 
 | |2021|2019|2018|2017|2016|2015| Totale |
 |---|---|---|---|---|---|---|---|
-|Goal|0|14|3|11|7|1|36|
+|Goal|3|14|3|11|7|1|39|
 |Autogoal|0|1|0|0|0|0|1|
 
 

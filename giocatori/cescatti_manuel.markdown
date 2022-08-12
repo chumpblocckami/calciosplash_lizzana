@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-14 15:39:59.098651
+date: 2022-08-12 13:29:28.236771
 categories: torneo
 permalink: /giocatore/cescatti_manuel/
 ---
@@ -30,7 +30,7 @@ permalink: /giocatore/cescatti_manuel/
 
 | |2021|2019|2018|2017|2016|2015|2014| Totale |
 |---|---|---|---|---|---|---|---|---|
-|Goal|0|3|5|0|3|0|1|12|
+|Goal|3|3|5|0|3|0|1|15|
 |Autogoal|0|0|0|0|0|0|0|0|
 
 

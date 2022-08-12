@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-14 15:39:59.629571
+date: 2022-08-12 13:29:28.739643
 categories: torneo
 permalink: /giocatore/stedile_carlo/
 ---
@@ -29,7 +29,7 @@ permalink: /giocatore/stedile_carlo/
 
 | |2021|2019|2018|2017|2016|2015| Totale |
 |---|---|---|---|---|---|---|---|
-|Goal|0|9|16|1|5|20|51|
+|Goal|1|9|16|1|5|20|52|
 |Autogoal|0|0|0|0|0|0|0|
 
 

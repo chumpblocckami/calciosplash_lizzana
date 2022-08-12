@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-14 15:39:59.170409
+date: 2022-08-12 13:29:28.321424
 categories: torneo
 permalink: /giocatore/parisi_leonardo/
 ---
@@ -28,7 +28,7 @@ permalink: /giocatore/parisi_leonardo/
 
 | |2021|2019|2018|2016|2014| Totale |
 |---|---|---|---|---|---|---|
-|Goal|0|14|11|2|4|31|
+|Goal|1|14|11|2|4|32|
 |Autogoal|0|0|0|0|0|0|
 
 

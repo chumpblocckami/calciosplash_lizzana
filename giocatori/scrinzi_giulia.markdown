@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-14 15:39:59.280743
+date: 2022-08-12 13:29:28.421711
 categories: torneo
 permalink: /giocatore/scrinzi_giulia/
 ---

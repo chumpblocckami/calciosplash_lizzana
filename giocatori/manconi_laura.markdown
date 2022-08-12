@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-14 15:39:59.250386
+date: 2022-08-12 13:29:28.406086
 categories: torneo
 permalink: /giocatore/manconi_laura/
 ---

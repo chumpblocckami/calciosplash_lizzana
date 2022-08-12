@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-14 15:39:59.660571
+date: 2022-08-12 13:29:28.775994
 categories: torneo
 permalink: /giocatore/viola_leonardo/
 ---
@@ -28,7 +28,7 @@ permalink: /giocatore/viola_leonardo/
 
 | |2021|2019|2018|2015|2014| Totale |
 |---|---|---|---|---|---|---|
-|Goal|0|8|5|5|6|24|
+|Goal|4|8|5|5|6|28|
 |Autogoal|0|1|0|0|0|1|
 
 

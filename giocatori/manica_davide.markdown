@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-14 15:39:58.754915
+date: 2022-08-12 13:29:27.932350
 categories: torneo
 permalink: /giocatore/manica_davide/
 ---
@@ -29,7 +29,7 @@ permalink: /giocatore/manica_davide/
 
 | |2021|2019|2018|2017|2016|2015| Totale |
 |---|---|---|---|---|---|---|---|
-|Goal|0|1|0|2|1|1|5|
+|Goal|3|1|0|2|1|1|8|
 |Autogoal|0|0|0|0|0|0|0|
 
 

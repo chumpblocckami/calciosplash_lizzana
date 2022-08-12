@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-14 15:39:59.305787
+date: 2022-08-12 13:29:28.437329
 categories: torneo
 permalink: /giocatore/pomarolli_edoardo/
 ---
@@ -30,7 +30,7 @@ permalink: /giocatore/pomarolli_edoardo/
 
 | |2021|2019|2018|2017|2016|2015|2014| Totale |
 |---|---|---|---|---|---|---|---|---|
-|Goal|0|3|8|4|6|4|12|37|
+|Goal|1|3|8|4|6|4|12|38|
 |Autogoal|0|1|1|0|0|0|1|3|
 
 

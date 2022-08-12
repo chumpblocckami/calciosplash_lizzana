@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-14 15:39:59.584839
+date: 2022-08-12 13:29:28.707098
 categories: torneo
 permalink: /giocatore/frasca_luca/
 ---
@@ -29,7 +29,7 @@ permalink: /giocatore/frasca_luca/
 
 | |2021|2019|2018|2017|2016|2014| Totale |
 |---|---|---|---|---|---|---|---|
-|Goal|0|17|12|2|5|1|37|
+|Goal|2|17|12|2|5|1|39|
 |Autogoal|0|0|0|1|0|0|1|
 
 

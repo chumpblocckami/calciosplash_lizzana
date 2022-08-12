@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-14 15:39:59.078396
+date: 2022-08-12 13:29:28.221143
 categories: torneo
 permalink: /giocatore/bertolini_michele/
 ---
@@ -30,7 +30,7 @@ permalink: /giocatore/bertolini_michele/
 
 | |2021|2019|2018|2017|2016|2015|2014| Totale |
 |---|---|---|---|---|---|---|---|---|
-|Goal|0|5|15|0|4|7|8|39|
+|Goal|4|5|15|0|4|7|8|43|
 |Autogoal|0|0|1|0|1|0|2|4|
 
 

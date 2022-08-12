@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-14 15:39:58.917454
+date: 2022-08-12 13:29:28.105157
 categories: torneo
 permalink: /giocatore/martini_simone/
 ---

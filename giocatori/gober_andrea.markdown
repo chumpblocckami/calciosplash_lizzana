@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-14 15:39:59.295788
+date: 2022-08-12 13:29:28.437329
 categories: torneo
 permalink: /giocatore/gober_andrea/
 ---

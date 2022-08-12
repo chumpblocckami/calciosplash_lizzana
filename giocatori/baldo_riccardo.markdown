@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-14 15:39:58.754915
+date: 2022-08-12 13:29:27.947976
 categories: torneo
 permalink: /giocatore/baldo_riccardo/
 ---
@@ -29,7 +29,7 @@ permalink: /giocatore/baldo_riccardo/
 
 | |2021|2019|2018|2017|2015|2014| Totale |
 |---|---|---|---|---|---|---|---|
-|Goal|0|1|0|0|0|0|1|
+|Goal|1|1|0|0|0|0|2|
 |Autogoal|0|0|0|0|0|1|1|
 
 

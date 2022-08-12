@@ -23,9 +23,9 @@ B
 ---
 
 
- | [Baldo Riccardo](/giocatore/baldo_riccardo) | [Barbiero Riccardo](/giocatore/barbiero_riccardo) | [Battisti Isotta](/giocatore/battisti_isotta)
- | [Bertolini Andrea](/giocatore/bertolini_andrea) | [Bertolini Michele](/giocatore/bertolini_michele) | [Bottesi Margherita](/giocatore/bottesi_margherita)
- | [Brentari Gabriele](/giocatore/brentari_gabriele) 
+ | [Baldessarini Mattia](/giocatore/baldessarini_mattia) | [Baldo Riccardo](/giocatore/baldo_riccardo) | [Barbiero Riccardo](/giocatore/barbiero_riccardo)
+ | [Battisti Isotta](/giocatore/battisti_isotta) | [Bertolini Andrea](/giocatore/bertolini_andrea) | [Bertolini Michele](/giocatore/bertolini_michele)
+ | [Bottesi Margherita](/giocatore/bottesi_margherita) | [Brentari Gabriele](/giocatore/brentari_gabriele) 
 
 C
 
@@ -44,8 +44,8 @@ D
 
 
  | [Dalbosco Daniele](/giocatore/dalbosco_daniele) | [De Zambotti Davide](/giocatore/de_zambotti_davide) | [De Zambotti Giacomo](/giocatore/de_zambotti_giacomo)
- | [Debiasi Thomas](/giocatore/debiasi_thomas) | [Deimichei Chiara](/giocatore/deimichei_chiara) | [Di Meo Samuel](/giocatore/di_meo_samuel)
- 
+ | [Debiasi Francesca](/giocatore/debiasi_francesca) | [Debiasi Thomas](/giocatore/debiasi_thomas) | [Deimichei Chiara](/giocatore/deimichei_chiara)
+ | [Di Meo Samuel](/giocatore/di_meo_samuel) 
 
 E
 
@@ -85,7 +85,7 @@ I
 ---
 
 
- | [Incandela Angela](/giocatore/incandela_angela) 
+ | [Incandela Angela](/giocatore/incandela_angela) | [Incandela Vito](/giocatore/incandela_vito) 
 
 J
 
@@ -141,9 +141,10 @@ P
 
 
  | [Parisi Leonardo](/giocatore/parisi_leonardo) | [Parisi Michele](/giocatore/parisi_michele) | [Pedrotti Serena](/giocatore/pedrotti_serena)
- | [Pilati Matteo](/giocatore/pilati_matteo) | [Pizzini Stefano](/giocatore/pizzini_stefano) | [Pomarolli Carlotta](/giocatore/pomarolli_carlotta)
- | [Pomarolli Edoardo](/giocatore/pomarolli_edoardo) | [Pomarolli Federico](/giocatore/pomarolli_federico) | [Prezzi Margherita](/giocatore/prezzi_margherita)
- | [Prezzi Matteo](/giocatore/prezzi_matteo) | [Prezzi Sara](/giocatore/prezzi_sara) 
+ | [Pilati Matteo](/giocatore/pilati_matteo) | [Pizzini Stefano](/giocatore/pizzini_stefano) | [Planchestainer Margherita](/giocatore/planchestainer_margherita)
+ | [Pomarolli Carlotta](/giocatore/pomarolli_carlotta) | [Pomarolli Edoardo](/giocatore/pomarolli_edoardo) | [Pomarolli Federico](/giocatore/pomarolli_federico)
+ | [Prezzi Margherita](/giocatore/prezzi_margherita) | [Prezzi Matteo](/giocatore/prezzi_matteo) | [Prezzi Sara](/giocatore/prezzi_sara)
+ 
 
 Q
 

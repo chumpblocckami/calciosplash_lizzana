@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-14 15:39:58.723650
+date: 2022-08-12 13:29:27.916725
 categories: torneo
 permalink: /giocatore/pilati_matteo/
 ---

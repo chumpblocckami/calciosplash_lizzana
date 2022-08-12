@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-14 15:39:58.987182
+date: 2022-08-12 13:29:28.167661
 categories: torneo
 permalink: /giocatore/conzatti_andrea/
 ---
@@ -30,7 +30,7 @@ permalink: /giocatore/conzatti_andrea/
 
 | |2021|2019|2018|2017|2016|2015|2014| Totale |
 |---|---|---|---|---|---|---|---|---|
-|Goal|0|13|7|3|5|9|7|44|
+|Goal|1|13|7|3|5|9|7|45|
 |Autogoal|0|0|0|0|1|0|0|1|
 
 

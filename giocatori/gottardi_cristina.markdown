@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-14 15:39:59.368791
+date: 2022-08-12 13:29:28.490850
 categories: torneo
 permalink: /giocatore/gottardi_cristina/
 ---

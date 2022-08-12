@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-14 15:39:59.230088
+date: 2022-08-12 13:29:28.374817
 categories: torneo
 permalink: /giocatore/tesini_emma/
 ---
@@ -25,7 +25,7 @@ permalink: /giocatore/tesini_emma/
 
 | |2021|2019| Totale |
 |---|---|---|---|
-|Goal|0|13|13|
+|Goal|1|13|14|
 |Autogoal|0|0|0|
 
 

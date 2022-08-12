@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-14 15:39:59.240255
+date: 2022-08-12 13:29:28.390462
 categories: torneo
 permalink: /giocatore/pomarolli_federico/
 ---
@@ -29,7 +29,7 @@ permalink: /giocatore/pomarolli_federico/
 
 | |2021|2019|2018|2017|2015|2014| Totale |
 |---|---|---|---|---|---|---|---|
-|Goal|0|3|14|6|6|4|33|
+|Goal|1|3|14|6|6|4|34|
 |Autogoal|0|1|0|0|0|0|1|
 
 

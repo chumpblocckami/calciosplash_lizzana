@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-14 15:39:59.619573
+date: 2022-08-12 13:29:28.722686
 categories: torneo
 permalink: /giocatore/tovazzi_irene/
 ---
@@ -30,7 +30,7 @@ permalink: /giocatore/tovazzi_irene/
 
 | |2021|2019|2018|2017|2016|2015|2014| Totale |
 |---|---|---|---|---|---|---|---|---|
-|Goal|0|10|21|18|4|6|7|66|
+|Goal|15|10|21|18|4|6|7|81|
 |Autogoal|0|0|0|0|0|0|0|0|
 
 

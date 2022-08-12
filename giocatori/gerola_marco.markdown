@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-14 15:39:59.191409
+date: 2022-08-12 13:29:28.337091
 categories: torneo
 permalink: /giocatore/gerola_marco/
 ---

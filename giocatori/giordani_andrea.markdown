@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-14 15:39:58.886205
+date: 2022-08-12 13:29:28.305796
 categories: torneo
 permalink: /giocatore/giordani_andrea/
 ---
@@ -30,7 +30,7 @@ permalink: /giocatore/giordani_andrea/
 
 | |2021|2019|2018|2017|2016|2015|2014| Totale |
 |---|---|---|---|---|---|---|---|---|
-|Goal|0|6|4|2|10|2|7|31|
+|Goal|2|6|4|2|10|2|7|33|
 |Autogoal|0|0|1|0|2|0|2|5|
 
 

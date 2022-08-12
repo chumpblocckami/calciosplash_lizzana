@@ -1,12 +1,12 @@
 ---
 layout: post
-date: 2022-07-14 15:39:58.956483
+date: 2022-08-12 13:29:28.136404
 categories: torneo
 permalink: /giocatore/raffaelli_melany/
 ---
 <link rel='stylesheets' href='./../assets/giocatori.css'>
 
-| Raffaelli Melany (Corazon Espinado) |
+| Raffaelli Melany (Hotel Belvedere) |
 |:-----:|
 | ![Immagine mancante]('./../../assets/giocatori/raffaelli_melany.png){:.immagine_giocatori} |
 
@@ -16,7 +16,7 @@ permalink: /giocatore/raffaelli_melany/
 
 |Anno|Squadra|Soprannome|
 |:---:|---|---|
-|2021|Four Taie||
+|2021|Four Taie|Hotel Belvedere|
 |2018|Le Amiche Di Citta' Laggiu'|Corazon Espinado|
 |2017|Le amiche di città laggiù||
 
@@ -26,7 +26,7 @@ permalink: /giocatore/raffaelli_melany/
 
 | |2021|2018|2017| Totale |
 |---|---|---|---|---|
-|Goal|0|0|0|0|
+|Goal|3|0|0|3|
 |Autogoal|0|0|0|0|
 
 

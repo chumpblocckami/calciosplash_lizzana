@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-14 15:39:59.260525
+date: 2022-08-12 13:29:28.406086
 categories: torneo
 permalink: /giocatore/manconi_matteo/
 ---
@@ -29,7 +29,7 @@ permalink: /giocatore/manconi_matteo/
 
 | |2021|2019|2018|2017|2016|2015| Totale |
 |---|---|---|---|---|---|---|---|
-|Goal|0|3|4|7|2|1|17|
+|Goal|1|3|4|7|2|1|18|
 |Autogoal|0|0|0|0|0|0|0|
 
 

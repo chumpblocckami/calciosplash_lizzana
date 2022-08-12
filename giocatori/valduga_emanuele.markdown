@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-14 15:39:58.936197
+date: 2022-08-12 13:29:28.120821
 categories: torneo
 permalink: /giocatore/valduga_emanuele/
 ---

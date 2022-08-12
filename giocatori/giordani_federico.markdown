@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-14 15:39:59.325787
+date: 2022-08-12 13:29:28.468620
 categories: torneo
 permalink: /giocatore/giordani_federico/
 ---
@@ -29,7 +29,7 @@ permalink: /giocatore/giordani_federico/
 
 | |2021|2019|2018|2017|2016|2014| Totale |
 |---|---|---|---|---|---|---|---|
-|Goal|0|8|19|16|5|7|55|
+|Goal|2|8|19|16|5|7|57|
 |Autogoal|0|0|0|1|0|1|2|
 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-14 15:39:58.723650
+date: 2022-08-12 13:29:27.901103
 categories: torneo
 permalink: /giocatore/raffaelli_davide/
 ---
@@ -31,7 +31,7 @@ permalink: /giocatore/raffaelli_davide/
 
 | |2021|2019|2018|2017|2016|2016|2015|2014| Totale |
 |---|---|---|---|---|---|---|---|---|---|
-|Goal|0|9|4|4|1|1|4|0|23|
+|Goal|1|9|4|4|1|1|4|0|24|
 |Autogoal|0|0|0|0|0|0|0|0|0|
 
 

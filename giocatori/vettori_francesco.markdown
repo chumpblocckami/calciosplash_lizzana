@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-14 15:39:59.379787
+date: 2022-08-12 13:29:28.506477
 categories: torneo
 permalink: /giocatore/vettori_francesco/
 ---
@@ -29,7 +29,7 @@ permalink: /giocatore/vettori_francesco/
 
 | |2021|2018|2017|2016|2015|2014| Totale |
 |---|---|---|---|---|---|---|---|
-|Goal|0|5|1|5|3|9|23|
+|Goal|1|5|1|5|3|9|24|
 |Autogoal|0|0|0|0|0|0|0|
 
 

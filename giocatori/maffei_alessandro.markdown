@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-14 15:39:58.997292
+date: 2022-08-12 13:29:28.174217
 categories: torneo
 permalink: /giocatore/maffei_alessandro/
 ---
@@ -30,7 +30,7 @@ permalink: /giocatore/maffei_alessandro/
 
 | |2021|2019|2018|2017|2016|2015|2014| Totale |
 |---|---|---|---|---|---|---|---|---|
-|Goal|0|6|7|2|7|4|1|27|
+|Goal|2|6|7|2|7|4|1|29|
 |Autogoal|0|0|0|0|0|0|0|0|
 
 

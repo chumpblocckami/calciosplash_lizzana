@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-14 15:39:59.639569
+date: 2022-08-12 13:29:28.739643
 categories: torneo
 permalink: /giocatore/bertolini_andrea/
 ---
@@ -29,7 +29,7 @@ permalink: /giocatore/bertolini_andrea/
 
 | |2021|2019|2017|2016|2015|2014| Totale |
 |---|---|---|---|---|---|---|---|
-|Goal|0|2|8|5|19|20|54|
+|Goal|3|2|8|5|19|20|57|
 |Autogoal|0|1|1|0|0|0|2|
 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-14 15:39:59.649573
+date: 2022-08-12 13:29:28.755270
 categories: torneo
 permalink: /giocatore/merighi_michele/
 ---
@@ -30,7 +30,7 @@ permalink: /giocatore/merighi_michele/
 
 | |2021|2019|2018|2017|2016|2015|2014| Totale |
 |---|---|---|---|---|---|---|---|---|
-|Goal|0|15|23|5|13|3|11|70|
+|Goal|1|15|23|5|13|3|11|71|
 |Autogoal|0|0|1|0|0|0|0|1|
 
 

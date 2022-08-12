@@ -1,0 +1,1908 @@
+---
+layout: post
+date: 2022-08-12 13:51:00.325111
+categories: partite
+permalink: /partite/2022/
+---
+
+Qui puoi trovare tutte le partite del 2022
+
+
+# PARTITA:0
+**Girone**: A Femminile
+
+Data: 08-11-2022 16:00:00
+
+Note: 
+
+| | HELLAS MA-DONNE | LA BALLA IN FIESTA |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:1
+**Girone**: B Maschile
+
+Data: 08-11-2022 16:20:00
+
+Note: 
+
+| | MAI UNA GIOIA | SBARX |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:2
+**Girone**: A Maschile
+
+Data: 08-11-2022 16:40:00
+
+Note: 
+
+| | FC SAVIGNANO | FEL LAZIO |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:3
+**Girone**: H Maschile
+
+Data: 08-11-2022 17:00:00
+
+Note: 
+
+| | INEFUMA ELEVEN | RESENTEAM |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:4
+**Girone**: G Maschile
+
+Data: 08-11-2022 17:20:00
+
+Note: 
+
+| | NAZIONALE FERROVIERI | DEMO BUSTERS |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:5
+**Girone**: A Maschile
+
+Data: 08-11-2022 17:40:00
+
+Note: 
+
+| | SHARK ATTACK | I MAGNIFICI |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:6
+**Girone**: G Maschile
+
+Data: 08-11-2022 18:00:00
+
+Note: 
+
+| | ATLETICO MA NON TROPPO | POWER GINGER |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:7
+**Girone**: B Femminile
+
+Data: 08-11-2022 18:20:00
+
+Note: 
+
+| | GIN TONICHE | GREENPASSERE |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:8
+**Girone**: D Maschile
+
+Data: 08-11-2022 18:40:00
+
+Note: 
+
+| | ORANGE OLD SCHOOL | TECNICA & CACAO |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:9
+**Girone**: C Femminile
+
+Data: 08-11-2022 19:00:00
+
+Note: 
+
+| | DRIM TIM | TORTE DI MELE |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:10
+**Girone**: C Maschile
+
+Data: 08-11-2022 19:20:00
+
+Note: 
+
+| | PINGUINI TRENTINI | CLANDES TEAM |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:11
+**Girone**: F Maschile
+
+Data: 08-11-2022 19:40:00
+
+Note: 
+
+| | CLITORIDERS | FIGLI DI UN RE MINORE |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:12
+**Girone**: H Maschile
+
+Data: 08-11-2022 20:00:00
+
+Note: 
+
+| | LA CONTEA FC | SPRINT GOMMA TEAM |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:13
+**Girone**: E Maschile
+
+Data: 08-11-2022 20:20:00
+
+Note: 
+
+| | I MODIUM | MEDIASER.T |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:14
+**Girone**: B Femminile
+
+Data: 08-11-2022 21:00:00
+
+Note: 
+
+| | AL VOLO | MOCCIO(SE) |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:15
+**Girone**: B Maschile
+
+Data: 08-11-2022 21:20:00
+
+Note: 
+
+| | SBARX | US GUARNA |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:16
+**Girone**: C Femminile
+
+Data: 08-11-2022 21:40:00
+
+Note: 
+
+| | TANGATUBBIES | DRIM TIM |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:17
+**Girone**: F Maschile
+
+Data: 08-11-2022 22:00:00
+
+Note: 
+
+| | FIGLI DI UN RE MINORE | HELLAS MADONNA |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:18
+**Girone**: D Femminile
+
+Data: 08-11-2022 22:20:00
+
+Note: 
+
+| | FC WANDA TEAM GIRLS | LEMONADE |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:19
+**Girone**: C Maschile
+
+Data: 08-11-2022 22:40:00
+
+Note: 
+
+| | I MONTAGNA | BELLA DOMANDA |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:20
+**Girone**: D Femminile
+
+Data: 08-11-2022 23:00:00
+
+Note: 
+
+| | CHICASMALAS | TETTA PIG |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:21
+**Girone**: E Maschile
+
+Data: 08-11-2022 23:20:00
+
+Note: 
+
+| | BUONA LA MERDA | FC WANDA TEAM |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:22
+**Girone**: D Maschile
+
+Data: 08-11-2022 23:40:00
+
+Note: 
+
+| | ONLYFUK | CGB GAMBERONI |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:23
+**Girone**: B Femminile
+
+Data: 08-12-2022 16:00:00
+
+Note: 
+
+| | GIN TONICHE | MOCCIO(SE) |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:24
+**Girone**: A Maschile
+
+Data: 08-12-2022 16:20:00
+
+Note: 
+
+| | FC SAVIGNANO | I MAGNIFICI |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:25
+**Girone**: D Femminile
+
+Data: 08-12-2022 16:40:00
+
+Note: 
+
+| | FC WANDA TEAM GIRLS | TETTA PIG |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:26
+**Girone**: E Maschile
+
+Data: 08-12-2022 17:00:00
+
+Note: 
+
+| | FC WANDA TEAM | I MODIUM |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:27
+**Girone**: A Femminile
+
+Data: 08-12-2022 17:20:00
+
+Note: 
+
+| | HELLAS MA-DONNE | POCHE MA BONE |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:28
+**Girone**: B Femminile
+
+Data: 08-12-2022 17:40:00
+
+Note: 
+
+| | AL VOLO | GREENPASSERE |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:29
+**Girone**: G Maschile
+
+Data: 08-12-2022 18:00:00
+
+Note: 
+
+| | NAZIONALE FERROVIERI | ATLETICO MA NON TROPPO |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:30
+**Girone**: D Maschile
+
+Data: 08-12-2022 18:20:00
+
+Note: 
+
+| | ORANGE OLD SCHOOL | CGB GAMBERONI |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:31
+**Girone**: H Maschile
+
+Data: 08-12-2022 18:40:00
+
+Note: 
+
+| | SPRINT GOMMA TEAM | INEFUMA ELEVEN |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:32
+**Girone**: B Maschile
+
+Data: 08-12-2022 19:00:00
+
+Note: 
+
+| | US GUARNA | PRATO FIORITO |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:33
+**Girone**: F Maschile
+
+Data: 08-12-2022 19:20:00
+
+Note: 
+
+| | LIZZANELLA'S OLD SUGHI | FIGLI DI UN RE MINORE |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:34
+**Girone**: A Maschile
+
+Data: 08-12-2022 19:40:00
+
+Note: 
+
+| | SHARK ATTACK | FEL LAZIO |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:35
+**Girone**: C Femminile
+
+Data: 08-12-2022 20:00:00
+
+Note: 
+
+| | TANGATUBBIES | TORTE DI MELE |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:36
+**Girone**: E Maschile
+
+Data: 08-12-2022 20:20:00
+
+Note: 
+
+| | MEDIASER.T | FC WANDA TEAM |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:37
+**Girone**: D Femminile
+
+Data: 08-12-2022 21:00:00
+
+Note: 
+
+| | CHICASMALAS | LEMONADE |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:38
+**Girone**: D Maschile
+
+Data: 08-12-2022 21:20:00
+
+Note: 
+
+| | TECNICA & CACAO | CGB GAMBERONI |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:39
+**Girone**: B Maschile
+
+Data: 08-12-2022 21:40:00
+
+Note: 
+
+| | PRATO FIORITO | SBARX |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:40
+**Girone**: C Maschile
+
+Data: 08-12-2022 22:00:00
+
+Note: 
+
+| | PINGUINI TRENTINI | BELLA DOMANDA |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:41
+**Girone**: A Femminile
+
+Data: 08-12-2022 22:20:00
+
+Note: 
+
+| | FOUR TAIE + 1 | LA BALLA IN FIESTA |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:42
+**Girone**: C Femminile
+
+Data: 08-13-2022 10:00:00
+
+Note: 
+
+| | SAILOR MONE | TANGATUBBIES |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:43
+**Girone**: A Femminile
+
+Data: 08-13-2022 10:20:00
+
+Note: 
+
+| | POCHE MA BONE | LA BALLA IN FIESTA |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:44
+**Girone**: H Maschile
+
+Data: 08-13-2022 10:40:00
+
+Note: 
+
+| | SPRINT GOMMA TEAM | RESENTEAM |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:45
+**Girone**: D Femminile
+
+Data: 08-13-2022 11:00:00
+
+Note: 
+
+| | LEMONADE | TETTA PIG |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:46
+**Girone**: G Maschile
+
+Data: 08-13-2022 11:20:00
+
+Note: 
+
+| | DEMO BUSTERS | POWER GINGER |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:47
+**Girone**: A Femminile
+
+Data: 08-13-2022 11:40:00
+
+Note: 
+
+| | HELLAS MA-DONNE | FOUR TAIE + 1 |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:48
+**Girone**: C Femminile
+
+Data: 08-13-2022 12:00:00
+
+Note: 
+
+| | SAILOR MONE | DRIM TIM |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:49
+**Girone**: D Maschile
+
+Data: 08-13-2022 12:20:00
+
+Note: 
+
+| | ONLYFUK | TECNICA & CACAO |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:50
+**Girone**: B Femminile
+
+Data: 08-13-2022 14:40:00
+
+Note: 
+
+| | MOCCIO(SE) | GREENPASSERE |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:51
+**Girone**: E Maschile
+
+Data: 08-13-2022 15:00:00
+
+Note: 
+
+| | BUONA LA MERDA | MEDIASER.T |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:52
+**Girone**: D Femminile
+
+Data: 08-13-2022 15:20:00
+
+Note: 
+
+| | FC WANDA TEAM GIRLS | CHICASMALAS |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:53
+**Girone**: C Maschile
+
+Data: 08-13-2022 15:40:00
+
+Note: 
+
+| | I MONTAGNA | CLANDES TEAM |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:54
+**Girone**: A Maschile
+
+Data: 08-13-2022 16:00:00
+
+Note: 
+
+| | FEL LAZIO | I MAGNIFICI |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:55
+**Girone**: H Maschile
+
+Data: 08-13-2022 16:20:00
+
+Note: 
+
+| | LA CONTEA FC | RESENTEAM |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:56
+**Girone**: F Maschile
+
+Data: 08-13-2022 16:40:00
+
+Note: 
+
+| | LIZZANELLA'S OLD SUGHI | CLITORIDERS |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:57
+**Girone**: G Maschile
+
+Data: 08-13-2022 17:00:00
+
+Note: 
+
+| | ATLETICO MA NON TROPPO | DEMO BUSTERS |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:58
+**Girone**: B Maschile
+
+Data: 08-13-2022 17:20:00
+
+Note: 
+
+| | MAI UNA GIOIA | US GUARNA |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:59
+**Girone**: B Femminile
+
+Data: 08-13-2022 17:40:00
+
+Note: 
+
+| | GIN TONICHE | AL VOLO |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:60
+**Girone**: G Maschile
+
+Data: 08-13-2022 18:00:00
+
+Note: 
+
+| | NAZIONALE FERROVIERI | POWER GINGER |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:61
+**Girone**: C Femminile
+
+Data: 08-13-2022 18:20:00
+
+Note: 
+
+| | SAILOR MONE | TORTE DI MELE |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:62
+**Girone**: C Maschile
+
+Data: 08-13-2022 18:40:00
+
+Note: 
+
+| | BELLA DOMANDA | CLANDES TEAM |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:63
+**Girone**: A Femminile
+
+Data: 08-13-2022 19:00:00
+
+Note: 
+
+| | FOUR TAIE + 1 | POCHE MA BONE |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:64
+**Girone**: D Maschile
+
+Data: 08-13-2022 19:20:00
+
+Note: 
+
+| | ONLYFUK | ORANGE OLD SCHOOL |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:65
+**Girone**: H Maschile
+
+Data: 08-13-2022 19:40:00
+
+Note: 
+
+| | LA CONTEA FC | INEFUMA ELEVEN |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:66
+**Girone**: F Maschile
+
+Data: 08-13-2022 20:00:00
+
+Note: 
+
+| | CLITORIDERS | HELLAS MADONNA |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:67
+**Girone**: C Maschile
+
+Data: 08-13-2022 21:00:00
+
+Note: 
+
+| | I MONTAGNA | PINGUINI TRENTINI |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:68
+**Girone**: B Maschile
+
+Data: 08-13-2022 21:20:00
+
+Note: 
+
+| | MAI UNA GIOIA | PRATO FIORITO |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:69
+**Girone**: QUARTI DONNE
+
+Data: 08-13-2022 21:40:00
+
+Note: 
+
+| | QUARTI DONNE | QUARTI DONNE |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:70
+**Girone**: QUARTI DONNE
+
+Data: 08-13-2022 22:00:00
+
+Note: 
+
+| | QUARTI DONNE | QUARTI DONNE |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:71
+**Girone**: A Maschile
+
+Data: 08-13-2022 22:20:00
+
+Note: 
+
+| | SHARK ATTACK | FC SAVIGNANO |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:72
+**Girone**: E Maschile
+
+Data: 08-13-2022 22:40:00
+
+Note: 
+
+| | I MODIUM | BUONA LA MERDA |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:73
+**Girone**: F Maschile
+
+Data: 08-13-2022 23:00:00
+
+Note: 
+
+| | LIZZANELLA'S OLD SUGHI | HELLAS MADONNA |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:74
+**Girone**: QUARTI DONNE
+
+Data: 08-13-2022 23:20:00
+
+Note: 
+
+| | QUARTI DONNE | QUARTI DONNE |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:75
+**Girone**: QUARTI DONNE
+
+Data: 08-13-2022 23:40:00
+
+Note: 
+
+| | QUARTI DONNE | QUARTI DONNE |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:76
+**Girone**: OTTAVI UOMINI
+
+Data: 08-14-2022 10:00:00
+
+Note: 
+
+| | OTTAVI UOMINI | OTTAVI UOMINI |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:77
+**Girone**: OTTAVI UOMINI
+
+Data: 08-14-2022 10:20:00
+
+Note: 
+
+| | OTTAVI UOMINI | OTTAVI UOMINI |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:78
+**Girone**: OTTAVI UOMINI
+
+Data: 08-14-2022 10:40:00
+
+Note: 
+
+| | OTTAVI UOMINI | OTTAVI UOMINI |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:79
+**Girone**: OTTAVI UOMINI
+
+Data: 08-14-2022 11:00:00
+
+Note: 
+
+| | OTTAVI UOMINI | OTTAVI UOMINI |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:80
+**Girone**: OTTAVI UOMINI
+
+Data: 08-14-2022 11:20:00
+
+Note: 
+
+| | OTTAVI UOMINI | OTTAVI UOMINI |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:81
+**Girone**: OTTAVI UOMINI
+
+Data: 08-14-2022 11:40:00
+
+Note: 
+
+| | OTTAVI UOMINI | OTTAVI UOMINI |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:82
+**Girone**: OTTAVI UOMINI
+
+Data: 08-14-2022 12:00:00
+
+Note: 
+
+| | OTTAVI UOMINI | OTTAVI UOMINI |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:83
+**Girone**: OTTAVI UOMINI
+
+Data: 08-14-2022 12:20:00
+
+Note: 
+
+| | OTTAVI UOMINI | OTTAVI UOMINI |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:84
+**Girone**: QUARTI UOMINI
+
+Data: 08-14-2022 14:40:00
+
+Note: 
+
+| | QUARTI UOMINI | QUARTI UOMINI |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:85
+**Girone**: QUARTI UOMINI
+
+Data: 08-14-2022 15:10:00
+
+Note: 
+
+| | QUARTI UOMINI | QUARTI UOMINI |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:86
+**Girone**: QUARTI UOMINI
+
+Data: 08-14-2022 15:40:00
+
+Note: 
+
+| | QUARTI UOMINI | QUARTI UOMINI |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:87
+**Girone**: QUARTI UOMINI
+
+Data: 08-14-2022 16:10:00
+
+Note: 
+
+| | QUARTI UOMINI | QUARTI UOMINI |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:88
+**Girone**: SPAREGGI DONNE
+
+Data: 08-14-2022 16:30:00
+
+Note: 
+
+| | 15 DONNE | 16 DONNE |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:89
+**Girone**: SPAREGGI DONNE
+
+Data: 08-14-2022 16:50:00
+
+Note: 
+
+| | 13 DONNE | 14 DONNE |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:90
+**Girone**: SPAREGGI DONNE
+
+Data: 08-14-2022 17:10:00
+
+Note: 
+
+| | 12 DONNE | 11 DONNE |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:91
+**Girone**: SPAREGGI DONNE
+
+Data: 08-14-2022 17:30:00
+
+Note: 
+
+| | 10 DONNE | 9 DONNE |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:92
+**Girone**: SEMIFINALE DONNE
+
+Data: 08-14-2022 18:00:00
+
+Note: 
+
+| | SEMIFINALE DONNE | SEMIFINALE DONNE |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:93
+**Girone**: SEMIFINALE UOMINI
+
+Data: 08-14-2022 18:30:00
+
+Note: 
+
+| | SEMIFINALE UOMINI | SEMIFINALE UOMINI |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:94
+**Girone**: SEMIFINALE UOMINI
+
+Data: 08-14-2022 19:00:00
+
+Note: 
+
+| | SEMIFINALE DONNE | SEMIFINALE DONNE |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:95
+**Girone**: SEMIFINALE UOMINI
+
+Data: 08-14-2022 19:30:00
+
+Note: 
+
+| | SEMIFINALE UOMINI | SEMIFINALE UOMINI |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:96
+**Girone**: FINALINA DONNE
+
+Data: 08-14-2022 20:30:00
+
+Note: 
+
+| | FINALE 3-4 DONNE | FINALE 3-4 DONNE |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:97
+**Girone**: FINALINA UOMINI
+
+Data: 08-14-2022 21:00:00
+
+Note: 
+
+| | FINALE 3-4 UOMINI | FINALE 3-4 UOMINI |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:98
+**Girone**: FINALISSIMA DONNE
+
+Data: 08-14-2022 21:30:00
+
+Note: 
+
+| | FINALISSIMA DONNE | FINALISSIMA DONNE |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
+
+
+# PARTITA:99
+**Girone**: FINALISSIMA UOMINI
+
+Data: 08-14-2022 22:00:00
+
+Note: 
+
+| | FINALISSIMA UOMINI | FINALISSIMA UOMINI |
+|:-----:|-----|-----|
+Risultato|0|0
+Goals||
+Autogoals||
+Falli|0|0
+Gialli||
+Rossi||
+Miglior Giocatore| | 
+Miglior Portiere| | 
