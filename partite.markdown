@@ -4,6 +4,7 @@ title: Partite
 permalink: /partite/
 ---
 
+| [**Edizione 2022**](/partite/2022/) |
 | [**Edizione 2021**](/partite/2021/) |
 | [**Edizione 2019**](/partite/2019/) | 
 | [**Edizione 2018**](/partite/2018/) | 

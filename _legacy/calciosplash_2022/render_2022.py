@@ -11,7 +11,7 @@ for idx, rows in orari.iterrows():
     orario = rows["giorno"].replace(hour=int(hour), minute=int(minutes) if len(minutes) > 1 else int(minutes + "0"))
     data["data"] = orario.strftime("%m-%d-%Y %H:%M:%S")
     data["gironi"] = rows["girone"]
-    data["genere_gironi"] = rows["torneo"]
+    data["genere_gironi"] = 1 if rows["torneo"] == "M" else 0
     data["squadra_1"] = rows["squadra1"]
     data["squadra_2"] = rows["squadra2"]
     data["gol_squadra_1"] = 0
