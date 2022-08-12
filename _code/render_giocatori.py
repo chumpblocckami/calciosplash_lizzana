@@ -151,7 +151,7 @@ if __name__ == "__main__":
                  "Giordani Nicolas", "Conzatti Andrea", "Maffei Alessandro", "De Zambotti Davide",
                  "De Zambotti Giacomo", "Di Meo Samuel", "Zambanini Vanessa", "Miorandi Emanuele", "Bertolini Michele",
                  "Frasca Luca", "Cescatti Manuel", "Pedrotti Serena", "Rigo Anna",
-                 "Ceschini Leonardo", "Miorandi Emanuele",
+                 "Ceschini Leonardo", "Miorandi Emanuele", "Baldessarini Mattia","Giordani Andrea",
                  "Mazzola Matteo", "Parisi Leonardo", "Anzelini Andrea", "Gerola Marco", "Pizzini Stefano", "Gazzini Stefania",
                  "Sala Marco", "Tesini Emma", "Pomarolli Federico", "Manconi Laura", "Manconi Matteo", "Pomarolli Carlotta",
                  "Scrinzi Giulia", "Gober Andrea", "Pomarolli Edoardo", "Incandela Angela", "Giordani Federico", "Russo Omar",
@@ -160,7 +160,8 @@ if __name__ == "__main__":
                  "Finarolli Alice", "Dalbosco Daniele", "Turchini Giorgia", "Debiasi Thomas", "Parisi Michele", "Marangoni Alessandra",
                  "Loss Elena", "Togni Nicola", "Castelletti Peter", "Azzolini Elisabetta", "Prezzi Matteo", "Lorandi Chiara",
                  "Frasca Luca", "Arlanch Giorgia", "Tovazzi Irene", "Stedile Carlo", "Bertolini Andrea", "Merighi Michele",
-                 "Viola Leonardo", "Maraner Matteo", "Prezzi Sara", "Raffelli Melany"]
+                 "Viola Leonardo", "Maraner Matteo", "Prezzi Sara", "Raffelli Melany","Debiasi Francesca","Planchestainer Margherita",
+                 "Incandela Vito"]
 
     for giocatore in tqdm(giocatori, desc="rendering players..."):
         try:

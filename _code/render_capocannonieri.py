@@ -32,13 +32,14 @@ def load_albodoro():
                 albo_doro[nome] = {nome_anno: document["gol"]}
             else:
                 if nome in albo_doro and nome_anno in albo_doro[nome] and document["gol"] != int(albo_doro[nome][nome_anno]):
-                    print(f"{nome}: Goal secondo i dati: {document['gol']}, Goal secondo l'annuario: {albo_doro[nome][nome_anno]}")
+                    print(f"Anno {anno} - {nome}: Goal secondo i dati: {document['gol']}, Goal secondo l'annuario: {albo_doro[nome][nome_anno]}")
                 else:
                     albo_doro[nome].update({nome_anno: document["gol"]})
     albo_doro = pd.DataFrame(albo_doro).sort_index()
     albo_doro = albo_doro.T.fillna(0).astype(int)
     albo_doro["Totale"] = albo_doro.sum(axis=1)
     albo_doro = albo_doro.sort_values("Totale", ascending=False)
+    albo_doro.to_csv("./../_legacy/albo_doro.csv")
     albo_doro = albo_doro.loc[albo_doro["Totale"] > 0]
     albo_doro = albo_doro[albo_doro.columns.sort_values(ascending=False)]
     albo_doro_indice = albo_doro["Totale"].reset_index().reset_index().set_index("index")
@@ -52,7 +53,7 @@ def load_albodoro():
 
 def render_albodoro(albodoro):
     markdown = []
-    markdown.append("\n".join(["---", "layout: post", f"{dt.datetime.now()}", "categories: albo_doro", "permalink: albo_doro/goleador", "---",
+    markdown.append("\n".join(["---", "layout: post", f"date: {dt.datetime.now()}", "categories: albo_doro", "permalink: albo_doro/goleador", "---",
                                "<link rel='stylesheet' href='../../assets/style.css'>"]))
     markdown.append("\n")
     albodoro = albodoro.T.to_dict()

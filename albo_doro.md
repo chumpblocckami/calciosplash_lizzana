@@ -78,7 +78,7 @@ permalink: /albo_doro/
 
 |              | GOAL             | TORNEO MASCHILE🤴🍻                               | GOAL | TORNEO FEMMINILE👸🍸                              |
 |:----------------:|------------------|---------------------------------------------------|------|---------------------------------------------------|
-|**Edizione 2021** |                  | [undefined](/giocatore/clitoriders)               |      | [undefined](/giocatore/dinamo_nada/)              |
+|**Edizione 2021** |                  | [undefined](/giocatore/clitoriders)               | 15   | [Tovazzi Irene](/giocatore/tovazzi_irene/)          |
 |**Edizione 2019** | 17               | [Frasca Luca](/giocatore/frasca_luca)             | 20   | [Gazzini Stefania](/giocatore/gazzini_stefania/)  |
 |**Edizione 2018** | 24               | [Merighi Michele](/giocatore/merighi_michele)     | 23   | [Arlanch Giorgia](/giocatore/arlanch_giorgia/)    |
 |**Edizione 2017** | 17               | [Giordani Federico](/giocatore/giordani_federico) |      | [Tovazzi Irene](/giocatore/tovazzi_irene/)        |
