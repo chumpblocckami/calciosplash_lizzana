@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-08-12 14:21:27.866126
+date: 2022-08-13 11:53:12.706108
 categories: partite
 permalink: /partite/2022/
 ---
@@ -17,13 +17,13 @@ Note:
 
 | | HELLAS MA-DONNE | LA BALLA IN FIESTA |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|2|1
+Goals|⚽ Aurora Robol (BAMBOLA DI CERA)<br/>⚽ Stefania Cumerlotti|⚽ Valentina Garniga (PANTENE PROVY)
 Autogoals||
-Falli|0|0
+Falli|0|1
 Gialli||
 Rossi||
-Miglior Giocatore| | 
+Miglior Giocatore| ⭐⭐⭐ Stefania Cumerlotti<br/><br/>⭐⭐ Aurora Robol (BAMBOLA DI CERA)<br/>| ⭐ Valentina Garniga (PANTENE PROVY)<br/>
 Miglior Portiere| | 
 
 
@@ -36,14 +36,14 @@ Note:
 
 | | MAI UNA GIOIA | SBARX |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|4|1
+Goals|⚽⚽ Carlo Stedile (WELCOME TO PARADISE)<br/>⚽ Giacomo Gasparini (ICEMAN)<br/>⚽ Nadir Cavagna (CASABLANCA)|⚽ Enrico Parisi
 Autogoals||
-Falli|0|0
+Falli|4|1
 Gialli||
 Rossi||
-Miglior Giocatore| | 
-Miglior Portiere| | 
+Miglior Giocatore| ⭐⭐⭐ Carlo Stedile (WELCOME TO PARADISE)<br/><br/>⭐⭐ Giacomo Gasparini (ICEMAN)<br/><br/>⭐ Nadir Cavagna (CASABLANCA)<br/>| 
+Miglior Portiere| ⭐⭐⭐ Tomas Debiasi (ORGANIZZATORE DI EVENTI BRUTTI)<br/>| 
 
 
 # PARTITA:2
@@ -55,13 +55,13 @@ Note:
 
 | | FC SAVIGNANO | FEL LAZIO |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|4|0
+Goals|⚽⚽⚽ Andrea Conzatti (CALDAIA)<br/>⚽⚽ Alessandro Maffei (FONDATORE DI SOCIAL NETWORK)|
 Autogoals||
-Falli|0|0
+Falli|1|1
 Gialli||
 Rossi||
-Miglior Giocatore| | 
+Miglior Giocatore| ⭐⭐⭐ Andrea Conzatti (CALDAIA)<br/><br/>⭐⭐ Alessandro Maffei (FONDATORE DI SOCIAL NETWORK)<br/>| ⭐ Manuel Cescatti (IL BOLSCEVICO)<br/>
 Miglior Portiere| | 
 
 
@@ -74,13 +74,13 @@ Note:
 
 | | INEFUMA ELEVEN | RESENTEAM |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|5|2
+Goals|⚽⚽ Alessio Pasqualetto<br/>⚽⚽ Giovanni Girardelli<br/>⚽ Francesco Zendri|⚽ Giovanni Bortot<br/>⚽ Alessio Malcira
 Autogoals||
-Falli|0|0
+Falli|0|4
 Gialli||
 Rossi||
-Miglior Giocatore| | 
+Miglior Giocatore| ⭐⭐⭐ Giovanni Girardelli<br/><br/>⭐⭐ Alessio Pasqualetto<br/>| ⭐ Giovanni Bortot<br/>
 Miglior Portiere| | 
 
 
@@ -93,13 +93,13 @@ Note:
 
 | | NAZIONALE FERROVIERI | DEMO BUSTERS |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|0|3
+Goals||⚽ Giovanni Giusto<br/>⚽ Riccardo Zeni<br/>⚽ Daniele Bort
 Autogoals||
-Falli|0|0
+Falli|1|1
 Gialli||
 Rossi||
-Miglior Giocatore| | 
+Miglior Giocatore| | ⭐⭐⭐ Daniele Bort<br/><br/>⭐⭐ Riccardo Zeni<br/><br/>⭐ Gabriel Melis<br/>
 Miglior Portiere| | 
 
 
@@ -112,14 +112,14 @@ Note:
 
 | | SHARK ATTACK | I MAGNIFICI |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|9|0
+Goals|⚽⚽⚽ Leonardo Viola (UOMO INFORME 2.0)<br/>⚽⚽ Mattia Baldessarini (ASSASSINO CELEBRALE)<br/>⚽⚽ Mattia Festi (PLASTIK MAN)<br/>⚽ Gabriele Brentari (MOCIO VILEDA)<br/>⚽ Luca Giordani (CHEF PIU IN FORMA D'EUROPA)|
 Autogoals||
-Falli|0|0
+Falli|3|1
 Gialli||
 Rossi||
-Miglior Giocatore| | 
-Miglior Portiere| | 
+Miglior Giocatore| ⭐⭐⭐ Mattia Baldessarini (ASSASINO CELEBRALE)<br/><br/>⭐⭐ Leonardo Viola (UOMO INFORME 2.0)<br/><br/>⭐ Mattia Festi (PLASTIK MAN)<br/>| 
+Miglior Portiere| ⭐⭐⭐ Alberto Cerisara (L'UOMO CHE HA MANGIATO JUSTIN BIEBER)<br/>| 
 
 
 # PARTITA:6
@@ -131,13 +131,13 @@ Note:
 
 | | ATLETICO MA NON TROPPO | POWER GINGER |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|9|0
+Goals|⚽⚽⚽⚽⚽⚽⚽ Lorenzo Rossi<br/>⚽ Federico Madaschi<br/>⚽ Cara Blendi|
 Autogoals||
-Falli|0|0
+Falli|3|0
 Gialli||
 Rossi||
-Miglior Giocatore| | 
+Miglior Giocatore| ⭐⭐⭐ Lorenzo Rossi<br/>| 
 Miglior Portiere| | 
 
 
@@ -150,14 +150,14 @@ Note:
 
 | | GIN TONICHE | GREENPASSERE |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|0|12
+Goals||⚽⚽⚽⚽⚽ Giulia Scrinzi (LA BIMBA BIONICA)<br/>⚽⚽ Marie Stogher (SACHER TORTE)<br/>⚽⚽ Claudia Manzana (LA BOLSCEVICA)<br/>⚽⚽ Manuela Perini (CALLISTO)<br/>⚽ Manuela Montermini (CARIDDI)
 Autogoals||
 Falli|0|0
 Gialli||
 Rossi||
-Miglior Giocatore| | 
-Miglior Portiere| | 
+Miglior Giocatore| | ⭐⭐ Giulia Scrinzi (LA BIMBA BIONICA)<br/><br/>⭐ Claudia Manzana (LA BOLSCEVICA)<br/>
+Miglior Portiere| | ⭐⭐⭐ Chiusole Cecilia (LA FALSA GIOVANE)<br/>
 
 
 # PARTITA:8
@@ -169,13 +169,13 @@ Note:
 
 | | ORANGE OLD SCHOOL | TECNICA & CACAO |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|1|5
+Goals|⚽ Luca Zorzutti (ZORRO)|⚽ Alessandro Fait (FAIT CLUB)<br/>⚽⚽⚽ Giacomo Larcher (OCCHIO CERULEO)<br/>⚽ Matteo Zanini
 Autogoals||
-Falli|0|0
+Falli|0|3
 Gialli||
 Rossi||
-Miglior Giocatore| | 
+Miglior Giocatore| | ⭐⭐⭐ Giacomo Larcher (OCCHIO CERULEO)<br/><br/>⭐ Matteo Zanini<br/>
 Miglior Portiere| | 
 
 
@@ -188,13 +188,13 @@ Note:
 
 | | DRIM TIM | TORTE DI MELE |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
-Autogoals||
+Risultato|8|0
+Goals|⚽⚽⚽ Laura Manconi (SKELETOR (THE ORIGINAL))<br/>⚽⚽⚽ Margherita Planchestainer (LA MAMMA DI BAMBI)<br/>⚽ Stefania Gazzini (SKELETOR)|
+Autogoals|⛔ Jasmine Scottini (POLPACCIO D'ORO)|
 Falli|0|0
 Gialli||
 Rossi||
-Miglior Giocatore| | 
+Miglior Giocatore| ⭐⭐⭐ Laura Manconi (SKELETOR (THE ORIGINAL))<br/><br/>⭐⭐ Margherita Planchestainer (LA MAMMA DI BAMBI)<br/>| 
 Miglior Portiere| | 
 
 
@@ -207,13 +207,13 @@ Note:
 
 | | PINGUINI TRENTINI | CLANDES TEAM |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|3|3
+Goals|⚽⚽ Yuri Andreolli (SCHEGGIA IMPAZZITA)<br/>⚽ Davide Manica (PALA EOLICA)|⚽⚽ Tommaso Canepel (RIDGE FORES)<br/>⚽ Pietro Tasini (TORTON)
 Autogoals||
-Falli|0|0
+Falli|2|2
 Gialli||
 Rossi||
-Miglior Giocatore| | 
+Miglior Giocatore| ⭐⭐⭐ Yuri Andreolli (SCHEGGIA IMPAZZITA)<br/>| ⭐⭐ Pietro Tasini (TORTON)<br/>
 Miglior Portiere| | 
 
 
@@ -226,13 +226,13 @@ Note:
 
 | | CLITORIDERS | FIGLI DI UN RE MINORE |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|13|2
+Goals|⚽⚽⚽⚽⚽ Michele Merighi (IENA RIDENS)<br/>⚽⚽⚽ Luca Frasca (DELIRIUM TREMENS)<br/>⚽⚽⚽ Andrea Giordani (ORSO BRUNO)<br/>⚽ Federico Mortillaro (LA MORTE NERA)|⚽ Matteo Gatti<br/>⚽ Daniele Ruzzeneti
 Autogoals||
 Falli|0|0
 Gialli||
 Rossi||
-Miglior Giocatore| | 
+Miglior Giocatore| ⭐⭐⭐ Michele Merighi (IENA RIDENS)<br/><br/>⭐⭐ Federico Mortillaro (LA MORTE NERA)<br/><br/>⭐ Matteo Gatti<br/>| 
 Miglior Portiere| | 
 
 
@@ -245,14 +245,14 @@ Note:
 
 | | LA CONTEA FC | SPRINT GOMMA TEAM |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|1|2
+Goals|⚽ Andrea Nicolodi|⚽ Alessandro Marzadro<br/>⚽ Giovanni Torboli
 Autogoals||
-Falli|0|0
-Gialli||
+Falli|5|2
+Gialli|Giovanni Torboli|
 Rossi||
 Miglior Giocatore| | 
-Miglior Portiere| | 
+Miglior Portiere| ⭐⭐⭐ Nicolodi Mattia<br/>| 
 
 
 # PARTITA:13
@@ -264,13 +264,13 @@ Note:
 
 | | I MODIUM | MEDIASER.T |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|3|2
+Goals|⚽⚽ Edoardo Pomarolli (IL BELLO DELLA PIOF)<br/>⚽ Marco Sartorelli (IL PLAYBOY DELLA BUSA)|⚽ Leonardo Parisi (IL FRATELLO DI RON WEASLEY)<br/>⚽ Davide Raffaelli (GIRAFFA DI FRASSINO)
 Autogoals||
-Falli|0|0
-Gialli||
-Rossi||
-Miglior Giocatore| | 
+Falli|2|3
+Gialli|Marco Sartorelli (IL PLAYBOY DELLA BUSA)|
+Rossi|Stefano Pizzini (NEANDERTHAL)|
+Miglior Giocatore| ⭐⭐⭐ Edoardo Pomarolli (IL BELLO DELLA PIOF)<br/>| 
 Miglior Portiere| | 
 
 
@@ -283,13 +283,13 @@ Note:
 
 | | AL VOLO | MOCCIO(SE) |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|3|2
+Goals|⚽⚽ Elisa Zanelli (FRANCESCA SCHIAVONE)<br/>⚽ Aurora Betta (L'INNOMINATA)|⚽ Federica Bertolli<br/>⚽ Annah Potrich
 Autogoals||
-Falli|0|0
+Falli|3|1
 Gialli||
 Rossi||
-Miglior Giocatore| | 
+Miglior Giocatore| ⭐⭐⭐ Elisa Zanelli (FRANCESCA SCHIAVONE)<br/>| ⭐ Angela Bruni (LA RIPUDIATA)<br/>
 Miglior Portiere| | 
 
 
@@ -302,14 +302,14 @@ Note:
 
 | | SBARX | US GUARNA |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|0|4
+Goals||⚽ Riccardo Zaffoni (LUGHERIM)<br/>⚽⚽ Matteo Diener<br/>⚽ Heidenpergher Marco (CLARA)
 Autogoals||
-Falli|0|0
-Gialli||
+Falli|7|6
+Gialli||Matteo Diener
 Rossi||
-Miglior Giocatore| | 
-Miglior Portiere| | 
+Miglior Giocatore| | ⭐ Riccardo Zaffoni (LUGHERIM)<br/>
+Miglior Portiere| | ⭐⭐⭐ Elia Battisti (BOILER)<br/>
 
 
 # PARTITA:16
@@ -321,13 +321,13 @@ Note:
 
 | | TANGATUBBIES | DRIM TIM |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|1|11
+Goals|⚽ Sara Isabel Pisoni|⚽⚽⚽⚽⚽⚽⚽ Margherita Planchestainer (LA MAMMA DI BAMBI)<br/>⚽⚽ Laura Calliari<br/>⚽ Stefania Gazzini (SKELETOR)<br/>⚽ Giulia Stedile (KRASIC)
 Autogoals||
-Falli|0|0
+Falli|1|1
 Gialli||
 Rossi||
-Miglior Giocatore| | 
+Miglior Giocatore| ⭐⭐⭐ Margherita Planchestainer (LA MAMMA DI BAMBI)<br/>| 
 Miglior Portiere| | 
 
 
@@ -340,14 +340,14 @@ Note:
 
 | | FIGLI DI UN RE MINORE | HELLAS MADONNA |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|0|9
+Goals||⚽⚽⚽ Filippo Alovisi (TROMBA)<br/>⚽⚽ Tommaso Bruschetti (SINDACO)<br/>⚽⚽ Daniele Rosa' (SOLDATO SEMPLICE NEMECSEK)<br/>⚽⚽ Matteo Bazzanella (TORGO NUDO)
 Autogoals||
-Falli|0|0
+Falli|2|1
 Gialli||
 Rossi||
-Miglior Giocatore| | 
-Miglior Portiere| | 
+Miglior Giocatore| ⭐ Matteo Gatti<br/>| ⭐⭐ Daniele Rosa' (SOLDATO SEMPLICE NEMECSEK)<br/>
+Miglior Portiere| | ⭐⭐⭐ Melis Gabriel<br/>
 
 
 # PARTITA:18
@@ -359,8 +359,8 @@ Note:
 
 | | FC WANDA TEAM GIRLS | LEMONADE |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|4|1
+Goals|⚽⚽ Lisa Bisoffi<br/>⚽⚽ Marika Bisoffi<br/>⚽ Maddalena Baldo|⚽ Caterina Lasta
 Autogoals||
 Falli|0|0
 Gialli||
@@ -378,14 +378,14 @@ Note:
 
 | | I MONTAGNA | BELLA DOMANDA |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|8|1
+Goals||⚽⚽⚽ Marco Sala (CANE ROGNOSO)<br/>⚽⚽⚽ Andrea Pedrotti (MEDIOMAN)<br/>⚽⚽ Daniel Pedrotti
 Autogoals||
-Falli|0|0
+Falli|6|2
 Gialli||
 Rossi||
-Miglior Giocatore| | 
-Miglior Portiere| | 
+Miglior Giocatore| ⭐⭐⭐ Andrea Pedrotti (MEDIOMAN)<br/>| ⭐ Tobia Brussich (PJ BARACCUS)<br/>
+Miglior Portiere| | ⭐⭐⭐ Daniele Dalbosco (GRESTA DE CUNEL)<br/>
 
 
 # PARTITA:20
@@ -397,10 +397,10 @@ Note:
 
 | | CHICASMALAS | TETTA PIG |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|3|1
+Goals|⚽⚽⚽ Rebecca Rizzi (ERASMUS)|⚽ Brutaru Giorgiana
 Autogoals||
-Falli|0|0
+Falli|2|1
 Gialli||
 Rossi||
 Miglior Giocatore| | 
@@ -416,13 +416,13 @@ Note:
 
 | | BUONA LA MERDA | FC WANDA TEAM |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|2|1
+Goals|⚽ Samuel Uez<br/>⚽ Daniele Feller (IL BABBUINO)|⚽ Stefano Rosina (GPL)
 Autogoals||
-Falli|0|0
+Falli|3|4
 Gialli||
 Rossi||
-Miglior Giocatore| | 
+Miglior Giocatore| ⭐⭐⭐ Daniele Feller (IL BABBUINO)<br/>| 
 Miglior Portiere| | 
 
 
@@ -435,13 +435,13 @@ Note:
 
 | | ONLYFUK | CGB GAMBERONI |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|3|4
+Goals|⚽ Joao Loyola<br/>⚽ Matteo Pilati (PONZIO PILATI)<br/>⚽ Enrico Bordignon (ORMONE IMPAZZITO)|⚽ Luca Perenzoni (CHERNOBYL)<br/>⚽ Francesco Simoncelli<br/>⚽ Sebastiano Zoller<br/>⚽ Gabriele Gottardi
 Autogoals||
-Falli|0|0
+Falli|6|2
 Gialli||
 Rossi||
-Miglior Giocatore| | 
+Miglior Giocatore| ⭐⭐ Matteo Pilati (PONZIO PILATI)<br/>| 
 Miglior Portiere| | 
 
 
@@ -454,13 +454,13 @@ Note:
 
 | | GIN TONICHE | MOCCIO(SE) |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|0|5
+Goals||⚽⚽ Michela Pezzato<br/>⚽ Rachele Gugole<br/>⚽ Alessia Bonafini<br/>⚽ Federica Bertolli
 Autogoals||
-Falli|0|0
+Falli|2|0
 Gialli||
 Rossi||
-Miglior Giocatore| | 
+Miglior Giocatore| | ⭐ Michela Pezzato<br/>
 Miglior Portiere| | 
 
 
@@ -473,13 +473,13 @@ Note:
 
 | | FC SAVIGNANO | I MAGNIFICI |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|6|3
+Goals|⚽⚽⚽ Andrea Conzatti (Caldaia)<br/>⚽ Alessandro Maffei \u00a0(Fondatore Di Social Network)<br/>⚽ Eduardo Grazioli<br/>⚽ Amedeo Malesardi|⚽⚽ Filippo Benetti (Fungo Atomico)<br/>⚽ Lorenzo Zuani
 Autogoals||
-Falli|0|0
+Falli|1|1
 Gialli||
 Rossi||
-Miglior Giocatore| | 
+Miglior Giocatore| | ⭐⭐ Andrea Conzatti (Caldaia)<br/>
 Miglior Portiere| | 
 
 
@@ -492,13 +492,13 @@ Note:
 
 | | FC WANDA TEAM GIRLS | TETTA PIG |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|7|0
+Goals|⚽⚽⚽⚽ Lisa Bisoffi<br/>⚽⚽⚽ Marina Bisoffi|
 Autogoals||
-Falli|0|0
+Falli|1|0
 Gialli||
 Rossi||
-Miglior Giocatore| | 
+Miglior Giocatore| ⭐ Lisa Bisoffi<br/>| 
 Miglior Portiere| | 
 
 
@@ -511,14 +511,14 @@ Note:
 
 | | FC WANDA TEAM | I MODIUM |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|3|3
+Goals|⚽⚽ Rosina Stefano (GPL)|⚽⚽ Andrea Bertolini (BOMBER BERTO)<br/>⚽ Marco Sartorelli (IL PLAYBOY DELLA BUSA)
 Autogoals||
-Falli|0|0
+Falli|3|0
 Gialli||
 Rossi||
-Miglior Giocatore| | 
-Miglior Portiere| | 
+Miglior Giocatore| | ⭐ Andrea Bertolini (BOMBER BERTO)<br/>
+Miglior Portiere| ⭐⭐ Pomarolli Carlo<br/>| 
 
 
 # PARTITA:27
@@ -530,13 +530,13 @@ Note:
 
 | | HELLAS MA-DONNE | POCHE MA BONE |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|0|9
+Goals||⚽⚽ Valentina Salzani/(HELLO KITTY)<br/>⚽⚽⚽ Carlotta Pomarolli (LA PREDESTINATA)<br/>⚽⚽⚽ Veronica Osele (MARION JONES)<br/>⚽ Licia Fondriest (ANZA)
 Autogoals||
-Falli|0|0
+Falli|1|1
 Gialli||
 Rossi||
-Miglior Giocatore| | 
+Miglior Giocatore| | ⭐⭐ Veronica Osele (MARION JONES)<br/><br/>⭐ Carlotta Pomarolli (LA PREDESTINATA)<br/>
 Miglior Portiere| | 
 
 
@@ -549,13 +549,13 @@ Note:
 
 | | AL VOLO | GREENPASSERE |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|4|2
+Goals|⚽⚽ Lisa Zanelli (FRANCESCA SCHIAVONE)<br/>⚽ Elisa Cavagna<br/>⚽ Aurora Betta (L'INNAMORATA)|⚽⚽ Scrinzi Giulia (LA BIMBA BIONICA)
 Autogoals||
 Falli|0|0
 Gialli||
 Rossi||
-Miglior Giocatore| | 
+Miglior Giocatore| ⭐⭐ Lisa Zanelli (FRANCESCA SCHIAVONE)<br/>| ⭐ Scrinzi Giulia (LA BIMBA BIONICA)<br/>
 Miglior Portiere| | 
 
 
@@ -568,13 +568,13 @@ Note:
 
 | | NAZIONALE FERROVIERI | ATLETICO MA NON TROPPO |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|4|2
+Goals|⚽ Giuseppe Forina<br/>⚽ Leonardo Fedrigotti (IL BOSCAIOLO LEDRENSE)<br/>⚽ Michele Boccagni<br/>⚽ Luca Marchesi|⚽⚽ Nunez Nicolas
 Autogoals||
-Falli|0|0
+Falli|0|3
 Gialli||
 Rossi||
-Miglior Giocatore| | 
+Miglior Giocatore| | ⭐ Nunez Nicolas<br/>
 Miglior Portiere| | 
 
 
@@ -588,12 +588,12 @@ Note:
 | | ORANGE OLD SCHOOL | CGB GAMBERONI |
 |:-----:|-----|-----|
 Risultato|0|0
-Goals||
+Goals|⚽ Pablo Chavez<br/>⚽⚽⚽ Alessandro Zandonai|⚽⚽⚽⚽ Gabriele Gottardi<br/>⚽⚽ Luca Perenzoni<br/>⚽⚽ Sebastiano Zoller
 Autogoals||
-Falli|0|0
+Falli|0|2
 Gialli||
 Rossi||
-Miglior Giocatore| | 
+Miglior Giocatore| ⭐⭐ Alessandro Zandonai<br/>| ⭐⭐⭐ Gabriele Gottardi<br/><br/>⭐ Sebastiano Zoller<br/>
 Miglior Portiere| | 
 
 
@@ -606,14 +606,14 @@ Note:
 
 | | SPRINT GOMMA TEAM | INEFUMA ELEVEN |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|2|3
+Goals|⚽ Alessandro Marzadro<br/>⚽ Andrea Pedrotti|⚽⚽⚽ Giovanni Girardelli<br/>⚽ Thomas Andreolli
 Autogoals||
-Falli|0|0
+Falli|2|2
 Gialli||
 Rossi||
-Miglior Giocatore| | 
-Miglior Portiere| | 
+Miglior Giocatore| | ⭐⭐ Giovanni Girardelli<br/>
+Miglior Portiere| | ⭐⭐⭐ Thomas Andreolli<br/>
 
 
 # PARTITA:32
@@ -625,14 +625,14 @@ Note:
 
 | | US GUARNA | PRATO FIORITO |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|6|2
+Goals|⚽⚽⚽ Riccardo Zaffoni (LUGHERIM)<br/>⚽ Elia Battisti (BOILER)<br/>⚽ Matteo Diener<br/>⚽ Heidenpergher Marco (CLARA)|⚽ Federico Manica<br/>⚽ Michele Bertolini (MARCO COLUMBRO)
 Autogoals||
-Falli|0|0
+Falli|2|1
 Gialli||
 Rossi||
-Miglior Giocatore| | 
-Miglior Portiere| | 
+Miglior Giocatore| ⭐⭐⭐ Riccardo Zaffoni (LUGHERIM)<br/>| 
+Miglior Portiere| ⭐⭐⭐ Elia Battisti (BOILER)<br/>| 
 
 
 # PARTITA:33
@@ -644,13 +644,13 @@ Note:
 
 | | LIZZANELLA'S OLD SUGHI | FIGLI DI UN RE MINORE |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|14|0
+Goals|⚽⚽⚽⚽⚽ Federico Ignaccolo (IL CERCI DELLA BUSA)<br/>⚽⚽⚽⚽ Luca Tonolli (MARK RENTON)<br/>⚽⚽ Emanuele Miorandi (RE DI BASTONI)<br/>⚽ Federico Leonardi (PAN CARRE')<br/>⚽ Daniele Feltrinelli (LA TRANSIBERIANA)<br/>⚽ Leonardo Graziola (VALANGA DI RAGU'|
 Autogoals||
-Falli|0|0
+Falli|1|2
 Gialli||
 Rossi||
-Miglior Giocatore| | 
+Miglior Giocatore| ⭐⭐⭐ Luca Tonolli (MARK RENTON)<br/><br/>⭐⭐ Federico Ignaccolo (IL CERCI DELLA BUSA)<br/><br/>⭐ Emanuele Miorandi (RE DI BASTONI)<br/>| 
 Miglior Portiere| | 
 
 
@@ -663,14 +663,14 @@ Note:
 
 | | SHARK ATTACK | FEL LAZIO |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|10|0
+Goals|⚽⚽⚽⚽⚽ Leonardo Viola (UOMO INFORME 2.0)<br/>⚽⚽⚽ Mattia Festi (PLASTIK MAN)<br/>⚽⚽ MATTIA BALDESSARINI (L'ASSASSINO CELEBRALE)|
 Autogoals||
-Falli|0|0
+Falli|3|1
 Gialli||
 Rossi||
-Miglior Giocatore| | 
-Miglior Portiere| | 
+Miglior Giocatore| ⭐⭐⭐ Leonardo Viola (UOMO INFORME 2.0)<br/><br/>⭐⭐ Mattia Baldessarini (L'ASSASSINO CELEBRARE)<br/><br/>⭐ Mattia Festi (PLASTIK MAN)<br/>| 
+Miglior Portiere| ⭐ Alberto Cerisara (L'UOMO CHE HA MANGIATO JUSTIN BIEBER)<br/>| 
 
 
 # PARTITA:35
@@ -682,13 +682,13 @@ Note:
 
 | | TANGATUBBIES | TORTE DI MELE |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|0|10
+Goals|⚽⚽⚽⚽⚽⚽ Elena Bordato<br/>⚽⚽⚽⚽ Emma Tesini (LATTE TRENTO)|
 Autogoals||
 Falli|0|0
 Gialli||
 Rossi||
-Miglior Giocatore| | 
+Miglior Giocatore| ⭐⭐⭐ Elena Bordato<br/><br/>⭐⭐ Emma Tesini (LATTE TRENTO)<br/>| 
 Miglior Portiere| | 
 
 
@@ -697,18 +697,18 @@ Miglior Portiere| |
 
 Data: 08-12-2022 20:20:00
 
-Note: 
+Note: Gennaro Bullo in porta perchè Neanderthal espulso
 
 | | MEDIASER.T | FC WANDA TEAM |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|5|2
+Goals|⚽⚽ Andrea Anzelini (TUNNEL DEL VENTO)<br/>⚽ Marco Gerola (GERONIMO STILTON)<br/>⚽ Leonardo Parisi (IL FRATELLO DI RON WEASLEY<br/>⚽ Davide Raffaelli (GIRAFFA DI FRASSINO)|⚽ Stefano Rosina (GPL)<br/>⚽ Mattia Spagnolli (DR. NOWZARADAN)
 Autogoals||
-Falli|0|0
+Falli|2|3
 Gialli||
 Rossi||
-Miglior Giocatore| | 
-Miglior Portiere| | 
+Miglior Giocatore| ⭐⭐ Andrea Anzelini (TUNNEL DEL VENTO)<br/>| ⭐⭐⭐ Mattia Spagnolli (DR. NOWZARADAN)<br/>
+Miglior Portiere| | ⭐⭐⭐ Carlo Pomarolli<br/>
 
 
 # PARTITA:37
@@ -720,10 +720,10 @@ Note:
 
 | | CHICASMALAS | LEMONADE |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
-Autogoals||
-Falli|0|0
+Risultato|2|4
+Goals|⚽ Rebecca Rizzi (ERASMUS)|⚽ Maddalena Monte<br/>⚽ Sofia Zendri<br/>⚽ Caterina Lasta
+Autogoals|⛔ Jessica Valduga|⛔ Sofia Zendri<br/>
+Falli|2|2
 Gialli||
 Rossi||
 Miglior Giocatore| | 
@@ -739,13 +739,13 @@ Note:
 
 | | TECNICA & CACAO | CGB GAMBERONI |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|4|1
+Goals|⚽⚽ Alessandro Fait (FAIT CLUB)<br/>⚽ Matteo Zanini<br/>⚽ Matteo Manconi (MANCUSO)|⚽ Sebastiano Zoller
 Autogoals||
-Falli|0|0
+Falli|7|4
 Gialli||
 Rossi||
-Miglior Giocatore| | 
+Miglior Giocatore| ⭐⭐ Alessandro Fait (FAIT CLUB)<br/><br/>⭐ Matteo Manconi (MANCUSO)<br/>| 
 Miglior Portiere| | 
 
 
@@ -758,13 +758,13 @@ Note:
 
 | | PRATO FIORITO | SBARX |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|9|1
+Goals|⚽⚽⚽⚽⚽ Federico Manica<br/>⚽⚽ Michele Bertolini (MARCO COLUMBRO)<br/>⚽ Luca Gerola (TOPOLINIA)<br/>⚽ Federico Conti|⚽ Nicolas Marzadro
 Autogoals||
-Falli|0|0
-Gialli||
+Falli|3|2
+Gialli|Federico Manica|Alex Manica
 Rossi||
-Miglior Giocatore| | 
+Miglior Giocatore| ⭐⭐⭐ Federico Manica<br/><br/>⭐⭐ Michele Bertolini (MARCO COLUMBRO)<br/>| 
 Miglior Portiere| | 
 
 
@@ -777,14 +777,14 @@ Note:
 
 | | PINGUINI TRENTINI | BELLA DOMANDA |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|0|4
+Goals||⚽⚽ Alessio Farinati (PROTEINA)<br/>⚽ Davide Manica (PALA EOLICA)<br/>⚽ Matteo Brigo (EUROBRIGO)
 Autogoals||
-Falli|0|0
+Falli|3|3
 Gialli||
 Rossi||
-Miglior Giocatore| | 
-Miglior Portiere| | 
+Miglior Giocatore| ⭐⭐⭐ Matteo Brigo (EUROBRIGO)<br/><br/>⭐⭐ Davide Manica (PALA EOLICA)<br/>| 
+Miglior Portiere| | ⭐⭐⭐ Brussich Tobia (PJ BARACCUS)<br/>
 
 
 # PARTITA:41
@@ -796,14 +796,14 @@ Note:
 
 | | FOUR TAIE + 1 | LA BALLA IN FIESTA |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|7|1
+Goals|⚽⚽⚽⚽⚽ Irene Tovazzi (LA MARMELONA)<br/>⚽⚽ Francesca Debiasi (DAVID GNOMO)|⚽ Valentina Garniga
 Autogoals||
 Falli|0|0
 Gialli||
 Rossi||
-Miglior Giocatore| | 
-Miglior Portiere| | 
+Miglior Giocatore| ⭐⭐⭐ Irene Tovazzi (LA MARMELONA)<br/>| 
+Miglior Portiere| | ⭐⭐⭐ Pallaver Camilla<br/>
 
 
 # PARTITA:42
@@ -1404,14 +1404,14 @@ Note:
 
 | | LIZZANELLA'S OLD SUGHI | HELLAS MADONNA |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|2|0
+Goals|⚽⚽ Federico Ignaccolo (IL CERCI DELLA BUSA)|
 Autogoals||
-Falli|0|0
+Falli|0|4
 Gialli||
 Rossi||
-Miglior Giocatore| | 
-Miglior Portiere| | 
+Miglior Giocatore| ⭐⭐⭐ Emanuele Miorandi (RE DI BASTONI)<br/>| ⭐ Passuello Francesco<br/>
+Miglior Portiere| ⭐⭐⭐ Andrea Candioli (CAN DA L'UA)<br/>| 
 
 
 # PARTITA:74

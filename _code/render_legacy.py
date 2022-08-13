@@ -15,11 +15,11 @@ def make_dettagli(index, document):
     dettagli.append("|:-----:|-----|-----|")
     dettagli.append("|".join(["Risultato", str(document["gol_squadra_1"]), str(document["gol_squadra_2"])]))
     dettagli.append("|".join(
-        ["Goals", "<br/>".join([f"{'⚽' * d} {k}".replace('\r\n', '') for k, d in eval(document["goleador_1"]).items()]),
-         "<br/>".join([f"{'⚽' * d} {k}".replace('\r\n', '') for k, d in eval(document["goleador_2"]).items()])]))
+        ["Goals", "<br/>".join([f"{'⚽' * d} {k}".replace('\r\n', '') for k, d in document["goleador_1"].items()]),
+         "<br/>".join([f"{'⚽' * d} {k}".replace('\r\n', '') for k, d in document["goleador_2"].items()])]))
     dettagli.append(
-        "|".join(["Autogoals", "<br/>".join([f"{'⛔' * d} {k}" for k, d in eval(document["autogol1"]).items()]),
-                  "<br/>".join([f"{'⛔' * d} {k}<br/>" for k, d in eval(document["autogol2"]).items()])]))
+        "|".join(["Autogoals", "<br/>".join([f"{'⛔' * d} {k}" for k, d in document["autogol1"].items()]),
+                  "<br/>".join([f"{'⛔' * d} {k}<br/>" for k, d in document["autogol2"].items()])]))
     dettagli.append("|".join(["Falli", str(document["falli_squadra_1"]) if "falli_squadra_1" in document else "",
                               str(document["falli_squadra_2"]) if "falli_squadra_2" in document else ""]))
     dettagli.append("|".join(["Gialli", "<br/>".join(document["gialli1"]), "<br/>".join(document["gialli2"])]))
