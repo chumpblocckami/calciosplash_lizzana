@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-08-13 11:53:12.706091
+date: 2022-08-13 11:57:49.176559
 categories: torneo
 permalink: /torneo/2022/
 ---
@@ -12,7 +12,7 @@ permalink: /torneo/2022/
 3| H Maschile| 08-11-2022 17:00:00| INEFUMA ELEVEN - RESENTEAM| 5 - 2| 🍻| [Info](/partite/2022/#partita3)
 4| G Maschile| 08-11-2022 17:20:00| NAZIONALE FERROVIERI - DEMO BUSTERS| 0 - 3| 🍻| [Info](/partite/2022/#partita4)
 5| A Maschile| 08-11-2022 17:40:00| SHARK ATTACK - I MAGNIFICI| 9 - 0| 🍻| [Info](/partite/2022/#partita5)
-6| G Maschile| 08-11-2022 18:00:00| ATLETICO MA NON TROPPO - POWER GINGER| 9 - 0| 🍻| [Info](/partite/2022/#partita6)
+6| G Maschile| 08-11-2022 18:00:00| POWER GINGER - ATLETICO MA NON TROPPO| 9 - 0| 🍻| [Info](/partite/2022/#partita6)
 7| B Femminile| 08-11-2022 18:20:00| GIN TONICHE - GREENPASSERE| 0 - 12| 🍸| [Info](/partite/2022/#partita7)
 8| D Maschile| 08-11-2022 18:40:00| ORANGE OLD SCHOOL - TECNICA & CACAO| 1 - 5| 🍻| [Info](/partite/2022/#partita8)
 9| C Femminile| 08-11-2022 19:00:00| DRIM TIM - TORTE DI MELE| 8 - 0| 🍸| [Info](/partite/2022/#partita9)

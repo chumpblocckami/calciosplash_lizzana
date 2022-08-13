@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-08-13 11:53:12.706108
+date: 2022-08-13 11:57:49.176574
 categories: partite
 permalink: /partite/2022/
 ---
@@ -129,7 +129,7 @@ Data: 08-11-2022 18:00:00
 
 Note: 
 
-| | ATLETICO MA NON TROPPO | POWER GINGER |
+| | POWER GINGER | ATLETICO MA NON TROPPO |
 |:-----:|-----|-----|
 Risultato|9|0
 Goals|⚽⚽⚽⚽⚽⚽⚽ Lorenzo Rossi<br/>⚽ Federico Madaschi<br/>⚽ Cara Blendi|
