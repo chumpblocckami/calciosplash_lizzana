@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-08-13 11:57:49.176574
+date: 2022-08-13 12:37:22.266025
 categories: partite
 permalink: /partite/2022/
 ---
@@ -341,13 +341,13 @@ Note:
 | | FIGLI DI UN RE MINORE | HELLAS MADONNA |
 |:-----:|-----|-----|
 Risultato|0|9
-Goals||⚽⚽⚽ Filippo Alovisi (TROMBA)<br/>⚽⚽ Tommaso Bruschetti (SINDACO)<br/>⚽⚽ Daniele Rosa' (SOLDATO SEMPLICE NEMECSEK)<br/>⚽⚽ Matteo Bazzanella (TORGO NUDO)
+Goals||⚽⚽⚽ Filippo Alovisi (TROMBA)<br/>⚽⚽ Tommaso Bruschetti (SINDACO)<br/>⚽⚽ Davide Rosa' (SOLDATO SEMPLICE NEMECSEK)<br/>⚽⚽ Matteo Bazzanella (TORGO NUDO)
 Autogoals||
 Falli|2|1
 Gialli||
 Rossi||
-Miglior Giocatore| ⭐ Matteo Gatti<br/>| ⭐⭐ Daniele Rosa' (SOLDATO SEMPLICE NEMECSEK)<br/>
-Miglior Portiere| | ⭐⭐⭐ Melis Gabriel<br/>
+Miglior Giocatore| ⭐ Matteo Gatti<br/>| ⭐⭐ Davide Rosa' (SOLDATO SEMPLICE NEMECSEK)<br/>
+Miglior Portiere| | ⭐⭐⭐ Francesco Passuello<br/>
 
 
 # PARTITA:18
