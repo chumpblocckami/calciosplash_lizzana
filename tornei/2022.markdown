@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-08-14 13:06:00.369565
+date: 2022-08-14 14:01:04.274588
 categories: torneo
 permalink: /torneo/2022/
 ---
@@ -75,21 +75,21 @@ permalink: /torneo/2022/
 66| F Maschile| 08-13-2022 20:00:00| CLITORIDERS - HELLAS MADONNA| 9 - 0| 🍻| [Info](/partite/2022/#partita66)
 67| C Maschile| 08-13-2022 21:00:00| I MONTAGNA - PINGUINI TRENTINI| 1 - 2| 🍻| [Info](/partite/2022/#partita67)
 68| B Maschile| 08-13-2022 21:20:00| MAI UNA GIOIA - PRATO FIORITO| 1 - 0| 🍻| [Info](/partite/2022/#partita68)
-69| QUARTI DONNE| 08-13-2022 21:40:00| QUARTI DONNE - QUARTI DONNE| 0 - 0| 🍸| [Info](/partite/2022/#partita69)
-70| QUARTI DONNE| 08-13-2022 22:00:00| QUARTI DONNE - QUARTI DONNE| 0 - 0| 🍸| [Info](/partite/2022/#partita70)
+69| QUARTI DONNE| 08-13-2022 21:40:00| GREEN PASSERE - DRIM TEAM| 2 - 3| 🍸| [Info](/partite/2022/#partita69)
+70| QUARTI DONNE| 08-13-2022 22:00:00| SAILORMONE - POCHE MA BUONE| 2 - 3| 🍸| [Info](/partite/2022/#partita70)
 71| A Maschile| 08-13-2022 22:20:00| FC SAVIGNANO - SHARK ATTACK| 3 - 2| 🍻| [Info](/partite/2022/#partita71)
 72| E Maschile| 08-13-2022 22:40:00| I MODIUM - BUONA LA MERDA| 0 - 0| 🍻| [Info](/partite/2022/#partita72)
 73| F Maschile| 08-13-2022 23:00:00| LIZZANELLA'S OLD SUGHI - HELLAS MADONNA| 2 - 0| 🍻| [Info](/partite/2022/#partita73)
-74| QUARTI DONNE| 08-13-2022 23:20:00| QUARTI DONNE - QUARTI DONNE| 0 - 0| 🍸| [Info](/partite/2022/#partita74)
-75| QUARTI DONNE| 08-13-2022 23:40:00| QUARTI DONNE - QUARTI DONNE| 0 - 0| 🍸| [Info](/partite/2022/#partita75)
-76| OTTAVI UOMINI| 08-14-2022 10:00:00| OTTAVI UOMINI - OTTAVI UOMINI| 0 - 0| 🍻| [Info](/partite/2022/#partita76)
-77| OTTAVI UOMINI| 08-14-2022 10:20:00| OTTAVI UOMINI - OTTAVI UOMINI| 0 - 0| 🍻| [Info](/partite/2022/#partita77)
-78| OTTAVI UOMINI| 08-14-2022 10:40:00| OTTAVI UOMINI - OTTAVI UOMINI| 0 - 0| 🍻| [Info](/partite/2022/#partita78)
-79| OTTAVI UOMINI| 08-14-2022 11:00:00| OTTAVI UOMINI - OTTAVI UOMINI| 0 - 0| 🍻| [Info](/partite/2022/#partita79)
-80| OTTAVI UOMINI| 08-14-2022 11:20:00| OTTAVI UOMINI - OTTAVI UOMINI| 0 - 0| 🍻| [Info](/partite/2022/#partita80)
-81| OTTAVI UOMINI| 08-14-2022 11:40:00| OTTAVI UOMINI - OTTAVI UOMINI| 0 - 0| 🍻| [Info](/partite/2022/#partita81)
-82| OTTAVI UOMINI| 08-14-2022 12:00:00| OTTAVI UOMINI - OTTAVI UOMINI| 0 - 0| 🍻| [Info](/partite/2022/#partita82)
-83| OTTAVI UOMINI| 08-14-2022 12:20:00| OTTAVI UOMINI - OTTAVI UOMINI| 0 - 0| 🍻| [Info](/partite/2022/#partita83)
+74| QUARTI DONNE| 08-13-2022 23:20:00| LEMONADE - AL VOLO| 2 - 3| 🍸| [Info](/partite/2022/#partita74)
+75| QUARTI DONNE| 08-13-2022 23:40:00| FOUR TAIE - WANDA TIM GIRLS| 6 - 0| 🍸| [Info](/partite/2022/#partita75)
+76| OTTAVI UOMINI| 08-14-2022 10:00:00| LA CONTEA FC - MODIUM| 1 - 5| 🍻| [Info](/partite/2022/#partita76)
+77| OTTAVI UOMINI| 08-14-2022 10:20:00| PINGUINI TRENTINI - U.S. GUARNA| 1 - 1| 🍻| [Info](/partite/2022/#partita77)
+78| OTTAVI UOMINI| 08-14-2022 10:40:00| CGB GAMBERONI - CLITORIDERS| 1 - 5| 🍻| [Info](/partite/2022/#partita78)
+79| OTTAVI UOMINI| 08-14-2022 11:00:00| FC SAVIGNANO - POWER GINGER| 2 - 1| 🍻| [Info](/partite/2022/#partita79)
+80| OTTAVI UOMINI| 08-14-2022 11:20:00| MEDIASERT - SPRINT GOMMA TEAM| 3 - 1| 🍻| [Info](/partite/2022/#partita80)
+81| OTTAVI UOMINI| 08-14-2022 11:40:00| SHARK ATTACK - DEMOBUSTERS| 8 - 1| 🍻| [Info](/partite/2022/#partita81)
+82| OTTAVI UOMINI| 08-14-2022 12:00:00| LIZZANELLA'S OLD SUGHI - TECNICA & CACAO| 1 - 2| 🍻| [Info](/partite/2022/#partita82)
+83| OTTAVI UOMINI| 08-14-2022 12:20:00| MAI UNA GIOIA - MONTAGNA| 1 - 2| 🍻| [Info](/partite/2022/#partita83)
 84| QUARTI UOMINI| 08-14-2022 14:40:00| QUARTI UOMINI - QUARTI UOMINI| 0 - 0| 🍻| [Info](/partite/2022/#partita84)
 85| QUARTI UOMINI| 08-14-2022 15:10:00| QUARTI UOMINI - QUARTI UOMINI| 0 - 0| 🍻| [Info](/partite/2022/#partita85)
 86| QUARTI UOMINI| 08-14-2022 15:40:00| QUARTI UOMINI - QUARTI UOMINI| 0 - 0| 🍻| [Info](/partite/2022/#partita86)

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-08-14 13:06:00.369601
+date: 2022-08-14 14:01:04.274600
 categories: partite
 permalink: /partite/2022/
 ---
@@ -1326,16 +1326,16 @@ Data: 08-13-2022 21:40:00
 
 Note: 
 
-| | QUARTI DONNE | QUARTI DONNE |
+| | GREEN PASSERE | DRIM TEAM |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|2|3
+Goals|⚽ Giulia Scrinzi<br/>⚽ Chiara Chizzola|⚽⚽ Stefania Gazzini<br/>⚽ Margherita Plachestainer
 Autogoals||
-Falli|0|0
+Falli|1|2
 Gialli||
 Rossi||
 Miglior Giocatore| | 
-Miglior Portiere| | 
+Miglior Portiere| ⭐⭐⭐ Cecilia Chiusole (LA FALSA GIOVANE)<br/>| 
 
 
 # PARTITA:70
@@ -1345,15 +1345,15 @@ Data: 08-13-2022 22:00:00
 
 Note: 
 
-| | QUARTI DONNE | QUARTI DONNE |
+| | SAILORMONE | POCHE MA BUONE |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|2|3
+Goals|⚽⚽ Valentina Perghem (ROBOCOP)|⚽⚽ Carlotta Pomarolli (LA PREDESTINATA)<br/>⚽ Chiara Deimichei (EAST COAST)
 Autogoals||
 Falli|0|0
 Gialli||
 Rossi||
-Miglior Giocatore| | 
+Miglior Giocatore| | ⭐⭐⭐ Carlotta Pomarolli (LA PREDESTINATA)<br/><br/>⭐⭐ Chiara Deimichei (EAST COAST)<br/>
 Miglior Portiere| | 
 
 
@@ -1421,12 +1421,12 @@ Data: 08-13-2022 23:20:00
 
 Note: 
 
-| | QUARTI DONNE | QUARTI DONNE |
+| | LEMONADE | AL VOLO |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|2|3
+Goals|⚽⚽ Sofia Zendri|⚽⚽ Aurora Betta<br/>⚽ Zanelli Elisa
 Autogoals||
-Falli|0|0
+Falli|2|2
 Gialli||
 Rossi||
 Miglior Giocatore| | 
@@ -1440,15 +1440,15 @@ Data: 08-13-2022 23:40:00
 
 Note: 
 
-| | QUARTI DONNE | QUARTI DONNE |
+| | FOUR TAIE | WANDA TIM GIRLS |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|6|0
+Goals|⚽⚽⚽ Irene Tovazzi (LA MARMELLONA)<br/>⚽⚽ Francesca Debiasi (DAVID GNOMO)<br/>⚽ Melany Raffaelli (HOTEL BELVEDERE)|
 Autogoals||
-Falli|0|0
+Falli|0|3
 Gialli||
 Rossi||
-Miglior Giocatore| | 
+Miglior Giocatore| ⭐ Irene Tovazzi (LA MARMELLONA)<br/>| 
 Miglior Portiere| | 
 
 
@@ -1459,15 +1459,15 @@ Data: 08-14-2022 10:00:00
 
 Note: 
 
-| | OTTAVI UOMINI | OTTAVI UOMINI |
+| | LA CONTEA FC | MODIUM |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|1|5
+Goals|⚽ Andrea Riolfatti|⚽⚽⚽ Andrea Bertolini (BOMBER BERTO)<br/>⚽ Marco Sartorelli (PLAYBOY DELLA BUSA)<br/>⚽ Federico Pomarolli (IL PRINCIPE GUERRIERO)
 Autogoals||
-Falli|0|0
+Falli|2|2
 Gialli||
 Rossi||
-Miglior Giocatore| | 
+Miglior Giocatore| ⭐⭐⭐ Andrea Bertolini (BOMBER BERTO)<br/>| 
 Miglior Portiere| | 
 
 
@@ -1476,18 +1476,18 @@ Miglior Portiere| |
 
 Data: 08-14-2022 10:20:00
 
-Note: 
+Note: VIncono US GUARNA agli shoothout
 
-| | OTTAVI UOMINI | OTTAVI UOMINI |
+| | PINGUINI TRENTINI | U.S. GUARNA |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|1|1
+Goals|⚽ Yuri Andreolli (SCHEGGIA IMPAZZITA)|⚽ Riccardo Zaffoni (LUGHERIM)
 Autogoals||
-Falli|0|0
+Falli|4|2
 Gialli||
 Rossi||
 Miglior Giocatore| | 
-Miglior Portiere| | 
+Miglior Portiere| | ⭐⭐⭐ Elia Battisti (BOILER)<br/>
 
 
 # PARTITA:78
@@ -1497,15 +1497,15 @@ Data: 08-14-2022 10:40:00
 
 Note: 
 
-| | OTTAVI UOMINI | OTTAVI UOMINI |
+| | CGB GAMBERONI | CLITORIDERS |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|1|5
+Goals|⚽ Sebastiano Zoller|⚽⚽⚽ Federico Mortillaro (LA MORTE NERA)<br/>⚽⚽ Michele Merighi (IENA RIDENS)
 Autogoals||
-Falli|0|0
+Falli|3|2
 Gialli||
 Rossi||
-Miglior Giocatore| | 
+Miglior Giocatore| ⭐⭐⭐ Federico Mortillaro (LA MORTE NERA)<br/><br/>⭐⭐ Michele Merighi (IENA RIDENS)<br/>| 
 Miglior Portiere| | 
 
 
@@ -1516,15 +1516,15 @@ Data: 08-14-2022 11:00:00
 
 Note: 
 
-| | OTTAVI UOMINI | OTTAVI UOMINI |
+| | FC SAVIGNANO | POWER GINGER |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|2|1
+Goals|⚽ Eduardo Grazioli<br/>⚽ Alessandro Maffei (FONDATORE DI SOCIAL NETWORK)|⚽ Lorenzo Rossi (IL BUG)
 Autogoals||
-Falli|0|0
+Falli|2|3
 Gialli||
 Rossi||
-Miglior Giocatore| | 
+Miglior Giocatore| | ⭐ Lorenzo Rossi (IL BUG)<br/>
 Miglior Portiere| | 
 
 
@@ -1535,15 +1535,15 @@ Data: 08-14-2022 11:20:00
 
 Note: 
 
-| | OTTAVI UOMINI | OTTAVI UOMINI |
+| | MEDIASERT | SPRINT GOMMA TEAM |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|3|1
+Goals|⚽⚽ Andrea Anzelini (TUNNEL DEL VENTO)<br/>⚽ Marco Gerola (GERONIMO STILTON)|⚽ Andrea Pedrotti
 Autogoals||
-Falli|0|0
+Falli|4|5
 Gialli||
 Rossi||
-Miglior Giocatore| | 
+Miglior Giocatore| ⭐ Andrea Anzelini (TUNNEL DEL VENTO)<br/>| 
 Miglior Portiere| | 
 
 
@@ -1554,15 +1554,15 @@ Data: 08-14-2022 11:40:00
 
 Note: 
 
-| | OTTAVI UOMINI | OTTAVI UOMINI |
+| | SHARK ATTACK | DEMOBUSTERS |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|8|1
+Goals|⚽⚽⚽⚽ Mattia Baldessarini (ASSASSINO CELEBRALE)<br/>⚽⚽⚽⚽ Leonardo Viola (UOMO INFORME 2.0)|⚽⚽ Giovanni Giusto
 Autogoals||
-Falli|0|0
+Falli|4|2
 Gialli||
 Rossi||
-Miglior Giocatore| | 
+Miglior Giocatore| ⭐⭐⭐ Leonardo Viola (UOMO INFORME 2.0)<br/><br/>⭐⭐ Mattia Baldessarini (ASSASSINO CELEBRALE)<br/>| ⭐ Giovanni Giusto<br/>
 Miglior Portiere| | 
 
 
@@ -1573,16 +1573,16 @@ Data: 08-14-2022 12:00:00
 
 Note: 
 
-| | OTTAVI UOMINI | OTTAVI UOMINI |
+| | LIZZANELLA'S OLD SUGHI | TECNICA & CACAO |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|1|2
+Goals|⚽ Federico Ignaccolo (IL CERCI DELLA BUSA)|⚽ Omar Russo (LIZZANELLA VENDE MODA)<br/>⚽ Matteo Mancuso (IL MANCUSO)
 Autogoals||
-Falli|0|0
+Falli|4|7
 Gialli||
 Rossi||
-Miglior Giocatore| | 
-Miglior Portiere| | 
+Miglior Giocatore| | ⭐⭐⭐ Matteo Mancuso (IL MANCUSO)<br/>
+Miglior Portiere| | ⭐⭐⭐ Mattia Vieceli<br/>
 
 
 # PARTITA:83
@@ -1592,16 +1592,16 @@ Data: 08-14-2022 12:20:00
 
 Note: 
 
-| | OTTAVI UOMINI | OTTAVI UOMINI |
+| | MAI UNA GIOIA | MONTAGNA |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|1|2
+Goals|⚽ Nadir Cavagna (CASABLANCA)|⚽ Daniel Pedrotti<br/>⚽ Federico Andreis (IL DISTINTO SIGNOR RABBIOSO)<br/>⚽ Marco Sala (CANE ROGNOSO)
 Autogoals||
-Falli|0|0
+Falli|1|2
 Gialli||
 Rossi||
-Miglior Giocatore| | 
-Miglior Portiere| | 
+Miglior Giocatore| | ⭐⭐⭐ Federico Andreis (IL DISTINTO SIGNOR RABBIOSO)<br/>
+Miglior Portiere| | ⭐⭐⭐ Daniele Dalbosco (GRESTA DE CUNEL)<br/>
 
 
 # PARTITA:84
