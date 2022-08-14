@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-08-14 14:01:04.274600
+date: 2022-08-14 14:39:25.498044
 categories: partite
 permalink: /partite/2022/
 ---
@@ -872,13 +872,13 @@ Note:
 
 | | LEMONADE | TETTA PIG |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|2|2
+Goals|⚽⚽ Sofia|⚽⚽ Susanna
 Autogoals||
-Falli|0|0
+Falli|2|3
 Gialli||
 Rossi||
-Miglior Giocatore| | 
+Miglior Giocatore| ⭐⭐ Sofia<br/>| 
 Miglior Portiere| | 
 
 
@@ -891,13 +891,13 @@ Note:
 
 | | DEMO BUSTERS | POWER GINGER |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|2|3
+Goals|⚽⚽ Lorenzo Rossi (IL BUG)|⚽ Samuele Rosà<br/>⚽ Riccardo Zeni<br/>⚽ Giovanni Giusto
 Autogoals||
-Falli|0|0
+Falli|3|2
 Gialli||
 Rossi||
-Miglior Giocatore| | 
+Miglior Giocatore| ⭐⭐ Lorenzo Rossi (IL BUG)<br/>| ⭐⭐⭐ Samuele Rosa'<br/>
 Miglior Portiere| | 
 
 
@@ -916,7 +916,7 @@ Autogoals||
 Falli|0|1
 Gialli||
 Rossi||
-Miglior Giocatore| | ⭐⭐ Irene Tovazzi (LA MARMELLONA)<br/><br/>⭐⭐ Melany Raffaelli (HOTEL BELVEDERE)<br/>
+Miglior Giocatore| | ⭐⭐⭐ Irene Tovazzi (LA MARMELLONA)<br/><br/>⭐⭐ Melany Raffaelli (HOTEL BELVEDERE)<br/>
 Miglior Portiere| | 
 
 
@@ -948,13 +948,13 @@ Note:
 
 | | ONLYFUK | TECNICA & CACAO |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|1|2
+Goals|⚽ Enrico Bordignon (ORMONE IMPAZZITO)|⚽ Matteo Manconi (IL MANCUSO)<br/>⚽ Matteo Zanini
 Autogoals||
-Falli|0|0
+Falli|3|6
 Gialli||
 Rossi||
-Miglior Giocatore| | 
+Miglior Giocatore| | ⭐⭐ Matteo Mancuso (IL MANCUSO)<br/>
 Miglior Portiere| | 
 
 
@@ -968,12 +968,12 @@ Note:
 | | MOCCIO(SE) | GREENPASSERE |
 |:-----:|-----|-----|
 Risultato|0|5
-Goals||
+Goals||⚽⚽ Greta<br/>⚽ Manuela Montermini<br/>⚽ Giulia<br/>⚽ Manuela
 Autogoals||
 Falli|2|1
 Gialli||
 Rossi||
-Miglior Giocatore| | ⭐⭐ Greta<br/><br/>⭐ Manuela Montermini<br/><br/>⭐ Giulia<br/><br/>⭐ Manuela<br/>
+Miglior Giocatore| | 
 Miglior Portiere| | ⭐⭐⭐ Cecilia Chiusole (LA FALSA GIOVANE)<br/>
 
 
@@ -1385,13 +1385,13 @@ Note:
 
 | | I MODIUM | BUONA LA MERDA |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|3|3
+Goals|⚽ Matteo Lanaro (IL  CACCIATORE DI STELLE)<br/>⚽ Marco Sartorelli (IL PLAYBOY DELLA BUSA)<br/>⚽ Andrea Bertolini (BOMBER BERTO)|⚽⚽ Samuele Uez<br/>⚽ Daniele Feller (IL BABBUINO)
 Autogoals||
-Falli|0|0
+Falli|4|2
 Gialli||
 Rossi||
-Miglior Giocatore| | 
+Miglior Giocatore| | ⭐⭐⭐ Daniele Feller (IL BABBUINO)<br/>
 Miglior Portiere| | 
 
 

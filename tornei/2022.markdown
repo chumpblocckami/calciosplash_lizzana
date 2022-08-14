@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-08-14 14:01:04.274588
+date: 2022-08-14 14:39:25.497976
 categories: torneo
 permalink: /torneo/2022/
 ---
@@ -51,11 +51,11 @@ permalink: /torneo/2022/
 42| C Femminile| 08-13-2022 10:00:00| SAILOR MONE - TANGATUBBIES| 9 - 0| 🍸| [Info](/partite/2022/#partita42)
 43| A Femminile| 08-13-2022 10:20:00| POCHE MA BONE - LA BALLA IN FIESTA| 12 - 0| 🍸| [Info](/partite/2022/#partita43)
 44| H Maschile| 08-13-2022 10:40:00| SPRINT GOMMA TEAM - RESENTEAM| 5 - 2| 🍻| [Info](/partite/2022/#partita44)
-45| D Femminile| 08-13-2022 11:00:00| LEMONADE - TETTA PIG| 0 - 0| 🍸| [Info](/partite/2022/#partita45)
-46| G Maschile| 08-13-2022 11:20:00| DEMO BUSTERS - POWER GINGER| 0 - 0| 🍻| [Info](/partite/2022/#partita46)
+45| D Femminile| 08-13-2022 11:00:00| LEMONADE - TETTA PIG| 2 - 2| 🍸| [Info](/partite/2022/#partita45)
+46| G Maschile| 08-13-2022 11:20:00| DEMO BUSTERS - POWER GINGER| 2 - 3| 🍻| [Info](/partite/2022/#partita46)
 47| A Femminile| 08-13-2022 11:40:00| HELLAS MA-DONNE - FOUR TAIE + 1| 0 - 17| 🍸| [Info](/partite/2022/#partita47)
 48| C Femminile| 08-13-2022 12:00:00| SAILOR MONE - DRIM TIM| 1 - 7| 🍸| [Info](/partite/2022/#partita48)
-49| D Maschile| 08-13-2022 12:20:00| ONLYFUK - TECNICA & CACAO| 0 - 0| 🍻| [Info](/partite/2022/#partita49)
+49| D Maschile| 08-13-2022 12:20:00| ONLYFUK - TECNICA & CACAO| 1 - 2| 🍻| [Info](/partite/2022/#partita49)
 50| B Femminile| 08-13-2022 14:40:00| MOCCIO(SE) - GREENPASSERE| 0 - 5| 🍸| [Info](/partite/2022/#partita50)
 51| E Maschile| 08-13-2022 15:00:00| BUONA LA MERDA - MEDIASER.T| 3 - 4| 🍻| [Info](/partite/2022/#partita51)
 52| D Femminile| 08-13-2022 15:20:00| FC WANDA TEAM GIRLS - CHICASMALAS| 2 - 2| 🍸| [Info](/partite/2022/#partita52)
@@ -78,7 +78,7 @@ permalink: /torneo/2022/
 69| QUARTI DONNE| 08-13-2022 21:40:00| GREEN PASSERE - DRIM TEAM| 2 - 3| 🍸| [Info](/partite/2022/#partita69)
 70| QUARTI DONNE| 08-13-2022 22:00:00| SAILORMONE - POCHE MA BUONE| 2 - 3| 🍸| [Info](/partite/2022/#partita70)
 71| A Maschile| 08-13-2022 22:20:00| FC SAVIGNANO - SHARK ATTACK| 3 - 2| 🍻| [Info](/partite/2022/#partita71)
-72| E Maschile| 08-13-2022 22:40:00| I MODIUM - BUONA LA MERDA| 0 - 0| 🍻| [Info](/partite/2022/#partita72)
+72| E Maschile| 08-13-2022 22:40:00| I MODIUM - BUONA LA MERDA| 3 - 3| 🍻| [Info](/partite/2022/#partita72)
 73| F Maschile| 08-13-2022 23:00:00| LIZZANELLA'S OLD SUGHI - HELLAS MADONNA| 2 - 0| 🍻| [Info](/partite/2022/#partita73)
 74| QUARTI DONNE| 08-13-2022 23:20:00| LEMONADE - AL VOLO| 2 - 3| 🍸| [Info](/partite/2022/#partita74)
 75| QUARTI DONNE| 08-13-2022 23:40:00| FOUR TAIE - WANDA TIM GIRLS| 6 - 0| 🍸| [Info](/partite/2022/#partita75)
