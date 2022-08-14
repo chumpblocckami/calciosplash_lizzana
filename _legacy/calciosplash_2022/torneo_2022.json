@@ -76,7 +76,7 @@
       "genere_gironi": 1,
       "squadra_1": "FC SAVIGNANO",
       "squadra_2": "FEL LAZIO",
-      "gol_squadra_1": 4,
+      "gol_squadra_1": 5,
       "gol_squadra_2": 0,
       "falli_squadra_1": 1,
       "falli_squadra_2": 1,
@@ -290,8 +290,8 @@
         "Luca Zorzutti (ZORRO)": 1
       },
       "goleador_2": {
-        "Alessandro Fait (FAIT CLUB)": 1,
         "Giacomo Larcher (OCCHIO CERULEO)": 3,
+        "Alessandro Fait (FAIT CLUB)": 1,
         "Matteo Zanini": 1
       },
       "autogol1": {},
@@ -357,7 +357,7 @@
         "Davide Manica (PALA EOLICA)": 1
       },
       "goleador_2": {
-        "Tommaso Canepel (RIDGE FORES)": 2,
+        "Tommaso Canepel (RIDGE FOREST)": 2,
         "Pietro Tasini (TORTON)": 1
       },
       "autogol1": {},
@@ -396,7 +396,9 @@
         "Matteo Gatti": 1,
         "Daniele Ruzzeneti": 1
       },
-      "autogol1": {},
+      "autogol1": {
+        "Matteo Gatti": 1
+      },
       "autogol2": {},
       "best_giocatore_1": {
         "Michele Merighi (IENA RIDENS)": 3,
@@ -419,9 +421,10 @@
       "falli_squadra_1": 5,
       "falli_squadra_2": 2,
       "gialli1": {
+      },
+      "gialli2": {
         "Giovanni Torboli": 1
       },
-      "gialli2": "",
       "rossi1": "",
       "rossi2": "",
       "goleador_1": {
@@ -436,7 +439,7 @@
       "best_giocatore_1": {},
       "best_giocatore_2": {},
       "best_portiere_1": {
-        "Nicolodi Mattia": 3
+        "Mattia Nicolodi": 3
       },
       "best_portiere_2": {},
       "note": ""
@@ -456,9 +459,10 @@
       },
       "gialli2": "",
       "rossi1": {
+      },
+      "rossi2": {
         "Stefano Pizzini (NEANDERTHAL)": 1
       },
-      "rossi2": "",
       "goleador_1": {
         "Edoardo Pomarolli (IL BELLO DELLA PIOF)": 2,
         "Marco Sartorelli (IL PLAYBOY DELLA BUSA)": 1
@@ -529,8 +533,8 @@
       "rossi2": "",
       "goleador_1": {},
       "goleador_2": {
-        "Riccardo Zaffoni (LUGHERIM)": 1,
         "Matteo Diener": 2,
+        "Riccardo Zaffoni (LUGHERIM)": 1,
         "Heidenpergher Marco (CLARA)": 1
       },
       "autogol1": {},
@@ -571,9 +575,10 @@
       "autogol1": {},
       "autogol2": {},
       "best_giocatore_1": {
+      },
+      "best_giocatore_2": {
         "Margherita Planchestainer (LA MAMMA DI BAMBI)": 3
       },
-      "best_giocatore_2": {},
       "best_portiere_1": {},
       "best_portiere_2": {},
       "note": ""
@@ -657,11 +662,13 @@
       "gialli2": "",
       "rossi1": "",
       "rossi2": "",
-      "goleador_1": {},
-      "goleador_2": {
+      "goleador_1": {
         "Marco Sala (CANE ROGNOSO)": 3,
         "Andrea Pedrotti (MEDIOMAN)": 3,
         "Daniel Pedrotti": 2
+      },
+      "goleador_2": {
+        "Tobia Brussich (PJ BARACCUS)": 1
       },
       "autogol1": {},
       "autogol2": {},
@@ -671,9 +678,10 @@
       "best_giocatore_2": {
         "Tobia Brussich (PJ BARACCUS)": 1
       },
-      "best_portiere_1": {},
-      "best_portiere_2": {
+      "best_portiere_1": {
         "Daniele Dalbosco (GRESTA DE CUNEL)": 3
+      },
+      "best_portiere_2": {
       },
       "note": ""
     },
@@ -828,9 +836,10 @@
       },
       "autogol1": {},
       "autogol2": {},
-      "best_giocatore_1": {},
-      "best_giocatore_2": {
+      "best_giocatore_1": {
         "Andrea Conzatti (Caldaia)": 2
+      },
+      "best_giocatore_2": {
       },
       "best_portiere_1": {},
       "best_portiere_2": {},
@@ -914,9 +923,9 @@
       "rossi2": "",
       "goleador_1": {},
       "goleador_2": {
-        "Valentina Salzani/(HELLO KITTY)": 2,
         "Carlotta Pomarolli (LA PREDESTINATA)": 3,
         "Veronica Osele (MARION JONES)": 3,
+        "Valentina Salzani/(HELLO KITTY)": 2,
         "Licia Fondriest (ANZA)": 1
       },
       "autogol1": {},
@@ -1003,8 +1012,8 @@
       "genere_gironi": 1,
       "squadra_1": "ORANGE OLD SCHOOL",
       "squadra_2": "CGB GAMBERONI",
-      "gol_squadra_1": 0,
-      "gol_squadra_2": 0,
+      "gol_squadra_1": 4,
+      "gol_squadra_2": 8,
       "falli_squadra_1": 0,
       "falli_squadra_2": 2,
       "gialli1": "",
@@ -1040,7 +1049,7 @@
       "squadra_1": "SPRINT GOMMA TEAM",
       "squadra_2": "INEFUMA ELEVEN",
       "gol_squadra_1": 2,
-      "gol_squadra_2": 3,
+      "gol_squadra_2": 4,
       "falli_squadra_1": 2,
       "falli_squadra_2": 2,
       "gialli1": "",
@@ -1187,17 +1196,19 @@
       "rossi1": "",
       "rossi2": "",
       "goleador_1": {
+      },
+      "goleador_2": {
         "Elena Bordato": 6,
         "Emma Tesini (LATTE TRENTO)": 4
       },
-      "goleador_2": {},
       "autogol1": {},
       "autogol2": {},
       "best_giocatore_1": {
+      },
+      "best_giocatore_2": {
         "Elena Bordato": 3,
         "Emma Tesini (LATTE TRENTO)": 2
       },
-      "best_giocatore_2": {},
       "best_portiere_1": {},
       "best_portiere_2": {},
       "note": ""
@@ -1329,7 +1340,7 @@
         "Federico Manica": 5,
         "Michele Bertolini (MARCO COLUMBRO)": 2,
         "Luca Gerola (TOPOLINIA)": 1,
-        "Federico Conti": 1
+        "Nicola Conti": 1
       },
       "goleador_2": {
         "Nicolas Marzadro": 1
@@ -1359,11 +1370,12 @@
       "gialli2": "",
       "rossi1": "",
       "rossi2": "",
-      "goleador_1": {},
-      "goleador_2": {
+      "goleador_1": {
         "Alessio Farinati (PROTEINA)": 2,
         "Davide Manica (PALA EOLICA)": 1,
         "Matteo Brigo (EUROBRIGO)": 1
+      },
+      "goleador_2": {
       },
       "autogol1": {},
       "autogol2": {},
@@ -1407,7 +1419,7 @@
       "best_giocatore_2": {},
       "best_portiere_1": {},
       "best_portiere_2": {
-        "Pallaver Camilla": 3
+        "Valentina Riolfatti": 3
       },
       "note": ""
     },

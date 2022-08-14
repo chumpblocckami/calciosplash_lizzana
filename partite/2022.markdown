@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-08-13 12:37:22.266025
+date: 2022-08-14 10:44:06.897679
 categories: partite
 permalink: /partite/2022/
 ---
@@ -55,7 +55,7 @@ Note:
 
 | | FC SAVIGNANO | FEL LAZIO |
 |:-----:|-----|-----|
-Risultato|4|0
+Risultato|5|0
 Goals|⚽⚽⚽ Andrea Conzatti (CALDAIA)<br/>⚽⚽ Alessandro Maffei (FONDATORE DI SOCIAL NETWORK)|
 Autogoals||
 Falli|1|1
@@ -170,7 +170,7 @@ Note:
 | | ORANGE OLD SCHOOL | TECNICA & CACAO |
 |:-----:|-----|-----|
 Risultato|1|5
-Goals|⚽ Luca Zorzutti (ZORRO)|⚽ Alessandro Fait (FAIT CLUB)<br/>⚽⚽⚽ Giacomo Larcher (OCCHIO CERULEO)<br/>⚽ Matteo Zanini
+Goals|⚽ Luca Zorzutti (ZORRO)|⚽⚽⚽ Giacomo Larcher (OCCHIO CERULEO)<br/>⚽ Alessandro Fait (FAIT CLUB)<br/>⚽ Matteo Zanini
 Autogoals||
 Falli|0|3
 Gialli||
@@ -208,7 +208,7 @@ Note:
 | | PINGUINI TRENTINI | CLANDES TEAM |
 |:-----:|-----|-----|
 Risultato|3|3
-Goals|⚽⚽ Yuri Andreolli (SCHEGGIA IMPAZZITA)<br/>⚽ Davide Manica (PALA EOLICA)|⚽⚽ Tommaso Canepel (RIDGE FORES)<br/>⚽ Pietro Tasini (TORTON)
+Goals|⚽⚽ Yuri Andreolli (SCHEGGIA IMPAZZITA)<br/>⚽ Davide Manica (PALA EOLICA)|⚽⚽ Tommaso Canepel (RIDGE FOREST)<br/>⚽ Pietro Tasini (TORTON)
 Autogoals||
 Falli|2|2
 Gialli||
@@ -228,7 +228,7 @@ Note:
 |:-----:|-----|-----|
 Risultato|13|2
 Goals|⚽⚽⚽⚽⚽ Michele Merighi (IENA RIDENS)<br/>⚽⚽⚽ Luca Frasca (DELIRIUM TREMENS)<br/>⚽⚽⚽ Andrea Giordani (ORSO BRUNO)<br/>⚽ Federico Mortillaro (LA MORTE NERA)|⚽ Matteo Gatti<br/>⚽ Daniele Ruzzeneti
-Autogoals||
+Autogoals|⛔ Matteo Gatti|
 Falli|0|0
 Gialli||
 Rossi||
@@ -249,10 +249,10 @@ Risultato|1|2
 Goals|⚽ Andrea Nicolodi|⚽ Alessandro Marzadro<br/>⚽ Giovanni Torboli
 Autogoals||
 Falli|5|2
-Gialli|Giovanni Torboli|
+Gialli||Giovanni Torboli
 Rossi||
 Miglior Giocatore| | 
-Miglior Portiere| ⭐⭐⭐ Nicolodi Mattia<br/>| 
+Miglior Portiere| ⭐⭐⭐ Mattia Nicolodi<br/>| 
 
 
 # PARTITA:13
@@ -269,7 +269,7 @@ Goals|⚽⚽ Edoardo Pomarolli (IL BELLO DELLA PIOF)<br/>⚽ Marco Sartorelli (I
 Autogoals||
 Falli|2|3
 Gialli|Marco Sartorelli (IL PLAYBOY DELLA BUSA)|
-Rossi|Stefano Pizzini (NEANDERTHAL)|
+Rossi||Stefano Pizzini (NEANDERTHAL)
 Miglior Giocatore| ⭐⭐⭐ Edoardo Pomarolli (IL BELLO DELLA PIOF)<br/>| 
 Miglior Portiere| | 
 
@@ -303,7 +303,7 @@ Note:
 | | SBARX | US GUARNA |
 |:-----:|-----|-----|
 Risultato|0|4
-Goals||⚽ Riccardo Zaffoni (LUGHERIM)<br/>⚽⚽ Matteo Diener<br/>⚽ Heidenpergher Marco (CLARA)
+Goals||⚽⚽ Matteo Diener<br/>⚽ Riccardo Zaffoni (LUGHERIM)<br/>⚽ Heidenpergher Marco (CLARA)
 Autogoals||
 Falli|7|6
 Gialli||Matteo Diener
@@ -327,7 +327,7 @@ Autogoals||
 Falli|1|1
 Gialli||
 Rossi||
-Miglior Giocatore| ⭐⭐⭐ Margherita Planchestainer (LA MAMMA DI BAMBI)<br/>| 
+Miglior Giocatore| | ⭐⭐⭐ Margherita Planchestainer (LA MAMMA DI BAMBI)<br/>
 Miglior Portiere| | 
 
 
@@ -379,13 +379,13 @@ Note:
 | | I MONTAGNA | BELLA DOMANDA |
 |:-----:|-----|-----|
 Risultato|8|1
-Goals||⚽⚽⚽ Marco Sala (CANE ROGNOSO)<br/>⚽⚽⚽ Andrea Pedrotti (MEDIOMAN)<br/>⚽⚽ Daniel Pedrotti
+Goals|⚽⚽⚽ Marco Sala (CANE ROGNOSO)<br/>⚽⚽⚽ Andrea Pedrotti (MEDIOMAN)<br/>⚽⚽ Daniel Pedrotti|⚽ Tobia Brussich (PJ BARACCUS)
 Autogoals||
 Falli|6|2
 Gialli||
 Rossi||
 Miglior Giocatore| ⭐⭐⭐ Andrea Pedrotti (MEDIOMAN)<br/>| ⭐ Tobia Brussich (PJ BARACCUS)<br/>
-Miglior Portiere| | ⭐⭐⭐ Daniele Dalbosco (GRESTA DE CUNEL)<br/>
+Miglior Portiere| ⭐⭐⭐ Daniele Dalbosco (GRESTA DE CUNEL)<br/>| 
 
 
 # PARTITA:20
@@ -479,7 +479,7 @@ Autogoals||
 Falli|1|1
 Gialli||
 Rossi||
-Miglior Giocatore| | ⭐⭐ Andrea Conzatti (Caldaia)<br/>
+Miglior Giocatore| ⭐⭐ Andrea Conzatti (Caldaia)<br/>| 
 Miglior Portiere| | 
 
 
@@ -531,7 +531,7 @@ Note:
 | | HELLAS MA-DONNE | POCHE MA BONE |
 |:-----:|-----|-----|
 Risultato|0|9
-Goals||⚽⚽ Valentina Salzani/(HELLO KITTY)<br/>⚽⚽⚽ Carlotta Pomarolli (LA PREDESTINATA)<br/>⚽⚽⚽ Veronica Osele (MARION JONES)<br/>⚽ Licia Fondriest (ANZA)
+Goals||⚽⚽⚽ Carlotta Pomarolli (LA PREDESTINATA)<br/>⚽⚽⚽ Veronica Osele (MARION JONES)<br/>⚽⚽ Valentina Salzani/(HELLO KITTY)<br/>⚽ Licia Fondriest (ANZA)
 Autogoals||
 Falli|1|1
 Gialli||
@@ -587,7 +587,7 @@ Note:
 
 | | ORANGE OLD SCHOOL | CGB GAMBERONI |
 |:-----:|-----|-----|
-Risultato|0|0
+Risultato|4|8
 Goals|⚽ Pablo Chavez<br/>⚽⚽⚽ Alessandro Zandonai|⚽⚽⚽⚽ Gabriele Gottardi<br/>⚽⚽ Luca Perenzoni<br/>⚽⚽ Sebastiano Zoller
 Autogoals||
 Falli|0|2
@@ -606,7 +606,7 @@ Note:
 
 | | SPRINT GOMMA TEAM | INEFUMA ELEVEN |
 |:-----:|-----|-----|
-Risultato|2|3
+Risultato|2|4
 Goals|⚽ Alessandro Marzadro<br/>⚽ Andrea Pedrotti|⚽⚽⚽ Giovanni Girardelli<br/>⚽ Thomas Andreolli
 Autogoals||
 Falli|2|2
@@ -683,12 +683,12 @@ Note:
 | | TANGATUBBIES | TORTE DI MELE |
 |:-----:|-----|-----|
 Risultato|0|10
-Goals|⚽⚽⚽⚽⚽⚽ Elena Bordato<br/>⚽⚽⚽⚽ Emma Tesini (LATTE TRENTO)|
+Goals||⚽⚽⚽⚽⚽⚽ Elena Bordato<br/>⚽⚽⚽⚽ Emma Tesini (LATTE TRENTO)
 Autogoals||
 Falli|0|0
 Gialli||
 Rossi||
-Miglior Giocatore| ⭐⭐⭐ Elena Bordato<br/><br/>⭐⭐ Emma Tesini (LATTE TRENTO)<br/>| 
+Miglior Giocatore| | ⭐⭐⭐ Elena Bordato<br/><br/>⭐⭐ Emma Tesini (LATTE TRENTO)<br/>
 Miglior Portiere| | 
 
 
@@ -759,7 +759,7 @@ Note:
 | | PRATO FIORITO | SBARX |
 |:-----:|-----|-----|
 Risultato|9|1
-Goals|⚽⚽⚽⚽⚽ Federico Manica<br/>⚽⚽ Michele Bertolini (MARCO COLUMBRO)<br/>⚽ Luca Gerola (TOPOLINIA)<br/>⚽ Federico Conti|⚽ Nicolas Marzadro
+Goals|⚽⚽⚽⚽⚽ Federico Manica<br/>⚽⚽ Michele Bertolini (MARCO COLUMBRO)<br/>⚽ Luca Gerola (TOPOLINIA)<br/>⚽ Nicola Conti|⚽ Nicolas Marzadro
 Autogoals||
 Falli|3|2
 Gialli|Federico Manica|Alex Manica
@@ -778,7 +778,7 @@ Note:
 | | PINGUINI TRENTINI | BELLA DOMANDA |
 |:-----:|-----|-----|
 Risultato|0|4
-Goals||⚽⚽ Alessio Farinati (PROTEINA)<br/>⚽ Davide Manica (PALA EOLICA)<br/>⚽ Matteo Brigo (EUROBRIGO)
+Goals|⚽⚽ Alessio Farinati (PROTEINA)<br/>⚽ Davide Manica (PALA EOLICA)<br/>⚽ Matteo Brigo (EUROBRIGO)|
 Autogoals||
 Falli|3|3
 Gialli||
@@ -803,7 +803,7 @@ Falli|0|0
 Gialli||
 Rossi||
 Miglior Giocatore| ⭐⭐⭐ Irene Tovazzi (LA MARMELONA)<br/>| 
-Miglior Portiere| | ⭐⭐⭐ Pallaver Camilla<br/>
+Miglior Portiere| | ⭐⭐⭐ Valentina Riolfatti<br/>
 
 
 # PARTITA:42
