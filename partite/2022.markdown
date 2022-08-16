@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-08-14 14:39:25.498044
+date: 2022-08-16 17:31:42.635035
 categories: partite
 permalink: /partite/2022/
 ---
@@ -550,12 +550,12 @@ Note:
 | | AL VOLO | GREENPASSERE |
 |:-----:|-----|-----|
 Risultato|4|2
-Goals|⚽⚽ Lisa Zanelli (FRANCESCA SCHIAVONE)<br/>⚽ Elisa Cavagna<br/>⚽ Aurora Betta (L'INNAMORATA)|⚽⚽ Scrinzi Giulia (LA BIMBA BIONICA)
+Goals|⚽⚽ Elisa Zanelli (FRANCESCA SCHIAVONE)<br/>⚽ Elisa Cavagna<br/>⚽ Aurora Betta (L'INNAMORATA)|⚽⚽ Scrinzi Giulia (LA BIMBA BIONICA)
 Autogoals||
 Falli|0|0
 Gialli||
 Rossi||
-Miglior Giocatore| ⭐⭐ Lisa Zanelli (FRANCESCA SCHIAVONE)<br/>| ⭐ Scrinzi Giulia (LA BIMBA BIONICA)<br/>
+Miglior Giocatore| ⭐⭐ Elisa Zanelli (FRANCESCA SCHIAVONE)<br/>| ⭐ Scrinzi Giulia (LA BIMBA BIONICA)<br/>
 Miglior Portiere| | 
 
 
@@ -697,7 +697,7 @@ Miglior Portiere| |
 
 Data: 08-12-2022 20:20:00
 
-Note: Gennaro Bullo in porta perchè Neanderthal espulso
+Note: Gennaro Bullo in porta perchÃ¨ Neanderthal espulso
 
 | | MEDIASER.T | FC WANDA TEAM |
 |:-----:|-----|-----|
@@ -892,7 +892,7 @@ Note:
 | | DEMO BUSTERS | POWER GINGER |
 |:-----:|-----|-----|
 Risultato|2|3
-Goals|⚽⚽ Lorenzo Rossi (IL BUG)|⚽ Samuele Rosà<br/>⚽ Riccardo Zeni<br/>⚽ Giovanni Giusto
+Goals|⚽⚽ Lorenzo Rossi (IL BUG)|⚽ Samuele RosÃ <br/>⚽ Riccardo Zeni<br/>⚽ Giovanni Giusto
 Autogoals||
 Falli|3|2
 Gialli||
@@ -1326,10 +1326,10 @@ Data: 08-13-2022 21:40:00
 
 Note: 
 
-| | GREEN PASSERE | DRIM TEAM |
+| | GREENPASSERE | DRIM TIM |
 |:-----:|-----|-----|
 Risultato|2|3
-Goals|⚽ Giulia Scrinzi<br/>⚽ Chiara Chizzola|⚽⚽ Stefania Gazzini<br/>⚽ Margherita Plachestainer
+Goals|⚽ Giulia Scrinzi<br/>⚽ Chiara Chizzola|⚽⚽ Stefania Gazzini (SKELETOR)<br/>⚽ Margherita Planchestainer (LA MAMMA DI BAMBI)
 Autogoals||
 Falli|1|2
 Gialli||
@@ -1345,7 +1345,7 @@ Data: 08-13-2022 22:00:00
 
 Note: 
 
-| | SAILORMONE | POCHE MA BUONE |
+| | SAILOR MONE | POCHE MA BONE |
 |:-----:|-----|-----|
 Risultato|2|3
 Goals|⚽⚽ Valentina Perghem (ROBOCOP)|⚽⚽ Carlotta Pomarolli (LA PREDESTINATA)<br/>⚽ Chiara Deimichei (EAST COAST)
@@ -1424,7 +1424,7 @@ Note:
 | | LEMONADE | AL VOLO |
 |:-----:|-----|-----|
 Risultato|2|3
-Goals|⚽⚽ Sofia Zendri|⚽⚽ Aurora Betta<br/>⚽ Zanelli Elisa
+Goals|⚽⚽ Sofia Zendri|⚽⚽ Aurora Betta (L'INNAMORATA)<br/>⚽ Elisa Zanelli (FRANSCESCA SCHIAVONE)
 Autogoals||
 Falli|2|2
 Gialli||
@@ -1440,7 +1440,7 @@ Data: 08-13-2022 23:40:00
 
 Note: 
 
-| | FOUR TAIE | WANDA TIM GIRLS |
+| | FOUR TAIE + 1 | FC WANDA TEAM GIRLS |
 |:-----:|-----|-----|
 Risultato|6|0
 Goals|⚽⚽⚽ Irene Tovazzi (LA MARMELLONA)<br/>⚽⚽ Francesca Debiasi (DAVID GNOMO)<br/>⚽ Melany Raffaelli (HOTEL BELVEDERE)|
@@ -1459,7 +1459,7 @@ Data: 08-14-2022 10:00:00
 
 Note: 
 
-| | LA CONTEA FC | MODIUM |
+| | LA CONTEA FC | I MODIUM |
 |:-----:|-----|-----|
 Risultato|1|5
 Goals|⚽ Andrea Riolfatti|⚽⚽⚽ Andrea Bertolini (BOMBER BERTO)<br/>⚽ Marco Sartorelli (PLAYBOY DELLA BUSA)<br/>⚽ Federico Pomarolli (IL PRINCIPE GUERRIERO)
@@ -1476,9 +1476,9 @@ Miglior Portiere| |
 
 Data: 08-14-2022 10:20:00
 
-Note: VIncono US GUARNA agli shoothout
+Note: Vincono US GUARNA agli shoothout
 
-| | PINGUINI TRENTINI | U.S. GUARNA |
+| | PINGUINI TRENTINI | US GUARNA |
 |:-----:|-----|-----|
 Risultato|1|1
 Goals|⚽ Yuri Andreolli (SCHEGGIA IMPAZZITA)|⚽ Riccardo Zaffoni (LUGHERIM)
@@ -1524,7 +1524,7 @@ Autogoals||
 Falli|2|3
 Gialli||
 Rossi||
-Miglior Giocatore| | ⭐ Lorenzo Rossi (IL BUG)<br/>
+Miglior Giocatore| ⭐⭐ Andrea Conzatti (CALDAIA)<br/>| ⭐ Lorenzo Rossi (IL BUG)<br/>
 Miglior Portiere| | 
 
 
@@ -1535,7 +1535,7 @@ Data: 08-14-2022 11:20:00
 
 Note: 
 
-| | MEDIASERT | SPRINT GOMMA TEAM |
+| | MEDIASER.T | SPRINT GOMMA TEAM |
 |:-----:|-----|-----|
 Risultato|3|1
 Goals|⚽⚽ Andrea Anzelini (TUNNEL DEL VENTO)<br/>⚽ Marco Gerola (GERONIMO STILTON)|⚽ Andrea Pedrotti
@@ -1554,7 +1554,7 @@ Data: 08-14-2022 11:40:00
 
 Note: 
 
-| | SHARK ATTACK | DEMOBUSTERS |
+| | SHARK ATTACK | DEMO BUSTERS |
 |:-----:|-----|-----|
 Risultato|8|1
 Goals|⚽⚽⚽⚽ Mattia Baldessarini (ASSASSINO CELEBRALE)<br/>⚽⚽⚽⚽ Leonardo Viola (UOMO INFORME 2.0)|⚽⚽ Giovanni Giusto
@@ -1592,7 +1592,7 @@ Data: 08-14-2022 12:20:00
 
 Note: 
 
-| | MAI UNA GIOIA | MONTAGNA |
+| | MAI UNA GIOIA | I MONTAGNA |
 |:-----:|-----|-----|
 Risultato|1|2
 Goals|⚽ Nadir Cavagna (CASABLANCA)|⚽ Daniel Pedrotti<br/>⚽ Federico Andreis (IL DISTINTO SIGNOR RABBIOSO)<br/>⚽ Marco Sala (CANE ROGNOSO)
@@ -1609,18 +1609,18 @@ Miglior Portiere| | ⭐⭐⭐ Daniele Dalbosco (GRESTA DE CUNEL)<br/>
 
 Data: 08-14-2022 14:40:00
 
-Note: 
+Note: Vincono US GUARNA agli shootout
 
-| | QUARTI UOMINI | QUARTI UOMINI |
+| | I MODIUM | US GUARNA |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
-Autogoals||
+Risultato|3|3
+Goals||⚽ Elia Battisti (BOILER)<br/>⚽ Riccardo Zaffoni (LUGHERIM)<br/>⚽ Matteo Diener
+Autogoals|⛔⛔ Federico Pomarolli (IL PRINCIPE GUERRIERO)<br/>⛔ Luca Barozzi (LUPIN)|
 Falli|0|0
 Gialli||
 Rossi||
-Miglior Giocatore| | 
-Miglior Portiere| | 
+Miglior Giocatore| ⭐⭐⭐ Riccardo Zaffoni (LUGHERIM)<br/><br/>⭐⭐ Elia Battisti (BOILER)<br/>| ⭐ Luca Barozzi (LUPIN)<br/>
+Miglior Portiere| ⭐⭐⭐ Elia Battisti (BOILER)<br/>| 
 
 
 # PARTITA:85
@@ -1628,17 +1628,17 @@ Miglior Portiere| |
 
 Data: 08-14-2022 15:10:00
 
-Note: 
+Note: Vincono CLITORIDERS agli shootout
 
-| | QUARTI UOMINI | QUARTI UOMINI |
+| | CLITORIDERS | FC SAVIGNANO |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|1|1
+Goals|⚽ Luca Frasca (DELIRIUM TREMENS)|⚽ Andrea Conzatti (CALDAIA)
 Autogoals||
 Falli|0|0
 Gialli||
 Rossi||
-Miglior Giocatore| | 
+Miglior Giocatore| | ⭐⭐⭐ Andrea Conzatti (CALDAIA)<br/>
 Miglior Portiere| | 
 
 
@@ -1649,15 +1649,15 @@ Data: 08-14-2022 15:40:00
 
 Note: 
 
-| | QUARTI UOMINI | QUARTI UOMINI |
+| | MEDIASER.T | SHARK ATTACK |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|4|2
+Goals|⚽⚽ Matteo Mazzola (GENNARO BULLO)<br/>⚽⚽ Leonardo Parisi (IL FRATELLO DI RON WEASLEY)|⚽ Leonardo Viola (UOMO INFORME 2.0)<br/>⚽ Mattia Baldessarini (ASSASSINO CELEBRALE)
 Autogoals||
 Falli|0|0
 Gialli||
 Rossi||
-Miglior Giocatore| | 
+Miglior Giocatore| ⭐⭐⭐ Matteo Mazzola (GENNARO BULLO)<br/>| 
 Miglior Portiere| | 
 
 
@@ -1668,86 +1668,10 @@ Data: 08-14-2022 16:10:00
 
 Note: 
 
-| | QUARTI UOMINI | QUARTI UOMINI |
+| | I MONTAGNA | TECNICA & CACAO |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
-Autogoals||
-Falli|0|0
-Gialli||
-Rossi||
-Miglior Giocatore| | 
-Miglior Portiere| | 
-
-
-# PARTITA:88
-**Girone**: SPAREGGI DONNE
-
-Data: 08-14-2022 16:30:00
-
-Note: 
-
-| | 15 DONNE | 16 DONNE |
-|:-----:|-----|-----|
-Risultato|0|0
-Goals||
-Autogoals||
-Falli|0|0
-Gialli||
-Rossi||
-Miglior Giocatore| | 
-Miglior Portiere| | 
-
-
-# PARTITA:89
-**Girone**: SPAREGGI DONNE
-
-Data: 08-14-2022 16:50:00
-
-Note: 
-
-| | 13 DONNE | 14 DONNE |
-|:-----:|-----|-----|
-Risultato|0|0
-Goals||
-Autogoals||
-Falli|0|0
-Gialli||
-Rossi||
-Miglior Giocatore| | 
-Miglior Portiere| | 
-
-
-# PARTITA:90
-**Girone**: SPAREGGI DONNE
-
-Data: 08-14-2022 17:10:00
-
-Note: 
-
-| | 12 DONNE | 11 DONNE |
-|:-----:|-----|-----|
-Risultato|0|0
-Goals||
-Autogoals||
-Falli|0|0
-Gialli||
-Rossi||
-Miglior Giocatore| | 
-Miglior Portiere| | 
-
-
-# PARTITA:91
-**Girone**: SPAREGGI DONNE
-
-Data: 08-14-2022 17:30:00
-
-Note: 
-
-| | 10 DONNE | 9 DONNE |
-|:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|3|1
+Goals|⚽ Andrea Pedrotti (MEDIOMAN)<br/>⚽ Federico Andreis (DISTINTO SIGNOR RABBIOSO)<br/>⚽ Daniel Pedrotti|⚽ Alessandro Fait (FAIT CLUB)
 Autogoals||
 Falli|0|0
 Gialli||
@@ -1763,10 +1687,10 @@ Data: 08-14-2022 18:00:00
 
 Note: 
 
-| | SEMIFINALE DONNE | SEMIFINALE DONNE |
+| | POCHE MA BONE | DRIM TIM |
 |:-----:|-----|-----|
 Risultato|0|0
-Goals||
+Goals|⚽ Veronica Osele (MARION JONES)|⚽⚽⚽⚽ Margherita Planchestainer (LA MAMMA DI BAMBI)<br/>⚽⚽ Giulia Stedile (KRASIC)<br/>⚽ Maira Bertolini<br/>⚽ Stefania Gazzini (SKELETOR)
 Autogoals||
 Falli|0|0
 Gialli||
@@ -1780,32 +1704,32 @@ Miglior Portiere| |
 
 Data: 08-14-2022 18:30:00
 
-Note: 
+Note: Vincono US GUARNA agli shootout
 
-| | SEMIFINALE UOMINI | SEMIFINALE UOMINI |
+| | CLITORIDERS | US GUARNA |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|2|2
+Goals|⚽ Michele Merighi (IENA RIDENS)<br/>⚽ Federico Mortillaro (LA MORTE NERA)|⚽ Elia Battisti (BOILER)<br/>⚽ Matteo Diener
 Autogoals||
 Falli|0|0
 Gialli||
 Rossi||
 Miglior Giocatore| | 
-Miglior Portiere| | 
+Miglior Portiere| | ⭐⭐⭐ Elia Battisti (BOILER)<br/>
 
 
 # PARTITA:94
-**Girone**: SEMIFINALE UOMINI
+**Girone**: SEMIFINALE DONNE
 
 Data: 08-14-2022 19:00:00
 
-Note: 
+Note: Vincono AL VOLO agli shootout
 
-| | SEMIFINALE DONNE | SEMIFINALE DONNE |
+| | AL VOLO | FOUR TAIE + 1 |
 |:-----:|-----|-----|
 Risultato|0|0
-Goals||
-Autogoals||
+Goals|⚽⚽ Aurora Betta (L'INNAMORATA)<br/>⚽⚽ Elisa Zanelli (FRANCESCA SCHIAVONE)|⚽⚽ Jessica Merighi<br/>⚽⚽ Irene Tovazzi (LA MARMELONA)<br/>⚽ Melany Raffaelli (HOTEL BELVEDERE)
+Autogoals||⛔ Anna Scarciolla (PRENDO IO)<br/>
 Falli|0|0
 Gialli||
 Rossi||
@@ -1820,15 +1744,15 @@ Data: 08-14-2022 19:30:00
 
 Note: 
 
-| | SEMIFINALE UOMINI | SEMIFINALE UOMINI |
+| | I MONTAGNA | MEDIASER.T |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|8|1
+Goals|⚽⚽⚽ Federico Andreis (DISTINTO SIGNOR RABIOSO)<br/>⚽⚽ Marco Sala (CANE ROGNOSO)<br/>⚽ Andrea Pedrotti (MEDIOMAN)<br/>⚽ Daniel Pedrotti<br/>⚽ Marco Mutinelli|⚽ Leonardo Parisi (IL FRATELLO DI RON WEASLEY)
 Autogoals||
 Falli|0|0
 Gialli||
 Rossi||
-Miglior Giocatore| | 
+Miglior Giocatore| ⭐⭐⭐ Federico Andreis (DISTINTO SIGNOR RABIOSO)<br/>| 
 Miglior Portiere| | 
 
 
@@ -1839,15 +1763,15 @@ Data: 08-14-2022 20:30:00
 
 Note: 
 
-| | FINALE 3-4 DONNE | FINALE 3-4 DONNE |
+| | POCHE MA BONE | FOUR TAIE +1 |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|3|2
+Goals|⚽⚽ Carlotta Pomarolli (LA PREDESTINATA)<br/>⚽ Licia Fondriest (LANZA)|⚽⚽ Irene Tovazzi (LA MARMELLONA)
 Autogoals||
 Falli|0|0
 Gialli||
 Rossi||
-Miglior Giocatore| | 
+Miglior Giocatore| ⭐⭐⭐ Carlotta Pomarolli (LA PREDESTINATA)<br/>| 
 Miglior Portiere| | 
 
 
@@ -1856,12 +1780,12 @@ Miglior Portiere| |
 
 Data: 08-14-2022 21:00:00
 
-Note: 
+Note: Vincono CLITORIDERS agli shootout
 
-| | FINALE 3-4 UOMINI | FINALE 3-4 UOMINI |
+| | CLITORIDERS | MEDIASER.T |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|6|6
+Goals|⚽⚽⚽⚽ Michele Merighi (IENA RIDENS)<br/>⚽⚽ Federico Mortillaro (LA MORTE NERA)|⚽⚽⚽ Davide Raffaelli (GIRAFFA DI FRASSINO)<br/>⚽⚽⚽ Leonardo Parisi (IL FRATELLO DI RON WEASLEY)
 Autogoals||
 Falli|0|0
 Gialli||
@@ -1877,10 +1801,10 @@ Data: 08-14-2022 21:30:00
 
 Note: 
 
-| | FINALISSIMA DONNE | FINALISSIMA DONNE |
+| | DRIM TIM | AL VOLO |
 |:-----:|-----|-----|
-Risultato|0|0
-Goals||
+Risultato|6|3
+Goals|⚽⚽ Laura Manconi (SKELETOR (THE ORIGINAL))|
 Autogoals||
 Falli|0|0
 Gialli||
@@ -1896,9 +1820,9 @@ Data: 08-14-2022 22:00:00
 
 Note: 
 
-| | FINALISSIMA UOMINI | FINALISSIMA UOMINI |
+| | US GUARNA | I MONTAGNA |
 |:-----:|-----|-----|
-Risultato|0|0
+Risultato|1|6
 Goals||
 Autogoals||
 Falli|0|0
