@@ -402,10 +402,11 @@
       "autogol2": {},
       "best_giocatore_1": {
         "Michele Merighi (IENA RIDENS)": 3,
-        "Federico Mortillaro (LA MORTE NERA)": 2,
+        "Federico Mortillaro (LA MORTE NERA)": 2
+      },
+      "best_giocatore_2": {
         "Matteo Gatti": 1
       },
-      "best_giocatore_2": {},
       "best_portiere_1": {},
       "best_portiere_2": {},
       "note": ""
@@ -825,19 +826,19 @@
       "rossi1": "",
       "rossi2": "",
       "goleador_1": {
-        "Andrea Conzatti (Caldaia)": 3,
-        "Alessandro Maffei \\u00a0(Fondatore Di Social Network)": 1,
+        "Andrea Conzatti (CALDAIA)": 3,
+        "Alessandro Maffei (FONDATORE DI SOCIAL NETWORK)": 1,
         "Eduardo Grazioli": 1,
         "Amedeo Malesardi": 1
       },
       "goleador_2": {
-        "Filippo Benetti (Fungo Atomico)": 2,
+        "Filippo Benetti (FUNGO ATOMICO)": 2,
         "Lorenzo Zuani": 1
       },
       "autogol1": {},
       "autogol2": {},
       "best_giocatore_1": {
-        "Andrea Conzatti (Caldaia)": 2
+        "Andrea Conzatti (CALDAIA)": 2
       },
       "best_giocatore_2": {
       },
@@ -889,7 +890,7 @@
       "rossi1": "",
       "rossi2": "",
       "goleador_1": {
-        "Rosina Stefano (GPL)": 2
+        "Stefano Rosina (GPL)": 3
       },
       "goleador_2": {
         "Andrea Bertolini (BOMBER BERTO)": 2,
@@ -897,12 +898,14 @@
       },
       "autogol1": {},
       "autogol2": {},
-      "best_giocatore_1": {},
+      "best_giocatore_1": {
+        "Stefano Rosina (GPL)": 1
+      },
       "best_giocatore_2": {
         "Andrea Bertolini (BOMBER BERTO)": 1
       },
       "best_portiere_1": {
-        "Pomarolli Carlo": 2
+        "Carlo Pomarolli": 3
       },
       "best_portiere_2": {},
       "note": ""
@@ -925,7 +928,7 @@
       "goleador_2": {
         "Carlotta Pomarolli (LA PREDESTINATA)": 3,
         "Veronica Osele (MARION JONES)": 3,
-        "Valentina Salzani/(HELLO KITTY)": 2,
+        "Valentina Salzani (HELLO KITTY)": 2,
         "Licia Fondriest (ANZA)": 1
       },
       "autogol1": {},
@@ -1021,8 +1024,8 @@
       "rossi1": "",
       "rossi2": "",
       "goleador_1": {
-        "Pablo Chavez": 1,
-        "Alessandro Zandonai": 3
+        "Alessandro Zandonai": 3,
+        "Pablo Chavez": 1
       },
       "goleador_2": {
         "Gabriele Gottardi": 4,
@@ -1094,7 +1097,7 @@
         "Riccardo Zaffoni (LUGHERIM)": 3,
         "Elia Battisti (BOILER)": 1,
         "Matteo Diener": 1,
-        "Heidenpergher Marco (CLARA)": 1
+        "Marco Heidenpergher (CLARA)": 1
       },
       "goleador_2": {
         "Federico Manica": 1,
@@ -1164,7 +1167,7 @@
       "goleador_1": {
         "Leonardo Viola (UOMO INFORME 2.0)": 5,
         "Mattia Festi (PLASTIK MAN)": 3,
-        "MATTIA BALDESSARINI (L'ASSASSINO CELEBRALE)": 2
+        "Mattia Baldessarini (L'ASSASSINO CELEBRALE)": 2
       },
       "goleador_2": {},
       "autogol1": {},
@@ -1176,7 +1179,7 @@
       },
       "best_giocatore_2": {},
       "best_portiere_1": {
-        "Alberto Cerisara (L'UOMO CHE HA MANGIATO JUSTIN BIEBER)": 1
+        "Alberto Cerisara (L'UOMO CHE HA MANGIATO JUSTIN BIEBER)": 3
       },
       "best_portiere_2": {},
       "note": ""
@@ -1249,7 +1252,7 @@
       "best_portiere_2": {
         "Carlo Pomarolli": 3
       },
-      "note": "Gennaro Bullo in porta perchè Neanderthal espulso"
+      "note": "GENNARO BULLO in porta perché NEANDERTHAL espulso"
     },
     "37": {
       "data": "08-12-2022 21:00:00",
@@ -1339,7 +1342,7 @@
       "goleador_1": {
         "Federico Manica": 5,
         "Michele Bertolini (MARCO COLUMBRO)": 2,
-        "Luca Gerola (TOPOLINIA)": 1,
+        "Luca Gerola (TOPAZIA)": 1,
         "Nicola Conti": 1
       },
       "goleador_2": {
@@ -1362,8 +1365,8 @@
       "genere_gironi": 1,
       "squadra_1": "PINGUINI TRENTINI",
       "squadra_2": "BELLA DOMANDA",
-      "gol_squadra_1": 0,
-      "gol_squadra_2": 4,
+      "gol_squadra_1": 4,
+      "gol_squadra_2": 0,
       "falli_squadra_1": 3,
       "falli_squadra_2": 3,
       "gialli1": "",
@@ -1531,15 +1534,15 @@
       "rossi1": "",
       "rossi2": "",
       "goleador_1": {
-        "Sofia": 2
+        "Sofia Zendri": 2
       },
       "goleador_2": {
-        "Susanna": 2
+        "Martina Cazzanelli (LA MANGIATRICE DI CAPRETTI)": 2
       },
       "autogol1": {},
       "autogol2": {},
       "best_giocatore_1": {
-        "Sofia": 2
+        "Sofia Zendri": 2
       },
       "best_giocatore_2": {
       },
@@ -1565,7 +1568,7 @@
         "Lorenzo Rossi (IL BUG)": 2
       },
       "goleador_2": {
-        "Samuele Rosà": 1,
+        "Samuele Rosa'": 1,
         "Riccardo Zeni": 1,
         "Giovanni Giusto": 1
       },
@@ -1630,14 +1633,14 @@
         "Valentina Perghem (ROBOCOP)": 1
       },
       "goleador_2": {
-        "Laura Manconi (SKELETOR THE ORIGINAL)": 4,
+        "Laura Manconi (SKELETOR (THE ORIGINAL))": 4,
         "Margherita Planchestainer (LA MAMMA DI BAMBI)": 3
       },
       "autogol1": {},
       "autogol2": {},
       "best_giocatore_1": {},
       "best_giocatore_2": {
-        "Laura Manconi (SKELETOR THE ORIGINAL)": 2
+        "Laura Manconi (SKELETOR (THE ORIGINAL))": 2
       },
       "best_portiere_1": {
         "Ilaria Battistotti": 3
@@ -1670,7 +1673,7 @@
       "autogol2": {},
       "best_giocatore_1": {},
       "best_giocatore_2": {
-        "Matteo Mancuso (IL MANCUSO)": 2
+        "Matteo Manconi (IL MANCUSO)": 2
       },
       "best_portiere_1": {},
       "best_portiere_2": {},
@@ -1692,10 +1695,10 @@
       "rossi2": "",
       "goleador_1": {},
       "goleador_2": {
-        "Greta": 2,
+        "Greta Benedetti": 2,
         "Manuela Montermini": 1,
-        "Giulia": 1,
-        "Manuela": 1
+        "Giulia Scrinzi (LA BIMBA BIONICA)": 1,
+        "Manuela Montermini (CARIDDI)": 1
       },
       "autogol1": {},
       "autogol2": {},
@@ -1852,7 +1855,7 @@
       "goleador_1": {
         "Andrea Nicolodi": 3,
         "Andrea Riolfatti": 3,
-        "Maurizio Giordain": 3
+        "Maurizio Giordani": 3
       },
       "goleador_2": {
         "Federico Fasanelli": 2,
@@ -1887,7 +1890,7 @@
       "goleador_1": {
         "Michele Merighi (IENA RIDENS)": 5,
         "Federico Mortillaro (LA MORTE NERA)": 3,
-        "Andrea Giordain (ORSO BRUNO)": 1,
+        "Andrea Giordani (ORSO BRUNO)": 1,
         "Luca Frasca (DELIRIUM TREMENS)": 1
       },
       "goleador_2": {},
@@ -1899,9 +1902,10 @@
       },
       "best_giocatore_2": {},
       "best_portiere_1": {
+      },
+      "best_portiere_2": {
         "Andrea Candioli (CAN DA L'UA)": 3
       },
-      "best_portiere_2": {},
       "note": ""
     },
     "57": {
@@ -1991,12 +1995,12 @@
         "Marina Casapu": 5,
         "Elisa Cavagna": 5,
         "Isabella Panizza": 2,
-        "Elisa Zannelli": 1
+        "Elisa Zannelli (FRANCESCA SCHIAVONE)": 1
       },
       "autogol1": {
-        "Marina Casapu": 1
       },
-      "autogol2": {},
+      "autogol2": {
+      },
       "best_giocatore_1": {},
       "best_giocatore_2": {
         "Marina Casapu": 3,
@@ -2022,7 +2026,7 @@
         "Federico Madaschio": 1
       },
       "rossi1": {
-        "Leonardo": 1
+        "Leonardo Fedrigotti (IL BOSCAIOLO LEDRENSE)": 1
       },
       "rossi2": "",
       "goleador_1": {
@@ -2167,12 +2171,13 @@
       },
       "autogol1": {},
       "autogol2": {},
-      "best_giocatore_1": {},
+      "best_giocatore_1": {
+        "Alessandro Zandonai (L'UOMO CHE SUSSURRAVA AI GHEPARDI)": 3
+      },
       "best_giocatore_2": {
         "Matteo Pilati (PONZIO PILATI)": 3
       },
       "best_portiere_1": {
-        "Alessandro Zandonai (L'UOMO CHE SUSSURRAVA AI GHEPARDI)": 3,
         "Michele Perottoni": 2
       },
       "best_portiere_2": {},
@@ -2230,8 +2235,8 @@
       "goleador_1": {
         "Michele Merighi (IENA RIDENS)": 4,
         "Stefano Galvagni (MENTADENT)": 2,
-        "Federico Mortillaro (LA MORTE NERA)": 1,
-        "Luca Frasca (DELIRIUM TREMENS)": 1
+        "Luca Frasca (DELIRIUM TREMENS)": 2,
+        "Federico Mortillaro (LA MORTE NERA)": 1
       },
       "goleador_2": {},
       "autogol1": {},
@@ -2243,7 +2248,7 @@
       "best_giocatore_2": {},
       "best_portiere_1": {},
       "best_portiere_2": {
-        "Federico Passuello": 3
+        "Francesco Passuello": 3
       },
       "note": ""
     },
@@ -2266,14 +2271,14 @@
       },
       "goleador_2": {
         "Alessio Farinati (PROTEINA)": 1,
-        "Juri Andreolli (SCHEGGIA IMPAZZITA)": 1
+        "Yuri Andreolli (SCHEGGIA IMPAZZITA)": 1
       },
       "autogol1": {},
       "autogol2": {},
       "best_giocatore_1": {},
       "best_giocatore_2": {
         "Alessio Farinati (PROTEINA)": 2,
-        "Juri Andreolli (SCHEGGIA IMPAZZITA)": 1
+        "Yuri Andreolli (SCHEGGIA IMPAZZITA)": 1
       },
       "best_portiere_1": {},
       "best_portiere_2": {},
@@ -2465,7 +2470,7 @@
         "Emanuele Miorandi (RE DI BASTONI)": 3
       },
       "best_giocatore_2": {
-        "Passuello Francesco": 1
+        "Francesco Passuello": 1
       },
       "best_portiere_1": {
         "Andrea Candioli (CAN DA L'UA)": 3
@@ -2492,7 +2497,7 @@
       },
       "goleador_2": {
         "Aurora Betta (L'INNAMORATA)": 2,
-        "Elisa Zanelli (FRANSCESCA SCHIAVONE)": 1
+        "Elisa Zanelli (FRANCESCA SCHIAVONE)": 1
       },
       "autogol1": {},
       "autogol2": {},
@@ -2557,9 +2562,10 @@
       "autogol1": {},
       "autogol2": {},
       "best_giocatore_1": {
+      },
+      "best_giocatore_2": {
         "Andrea Bertolini (BOMBER BERTO)": 3
       },
-      "best_giocatore_2": {},
       "best_portiere_1": {},
       "best_portiere_2": {},
       "note": ""
@@ -2618,10 +2624,11 @@
       "autogol1": {},
       "autogol2": {},
       "best_giocatore_1": {
+      },
+      "best_giocatore_2": {
         "Federico Mortillaro (LA MORTE NERA)": 3,
         "Michele Merighi (IENA RIDENS)": 2
       },
-      "best_giocatore_2": {},
       "best_portiere_1": {},
       "best_portiere_2": {},
       "note": ""
@@ -2806,28 +2813,30 @@
       "gialli2": "",
       "rossi1": "",
       "rossi2": "",
-      "goleador_1": {},
+      "goleador_1": {
+        "Federico Pomarolli (IL PRINCIPE GUERRIERO)": 2,
+        "Luca Barozzi (LUPIN)": 1
+      },
       "goleador_2": {
         "Elia Battisti (BOILER)": 1,
         "Riccardo Zaffoni (LUGHERIM)": 1,
         "Matteo Diener": 1
       },
       "autogol1": {
-        "Federico Pomarolli (IL PRINCIPE GUERRIERO)": 2,
-        "Luca Barozzi (LUPIN)": 1
       },
       "autogol2": {},
       "best_giocatore_1": {
+        "Luca Barozzi (LUPIN)": 1
+      },
+      "best_giocatore_2": {
         "Riccardo Zaffoni (LUGHERIM)": 3,
         "Elia Battisti (BOILER)": 2
       },
-      "best_giocatore_2": {
-        "Luca Barozzi (LUPIN)": 1
-      },
       "best_portiere_1": {
+      },
+      "best_portiere_2": {
         "Elia Battisti (BOILER)": 3
       },
-      "best_portiere_2": {},
       "note": "Vincono US GUARNA agli shootout"
     },
     "85": {
@@ -2888,7 +2897,9 @@
         "Matteo Mazzola (GENNARO BULLO)": 3
       },
       "best_giocatore_2": {},
-      "best_portiere_1": {},
+      "best_portiere_1": {
+        "Stefano Pizzini (NEANDERTHAL)": 3
+      },
       "best_portiere_2": {},
       "note": ""
     },
@@ -2928,8 +2939,8 @@
       "genere_gironi": 0,
       "squadra_1": "POCHE MA BONE",
       "squadra_2": "DRIM TIM",
-      "gol_squadra_1": 0,
-      "gol_squadra_2": 0,
+      "gol_squadra_1": 1,
+      "gol_squadra_2": 8,
       "falli_squadra_1": 0,
       "falli_squadra_2": 0,
       "gialli1": "",
@@ -2991,26 +3002,27 @@
       "genere_gironi": 0,
       "squadra_1": "AL VOLO ",
       "squadra_2": "FOUR TAIE + 1",
-      "gol_squadra_1": 0,
-      "gol_squadra_2": 0,
+      "gol_squadra_1": 4,
+      "gol_squadra_2": 4,
       "falli_squadra_1": 0,
-      "falli_squadra_2": 0,
+      "falli_squadra_2": 2,
       "gialli1": "",
       "gialli2": "",
       "rossi1": "",
       "rossi2": "",
       "goleador_1": {
         "Aurora Betta (L'INNAMORATA)": 2,
-        "Elisa Zanelli (FRANCESCA SCHIAVONE)": 2
+        "Elisa Zanelli (FRANCESCA SCHIAVONE)": 1
       },
       "goleador_2": {
-        "Jessica Merighi": 2,
-        "Irene Tovazzi (LA MARMELONA)": 2,
-        "Melany Raffaelli (HOTEL BELVEDERE)": 1
+        "Melany Raffaelli (HOTEL BELVEDERE)": 2,
+        "Jessica Merighi": 1,
+        "Irene Tovazzi (LA MARMELONA)": 1
       },
-      "autogol1": {},
-      "autogol2": {
+      "autogol1": {
         "Anna Scarciolla (PRENDO IO)": 1
+      },
+      "autogol2": {
       },
       "best_giocatore_1": {},
       "best_giocatore_2": {},
@@ -3026,8 +3038,8 @@
       "squadra_2": "MEDIASER.T",
       "gol_squadra_1": 8,
       "gol_squadra_2": 1,
-      "falli_squadra_1": 0,
-      "falli_squadra_2": 0,
+      "falli_squadra_1": 3,
+      "falli_squadra_2": 7,
       "gialli1": "",
       "gialli2": "",
       "rossi1": "",
@@ -3040,15 +3052,18 @@
         "Marco Mutinelli": 1
       },
       "goleador_2": {
-        "Leonardo Parisi (IL FRATELLO DI RON WEASLEY)": 1
+        "Davide Raffaelli (GIRAFFA DI FRASSINO)": 1
       },
       "autogol1": {},
       "autogol2": {},
       "best_giocatore_1": {
-        "Federico Andreis (DISTINTO SIGNOR RABIOSO)": 3
+        "Federico Andreis (DISTINTO SIGNOR RABIOSO)": 3,
+        "Daniel Pedrotti": 2
       },
       "best_giocatore_2": {},
-      "best_portiere_1": {},
+      "best_portiere_1": {
+        "Daniele Dalbosco (GRESTA DE CUNEL)": 3
+      },
       "best_portiere_2": {},
       "note": ""
     },
@@ -3058,17 +3073,16 @@
       "genere_gironi": 0,
       "squadra_1": "POCHE MA BONE",
       "squadra_2": "FOUR TAIE +1",
-      "gol_squadra_1": 3,
+      "gol_squadra_1": 2,
       "gol_squadra_2": 2,
-      "falli_squadra_1": 0,
-      "falli_squadra_2": 0,
+      "falli_squadra_1": 1,
+      "falli_squadra_2": 4,
       "gialli1": "",
       "gialli2": "",
       "rossi1": "",
       "rossi2": "",
       "goleador_1": {
-        "Carlotta Pomarolli (LA PREDESTINATA)": 2,
-        "Licia Fondriest (LANZA)": 1
+        "Carlotta Pomarolli (LA PREDESTINATA)": 2
       },
       "goleador_2": {
         "Irene Tovazzi (LA MARMELLONA)": 2
@@ -3081,7 +3095,7 @@
       "best_giocatore_2": {},
       "best_portiere_1": {},
       "best_portiere_2": {},
-      "note": ""
+      "note": "Vince POCHE MA BONE agli shootout"
     },
     "97": {
       "data": "08-14-2022 21:00:00",
@@ -3102,13 +3116,17 @@
         "Federico Mortillaro (LA MORTE NERA)": 2
       },
       "goleador_2": {
-        "Davide Raffaelli (GIRAFFA DI FRASSINO)": 3,
-        "Leonardo Parisi (IL FRATELLO DI RON WEASLEY)": 3
+        "Leonardo Parisi (IL FRATELLO DI RON WEASLEY)": 4,
+        "Davide Raffaelli (GIRAFFA DI FRASSINO)": 2
       },
       "autogol1": {},
       "autogol2": {},
-      "best_giocatore_1": {},
-      "best_giocatore_2": {},
+      "best_giocatore_1": {
+        "Michele Merighi (IENA RIDENS)": 2
+      },
+      "best_giocatore_2": {
+        "Leonardo Parisi (IL FRATELLO DI RON WEASLEY)": 3
+      },
       "best_portiere_1": {},
       "best_portiere_2": {},
       "note": "Vincono CLITORIDERS agli shootout"
@@ -3128,12 +3146,20 @@
       "rossi1": "",
       "rossi2": "",
       "goleador_1": {
-        "Laura Manconi (SKELETOR (THE ORIGINAL))": 2
+        "Laura Manconi (SKELETOR (THE ORIGINAL))": 2,
+        "Maira Bertolini": 2,
+        "Giulia Stedile": 1,
+        "Nicole Pellegrini": 1
       },
-      "goleador_2": {},
+      "goleador_2": {
+        "Elisa Zanelli (FRANCESCA SCHIAVONE)": 3
+      },
       "autogol1": {},
       "autogol2": {},
-      "best_giocatore_1": {},
+      "best_giocatore_1": {
+        "Laura Manconi (SKELETOR (THE ORIGINAL))": 3,
+        "Margherita Planchestainer (LA MAMMA DI BAMBI)": 2
+      },
       "best_giocatore_2": {},
       "best_portiere_1": {},
       "best_portiere_2": {},
@@ -3147,20 +3173,31 @@
       "squadra_2": "I MONTAGNA",
       "gol_squadra_1": 1,
       "gol_squadra_2": 6,
-      "falli_squadra_1": 0,
-      "falli_squadra_2": 0,
+      "falli_squadra_1": 6,
+      "falli_squadra_2": 8,
       "gialli1": "",
       "gialli2": "",
       "rossi1": "",
       "rossi2": "",
-      "goleador_1": {},
-      "goleador_2": {},
+      "goleador_1": {
+        "Riccardo Zaffoni (LUGHERIM)": 1
+      },
+      "goleador_2": {
+        "Federico Andreis (DISTINTO SIGNOR RABBIOSO)": 2,
+        "Marco Sala (CANE ROGNOSO)": 2,
+        "Andrea Pedrotti (MEDIOMAN)": 1,
+        "Daniel Pedrotti": 1
+      },
       "autogol1": {},
       "autogol2": {},
       "best_giocatore_1": {},
-      "best_giocatore_2": {},
+      "best_giocatore_2": {
+        "Federico Andreis (DISTINTO SIGNOR RABBIOSO)": 3
+      },
       "best_portiere_1": {},
-      "best_portiere_2": {},
+      "best_portiere_2": {
+        "Daniele Dalbosco (GRESTA DE CUNEL)": 3
+      },
       "note": ""
     }
   }

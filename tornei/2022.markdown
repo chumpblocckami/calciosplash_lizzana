@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-08-16 17:31:42.634026
+date: 2022-08-17 11:23:09.952085
 categories: torneo
 permalink: /torneo/2022/
 ---
@@ -46,7 +46,7 @@ permalink: /torneo/2022/
 37| D Femminile| 08-12-2022 21:00:00| CHICASMALAS - LEMONADE| 2 - 4| 🍸| [Info](/partite/2022/#partita37)
 38| D Maschile| 08-12-2022 21:20:00| TECNICA & CACAO - CGB GAMBERONI| 4 - 1| 🍻| [Info](/partite/2022/#partita38)
 39| B Maschile| 08-12-2022 21:40:00| PRATO FIORITO - SBARX| 9 - 1| 🍻| [Info](/partite/2022/#partita39)
-40| C Maschile| 08-12-2022 22:00:00| PINGUINI TRENTINI - BELLA DOMANDA| 0 - 4| 🍻| [Info](/partite/2022/#partita40)
+40| C Maschile| 08-12-2022 22:00:00| PINGUINI TRENTINI - BELLA DOMANDA| 4 - 0| 🍻| [Info](/partite/2022/#partita40)
 41| A Femminile| 08-12-2022 22:20:00| FOUR TAIE + 1 - LA BALLA IN FIESTA| 7 - 1| 🍸| [Info](/partite/2022/#partita41)
 42| C Femminile| 08-13-2022 10:00:00| SAILOR MONE - TANGATUBBIES| 9 - 0| 🍸| [Info](/partite/2022/#partita42)
 43| A Femminile| 08-13-2022 10:20:00| POCHE MA BONE - LA BALLA IN FIESTA| 12 - 0| 🍸| [Info](/partite/2022/#partita43)
@@ -94,11 +94,11 @@ permalink: /torneo/2022/
 85| QUARTI UOMINI| 08-14-2022 15:10:00| CLITORIDERS - FC SAVIGNANO| 1 - 1| 🍻| [Info](/partite/2022/#partita85)
 86| QUARTI UOMINI| 08-14-2022 15:40:00| MEDIASER.T - SHARK ATTACK| 4 - 2| 🍻| [Info](/partite/2022/#partita86)
 87| QUARTI UOMINI| 08-14-2022 16:10:00| I MONTAGNA - TECNICA & CACAO| 3 - 1| 🍻| [Info](/partite/2022/#partita87)
-92| SEMIFINALE DONNE| 08-14-2022 18:00:00| POCHE MA BONE - DRIM TIM| 0 - 0| 🍸| [Info](/partite/2022/#partita92)
+92| SEMIFINALE DONNE| 08-14-2022 18:00:00| POCHE MA BONE - DRIM TIM| 1 - 8| 🍸| [Info](/partite/2022/#partita92)
 93| SEMIFINALE UOMINI| 08-14-2022 18:30:00| CLITORIDERS - US GUARNA| 2 - 2| 🍻| [Info](/partite/2022/#partita93)
-94| SEMIFINALE DONNE| 08-14-2022 19:00:00| AL VOLO - FOUR TAIE + 1| 0 - 0| 🍸| [Info](/partite/2022/#partita94)
+94| SEMIFINALE DONNE| 08-14-2022 19:00:00| AL VOLO - FOUR TAIE + 1| 4 - 4| 🍸| [Info](/partite/2022/#partita94)
 95| SEMIFINALE UOMINI| 08-14-2022 19:30:00| I MONTAGNA - MEDIASER.T| 8 - 1| 🍻| [Info](/partite/2022/#partita95)
-96| FINALINA DONNE| 08-14-2022 20:30:00| POCHE MA BONE - FOUR TAIE +1| 3 - 2| 🍸| [Info](/partite/2022/#partita96)
+96| FINALINA DONNE| 08-14-2022 20:30:00| POCHE MA BONE - FOUR TAIE +1| 2 - 2| 🍸| [Info](/partite/2022/#partita96)
 97| FINALINA UOMINI| 08-14-2022 21:00:00| CLITORIDERS - MEDIASER.T| 6 - 6| 🍻| [Info](/partite/2022/#partita97)
 98| FINALISSIMA DONNE| 08-14-2022 21:30:00| DRIM TIM - AL VOLO| 6 - 3| 🍸| [Info](/partite/2022/#partita98)
 99| FINALISSIMA UOMINI| 08-14-2022 22:00:00| US GUARNA - I MONTAGNA| 1 - 6| 🍻| [Info](/partite/2022/#partita99)
